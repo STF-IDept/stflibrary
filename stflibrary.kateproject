@@ -7,12 +7,16 @@ Dirs=
 Files=library.css
 
 [Dir src]
-Dirs=handbook/images/charters/faq/rm
+Dirs=handbook/images/charters/faq/rm/courses
 Files=set.xml
 
 [Dir src/charters]
 Dirs=
 Files=book.xml/gmd.xml/preface.xml/depts.xml/library.xml/fleets.xml/crell.xml/oed_v.xml/merrimack.xml/bonaventure.xml
+
+[Dir src/courses]
+Dirs=
+Files=book.xml/engineering.xml
 
 [Dir src/faq]
 Dirs=
@@ -48,14 +52,14 @@ Files=acamarian.xml/bajoran.xml/bandi.xml/benzite.xml/breen.xml/bynars.xml/caiti
 
 [Dir xsl]
 Dirs=
-Files=fo-common.xsl/fo-handbook.xsl/fo-tm.xsl/html-common.xsl/html-handbook.xsl/html-onelibrary.xsl/html-set.xsl/html-tm.xsl/html-set-customizations.xsl/html-tm-customizations.xsl/html-charters.xsl/fo-charters.xsl/fo-onelibrary.xsl/html-titlepage-templates.xml/fo-faq.xsl/html-faq.xsl/fo-rm.xsl/html-rm.xsl
+Files=fo-common.xsl/fo-handbook.xsl/html-common.xsl/html-handbook.xsl/html-onelibrary.xsl/html-set.xsl/html-set-customizations.xsl/html-tm-customizations.xsl/html-charters.xsl/fo-charters.xsl/fo-onelibrary.xsl/html-titlepage-templates.xml/fo-faq.xsl/html-faq.xsl/fo-rm.xsl/html-rm.xsl/fo-courses.xsl
 
 [Dir xsl-bak]
 Dirs=
-Files=all-common-params.xsl/all-common-templates.xsl/html-chunked.xsl/html-common-params.xsl/html-common-templates.xsl/html-monolithic.xsl
+Files=
 
 [Project Dir]
-Dirs=src/xsl/xsl-bak/build
+Dirs=src/xsl/build
 Files=build.xml/catalog.xml/CatalogManager.properties
 
 [Project File]

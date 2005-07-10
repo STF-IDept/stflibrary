@@ -4,6 +4,7 @@
 	<setinfo>
 		<title>The STF Library</title>
 		<titleabbrev>Library</titleabbrev>
+		<corpauthor>STF</corpauthor>
 		<editor>
 			<honorific>Admiral</honorific>
 			<firstname>Larry</firstname>
@@ -22,5 +23,6 @@
 	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="charters/book.xml" />
 	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="faq/book.xml" />
 	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="rm/book.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="courses/book.xml" />
 
 </set>
