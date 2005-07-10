@@ -1,0 +1,843 @@
+<article class="whitepaper" id="misc-planetclassification">
+	<title>Planetary Classification</title>
+	<articleinfo>
+		<authorgroup>
+			<author>
+				<firstname>Patrick</firstname>
+				<surname>Greenwell</surname>
+			</author>
+			<author>
+				<firstname>Randy</firstname>
+				<surname>McCullick</surname>
+			</author>
+		</authorgroup>
+		<!--<keywordset role="classification">
+			<keyword role="type">Canon</keyword>
+		</keywordset>-->
+		<revhistory>
+			<revision>
+				<revnumber>1</revnumber>
+				<date>9 Jaunary 2004</date>
+				<revdescription>
+					<para>Approved by Assistant GM Director Robert Gulley</para>
+				</revdescription>
+			</revision>
+		</revhistory>
+	</articleinfo>
+	<!--<indexterm>
+		<seealso>
+			<link linkend="misc-stars">Stellar Classification</link>
+		</seealso>
+	</indexterm>-->
+	<section>
+		<title>Overview</title>
+		<section>
+			<title>Zones</title>
+			<para>The Zones, Hot, Ecosphere and Cold, are the areas in which planets are found.</para>
+			<para>The Hot zone would be closest to the sun and temperatures on planets therefore be Hot and unsuitable for life except in microscopic form. (Read unbearable for humans.)</para>
+			<para>The Ecosphere would be the area around the sun in which planets could sustain life, the temperatures there would be moderate on a planet. (Read suitable for humans.)</para>
+			<para>The Cold zone would be the area after the ecosphere and furthest away from the Sun, temperatures there would be incapable of supporting life except in microscopic forms.</para>
+			<para>The commentary Halo is where the outer edges of comet orbits or in interstellar space between stars not bound by any orbit.</para>
+			<note><para>Planets in the X, Y, and Z Class are reserved for planets with environments hostile to human(oid) life. No planets or planetoids have yet been classified with the letters U, V, or W. This list is based off of the information provided in the Star Trek: Starcharts book written by Geoffrey Mandel.</para></note>
+		</section>
+		<section>
+			<title>Planetary Evolution</title>
+			<itemizedlist>
+				<listitem><para>A cools to C</para></listitem>
+				<listitem><para>E cools to F cools to G cools to K, L, M, or N</para></listitem>
+			</itemizedlist>
+			<literallayout>
+A ----> C
+K ___
+L | O
+E ----> F ----> G ---->M ------|
+N |___P
+			</literallayout>
+		</section>
+ 		<section>
+			<title>M sub-types</title>
+			<para>P is when a class M is more than 80% covered by ice.</para>
+			<para>O is when a class M is more than 80% covered by water.</para>
+		</section>
+	</section>
+	<section>
+		<title>Planetary Classes</title>
+		<section>
+			<title>Class A - Geothermal</title>
+			<variablelist>
+				<varlistentry>
+					<term>Examples</term>
+					<listitem><para>None</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Age</term>
+					<listitem><para>0 to 2 billion years</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Diameter</term>
+					<listitem><para>1,000 to 10,000 km</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Location</term>
+					<listitem><para>Ecosphere/Cold Zone</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Surface</term>
+					<listitem><para>Partially Molten</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Atmosphere</term>
+					<listitem><para>Primarily hydrogen compounds</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Evolution</term>
+					<listitem><para>Cools to become Class C</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Life Forms</term>
+					<listitem><para>No Known Life forms</para></listitem>
+				</varlistentry>
+			</variablelist>
+		</section>
+		<section>
+			<title>Class B - Geomorteus</title>
+			<variablelist>
+				<varlistentry>
+					<term>Examples</term>
+					<listitem><para>Mercury</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Age</term>
+					<listitem><para>0 to 10 billion years</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Diameter</term>
+					<listitem><para>1,000 to 10,000 km</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Location</term>
+					<listitem><para>Hot Zone</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Surface</term>
+					<listitem><para>Partially molten, high surface temperature</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Atmosphere</term>
+					<listitem><para>Extremely tenuous, few chemically active gases</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Evolution</term>
+					<listitem><para>None</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Life Forms</term>
+					<listitem><para>No known life forms</para></listitem>
+				</varlistentry>
+			</variablelist>
+		</section>
+		<section>
+			<title>Class C - Ceoinactive</title>
+			<variablelist>
+				<varlistentry>
+					<term>Examples</term>
+					<listitem><para>Pluto</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Age</term>
+					<listitem><para>2 - 10 billion years</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Diameter</term>
+					<listitem><para>1,000 to 10,000 km</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Location</term>
+					<listitem><para>Ecosphere/Cold Zone</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Surface</term>
+					<listitem><para>Low surface temperature</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Atmosphere</term>
+					<listitem><para>Frozen</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Evolution</term>
+					<listitem><para>No further evolution</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Life Forms</term>
+					<listitem><para>No know life forms</para></listitem>
+				</varlistentry>
+			</variablelist>
+		</section>
+		<section>
+			<title>Class D - Asteroid/Moon</title>
+			<variablelist>
+				<varlistentry>
+					<term>Examples</term>
+					<listitem><para>Luna (Sol IIIa)</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Age</term>
+					<listitem><para>2 to 10 billion years</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Diameter</term>
+					<listitem><para>100 to 1,000 km</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Location</term>
+					<listitem><para>Hot Zone/Ecosphere/Cold Zone/ orbiting other planets usually</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Surface</term>
+					<listitem><para>Barren and cratered</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Atmosphere</term>
+					<listitem><para>None or very tenuous</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Evolution</term>
+					<listitem><para>None</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Life Forms</term>
+					<listitem><para>No know life forms</para></listitem>
+				</varlistentry>
+			</variablelist>
+		</section>
+		<section>
+			<title>Class E - Geoplastic</title>
+			<variablelist>
+				<varlistentry>
+					<term>Examples</term>
+					<listitem><para>None</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Age</term>
+					<listitem><para>0 to 2 billion years</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Diameter</term>
+					<listitem><para>10,000 to 15,000 km</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Location</term>
+					<listitem><para>Ecosphere</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Surface</term>
+					<listitem><para>Molten, high surface temperature</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Atmosphere</term>
+					<listitem><para>Hydrogen compounds and reactive gases</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Evolution</term>
+					<listitem><para>Cool to Class F</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Life Forms</term>
+					<listitem><para>Carbon cycle</para></listitem>
+				</varlistentry>
+			</variablelist>
+		</section>
+		<section>
+			<title>Class F Geometallic</title>
+			<variablelist>
+				<varlistentry>
+					<term>Examples</term>
+					<listitem><para>None</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Age</term>
+					<listitem><para>1 to 3 billion years</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Diameter</term>
+					<listitem><para>10,000 to 15,000 km</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Location</term>
+					<listitem><para>Ecosphere</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Surface</term>
+					<listitem><para>Volcanic eruptions due to molten core</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Atmosphere</term>
+					<listitem><para>Hydrogen compounds</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Evolution</term>
+					<listitem><para>Cool to class G</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Life Forms</term>
+					<listitem><para>Silicon based</para></listitem>
+				</varlistentry>
+			</variablelist>
+		</section>
+		<section>
+			<title>Class G - GeoCrystalline</title>
+			<variablelist>
+				<varlistentry>
+					<term>Examples</term>
+					<listitem><para>None</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Age</term>
+					<listitem><para>3 to 4 billion years</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Diameter</term>
+					<listitem><para>10,000 to 15,000 km</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Location</term>
+					<listitem><para>Ecosphere</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Surface</term>
+					<listitem><para>Still crystallizing</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Atmosphere</term>
+					<listitem><para>Carbon dioxide, some toxic gasses</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Evolution</term>
+					<listitem><para>Cools to Class K, L, M, or N</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Life Forms</term>
+					<listitem><para>Primitive single-celled organisms</para></listitem>
+				</varlistentry>
+			</variablelist>
+		</section>
+		<section>
+			<title>Class H - Desert</title>
+			<variablelist>
+				<varlistentry>
+					<term>Examples</term>
+					<listitem><para>None</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Age</term>
+					<listitem><para>4-10 billion years</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Diameter</term>
+					<listitem><para>8,000 to 15,000 km</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Location</term>
+					<listitem><para>Hot Zone/Ecosphere/Cold Zone</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Surface</term>
+					<listitem><para>Hot and arid, little or no surface water</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Atmosphere</term>
+					<listitem><para>May contain heavy gasses and metal vapors</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Evolution</term>
+					<listitem><para>None</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Life Forms</term>
+					<listitem><para>Drought and radiation resistant plants and animals</para></listitem>
+				</varlistentry>
+			</variablelist>
+		</section>
+		<section>
+			<title>Class I - Gas Supergiant</title>
+			<variablelist>
+				<varlistentry>
+					<term>Examples</term>
+					<listitem><para>None</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Age</term>
+					<listitem><para>2 to 10 billion years</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Diameter</term>
+					<listitem><para>140,000 to 10 million km</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Location</term>
+					<listitem><para>Cold Zone</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Surface</term>
+					<listitem><para>Tenuous, comprised of gaseous hydrogen and hydrogen compounds; radiates heat</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Atmosphere</term>
+					<listitem><para>Zones vary in temperature, pressure, and composition; water vapor may be present </para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Evolution</term>
+					<listitem><para>None</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Life Forms</term>
+					<listitem><para>No Know Life forms</para></listitem>
+				</varlistentry>
+			</variablelist>
+		</section>
+		<section>
+			<title>Class J - Gas Giant</title>
+			<variablelist>
+				<varlistentry>
+					<term>Examples</term>
+					<listitem><para>Saturn, Jupiter, Neptune, Uranus</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Age</term>
+					<listitem><para>2 to 10 billion years</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Diameter</term>
+					<listitem><para>50,000 to 140,000 km</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Location</term>
+					<listitem><para>Cold Zone</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Surface</term>
+					<listitem><para>Tenuous, comprised of gaseous hydrogen and hydrogen compounds; radiates some heat</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Atmosphere</term>
+					<listitem><para>Zones vary in temperature, pressure, and composition</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Evolution</term>
+					<listitem><para>None</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Life Forms</term>
+					<listitem><para>Hydrocarbon based</para></listitem>
+				</varlistentry>
+			</variablelist>
+		</section>
+		<section>
+			<title>Class K - Adaptable </title>
+			<variablelist>
+				<varlistentry>
+					<term>Examples</term>
+					<listitem><para>Mars</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Age</term>
+					<listitem><para>4 to 10 billion years</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Diameter</term>
+					<listitem><para>5,000 to 10,000 km</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Location</term>
+					<listitem><para>Ecosphere</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Surface</term>
+					<listitem><para>Barren, little or no surface water</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Atmosphere</term>
+					<listitem><para>Thin mostly Carbon dioxide</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Evolution</term>
+					<listitem><para>No Further Evolution</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Life Forms</term>
+					<listitem><para>Primitive single celled organisms; adaptable for humanoid colonization through use of pressure domes</para></listitem>
+				</varlistentry>
+			</variablelist>
+		</section>
+		<section>
+			<title>Class L - Marginal</title>
+			<variablelist>
+				<varlistentry>
+					<term>Examples</term>
+					<listitem><para>Borg Prime, Vaadwaur</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Age</term>
+					<listitem><para>4 to 10 billion years</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Diameter</term>
+					<listitem><para>10,000 to 15,000 km</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Location</term>
+					<listitem><para>Ecosphere</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Surface</term>
+					<listitem><para>Rocky and barren, little surface water</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Atmosphere</term>
+					<listitem><para>Oxygen/argon, high concentration of carbon dioxide</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Evolution</term>
+					<listitem><para>None</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Life Forms</term>
+					<listitem><para>Limited to plant life; suitable for humanoid colonization</para></listitem>
+				</varlistentry>
+			</variablelist>
+		</section>
+		<section>
+			<title>Class M - Terrestrial (Minshara)</title>
+			<variablelist>
+				<varlistentry>
+					<term>Examples</term>
+					<listitem><para>Earth, Vulcan, Cardassia Prime, Romulus, Qo'noS</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Age</term>
+					<listitem><para>3 to 10 billion years</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Diameter</term>
+					<listitem><para>10,000 to 15,000 km</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Location</term>
+					<listitem><para>Ecosphere</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Surface</term>
+					<listitem><para>Surface water abundant</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Atmosphere</term>
+					<listitem><para>Nitrogen, Oxygen, trace elements</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Evolution</term>
+					<listitem><para>No further evolution, 2 sub-types</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Life Forms</term>
+					<listitem><para>Extensive vegetation, animal life, humanoids</para></listitem>
+				</varlistentry>
+			</variablelist>
+		</section>
+		<section>
+			<title>Class N - Reducing</title>
+			<variablelist>
+				<varlistentry>
+					<term>Examples</term>
+					<listitem><para>Venus</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Age</term>
+					<listitem><para>3 to 10 billion years</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Diameter</term>
+					<listitem><para>10,000 to 15,000 km</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Location</term>
+					<listitem><para>Ecosphere</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Surface</term>
+					<listitem><para>High surface temperature due to greenhouse effect; water exists only as vapor</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Atmosphere</term>
+					<listitem><para>Extremely dense, carbon dioxide and sulfides</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Evolution</term>
+					<listitem><para>No further Evolution</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Life Forms</term>
+					<listitem><para>No Known life forms</para></listitem>
+				</varlistentry>
+			</variablelist>
+		</section>
+		<section>
+			<title>Class O - Pelagic (M subtype)</title>
+			<variablelist>
+				<varlistentry>
+					<term>Examples</term>
+					<listitem><para>None</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Age</term>
+					<listitem><para>3 to 10 billion years</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Diameter</term>
+					<listitem><para>10,000 to 15,000 km</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Location</term>
+					<listitem><para>Ecosphere</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Surface</term>
+					<listitem><para>Liquid water covers 80% or more of surface area</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Atmosphere</term>
+					<listitem><para>Nitrogen, oxygen, trace elements</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Evolution</term>
+					<listitem><para>No further evolution</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Life Forms</term>
+					<listitem><para>Aquatic vegetation, animal life, humanoids</para></listitem>
+				</varlistentry>
+			</variablelist>
+		</section>
+		<section>
+			<title>Class P - Glaciated (M subtype)</title>
+			<variablelist>
+				<varlistentry>
+					<term>Examples</term>
+					<listitem><para>None</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Age</term>
+					<listitem><para>3 to 10 billion years</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Diameter</term>
+					<listitem><para>10,000 to 15,000 km</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Location</term>
+					<listitem><para>Ecosphere</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Surface</term>
+					<listitem><para>Frozen water(ice) covers 80% or more of surface area</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Atmosphere</term>
+					<listitem><para>Nitrogen, oxygen, trace elements</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Evolution</term>
+					<listitem><para>No further evolution</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Life Forms</term>
+					<listitem><para>Hardy vegetation, animal life, humanoids</para></listitem>
+				</varlistentry>
+			</variablelist>
+		</section>
+		<section>
+			<title>Class Q - Variable</title>
+			<variablelist>
+				<varlistentry>
+					<term>Examples</term>
+					<listitem><para>Genesis Planet</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Age</term>
+					<listitem><para>2 to 10 billion years</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Diameter</term>
+					<listitem><para>4,000 to 15,000 km</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Location</term>
+					<listitem><para>Hot Zone/Ecosphere/Cold Zone</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Surface</term>
+					<listitem><para>Ranges from molten to water and/or carbon dioxide ice, due to eccentric orbit or variable output of star</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Atmosphere</term>
+					<listitem><para>Ranges from tenuous to very dense</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Evolution</term>
+					<listitem><para>None</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Life Forms</term>
+					<listitem><para>No Known Life forms</para></listitem>
+				</varlistentry>
+			</variablelist>
+		</section>
+		<section>
+			<title>Class R - Rouge</title>
+			<variablelist>
+				<varlistentry>
+					<term>Examples</term>
+					<listitem><para>None</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Age</term>
+					<listitem><para>2 to 10 billion years</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Diameter</term>
+					<listitem><para>4,000 to 15,000 km</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Location</term>
+					<listitem><para>Interstellar space, cometary halos</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Surface</term>
+					<listitem><para>May be temperate due to geothermal venting</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Atmosphere</term>
+					<listitem><para>Primarily volcanic out gassing</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Evolution</term>
+					<listitem><para>None</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Life Forms</term>
+					<listitem><para>Non-photosynthetic plants, animal life</para></listitem>
+				</varlistentry>
+			</variablelist>
+		</section>
+		<section>
+			<title>Class S - Ultra-giant</title>
+			<variablelist>
+				<varlistentry>
+					<term>Examples</term>
+					<listitem><para>None</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Age</term>
+					<listitem><para>2 to 10 billion years</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Diameter</term>
+					<listitem><para>10 to 50 million km</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Location</term>
+					<listitem><para>Cold Zone</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Surface</term>
+					<listitem><para>Tenuous, composed of gaseous hydrogen and hydrogen compounds; radiates generous amounts of heat</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Atmosphere</term>
+					<listitem><para>Zones vary in temperature, pressure, and composition; water vapor may be present</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Evolution</term>
+					<listitem><para>None</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Life Forms</term>
+					<listitem><para>No Known Life forms</para></listitem>
+				</varlistentry>
+			</variablelist>
+		</section>
+		<section>
+			<title>Class T - Mega-giant</title>
+			<variablelist>
+				<varlistentry>
+					<term>Examples</term>
+					<listitem><para>None</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Age</term>
+					<listitem><para>2 to 10 billion years</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Diameter</term>
+					<listitem><para>50 to 120 million km</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Location</term>
+					<listitem><para>Cold Zone</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Surface</term>
+					<listitem><para>Tenuous, composed of gaseous hydrogen and hydrogen compounds; radiates generous amounts of heat</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Atmosphere</term>
+					<listitem><para>Zones vary in temperature, pressure, and composition; water vapor may be present</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Evolution</term>
+					<listitem><para>None</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Life Forms</term>
+					<listitem><para>No Known Life forms</para></listitem>
+				</varlistentry>
+			</variablelist>
+		</section>
+		<section>
+			<title>Class Y - Demon</title>
+			<variablelist>
+				<varlistentry>
+					<term>Examples</term>
+					<listitem><para>None</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Age</term>
+					<listitem><para>2 to 10 billion years</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Diameter</term>
+					<listitem><para>10,000 to 50,000 km</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Location</term>
+					<listitem><para>Hot Zone/Ecosphere/Cold Zone</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Surface</term>
+					<listitem><para>Temperature can exceed 500 Kelvin</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Atmosphere</term>
+					<listitem><para>Turbulent, saturated with toxic chemicals and thermionic radiation. Comunications can not be maintained. Should land on this planet in only extreme emergencies.</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Evolution</term>
+					<listitem><para>None</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Life Forms</term>
+					<listitem><para>Mimetic (only know to be in Delta Quadrant)</para></listitem>
+				</varlistentry>
+			</variablelist>
+		</section>
+	</section>
+</article>

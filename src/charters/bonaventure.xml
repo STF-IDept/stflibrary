@@ -1,0 +1,73 @@
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
+                    "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<article id="charter-bonaventure">
+	<title>USS Bonaventure</title>
+	<subtitle>Fleet One</subtitle>
+	<articleinfo>
+		<author role="President">
+			<honorific>President</honorific>
+			<firstname>Emme</firstname>
+			<surname>Rouse-Deane</surname>
+		</author>
+		<author role="Fleet Commander">
+			<honorific>Fleet Commander</honorific>
+			<firstname>Shalon</firstname>
+			<surname>Hurlbert</surname>
+		</author>
+		<revhistory>
+			<revision>
+				<revnumber>1</revnumber>
+				<date>23 June 2005</date>
+				<revdescription>
+					<para>Based on Edict <ulink url="http://star-fleet.com/prez/deane.php3#e52">Rouse-Deane-1 #52</ulink></para>
+				</revdescription>
+			</revision>
+		</revhistory>
+	</articleinfo>
+
+	<section>
+		<title>Overview</title>
+		<para>I hereby create a new alternative role playing area in Fleet 1 that is going to be solely an Enterprise Era Roleplaying ship. With it's alternative area status comes the stipulation that it is a second character only ship, and will not accept new members to STF.</para>
+		<para>The Bonaventure classed USS Bonaventure, NCC-01 is hereby commissioned in Fleet 1 and is deemed an Enterprise Era vessel. If for any reason she should change her class from an Enterprise Era spec, she must be decomissioned.</para>
+		<para>The USS Bonaventure will go into active service on the 1st November 2003, and will undergo a review in 90 days time ( around 1st February 2004) by the President, Fleet Commander and Commanding Officer in order to determine if the Bonaventure has proved to be successful under the following criteria:</para>
+		<itemizedlist>
+			<listitem><para>Has the Bonaventure established an active and healthy roleplaying environment?</para></listitem>
+			<listitem><para>Has the Bonaventure managed to establish herself as an Enterprise-era ship, adhering to all the limitations and strange habits of the era?</para></listitem>
+		</itemizedlist>
+		<para>If the Bonaventure is found to have covered these criteria successfully, she will be considered a permanent addition to the fleet, although may be decommissioned at a later date if she deviates from these criteria.</para>
+		<para>If the Bonaventure is found to have failed these criteria, she is to be decommissioned.</para>
+		<para>Captain Krystelle Bromilow is hereby appointed as Commanding Officer of the USS Bonaventure, NCC-01 in Fleet 1 and charged with making the Bonaventure ready for her start date of the 1st November.</para>
+		<para>There are a few other points to be made aware of:</para>
+	</section>
+
+	<section>
+		<title>Crew Race</title>
+		<para>The Bonaventure is to be a predominently Human crew due to the constraints of the time period. And that possibly no more than 2 alien be regulars on her crew at any given time. Those of alien origin will not possess a Star Fleet rank.</para>
+	</section>
+	<section>
+		<title>Crew structure</title>
+		<para>The Bonaventure will have a similar command structure to that of the USS Merrimack. Therefore the XO will hold the title of First Officer as well as be a DH on the ship. The departments should include the following:</para>
+		<itemizedlist>
+			<listitem><para>Engineering</para></listitem>
+			<listitem><para>Medical</para></listitem>
+			<listitem><para>Science</para></listitem>
+			<listitem><para>Security</para></listitem>
+		</itemizedlist>
+		<para>With the security DH having the title of Armory Officer, but subordinates being security officers.</para>
+		<para>Possible Swing Positions may include, but not be limited to the following:</para>
+		<itemizedlist>
+			<listitem><para>Technical Specialists (varied)</para></listitem>
+			<listitem><para>Scientific Specialists (varied)</para></listitem>
+			<listitem><para>Yeoman</para></listitem>
+			<listitem><para>Ship's Cook</para></listitem>
+			<listitem><para>Quartermaster</para></listitem>
+			<listitem><para>Communications Officer</para></listitem>
+			<listitem><para>Ambasador</para></listitem>
+		</itemizedlist>
+	</section>
+	<section>
+		<title>Sim requirements</title>
+		<para>To safeguard the ship from possible plot spoilers with the Enterprise Series, that GM's should limit contact with known canon species such as the Suliban, Klingons, and especially the Romulans. The ship should take a different course in the stars, exploring new regions that are little known or rarely traveled to.</para>
+		<para>Further, it is suggested that each sim be posted on the ship's MOTD with a given Star Date similar in format to those used in Enterprise (Ie: October 2nd, 2152, and NOT "Stardate 5210.2 as seen in TOS through Voyager). This would not only give a perspective on time for the crew, but continuity with events that occured during the Enterprise series</para>
+	</section>
+</article>

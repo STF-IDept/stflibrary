@@ -1,0 +1,31 @@
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
+                    "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<book id="handbook">
+	<?dbhtml dir="handbook" ?>
+	<bookinfo>
+		<title>The Players' Handbook</title>
+		<editor>
+			<honorific>Admiral</honorific>
+			<firstname>Larry</firstname>
+			<surname>Garfield</surname>
+		</editor>
+		<author>
+			<firstname>Deanne</firstname>
+			<surname>Ashton</surname>
+		</author>
+		<date>2 June 2005</date>
+	</bookinfo>
+
+	<!-- Include our chapter-level modules. -->
+	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="preface.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="start.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="navigation.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="ranks.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="chainofcommand.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="posting.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="promotions.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="trainingships.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="government.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="areasofinterest.xml" />
+
+</book>

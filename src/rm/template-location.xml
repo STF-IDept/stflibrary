@@ -1,0 +1,73 @@
+<article class="whitepaper" id="location-planetcommonname">
+	<title>PLANET_COMMON_NAME</title>
+	<subtitle>PLANET_SCI_NAME</subtitle>
+	<articleinfo>
+		<authorgroup>
+			<author>
+				<firstname>FIRST</firstname>
+				<surname>LAST</surname>
+			</author>
+		</authorgroup>
+		<keywordset role="stats">
+			<keyword role="Environment">Class X</keyword>
+			<keyword role="Primary Species">SPECIES</keyword>
+			<keyword role="Natural Satelites">PLANETS</keyword>
+			<keyword role="Artificial Satelites">SATELITES</keyword>
+			<keyword role="Affiliation">CONTROLLING_POWER_AND_RELATIONSHIP</keyword>
+		</keywordset>
+		<keywordset role="classification">
+			<keyword role="type">Canon / Non-Canon / Custom</keyword>
+			<keyword role="source">SOURCES_LIST</keyword>
+		</keywordset>
+		<revhistory>
+			<revision>
+				<revnumber>1</revnumber>
+				<date>APPROVALDATE</date>
+				<revdescription>
+					<para>Approved by NAME</para>
+				</revdescription>
+			</revision>
+		</revhistory>
+	</articleinfo>
+	<indexterm>
+		<seealso>
+			<link linkend="entryid">EntryName</link>
+		</seealso>
+		<seealso>
+			<link linkend="entryid">EntryName</link>
+		</seealso>
+	</indexterm>
+	<sect1>
+		<title>Overview</title>
+		<mediaobject>
+			<imageobject role="full">
+				<objectinfo>
+					<author>
+						<firstname>FIRST</firstname>
+						<surname>LAST</surname>
+					</author>
+				</objectinfo>
+				<imagedata fileref="images/XX.jpg" format="JPG"/>
+			</imageobject>
+			<caption>
+				<para>XX</para>
+			</caption>
+		</mediaobject>
+		<para></para>
+		<para></para>
+		<para></para>
+		<sect2>
+			<title>Places of Interest</title>
+			<simplelist>
+				<member role="LOCATION">DESCRIPTION</member>
+				<member role="LOCATION">DESCRIPTION</member>
+			</simplelist>
+		</sect2>
+	</sect1>
+	<sect1>
+		<title>History</title>
+		<para></para>
+		<para></para>
+		<para></para>
+	</sect1>
+</article>

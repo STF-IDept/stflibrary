@@ -1,0 +1,22 @@
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
+                    "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<book id="faq">
+	<?dbhtml dir="faq" ?>
+	<bookinfo>
+		<title>STF Frequently Asked Questions</title>
+		<editor>
+			<honorific>Admiral</honorific>
+			<firstname>Larry</firstname>
+			<surname>Garfield</surname>
+		</editor>
+		<date>2 June 2005</date>
+	</bookinfo>
+
+	<!-- Include our chapter-level modules. -->
+<!-- 	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="general.xml" /> -->
+	<chapter>
+		<title>Departmental FAQs</title>
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="gmd.xml" />
+	</chapter>
+
+</book>

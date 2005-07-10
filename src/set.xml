@@ -1,0 +1,26 @@
+<!DOCTYPE set PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
+                    "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<set id="library">
+	<setinfo>
+		<title>The STF Library</title>
+		<titleabbrev>Library</titleabbrev>
+		<editor>
+			<honorific>Admiral</honorific>
+			<firstname>Larry</firstname>
+			<surname>Garfield</surname>
+		</editor>
+		<author>
+			<honorific>Admiral</honorific>
+			<firstname>Larry</firstname>
+			<surname>Garfield</surname>
+		</author>
+		<date>23 June 2005</date>
+	</setinfo>
+
+	<!-- Include each of the books in this set. -->
+	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="handbook/book.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="charters/book.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="faq/book.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="rm/book.xml" />
+
+</set>

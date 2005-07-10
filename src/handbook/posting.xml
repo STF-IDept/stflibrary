@@ -1,0 +1,44 @@
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
+                    "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<chapter id="posting">
+	<title>Posting etiquette</title>
+	<para>STF is not a solo excursion. It's true that you're probably alone when you're posting, but what you write is shared with everyone else on your ship. What you write, how you write it, and how often you write has a direct impact on those around you. That's why it's imperative that you use common sense and good manners when roleplaying.</para>
+	<para>Here are some helpful hints to make you a welcome member of the crew, and not the person everyone avoids:</para>
+	<sect1 id="trim">
+		<title>Trim your notes</title>
+		<para>This doesn't mean write short answers. Creative roleplaying, and the longer posts associated with it, are welcomed and encouraged in STF. When players are admonished to trim their notes, it means to remove all the unnecessary bits in the post to which you're replying. This includes the who posted what and when section, as well as anything not directly pertaining to what you're adding. Doing this makes it easier for people to read, since they don't have to scroll down through a slew of repeated text.</para>
+	</sect1>
+	<sect1 id="ooc">
+		<title>OOC commentary</title>
+		<para>As you know, OOC stands for Out of Character. When you see text prefaced with OOC, it means it's the player speaking, not the character. OOC comes in handy when the player is making a note about when the post occurs (handy when you've got one character in several time lines). Sometimes players will make strictly OOC posts noting something special happening in their lives (a birthday, a wedding), making announcements, or bringing up something of interest. In limited quantities, these type of posts are allowed. Very often around STF, a crew will get so involved in the OOC discussion they'll neglect the roleplaying. That defeats our purpose for being here. So keep your OOC commentary to a minimum.</para>
+	</sect1>
+	<sect1 id="reliability">
+		<title>Reliability</title>
+		<para>When you're a part of a team, such as a ship's crew, it's important that your fellow team mates can rely upon you. It's simply rude to keep people waiting for you to post, which is why all ships have an AWOL policy. The activity level required depends on your position on the ship, as well as the ship itself. Some ships have a more relaxed posting requirement, while others require daily attention. Check on your ship's MOTD to see how often you need to post and always abide by that schedule. If you don't, the captain is likely to mark you AWOL and remove you from the roster. Not only have you let down your crew mates, you might possibly have lost your position.</para>
+		<para>Sometimes, we simply have to go away. Either we're going on vacation, our computer is going under the knife, or we won't have Internet access for one reason or another. When this happens, you declare an LOA. A Leave of Absence is not only a heads-up to your captain and crew about your pending disappearance, but it is a way to safeguard your place in the crew.</para>
+		<para>If you need to declare an LOA, go to the main page of the WeBB (right after you log in). At the bottom of the page, near the fleet selection button is one marked "Declare Leave of Absence." Simply click the button and fill in the requested information. The input screen looks like this:</para>
+		<figure>
+			<title>The LOA screen</title>
+			<mediaobject>
+				<imageobject id="loascreen">
+					<objectinfo>
+						<author>
+							<firstname>Larry</firstname>
+							<surname>Garfield</surname>
+						</author>
+					</objectinfo>
+					<imagedata format="PNG" fileref="images/handbook/loa.png"/>
+				</imageobject>
+				<textobject>
+					<phrase>The Declare LOA screen</phrase>
+				</textobject>
+			</mediaobject>
+		</figure>
+		<para>As a matter of courtesy, write a post on your ship or email your CO noting when you're leaving and when you expect to return.</para>
+		<para>If your LOA is going to be more than a month, be sure to talk to your CO. Being gone that long can be a strain on some ships, and a CO may have to find someone to take your place. While most COs are willing to work with their crew members, bear in mind that the well-being of the ship and crew is of the utmost importance. A player on extended LOA cannot be guaranteed his old position upon his return.</para>
+	</sect1>
+	<sect1 id="criticism">
+		<title>Criticism</title>
+		<para>There is a fine line between being helpful and being a nag. Before you say anything negative to someone, be sure you're saying it to be helpful and not to be mean. Constructive criticism is the only type tolerated. We're all here to have fun, not be harrassed.</para>
+	</sect1>
+</chapter>

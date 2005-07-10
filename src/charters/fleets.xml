@@ -1,0 +1,96 @@
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
+                    "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<article id="charter-fleets">
+	<title>Fleet Command and Other Mundane Matters</title>
+	<subtitle>"FCOMM"</subtitle>
+	<articleinfo>
+		<author role="President">
+			<honorific>President</honorific>
+			<firstname>Larry</firstname>
+			<surname>Garfield</surname>
+		</author>
+		<revhistory>
+			<revision>
+				<revnumber>1</revnumber>
+				<date>23 June 2005</date>
+				<revdescription>
+					<para>Based on Edict <ulink url="http://star-fleet.com/prez/garfield.php3#e22">Garfield #22</ulink></para>
+				</revdescription>
+			</revision>
+		</revhistory>
+	</articleinfo>
+	<section>
+		<title>Fleet structure and command</title>
+		<section>
+			<title>Definition</title>
+			<para>A Fleet is a collection of one or more Standard Role-Playing Ships under the command of a Fleet Commander and demarcated from other Fleets. A Fleet may include non-RPG ships in addition to Role-Playing ships.</para>
+		</section>
+		<section>
+			<title>Creation and Decommissioning</title>
+			<para>A Fleet may be created by Presidential Edict as needed. A Fleet must be filled with at least one Standard Ship and a have a Fleet Commander appointed promptly. A Fleet may be decommissioned by Presidential Edict provided any ships within the Fleet are simultaneously decommissioned or moved to other Fleets. If a Fleet is decommissioned, the related Fleet Commander and Assistant Fleet Commander positions are eliminated.</para>
+		</section>
+		<section>
+			<title>Fleet Commander</title>
+			<para>All Fleets are Commanded by a Fleet Commander, appointed by the President. The Fleet Commander is considered a member of the Cabinet. The Fleet Commander is charged with seeing to the proper functioning of the Fleet under his command and the administration of related COs, XOs, and other Ship Administrators. The Fleet Commander is responsible for the outward image of the Fleet under his command, for reporting to the President and working with the President on matters of Fleet business, and other duties as specified in this and other Edicts.</para>
+		</section>
+		<section>
+			<title>Assistant Fleet Commander</title>
+			<para>Each Fleet Commander is required to appoint a single Assistant Fleet Commander. The Assistant Fleet Commander's primary responsibility is to take over as acting Fleet Commander should the Fleet Commander declare a LOA. An Assistant Fleet Commander may declare the Fleet Commander AWOL with the consent of the President and assume the position of acting Fleet Commander until such time as the President appoints a new Fleet Commander. Additional duties may be conferred upon the Assistant Fleet Commander at the discretion of the Fleet Commander. The Assistant Fleet Commander is considered a member of Command, but is not a member of the Cabinet.</para>
+		</section>
+		<section>
+			<title>Restrictions</title>
+			<para>The Fleet Commander and Assistant Fleet Commander must be a current CO in the Fleet in question, or a former CO of the Fleet in question. Acting CO does not count. No individual may be the Fleet Commander or Assistant Fleet Commander of more than one Fleet at a time, nor may any individual be Fleet Commander of one Fleet and Assistant Fleet Commander of another Fleet at the same time. The President may not be the Fleet Commander or Assistant Fleet Commander of any Fleet. Acting holder of a position does not count towards these restrictions.</para>
+		</section>
+	</section>
+	<section>
+		<title>Ships</title>
+		<section>
+			<title>Standard Ships</title>
+			<para>A Standard Ship is any self-contained RPG Starship or Starbase, commanded by a CO, on which regular RPGs take place under the administration of the GameMaster Department and the Fleet Commander. All Standard Ships must reside in a single Fleet. All Standard Ships are Starfleet vessels. All Standard Ships are set approximately 376 years after the current modern year, that is, the year 2000 real time corresponds to the year 2376 In Character time, and one year real time corresponds to approximately one year RPG time. A Fleet must contain at least one Standard Ship.</para>
+		</section>
+		<section>
+			<title>OOC Ships</title>
+			<para>An OOC Ship is a starship, starbase, or other similar division that is present in a Fleet but not staffed by a crew or the site of an actual RPG. OOC Ships are intended for Out of Character interaction between STF members. OOC Ships are established managed at the discretion of the Fleet Commander.</para>
+		</section>
+		<section>
+			<title>Non-Crewed Ships</title>
+			<para>A Non-Crewed Ship is a Starship or Starbase that is considered a part of a Fleet for RPG purposes but is not actively commissioned nor staffed by RPed characters. NPC ships assigned to a Fleet are available for use by GMs for RPG purposes, and if destroyed are recycled.</para>
+		</section>
+		<section>
+			<title>Alternative RPG Areas</title>
+			<para>Alternate RPG Areas are those areas where RPGs take place that do not meet one or more of the characteristics for Standard Ships. The President may establish by Edict a charter for an Alternative RPG Area within a given Fleet upon the advice and consent of the Fleet Commander of the Fleet where the Alternate RPG Area will reside. If nothing is specified for a given parameter of the RPG environment, it is assumed to be the same as a Standard RPG Area. For example, if no time frame is specified the Alternate RPG Area is assumed to operate in the same time as Standard RPG Areas.</para>
+			<para>Alternate RPG Areas may have a Leader, who is responsible for seeing to the well-being of the Area and will serve as the In Character leader of the Area with a title specified by the chartering Edict. Leader of an Alternate RPG Area may count as an XO position or CO position as specified by the chartering Edict. The Administrator of the Area may be appointed by Presidential Edict or by the Fleet Commander, as specified by the chartering Edict. If not specified, the Administrator is appointed by the President in the same fashion as a CO on a Standard Ship and will count as a CO position. Alternatively, an Alternate RPG Area may have an Administrator appointed by the Fleet Commander who will manage MOTD and personnel matters, but will not have any authority beyond that. Administrator will not count towards any CO or XO limit in place. RPG Ranks in Alternative RPG Areas do not count towards a member's Member Rank unless explicitly specified in the chartering Edict.</para>
+		</section>
+	</section>
+	<section>
+		<title>Ship Management</title>
+		<section>
+			<title>Commissioning of Standard Ships</title>
+			<para>All Standard Ships in a Fleet are commissioned by Presidential Edict, with the prior consent the Fleet Commander. If the Ship in question is a Starship, it must be of a class approved by the Engineering Department prior to commissioning as selected by the Fleet Commander and with a name as selected by the Fleet Commander. If the ship class as approved by the Engineering Department includes a list of valid ship names, the name must come from that list. No two ships in STF may be of the same name simultaneously.</para>
+		</section>
+		<section>
+			<title>Relocation</title>
+			<para>Any Standard Ship may be moved from one Fleet to another by Presidential Edict with the consent of the related Fleet Commanders.</para>
+		</section>
+		<section>
+			<title>Rechristening</title>
+			<para>A Standard Ship in service in a Fleet may be rechristened to a new name and/or class by Presidential Edict, with the consent of the Fleet Commander and the ship's CO. A ship may be destroyed and automatically replaced with a new vessel of the same name and class with prior consent of the Fleet Commander and CO. Both events may occur simultaneously with the approval of all those listed above. Should a ship be rechristened with the same name as it held previously, either due to a change of class or destruction, it shall incur a one-letter suffix increment.</para>
+		</section>
+		<section>
+			<title>Commanding Officer (CO)</title>
+			<para>The CO of a RPG Ship serves as the ship's Administrator and In-Character commanding officer. A CO is appointed by Presidential Edict, with the advise and consent of the Fleet Commander. A CO may be removed by Presidential Edict.</para>
+			<para>In addition to RPG duties, the CO is responsible for ensuring that the crew stays active; managing personnel and enforcing AWOL policies on the ship; ensuring that new members are given adequate assistance as needed; maintaining the ship's MOTD; optionally maintaining a Ship or Captain's Log; and further duties as conferred upon the desire of the Fleet Commander, or established by Edict. The CO is responsible for ensuring the completion of all his duties, even if they are delegated to the XO.</para>
+			<para>The CO has the power to promote members of his crew up to and including the rank of Lieutenant Commander. The CO may promote members of his crew to the rank of Commander with the consent of the Fleet Commander, should the Fleet Commander choose to exercise such authority. Other powers may be specified by Edict or by the Fleet Commander.</para>
+			<para>No individual may hold more than one CO position simultaneously. The CO of Academy Training Ships does not count towards this limit. Acting CO does not count towards this limit.</para>
+		</section>
+		<section>
+			<title>Executive Officer (XO)</title>
+			<para>In addition to RPG duties, the XO is responsible for assisting other members of the ship as needed. The CO may enlist the aid of his XO in fulfilling his ship management duties, but the CO will remain ultimately responsible for them. The XO's primary responsibility is to take over as acting CO (aCO) should the CO declare an LOA. An XO may declare the CO AWOL with the consent of the Fleet Commander and assume the position of acting CO until such time as the President appoints a new CO. A CO may appoint his own XO with the consent of the Fleet Commander, should the Fleet Commander choose to exercise such authority.</para>
+			<para>No individual may hold more than one XO position simultaneously. The XO of Academy Training Ships does not count towards this limit. Acting XO does not count towards this limit.</para>
+		</section>
+		<section>
+			<title>Decommissioning</title>
+			<para>Standard Ships and Alternate RPG Areas may be decommissioned by Presidential Edict. If a ship is decommissioned, all positions relating to that Ship are eliminated.</para>
+		</section>
+	</section>
+</article>

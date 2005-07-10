@@ -1,0 +1,159 @@
+body {
+background-color: black;
+background-image: url(http://www.star-fleet.com/images/starfield.gif);
+color: #EEEEEE;
+/*border: 0px;
+padding: 0px;
+margin: 0px;*/
+}
+
+/* Colorize all anchors */
+a:link { color: #5588ee; background-color: transparent; }
+a:visited { color: #5588ee; background-color: transparent; }
+
+img {
+border: none;
+}
+
+div.example {
+background-image: url(http://www.star-fleet.com/images/blurstar.jpg);
+margin-left: 10%;
+margin-right: 10%;
+}
+
+div.navheader {
+background-image: url(http://www.star-fleet.com/images/blurstar.jpg);
+/*position: fixed;
+width: 100%;
+padding: 0px;
+margin: 0px;
+border: 5px;*/
+}
+
+/*
+Suggested by someone on docbook-apps to have fixed positioning that doesn't break IE
+
+div.toc {
+position: fixed;
+left: 10px;
+width: 182px;
+border: 2px blue solid;
+padding: 2px;
+overflow: auto;
+height: 90%;
+
+/* IE hack (put the closing comment tag back here)
+position: expression("absolute");
+top: expression(document.body.scrollTop+this.offsetHeight-this.offsetHeight);
+}
+
+div.book { margin-left: 200px }
+*/
+
+
+div.chapter {
+/* margin-top: 3em; */
+}
+
+div.chapter div.toc, div.article div.toc {
+background-image: url(http://www.star-fleet.com/images/blurstar.jpg);
+width: 20%;
+float: right;
+}
+
+div.chapter div.sect1,
+div.article div.sect1,
+div.chapter div.section,
+div.article div.section {
+margin-right: 20%;
+}
+
+/*
+Necessary so that only top-level sections have a margin.
+Ideally we'd just use a > selector above, but that breaks IE.
+*/
+div.section div.section {
+margin-right: 0%;
+}
+
+div.navfooter {
+/*background-image: url(http://www.star-fleet.com/images/blurstar.jpg);*/
+clear: both;
+}
+
+div.toc span.chapter, div.toc span.sect1, div.titlepage h2 {
+text-transform: capitalize;
+}
+
+h1, h2, .author, .toc, .list-of-figures p, .list-of-examples p, p.title {
+color: #dfb833;
+}
+
+div.orderedlist li {
+  margin-top: 1em;
+}
+
+h3.author:before {
+content: "By ";
+}
+
+div.user-footer-content {
+background-image: url(http://www.star-fleet.com/images/blurstar.jpg);
+position: relative;
+}
+
+div#copyright {
+float: left;
+font-style: italic;
+}
+
+div.brag-buttons {
+float: right;
+text-align: right;
+}
+
+div.pdflink {
+text-align: center;
+}
+/*
+div.variablelist dl {
+}
+
+div.variablelist dt {
+margin-left: 0px;
+padding-left: 0px;
+float: left;
+text-align: right;
+width: 5em;
+color: #dfb833;
+font-weight: bold;
+margin-right: 1em;
+}
+
+div.variablelist dt::after {
+content: ":";
+}
+
+div.variablelist dd {
+}*/
+
+div.variablelist dt {
+color: #dfb833;
+font-weight: bold;
+margin-right: 0px;
+}
+
+div.variablelist dd p {
+margin: 0.3em;
+/* border: 1px solid white; */
+}
+
+div.variablelist dt::after {
+content: ":";
+}
+
+
+tr.question p {
+color: #dfb833;
+font-weight: bold;
+}

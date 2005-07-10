@@ -1,0 +1,368 @@
+<?xml version="1.0"?>
+<project name="generate" basedir="" default="all">
+	<description>Library generation</description>
+
+	<!-- Classpath-related properties.  Set these to the location of the appropriate Jars. -->
+	<property name="saxon.jar" value="/usr/share/java/saxon.jar"/>
+	<property name="resolver.jar" value="/usr/share/java/resolver.jar"/>
+	<property name="xerces.jar" value="/usr/share/java/xercesImpl-nightly.jar"/> <!-- nightly build to fix the XInclude namespace bug. -->
+	<property name="xincluder.jar" value="/usr/share/java/xincluder.jar"/>
+	<property name="fop.jar" value="/usr/share/java/fop.jar"/>
+	<property name="batik.jar" value="/usr/share/java/batik.jar"/>
+	<property name="jai_core.jar" value="/usr/share/java/jai_core.jar"/>
+	<property name="jai_codec.jar" value="/usr/share/java/jai_codec.jar"/>
+	<property name="avalon-framework.jar" value="/usr/share/java/avalon-framework.jar"/>
+	<property name="xml-apis.jar" value="/usr/share/java/xml-apis.jar"/>
+	<property name="jimi.jar" value="/usr/share/java/JimiProClasses.jar"/>
+
+	<!-- DocBook path properties.  Set these for your system. -->
+	<property name="docbookDTD" value="/usr/share/sgml/docbook/dtd/xml/4.3/docbookx.dtd"/>
+	<property name="MainXslPath" value="/usr/share/xml/docbook/stylesheet/nwalsh"/>
+	<property name="xslPath" value="xsl"/>
+
+	<!-- Project-specific properties. Set these as needed. -->
+	<property name="source.dir" value="src"/>
+	<property name="build.dir" value="build"/>
+	<property name="fo.dir" value="fo"/>
+	
+	<!-- Define the location of the various XSL scripts. -->
+	<property name="xslHtmlTitlepage" value="${MainXslPath}/template/titlepage.xsl"/>
+	<property name="xslHtmlSet" value="${xslPath}/html-set.xsl"/>
+	<property name="xslHtmlOneLibrary" value="${xslPath}/html-onelibrary.xsl"/>
+	<property name="xslHtmlHandbook" value="${xslPath}/html-handbook.xsl"/>
+	<property name="xslFoHandbook" value="${xslPath}/fo-handbook.xsl"/>
+	<property name="xslHtmlCharters" value="${xslPath}/html-charters.xsl"/>
+	<property name="xslFoCharters" value="${xslPath}/fo-charters.xsl"/>
+	<property name="xslHtmlFaq" value="${xslPath}/html-faq.xsl"/>
+	<property name="xslFoFaq" value="${xslPath}/fo-faq.xsl"/>
+	<property name="xslHtmlRm" value="${xslPath}/html-rm.xsl"/>
+	<property name="xslFoRm" value="${xslPath}/fo-rm.xsl"/>
+
+	<!-- Define the actual Java classes to use. -->
+	<property name="xslt.processor.class" value="com.icl.saxon.StyleSheet" />
+	<property name="xi.resolver.class" value="com.elharo.xml.xinclude.SAXXIncluder" />
+	<property name="catalog.resolver.class" value="org.apache.xml.resolver.tools.CatalogResolver" />
+	<property name="resolving.reader.class" value="org.apache.xml.resolver.tools.ResolvingXMLReader" />
+	<property name="fo.processor.class" value="org.apache.fop.apps.Fop" />
+
+	<!-- Define the classpath sto use for all build targets. -->
+	<path id="xslt.processor.classpath">
+		<pathelement path="${saxon.jar}" />
+		<pathelement path="${resolver.jar}" />
+		<pathelement path="${xerces.jar}" />
+		<pathelement path="${xincluder.jar}" />
+		<pathelement path="."/> <!-- for CatalogManager.properties -->
+	</path>
+
+	<path id="fo.processor.classpath">
+		<pathelement path="${xerces.jar}" />
+		<pathelement path="${fop.jar}" />
+		<pathelement path="${batik.jar}" />
+		<pathelement path="${jai_core.jar}" />
+		<pathelement path="${jai_codec.jar}" />
+		<pathelement path="${avalon-framework.jar}" />
+		<pathelement path="${xml-apis.jar}" />
+		<pathelement path="${jimi.jar}" />
+	</path>
+
+	<!-- Our assorted build targets. -->
+
+	<target name="init">
+		<echo message="Initializing build system." />
+		<!--<tstamp>
+			<format property="TODAY" pattern="d-M-yyyy" locale="en"/>
+		</tstamp>
+		<echo>Building on ${TODAY}</echo>-->
+		<defaultexcludes remove="**/*~"/>
+	</target>
+
+	<target name="all" depends="html, pdf" />
+
+	<target name="html" depends="html.onefile, html.set, html.handbook, html.charters, html.faq, html.rm" />
+
+	<target name="pdf" depends="pdf.onefile, pdf.handbook, pdf.charters, pdf.faq, pdf.rm" />
+
+	<target name="onefile" depends="html.onefile, pdf.onefile" />
+	
+	<target name="handbook" depends="html.handbook, pdf.handbook" />
+
+	<target name="charters" depends="html.charters, pdf.charters" />
+
+	<target name="faq" depends="html.faq, pdf.faq" />
+
+	<target name="rm" depends="html.rm, pdf.rm" />
+
+	
+	<target name="html.titlepage" depends="init">
+		<java classname="${xslt.processor.class}" fork="yes" failonerror="true">
+			<classpath refid="xslt.processor.classpath" />
+			<jvmarg value="-Djavax.xml.parsers.DocumentBuilderFactory=org.apache.xerces.jaxp.DocumentBuilderFactoryImpl"/>
+			<jvmarg value="-Djavax.xml.parsers.SAXParserFactory=org.apache.xerces.jaxp.SAXParserFactoryImpl"/>
+			<jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
+			<arg line="-x ${resolving.reader.class}"/>
+			<arg line="-y ${resolving.reader.class}"/>
+			<arg line="-r ${catalog.resolver.class}"/>
+			<arg line="-u"/>
+			<arg line="-o ${xslPath}/html-titlepage-templates.xsl"/>
+			<arg line="${xslPath}/html-titlepage-templates.xml"/>
+			<arg line="${xslHtmlTitlepage}" />
+<!-- 			<arg line="base.dir=${xslPath}/html-titlepage-templates.xsl" /> -->
+		</java>
+	</target>
+	
+	<target name="html.onefile" depends="init">
+		<tstamp>
+			<format property="TODAY" pattern="yyyy-MM-dd" locale="en"/>
+		</tstamp>
+		<echo>Building HTML archive file for ${TODAY}</echo>
+		<java classname="${xslt.processor.class}" fork="yes" failonerror="true">
+			<classpath refid="xslt.processor.classpath" />
+			<jvmarg value="-Djavax.xml.parsers.DocumentBuilderFactory=org.apache.xerces.jaxp.DocumentBuilderFactoryImpl"/>
+			<jvmarg value="-Djavax.xml.parsers.SAXParserFactory=org.apache.xerces.jaxp.SAXParserFactoryImpl"/>
+			<jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
+			<arg line="-x ${resolving.reader.class}"/>
+			<arg line="-y ${resolving.reader.class}"/>
+			<arg line="-r ${catalog.resolver.class}"/>
+			<arg line="-u"/>
+			<arg line="-o ${build.dir}/${TODAY}.html"/>
+			<arg line="${source.dir}/set.xml"/>
+			<arg line="${MainXslPath}/html/docbook.xsl" />
+			<arg line="base.dir=${build.dir}/" />
+			<arg line="use.id.as.filename=1" />
+		</java>
+	</target>
+	
+	<target name="pdf.onefile" depends="init">
+		<tstamp>
+			<format property="TODAY" pattern="yyyy-MM-dd" locale="en"/>
+		</tstamp>
+		<echo>Building PDF archive file for ${TODAY}</echo>
+		<java classname="${xslt.processor.class}" fork="yes" failonerror="true">
+			<classpath refid="xslt.processor.classpath" />
+			<jvmarg value="-Djavax.xml.parsers.DocumentBuilderFactory=org.apache.xerces.jaxp.DocumentBuilderFactoryImpl"/>
+			<jvmarg value="-Djavax.xml.parsers.SAXParserFactory=org.apache.xerces.jaxp.SAXParserFactoryImpl"/>
+			<jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
+			<arg line="-x ${resolving.reader.class}"/>
+			<arg line="-y ${resolving.reader.class}"/>
+			<arg line="-r ${catalog.resolver.class}"/>
+			<arg line="-u"/>
+			<arg line="-o ${fo.dir}/library.fo"/>
+			<arg line="${source.dir}/set.xml"/>
+			<arg line="${MainXslPath}/fo/docbook.xsl" />
+		</java>
+		<echo>Creating Archive PDF file</echo>
+		<java classname="${fo.processor.class}" failonerror="true">
+			<classpath refid="fo.processor.classpath" />
+			<arg line="-fo ${fo.dir}/library.fo"/>
+			<arg line="-pdf ${build.dir}/pdf/${TODAY}.pdf"/>
+		</java>
+	</target>
+
+	
+	<target name="html.set" depends="init, html.titlepage">
+		<java classname="${xslt.processor.class}" fork="yes" failonerror="true">
+			<classpath refid="xslt.processor.classpath" />
+			<jvmarg value="-Djavax.xml.parsers.DocumentBuilderFactory=org.apache.xerces.jaxp.DocumentBuilderFactoryImpl"/>
+			<jvmarg value="-Djavax.xml.parsers.SAXParserFactory=org.apache.xerces.jaxp.SAXParserFactoryImpl"/>
+			<jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
+			<arg line="-x ${resolving.reader.class}"/>
+			<arg line="-y ${resolving.reader.class}"/>
+			<arg line="-r ${catalog.resolver.class}"/>
+			<arg line="-u"/>
+			<arg line="${source.dir}/set.xml"/>
+			<arg line="${xslHtmlSet}" />
+			<arg line="base.dir=${build.dir}/" />
+		</java>
+	</target>
+
+	<target name="html.handbook" depends="init, html.titlepage">
+		<java classname="${xslt.processor.class}" fork="yes" failonerror="true">
+			<classpath refid="xslt.processor.classpath" />
+			<jvmarg value="-Djavax.xml.parsers.DocumentBuilderFactory=org.apache.xerces.jaxp.DocumentBuilderFactoryImpl"/>
+			<jvmarg value="-Djavax.xml.parsers.SAXParserFactory=org.apache.xerces.jaxp.SAXParserFactoryImpl"/>
+			<jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
+			<arg line="-x ${resolving.reader.class}"/>
+			<arg line="-y ${resolving.reader.class}"/>
+			<arg line="-r ${catalog.resolver.class}"/>
+			<arg line="-u"/>
+			<arg line="${source.dir}/handbook/book.xml"/>
+			<arg line="${xslHtmlHandbook}" />
+			<arg line="base.dir=${build.dir}/" />
+		</java>
+	</target>
+
+	<target name="pdf.handbook" depends="init">
+		<echo>Building XSL-FO intermediate output.</echo>
+		<java classname="${xslt.processor.class}" fork="yes" failonerror="true">
+			<classpath refid="xslt.processor.classpath" />
+			<jvmarg value="-Djavax.xml.parsers.DocumentBuilderFactory=org.apache.xerces.jaxp.DocumentBuilderFactoryImpl"/>
+			<jvmarg value="-Djavax.xml.parsers.SAXParserFactory=org.apache.xerces.jaxp.SAXParserFactoryImpl"/>
+			<jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
+			<arg line="-x ${resolving.reader.class}"/>
+			<arg line="-y ${resolving.reader.class}"/>
+			<arg line="-r ${catalog.resolver.class}"/>
+			<arg line="-u"/>
+			<arg line="-o ${fo.dir}/handbook.fo"/>
+			<arg line="${source.dir}/handbook/book.xml"/>
+			<arg line="${xslFoHandbook}" />
+		</java>
+		<echo>Creating Handbook PDF file</echo>
+		<java classname="${fo.processor.class}" failonerror="true">
+			<classpath refid="fo.processor.classpath" />
+			<arg line="-fo ${fo.dir}/handbook.fo"/>
+			<arg line="-pdf ${build.dir}/pdf/handbook.pdf"/>
+		</java>
+	</target>
+
+	<target name="html.charters" depends="init, html.titlepage">
+		<java classname="${xslt.processor.class}" fork="yes" failonerror="true">
+			<classpath refid="xslt.processor.classpath" />
+			<jvmarg value="-Djavax.xml.parsers.DocumentBuilderFactory=org.apache.xerces.jaxp.DocumentBuilderFactoryImpl"/>
+			<jvmarg value="-Djavax.xml.parsers.SAXParserFactory=org.apache.xerces.jaxp.SAXParserFactoryImpl"/>
+			<jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
+			<arg line="-x ${resolving.reader.class}"/>
+			<arg line="-y ${resolving.reader.class}"/>
+			<arg line="-r ${catalog.resolver.class}"/>
+			<arg line="-u"/>
+			<arg line="${source.dir}/charters/book.xml"/>
+			<arg line="${xslHtmlCharters}" />
+			<arg line="base.dir=${build.dir}/" />
+		</java>
+	</target>
+	
+	<target name="pdf.charters" depends="init">
+		<echo>Building XSL-FO intermediate output.</echo>
+		<java classname="${xslt.processor.class}" fork="yes" failonerror="true">
+			<classpath refid="xslt.processor.classpath" />
+			<jvmarg value="-Djavax.xml.parsers.DocumentBuilderFactory=org.apache.xerces.jaxp.DocumentBuilderFactoryImpl"/>
+			<jvmarg value="-Djavax.xml.parsers.SAXParserFactory=org.apache.xerces.jaxp.SAXParserFactoryImpl"/>
+			<jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
+			<arg line="-x ${resolving.reader.class}"/>
+			<arg line="-y ${resolving.reader.class}"/>
+			<arg line="-r ${catalog.resolver.class}"/>
+			<arg line="-u"/>
+			<arg line="-o ${fo.dir}/charters.fo"/>
+			<arg line="${source.dir}/charters/book.xml"/>
+			<arg line="${xslFoCharters}" />
+		</java>
+		<echo>Creating Charters PDF file</echo>
+		<java classname="${fo.processor.class}" failonerror="true">
+			<classpath refid="fo.processor.classpath" />
+			<arg line="-fo ${fo.dir}/charters.fo"/>
+			<arg line="-pdf ${build.dir}/pdf/charters.pdf"/>
+		</java>
+	</target>
+
+	
+	<target name="html.faq" depends="init, html.titlepage">
+		<java classname="${xslt.processor.class}" fork="yes" failonerror="true">
+			<classpath refid="xslt.processor.classpath" />
+			<jvmarg value="-Djavax.xml.parsers.DocumentBuilderFactory=org.apache.xerces.jaxp.DocumentBuilderFactoryImpl"/>
+			<jvmarg value="-Djavax.xml.parsers.SAXParserFactory=org.apache.xerces.jaxp.SAXParserFactoryImpl"/>
+			<jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
+			<arg line="-x ${resolving.reader.class}"/>
+			<arg line="-y ${resolving.reader.class}"/>
+			<arg line="-r ${catalog.resolver.class}"/>
+			<arg line="-u"/>
+			<arg line="${source.dir}/faq/book.xml"/>
+			<arg line="${xslHtmlFaq}" />
+			<arg line="base.dir=${build.dir}/" />
+		</java>
+	</target>
+	
+	<target name="pdf.faq" depends="init">
+		<echo>Building XSL-FO intermediate output.</echo>
+		<java classname="${xslt.processor.class}" fork="yes" failonerror="true">
+			<classpath refid="xslt.processor.classpath" />
+			<jvmarg value="-Djavax.xml.parsers.DocumentBuilderFactory=org.apache.xerces.jaxp.DocumentBuilderFactoryImpl"/>
+			<jvmarg value="-Djavax.xml.parsers.SAXParserFactory=org.apache.xerces.jaxp.SAXParserFactoryImpl"/>
+			<jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
+			<arg line="-x ${resolving.reader.class}"/>
+			<arg line="-y ${resolving.reader.class}"/>
+			<arg line="-r ${catalog.resolver.class}"/>
+			<arg line="-u"/>
+			<arg line="-o ${fo.dir}/faq.fo"/>
+			<arg line="${source.dir}/faq/book.xml"/>
+			<arg line="${xslFoFaq}" />
+		</java>
+		<echo>Creating Handbook PDF file</echo>
+		<java classname="${fo.processor.class}" failonerror="true">
+			<classpath refid="fo.processor.classpath" />
+			<arg line="-fo ${fo.dir}/faq.fo"/>
+			<arg line="-pdf ${build.dir}/pdf/faq.pdf"/>
+		</java>
+	</target>
+
+	
+	<target name="html.rm" depends="init, html.titlepage">
+		<java classname="${xslt.processor.class}" fork="yes" failonerror="true">
+			<classpath refid="xslt.processor.classpath" />
+			<jvmarg value="-Djavax.xml.parsers.DocumentBuilderFactory=org.apache.xerces.jaxp.DocumentBuilderFactoryImpl"/>
+			<jvmarg value="-Djavax.xml.parsers.SAXParserFactory=org.apache.xerces.jaxp.SAXParserFactoryImpl"/>
+			<jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
+			<arg line="-x ${resolving.reader.class}"/>
+			<arg line="-y ${resolving.reader.class}"/>
+			<arg line="-r ${catalog.resolver.class}"/>
+			<arg line="-u"/>
+			<arg line="${source.dir}/rm/book.xml"/>
+			<arg line="${xslHtmlRm}" />
+			<arg line="base.dir=${build.dir}/" />
+		</java>
+	</target>
+	
+	<target name="pdf.rm" depends="init">
+		<echo>Building XSL-FO intermediate output.</echo>
+		<java classname="${xslt.processor.class}" fork="yes" failonerror="true">
+			<classpath refid="xslt.processor.classpath" />
+			<jvmarg value="-Djavax.xml.parsers.DocumentBuilderFactory=org.apache.xerces.jaxp.DocumentBuilderFactoryImpl"/>
+			<jvmarg value="-Djavax.xml.parsers.SAXParserFactory=org.apache.xerces.jaxp.SAXParserFactoryImpl"/>
+			<jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
+			<arg line="-x ${resolving.reader.class}"/>
+			<arg line="-y ${resolving.reader.class}"/>
+			<arg line="-r ${catalog.resolver.class}"/>
+			<arg line="-u"/>
+			<arg line="-o ${fo.dir}/rm.fo"/>
+			<arg line="${source.dir}/rm/book.xml"/>
+			<arg line="${xslFoRm}" />
+		</java>
+		<echo>Creating Handbook PDF file</echo>
+		<java classname="${fo.processor.class}" failonerror="true">
+			<classpath refid="fo.processor.classpath" />
+			<arg line="-fo ${fo.dir}/rm.fo"/>
+			<arg line="-pdf ${build.dir}/pdf/rm.pdf"/>
+		</java>
+	</target>
+
+	
+	<!--
+	<target name="resolve.set" depends="init">
+		<echo>Resolving unified input file.</echo>
+		<java classname="${xi.resolver.class}" output="${resolved.dir}/set.xml">
+			<classpath refid="xslt.processor.classpath" />
+			<arg line="${source.dir}/set.xml"/>
+		</java>
+		<echo>Done.</echo>
+	</target>
+
+	<target name="resolve.handbook" depends="init">
+		<echo>Resolving Handbook input file.</echo>
+		<java classname="${xi.resolver.class}" output="${resolved.dir}/handbook.xml">
+			<classpath refid="xslt.processor.classpath" />
+			<arg line="${source.dir}/handbook/book.xml"/>
+		</java>
+		<echo>Done.</echo>
+	</target>
+	-->
+	<target name="clean" depends="init">
+		<delete>
+			<fileset dir="." includes="**/*~"/>
+		</delete>
+		<delete>
+			<fileset dir="${build.dir}" includes="**/*.html"/>
+			<fileset dir="${build.dir}" includes="**/*.pdf"/>
+			<fileset dir="${fo.dir}" includes="**/*.fo"/>
+			<fileset dir="${xslPath}" includes="html-titlepage-templates.xsl"/> <!-- This file is auto-generated -->
+		</delete>
+	</target>
+	
+</project>

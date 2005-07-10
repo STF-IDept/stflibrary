@@ -1,0 +1,33 @@
+<article class="whitepaper" id="reference-template-power">
+	<title>Power Template</title>
+	<section>
+		<title>Power Template</title>
+		<para>Entries for a Power should appear as follows when posted:</para>
+		<literallayout>
+			NAME OF ENTRY HERE
+			DATE: Current Date
+			AUTHOR: Your name here (or multiple names, if multiple authors)
+			TYPE: Power
+			GOVERNMENT: [Military Dictatorship | Oligarchy | Republic | etc.]
+			CAPITAL: Name of capital planet
+			AGE: Approximate age of the power, eg, the USA would be "200 years"
+			TECHNOLOGY LEVEL: [ Primitive | pre-Industrial | Industrial | Pre-Warp | Warp Capable | Highly Advanced ]  <emphasis>(For reference, the USA is "Industrial" and the Federation is "Warp Capable".)</emphasis>
+			DOMINANT SPECIES: The main species within the power, eg, the Romulan Empire would have "Romulan" here.
+			DIPLOMATIC STATUS: [Allied | Peace | Neutral | Hostile | War]  <emphasis>(This is the power's current status vis a vis the Federation)</emphasis>
+			<link linkend="reference-entrytypes">CLASSIFICATION</link>: [Canon | Non-Canon | Custom ]
+		</literallayout>
+		<para>
+			Sources: List of sources used for this entry, or None if it is Custom.  (Eg, which episode, which book, etc.)
+		</para>
+		<literallayout>
+			OVERVIEW
+			--------
+			This is a free form section in which you can discuss other topics about the power which were not included in the preceeding table.  Subsections are permitted if the entry gets too long.
+		</literallayout>
+		<literallayout>
+			HISTORY
+			--------
+			In this section you many include events in the history of your power.
+		</literallayout>
+	</section>
+</article>

@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN"
+	"http://www.oasis-open.org/docbook/xml/4.0/docbookx.dtd" [
+	<!-- Species -->
+	<!--<!ENTITY species-eldaraane SYSTEM "species-eldaraane.xml">
+	<!ENTITY species-acamarian SYSTEM "species-acamarian.xml">
+	<!ENTITY species-bandi SYSTEM "species-bandi.xml">
+	<!ENTITY species-benzite SYSTEM "species-benzite.xml">
+	<!ENTITY species-breen SYSTEM "species-breen.xml">
+	<!ENTITY species-bynars SYSTEM "species-bynars.xml">
+	<!ENTITY species-chameloid SYSTEM "species-chameloid.xml">
+	<!ENTITY species-chairosan SYSTEM "species-chairosan.xml">
+	<!ENTITY species-cytherian SYSTEM "species-cytherian.xml">
+	<!ENTITY species-dilkian SYSTEM "species-dilkian.xml">
+	<!ENTITY species-etopian SYSTEM "species-etopian.xml">
+	<!ENTITY species-ferengi SYSTEM "species-ferengi.xml">
+	<!ENTITY species-flarn SYSTEM "species-flarn.xml">
+	<!ENTITY species-komunicaton SYSTEM "species-komunicaton.xml">
+	<!ENTITY species-o SYSTEM "species-o.xml">
+	<!ENTITY species-pakled SYSTEM "species-pakled.xml">
+	<!ENTITY species-quasian SYSTEM "species-quasian.xml">
+	<!ENTITY species-talosian SYSTEM "species-talosian.xml">
+	<!ENTITY species-tholian SYSTEM "species-tholian.xml">
+	<!ENTITY species-trill SYSTEM "species-trill.xml">
+	<!ENTITY species-caitian SYSTEM "species-caitian.xml">-->
+	<!-- Locations -->
+	<!--<!ENTITY location-pilton SYSTEM "location-pilton.xml">
+	<!ENTITY location-chairos_iv SYSTEM "location-chairos_iv.xml">
+	<!ENTITY location-etopos SYSTEM "location-etopos.xml">
+	<!ENTITY location-ferenginar SYSTEM "location-ferenginar.xml">
+	<!ENTITY location-khitomer SYSTEM "location-khitomer.xml">
+	<!ENTITY location-mars SYSTEM "location-mars.xml">
+	<!ENTITY location-quanta SYSTEM "location-quanta.xml">
+	<!ENTITY location-qonos SYSTEM "location-qonos.xml">
+	<!ENTITY location-risa SYSTEM "location-risa.xml">
+	<!ENTITY location-sisa_minor SYSTEM "location-sisa_minor.xml">
+	<!ENTITY location-quantas SYSTEM "location-quantas.xml">
+	<!ENTITY location-obaine SYSTEM "location-obaine.xml">
+	<!ENTITY location-galactic_barrier SYSTEM "location-galactic_barrier.xml">-->
+	<!-- Powers -->
+	<!--<!ENTITY power-flarn SYSTEM "power-flarn.xml">
+	<!ENTITY power-kton SYSTEM "power-kton.xml">-->
+	<!-- Miscellaneous -->
+	<!--<!ENTITY misc-planets SYSTEM "misc-planets.xml">
+	<!ENTITY misc-stars SYSTEM "misc-stars.xml">-->
+	<!-- Reference -->
+	<!--<!ENTITY reference-template-species SYSTEM "reference-template-species.xml">
+	<!ENTITY reference-template-location SYSTEM "reference-template-location.xml">
+	<!ENTITY reference-template-power SYSTEM "reference-template-power.xml">
+	<!ENTITY reference-entrytypes SYSTEM "reference-entrytypes.xml">-->
+]>
+<!--
+PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN"
+	"http://www.oasis-open.org/docbook/xml/4.0/docbookx.dtd"
+-->
+<!-- <?xml-stylesheet type="text/xsl" href="rm-control.xslt"?> -->
+<book id="rm">
+	<?dbhtml dir="rm" ?>
+	<bookinfo>
+		<title>The STF Reference Manual</title>
+		<subtitle>Everything you see, explained</subtitle>
+		<editor>
+			<firstname>Larry</firstname>
+			<surname>Garfield</surname>
+		</editor>
+		<date>19 June 2005</date>
+	</bookinfo>
+	<part id="species">
+		<partinfo>
+			<title>Species</title>
+			<subtitle>List of all known races and species used in STF</subtitle>
+		</partinfo>
+		<title>Species</title>
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/acamarian.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/bandi.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/benzite.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/breen.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/bynars.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/caitian.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/chameloid.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/cytherian.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/dilkian.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/eldaraane.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/etopian.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/ferengi.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/flarn.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/komunicaton.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/o.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/pakled.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/quasian.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/talosian.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/tholian.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/trill.xml" />
+	</part>
+	<part id="locations">
+		<partinfo>
+			<title>Locations</title>
+			<subtitle>Collection of planets and places used in STF</subtitle>
+		</partinfo>
+		<title>Locations</title>
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="location/chairos_iv.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="location/etopos.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="location/galactic_barrier.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="location/khitomer.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="location/mars.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="location/obaine.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="location/pilton.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="location/quanta.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="location/quantas.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="location/qonos.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="location/risa.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="location/sisa_minor.xml" />
+		<!--&location-pilton;
+		&location-chairos_iv;
+		&location-etopos;
+		&location-khitomer;
+		&location-mars;
+		&location-qonos;
+		&location-quanta;
+		&location-risa;
+		&location-sisa_minor;
+		&location-quantas;
+		&location-obaine;
+		&location-galactic_barrier;-->
+	</part>
+	<part id="powers">
+		<partinfo>
+			<title>Powers</title>
+			<subtitle>Collection of the various powers and influences.</subtitle>
+		</partinfo>
+		<title>Powers</title>
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="power/flarn.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="power/kton.xml" />
+ 		<!--&power-flarn;
+		&power-kton;-->
+	</part>
+	<part id="misc">
+		<partinfo>
+			<title>Miscellaneous</title>
+			<subtitle>Various and sundry other items of interest</subtitle>
+		</partinfo>
+		<title>Miscellaneous</title>
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="misc/planets.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="misc/stars.xml" />
+		<!--&misc-planets;
+		&misc-stars;-->
+	</part>
+	<part id="reference">
+		<partinfo>
+			<title>RM References</title>
+			<subtitle>Documentation about the STF Reference Manaul</subtitle>
+		</partinfo>
+		<title>RM References</title>
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="reference/entrytypes.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="reference/template-power.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="reference/template-species.xml" />
+ 		<!--&reference-template-species;
+		&reference-template-location;
+		&reference-template-power;
+		&reference-entrytypes;-->
+	</part>
+</book>

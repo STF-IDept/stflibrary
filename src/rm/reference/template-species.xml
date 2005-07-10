@@ -1,0 +1,32 @@
+<article class="whitepaper" id="reference-template-species">
+	<title>Species Template</title>
+	<section>
+		<title>Species Template</title>
+		<para>Entries for a Power should appear as follows when posted:</para>
+		<literallayout>
+			STANDARD NAME OF SPECIES (SCIENTIFIC NAME) <emphasis>(e.g., "Human (Homo Sapiens)")</emphasis>
+			DATE: Current Date
+			AUTHOR: Your name here (or multiple names, if multiple authors)
+			TYPE: Species
+			HOMEWORLD: The home plant of this species
+			HEIGHT: Average height of the species
+			WEIGHT: Average weight of the species
+			LIFESPAN: The average lifespan of this species, in Earth Standard Years.
+			STARFLEET: [ Common | Infrequent | Rare | Never ] <emphasis>(How likely one is to find this species in Starfleet.  Non-UFP member races should never be more common than "Rare", hostile powers should be "Never".)</emphasis>
+			<link linkend="reference-entrytypes">CLASSIFICATION</link>: [Canon | Non-Canon | Custom ]
+		</literallayout>
+		<para>
+			Sources: List of sources used for this entry, or None if it is Custom.  (Eg, which episode, which book, etc.)
+		</para>
+		<literallayout>
+			OVERVIEW
+			--------
+			This is a free form section in which you can discuss other topics of the species which were not included in the preceeding table.  Subsections are permitted if the entry gets too long.
+		</literallayout>
+		<literallayout>
+			HISTORY
+			--------
+			In this section you many include events in the history of your species.
+		</literallayout>
+	</section>
+</article>

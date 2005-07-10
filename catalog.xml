@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!-- <!DOCTYPE catalog
+   PUBLIC "-//OASIS/DTD Entity Resolution XML Catalog V1.0//EN"
+   "http://www.oasis-open.org/committees/entity/release/1.0/catalog.dtd"> -->
+
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+
+	<!-- To redirect DTD declarations to the local system and avoid redundant downloads -->
+	<group  prefer="public"  xml:base="/usr/share/xml/docbook/schema/dtd/4.3/" >
+
+		<!-- Fix a bug in DocBook 4.3's DTD setup. -->
+		<public publicId="-//OASIS//ELEMENTS DocBook XML HTML Tables V4.3//EN" uri="htmltblx.mod"/>
+		
+		<public publicId="-//OASIS//DTD DocBook XML V4.3//EN" uri="docbookx.dtd"/>
+		<system systemId="http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd" uri="docbookx.dtd"/>
+		<nextCatalog  catalog="catalog.xml" />
+	</group>
+
+	<!-- To resolve short stylesheet references -->
+	<group xml:base="/usr/share/xml/docbook/stylesheet/nwalsh/">
+		<uri name="docbook.xsl" uri="html/docbook.xsl" />
+		<uri name="chunk.xsl" uri="html/chunk.xsl" />
+		<uri name="onechunk.xsl" uri="html/onechunk.xsl" />
+		<uri name="fo-docbook.xsl" uri="fo/docbook.xsl" />
+		<uri name="chunk-common.xsl" uri="html/chunk-common.xsl" />
+		<uri name="manifest.xsl" uri="html/manifest.xsl" />
+		<uri name="chunk-code.xsl" uri="html/chunk-code.xsl" />
+	</group>
+
+	<!-- String substitution for images, stylesheets, etc. -->
+	<group>
+		<uri name="styles/" uri="styles" />
+		<uri name="mainimages/" uri="../images/" />
+<!-- 		<uri name="handbook-images/" uri="../images/handbook" /> -->
+		<rewriteURI uriStartString="handbook-images/" rewritePrefix="../images/handbook/" />
+		<uri name="tm-images/" uri="../images/tm" />
+	</group>
+
+</catalog>
