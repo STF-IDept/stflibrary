@@ -12,7 +12,7 @@ Files=set.xml
 
 [Dir src/charters]
 Dirs=
-Files=book.xml/gmd.xml/preface.xml/depts.xml/library.xml/fleets.xml/crell.xml/oed_v.xml/merrimack.xml/bonaventure.xml
+Files=book.xml/gmd.xml/preface.xml/depts.xml/library.xml/fleets.xml/crell.xml/oed_v.xml/merrimack.xml/bonaventure.xml/pd.xml
 
 [Dir src/courses]
 Dirs=
@@ -52,7 +52,7 @@ Files=acamarian.xml/bajoran.xml/bandi.xml/benzite.xml/breen.xml/bynars.xml/caiti
 
 [Dir xsl]
 Dirs=
-Files=fo-common.xsl/fo-handbook.xsl/html-common.xsl/html-handbook.xsl/html-onelibrary.xsl/html-set.xsl/html-set-customizations.xsl/html-tm-customizations.xsl/html-charters.xsl/fo-charters.xsl/fo-onelibrary.xsl/html-titlepage-templates.xml/fo-faq.xsl/html-faq.xsl/fo-rm.xsl/html-rm.xsl/fo-courses.xsl
+Files=fo-common.xsl/fo-handbook.xsl/html-common.xsl/html-handbook.xsl/html-onelibrary.xsl/html-set.xsl/html-set-customizations.xsl/html-tm-customizations.xsl/html-charters.xsl/fo-charters.xsl/fo-onelibrary.xsl/html-titlepage-templates.xml/fo-faq.xsl/html-faq.xsl/fo-rm.xsl/html-rm.xsl/fo-courses.xsl/html-courses.xsl
 
 [Dir xsl-bak]
 Dirs=

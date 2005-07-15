@@ -55,14 +55,11 @@ PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN"
 -->
 <!-- <?xml-stylesheet type="text/xsl" href="rm-control.xslt"?> -->
 <book id="rm">
-	<?dbhtml dir="rm" ?>
+	<?dbhtml dir="rm" filename="index.html" ?>
 	<bookinfo>
 		<title>The STF Reference Manual</title>
 		<subtitle>Everything you see, explained</subtitle>
-		<editor>
-			<firstname>Larry</firstname>
-			<surname>Garfield</surname>
-		</editor>
+		<corpauthor>Gamemaster Department</corpauthor>
 		<date>19 June 2005</date>
 	</bookinfo>
 	<part id="species">

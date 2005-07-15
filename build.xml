@@ -2,6 +2,23 @@
 <project name="generate" basedir="" default="all">
 	<description>Library generation</description>
 
+	<!--
+		 Required Debian packages:
+		 docbook-xml
+		 docbook-xsl
+		 libsaxon-java
+		 ant
+		 fop
+		 libbatik-java
+		 libjaxp1.2-java
+
+		 Manually:
+		 xerces (nightly, since the last release is buggy)
+		 XIncluder
+		 Resolver (from XML Commons)
+
+	-->
+	
 	<!-- Classpath-related properties.  Set these to the location of the appropriate Jars. -->
 	<property name="saxon.jar" value="/usr/share/java/saxon.jar"/>
 	<property name="resolver.jar" value="/usr/share/java/resolver.jar"/>
@@ -37,6 +54,8 @@
 	<property name="xslFoFaq" value="${xslPath}/fo-faq.xsl"/>
 	<property name="xslHtmlRm" value="${xslPath}/html-rm.xsl"/>
 	<property name="xslFoRm" value="${xslPath}/fo-rm.xsl"/>
+	<property name="xslHtmlCourses" value="${xslPath}/html-courses.xsl"/>
+	<property name="xslFoCourses" value="${xslPath}/fo-courses.xsl"/>
 
 	<!-- Define the actual Java classes to use. -->
 	<property name="xslt.processor.class" value="com.icl.saxon.StyleSheet" />
@@ -78,9 +97,9 @@
 
 	<target name="all" depends="html, pdf" />
 
-	<target name="html" depends="html.onefile, html.set, html.handbook, html.charters, html.faq, html.rm" />
+	<target name="html" depends="html.onefile, html.set, html.handbook, html.charters, html.faq, html.rm, html.courses" />
 
-	<target name="pdf" depends="pdf.onefile, pdf.handbook, pdf.charters, pdf.faq, pdf.rm" />
+	<target name="pdf" depends="pdf.onefile, pdf.handbook, pdf.charters, pdf.faq, pdf.rm, pdf.courses" />
 
 	<target name="onefile" depends="html.onefile, pdf.onefile" />
 	
@@ -91,6 +110,8 @@
 	<target name="faq" depends="html.faq, pdf.faq" />
 
 	<target name="rm" depends="html.rm, pdf.rm" />
+
+	<target name="courses" depends="html.courses, pdf.courses" />
 
 	
 	<target name="html.titlepage" depends="init">
@@ -285,7 +306,7 @@
 			<arg line="${source.dir}/faq/book.xml"/>
 			<arg line="${xslFoFaq}" />
 		</java>
-		<echo>Creating Handbook PDF file</echo>
+		<echo>Creating FAQ PDF file</echo>
 		<java classname="${fo.processor.class}" failonerror="true">
 			<classpath refid="fo.processor.classpath" />
 			<arg line="-fo ${fo.dir}/faq.fo"/>
@@ -325,7 +346,7 @@
 			<arg line="${source.dir}/rm/book.xml"/>
 			<arg line="${xslFoRm}" />
 		</java>
-		<echo>Creating Handbook PDF file</echo>
+		<echo>Creating RM PDF file</echo>
 		<java classname="${fo.processor.class}" failonerror="true">
 			<classpath refid="fo.processor.classpath" />
 			<arg line="-fo ${fo.dir}/rm.fo"/>
@@ -333,6 +354,48 @@
 		</java>
 	</target>
 
+
+	
+	<target name="html.courses" depends="init, html.titlepage">
+		<java classname="${xslt.processor.class}" fork="yes" failonerror="true">
+			<classpath refid="xslt.processor.classpath" />
+			<jvmarg value="-Djavax.xml.parsers.DocumentBuilderFactory=org.apache.xerces.jaxp.DocumentBuilderFactoryImpl"/>
+			<jvmarg value="-Djavax.xml.parsers.SAXParserFactory=org.apache.xerces.jaxp.SAXParserFactoryImpl"/>
+			<jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
+			<arg line="-x ${resolving.reader.class}"/>
+			<arg line="-y ${resolving.reader.class}"/>
+			<arg line="-r ${catalog.resolver.class}"/>
+			<arg line="-u"/>
+			<arg line="${source.dir}/courses/book.xml"/>
+			<arg line="${xslHtmlCourses}" />
+			<arg line="base.dir=${build.dir}/" />
+		</java>
+	</target>
+	
+	<target name="pdf.courses" depends="init">
+		<echo>Building XSL-FO intermediate output.</echo>
+		<java classname="${xslt.processor.class}" fork="yes" failonerror="true">
+			<classpath refid="xslt.processor.classpath" />
+			<jvmarg value="-Djavax.xml.parsers.DocumentBuilderFactory=org.apache.xerces.jaxp.DocumentBuilderFactoryImpl"/>
+			<jvmarg value="-Djavax.xml.parsers.SAXParserFactory=org.apache.xerces.jaxp.SAXParserFactoryImpl"/>
+			<jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
+			<arg line="-x ${resolving.reader.class}"/>
+			<arg line="-y ${resolving.reader.class}"/>
+			<arg line="-r ${catalog.resolver.class}"/>
+			<arg line="-u"/>
+			<arg line="-o ${fo.dir}/courses.fo"/>
+			<arg line="${source.dir}/courses/book.xml"/>
+			<arg line="${xslFoRm}" />
+		</java>
+		<echo>Creating RM PDF file</echo>
+		<java classname="${fo.processor.class}" failonerror="true">
+			<classpath refid="fo.processor.classpath" />
+			<arg line="-fo ${fo.dir}/courses.fo"/>
+			<arg line="-pdf ${build.dir}/pdf/courses.pdf"/>
+		</java>
+	</target>
+
+	
 	
 	<!--
 	<target name="resolve.set" depends="init">

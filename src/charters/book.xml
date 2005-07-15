@@ -1,11 +1,12 @@
 <!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
                     "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
 <book id="charters">
-	<?dbhtml dir="charters" ?>
+	<?dbhtml dir="charters" filename="index.html" ?>
 	<bookinfo>
 		<title>Major Legal Documents and Charters</title>
+		<corpauthor>The STF Librarian</corpauthor>
 		<editor>
-			<honorific>Admiral</honorific>
+			<honorific>Librarian</honorific>
 			<firstname>Larry</firstname>
 			<surname>Garfield</surname>
 		</editor>
@@ -28,6 +29,7 @@
 		<title>Executive Departments and Assistants</title>
 		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="library.xml" />
 		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="gmd.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="pd.xml" />
 	</part>
 	<part id="altrpgareas">
 		<title>Alternate Role-Playing Environments</title>

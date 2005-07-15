@@ -13,7 +13,10 @@
 	<xsl:param name="html.stylesheet" select="'styles/library.css'" />
 
 	<!-- Any custom templates we need go here. -->
-
+	
+	<!-- Only one level in the set TOC, for book titles -->
+	<xsl:param name="toc.max.depth" select="1"/>
+	
 	<!--
 		This version of the <set> template is identical to the standard one,
 		save that it does NOT continue processing after it generates the TOC.
@@ -41,7 +44,7 @@
 				<xsl:call-template name="set.toc"/>
 			</xsl:with-param>
 			</xsl:call-template>
-		
+
 			<!-- <xsl:apply-templates/> -->
 		</div>
 	</xsl:template>

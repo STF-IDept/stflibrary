@@ -1,10 +1,14 @@
-<article class="whitepaper" id="courses-engineering">
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN"
+	"http://www.oasis-open.org/docbook/xml/4.0/docbookx.dtd">
+<article id="courses-engineering">
 	<title>Engineering</title>
 	<articleinfo>
 		<authorgroup>
 			<author>
 				<firstname>Larry</firstname>
 				<surname>Garfield</surname>
+				<email>larry@garfieldtech.com</email>
 			</author>
 		</authorgroup>
 		<revhistory>
@@ -24,14 +28,14 @@
 			</revision>
 		</revhistory>
 	</articleinfo>
-	<section>
+	<section id="eng-intro">
 		<title>Introduction</title>
-		<para>Hello there, and welcome to the STF Academy Engineering Seminar. Your professor will be Admiral Larry Garfield. Larry has been a member of STF since 22 AUgust 1997 and has served in a variety of capacities.  His Engineering work includes co-designer of the Trafalgar, McCoy, and Viking-class specs as well as sole designer of the Yub nub class.  He has served as Engineering Director, Asssitant Engineering Director, Engineering Assistant, and Dockmaster, and has authored or co-authored numerous Engineering Department policies.  Now that I'm done tooting my own horn, onto the course.</para>
+		<para>Hello there, and welcome to the STF Academy Engineering Seminar. Your professor will be Admiral Larry Garfield. Larry has been a member of STF since 22 August 1997 and has served in a variety of capacities.  His Engineering work includes co-designer of the Trafalgar, McCoy, and Viking-class specs as well as sole designer of the Yub nub class.  He has served as Engineering Director, Asssitant Engineering Director, Engineering Assistant, and Dockmaster, and has authored or co-authored numerous Engineering Department policies.  Now that I'm done tooting my own horn, on to the course.</para>
 		<para>Over the course of the lessons that follow we will be covering one major topic: Real Physics and Star Trek Physics. That is, we will be covering two major topics: Real Physics, Star Trek Physics, and How to Role Play in Engineering. We WILL be covering three major topics: Real Physics, Star Trek Physics, How to Role Play in Engineering, and Starship Design. Amongst the topics that we will be covering are such diverse subjects as...</para>
 		<para>Anyway, we'll be doing a lot. This class is intended to make you a better RPer as well as a better member of the ED. It will, hopefully, also inform you about matters of physics, real and Paramount, that you never knew and probably never wanted to. Be warned, however, that the pages that follow may contain graphic material, and are not recommended for people who are faint of heart or bandwidth.</para>
 		<para>So on to the course already!</para>
 	</section>
-	<section>
+	<section id="eng-101">
 		<title>The real world</title>
 		<para>One thing that sets Star Trek aside from most other Sci-Fi shows is that almost all of its scientific "techno-babble," the fancy words they throw around to make the warp core sound like something you want for Christmas, is based on real world physics or what we think is real world physics. While shows like Babylon 5 may have more realistic space movement for conventional thrusters, Star Trek delves into the world of quantum physics and relativity and does so accurately, most of the time. Therefore, to understand Star Trek Physics we must first comprehend what is already known about the universe. It is assumed that you are already familiar with Newtonian Physics, as going into that would take too much time.</para>
 		<para>All matter is made up of atoms. All atoms are made up of protons, neutrons, and electrons. All protons and neutrons are made up of a special combination of quarks (pronounced "quorks" to rhyme with cork, not with a certain bartender who shall remain nameless). At this point scientists begin to disagree. Some say quarks are the most fundamental building block of the universe. The latest neat theory, known as "M-Theory" is that all matter can be broken down into flat sheets that have dimensions of zero by zero by zero. The most commonly accepted theory, at least this week, is that all matter can be broken down into "superstrings," particles that have dimensions zero by zero by zero and are shaped like a piece of spaghetti. If the logic of a piece of spaghetti with no dimensions doesn't seem quite Vulcan in its soundness, don't worry. It's actually a mathematical representation of something people who don't hold advanced degrees can't possibly hope to understand without a decent helping of tomato sauce. But whichever theory is correct, they all state the same thing: these fundamental building blocks are made up of energy, and all interaction between particles, which are now simply an illusion created by energy, occurs through what are known as mediator particles.</para>
@@ -41,7 +45,7 @@
 		<para>All particles in the universe have a charge. For some particles, that charge is zero. A good example of this is the neutrino, one of the three building blocks of a neutron. (I'll bet you didn't know that a neutron is really just an electron, a proton, and a neutrino stuck very closely together, did you?) And for every particle there is an anti-particle, identical in absolutely every possible way except for the charge. An electron has a mass of 9.1x10<superscript>-28</superscript> grams and a charge of -1. An anti-electron has a mass of 9.1x10<superscript>-28</superscript> grams and a charge of +1. It is more commonly known as a "positron." (Not to be confused with Data's "positronic net" neurology. That is something else entirely.) In theory, you can build entire atoms, molecules, and even entire galaxies out of anti-matter. There's just one teeny tiny problem. If a particle comes into contact with its anti-particle, they destroy each other in a really cool light show that produces an amount of energy equivalent to their mass, as described by that really neat equation that you really should know before you go any further, E=MC<superscript>2</superscript>, where E is energy in joules, M is mass in kilograms (combined mass of both matter and anti-matter), and C is the speed of light in meters per second. In the metric system, the speed of light is approximately 3x10<superscript>8</superscript> meters per second. But if you could find a way to safely manufacture or harvest anti-matter and then collect the energy created by destroying it, that would be even better than the still-to-be-invented cold fusion. More on this in the next class.</para>
 		<para>Easy right?</para>
 	</section>
-	<section>
+	<section id="eng-102">
 		<title>Paramount gets involved</title>
 		<para>Now that you have a basic grasp of modern-day cutting edge physics, so what? I mean, who cares about gravitons and anti-whatsits?</para>
 		<para>Apparently you do, or you wouldn't be reading this lecture. Now to put all that techno-babble into practice. Let's discuss some of the more interesting Star Trek technologies, and see how they make use of these fancy words.</para>
@@ -57,7 +61,7 @@
 		<para>Remember those gravitons we talked about? Well guess what, they're useful too. Through still more unexplained means, starships are able to produce, or maybe collect we are never quite sure, free gravitons. Those gravitons are then held in a field surrounding the ship by more magic. When a phaser beam or torpedo hits the graviton field it is deflected by the gravimetric distortions. From one point of view, the object is suddenly moved elsewhere, usually around the shields and dissipating into space. Since all matter is really just energy, and all energy waves are really just a pattern of motion in particles (one of the universes many ways of giving college students a headache), this works for both phasers and disrupters as well as torpedoes, missiles, and the random asteroid or shuttle craft piloted by Starfleet officers masquerading as Maquis. Or not.</para>
 		<para>Confused yet? If not, then I guess I'm not doing my job. Digest this lesson for a while, and then go on to the next lesson. Maybe I can confuse you there.</para>
 	</section>
-	<section>
+	<section id="eng-103">
 		<title>Now do it yourself</title>
 		<para>We now come to the question of application. You now have -- or should, unless you've been reading these classes out of order in which case shame on you -- a working knowledge of how the Universe works according to modern scientists as well as the key ways in which Star Trek plays with them. Now, is that actually useful in STF? The answer is: Sort of.</para>
 		<para>The first thing to remember is that most STFers have NOT read this wonderful treatise on everything you ever wanted to know about physics but were afraid to ask. And unless you have an advanced degree yourself , chances are you are sitting there now with no idea how to apply all of this techno-babble in your daily RPing. (Or weekly for those of you in Fleet Two, or hourly for those on the Endevour.) Well guess what, that's not as big a problem as it seems.</para>
@@ -78,9 +82,8 @@
 			<listitem><para>Remember what you learned in the first two lessons. They will come in handy when fixing major systems, as you can play around with them, as well as find new ways to do things that are the exact same thing but sound cooler, so they will work better for the next 10 minutes, just in time to save the ship.</para></listitem>
 		</orderedlist>
 	</section>
-	<section>
+	<section id="eng-104">
 		<title>Build your own</title>
-
 		<para>It can be truly said that captains have it easy. All they have to do is tell the ship what to do and it does it. We engineers on the other hand have the task of actually getting the ship to do what it's told. That daunting task is known as Starship Design. In this class we will discuss the intricacies of designing a new starship or technology for STF use.</para>
 		<para>"Let us redefine progress, to mean that just because we can do a thing, it does not necessarily follow that we must do that thing." When the President of the Federation spoke those words at the Khitomer Peace Conference, he was in fact referring to engineering. That holds true especially in STF's ED, where there are limitations to what can be done above and beyond the physical constrains of the universe. These limits exist because STF is not a place where we say "wouldn't it be cool if" but "wouldn't it be great for an RPG if."</para>
 		<para>"You know engineers, they love to change things." Anyone who follows modern technology can attest to the validity of this statement. Just when you thought they had found the best way of doing something, some engineer comes along and finds a different way of doing it, which as often as not is worse than the previous method. In STF, this is a curse you as an engineer want to avoid, especially where it involves core technologies such as warp drive.</para>
@@ -93,32 +96,105 @@
 			<listitem><para>Use standard notation. That means that you should always use the SI system of measurement, more commonly known as metric. Mass is measured in kilograms, distance in meters, and time in seconds, in all cases. When referring to super-high speeds, use a fraction of c, the speed of light. Avoid the complicated and unwieldy Imperial system (also known as English, also known as American, also known as that-damn-system-with-feet-and-pounds) like the Bolian Plague.</para></listitem>
 		</orderedlist>
 	</section>
-	<section>
+	<section id="eng-105">
 		<title>References</title>
 		<para>The question often arises, if one person says one thing, and a second person says another thing, who is right? The answer is often both, but then which do you go with? In this lesson we discuss the hierarchy of sources that are considered valid references. Though there is much disagreement about some sources, a set system needed to be established for sanity's sake.</para>
 		<para>The criteria for validity in this list is based upon two assumptions. First, like the producers, it is assumed that only the TV show and movies are valid. While there have been a great many novels published in the Star Trek Universe, many of them very good, they often contradict each other. It is also impossible to keep up with all of them. For that reason, novels are not considered canon, in general.</para>
 		<para>There are a few special cases. The cartoon series of the original cast was not produced by Paramount and Rodenberry, so it too is ignored by the producers. Therefore, we overlook it as well. Star Trek V: The Final Frontier is sometimes considered to be apocryphal as well. In fact, it is rumored that Rodenberry liked to ignore it, so that is also on the exempt list. Finally, there is the Voyager episode that is a disgrace to the series, "Threshold." Supposedly, by finding a new, more stable type of dilithium Tom Paris is able to use a shuttle to break the warp 10 barrier, which causes him to evolve at a highly accelerated rate along the predefined course of human evolution. After fans stopped laughing at the utter stupidity of the episode, most agreed that it was safest to pretend it never happened, as it is the worst break of scientific rules, both modern and Star Trek, in 30 year history of the series.</para>
 		<para>The second assumption is that there are a select number of books published by people like Mike Okuda and Herman Zimmerman that are also considered valid resources. These are different from the often useful but non-canon books from other authors. Only those written by the production staff are valid. In order of prescience, these are:</para>
 		<orderedlist>
-			<listitem><para><emphasis>The Deep Space Nine Technical Manual</emphasis>, by Herman Zimmerman, Rick Sternback, and Doug Drexler, &copy;1998.</para></listitem>
-			<listitem><para><emphasis>The Star Trek: The Next Generation Technical Manual</emphasis>, by Rick Sternback and Michael Okuda, &copy;1991.</para></listitem>
-			<listitem><para><emphasis>The Star Trek Encyclopedia: A Reference Guide to the Future</emphasis>, CD-ROM or 2nd Edition book, by Michael Okuda and Denise Okuda, &copy;1997</para></listitem>
-			<listitem><para><emphasis>The Star Trek Chronology: The History of the Future</emphasis>, 2nd Ed, by Michael Okuda and Denise Okuda, &copy;1996.</para></listitem>
+			<listitem><para><emphasis>The Deep Space Nine Technical Manual</emphasis>, by Herman Zimmerman, Rick Sternback, and Doug Drexler, published 1998.</para></listitem>
+			<listitem><para><emphasis>The Star Trek: The Next Generation Technical Manual</emphasis>, by Rick Sternback and Michael Okuda, published 1991.</para></listitem>
+			<listitem><para><emphasis>The Star Trek Encyclopedia: A Reference Guide to the Future</emphasis>, CD-ROM or 2nd Edition book, by Michael Okuda and Denise Okuda, published 1997</para></listitem>
+			<listitem><para><emphasis>The Star Trek Chronology: The History of the Future</emphasis>, 2nd Ed, by Michael Okuda and Denise Okuda, published 1996.</para></listitem>
 		</orderedlist>
 		<para>When in doubt, go with what these books say. In addition, modern science is always valid, unless Star Trek physics has contradicted it, in which case Star Trek physics takes precedence.</para>
 		<para>You will likely object to this list, but this is the list the STF Administration has agreed upon, because these are the most readily available and reliable sources. Numerous other sources may be useful references, and may sometimes be referred to, but when in doubt, the above texts are right, and others not wrong, just ignored.</para>
 	</section>
-	<section>
+	<section id="eng-conclusion">
 		<title>Conclusion</title>
 		<para>Engineering is one of the most interesting departments in STF, both in an RPG and out of it. It's also one of the most dangerous. The potential for supercharacter problems is extreme. There's also the risk of superships and supertechs in the ED, and in the course of an RPG.</para>
 		<para>Engineering is also one of the most rewarding departments. It is the one most closely tied into the ship, and therefore often sets the pace for anything regarding hardware. If you know how to check yourself and are willing to take the time to learn, you will be rewarded with a memorable RPG experience even the Captain will envy.</para>
 	</section>
-	<section>
-		<title>TITLE</title>
-		<para>TEXT</para>
-	</section>
-	<section>
-		<title>TITLE</title>
-		<para>TEXT</para>
+	<section id="eng-exam">
+		<title>Exam</title>
+		<para>Submission Instructions</para>
+		<orderedlist>
+			<listitem><para>Write out your answers to the questions below.</para></listitem>
+			<listitem><para>E-mail them to the course grader: <ulink url="mailto:larry@garfieldtech.com">Larry Garfield</ulink></para></listitem>
+			<listitem><para><emphasis>Be sure to include your full name at the top of the e-mail!</emphasis></para></listitem>
+			<listitem><para>Do <emphasis>not</emphasis> send the original question, just the answers.</para></listitem>
+			<listitem><para>Do <emphasis>not</emphasis> send your answers as an attachment.  Send them in the body of the e-mail.</para></listitem>
+			<listitem><para>Do <emphasis>not</emphasis> use "HTML-enriched" e-mail.  It makes it harder to grade.</para></listitem>
+			<listitem><para>All answers must be original.  Do not simply copy and paste from the lessons.</para></listitem>
+		</orderedlist>
+		<section>
+			<title>Modern Science</title>
+			<orderedlist>
+				<listitem>
+					<para>Scientists generally agree that all matter is at its most fundamental level made up of ______.</para>
+					<orderedlist numeration="upperalpha">
+						<listitem><para>Quarks</para></listitem>
+						<listitem><para>Energy</para></listitem>
+						<listitem><para>Spaghetti with tomato sauce</para></listitem>
+						<listitem><para>Protons, neutrons, and electrons</para></listitem>
+					</orderedlist>
+				</listitem>
+				<listitem><para>What purpose do mediator particles serve and how do they acomplish it?</para></listitem>
+				<listitem><para>If 2 grams of matter and 2 grams of antimatter came in contact, how much energy would be produced? (Calculators are allowed.)</para></listitem>
+			</orderedlist>
+		</section>
+		<section>
+			<title>Star Trek Science</title>
+			<orderedlist>
+				<listitem>
+					<para>The most accurate description of how warp drive works is...</para>
+					<orderedlist numeration="upperalpha">
+						<listitem><para>It creates a subspace bubble that makes the ship move into another dimention where physics don't apply.</para></listitem>
+						<listitem><para>It manipulates particles that exist for a fraction of an instant to effectively "swim" through space.</para></listitem>
+						<listitem><para>The energy is used to create a gravity well which pulls the ship along.</para></listitem>
+						<listitem><para>Paramount says so.</para></listitem>
+					</orderedlist>
+				</listitem>
+				<listitem><para>Describe in detail what happens to Riker when Chief O'Brian presses the right buttons.</para></listitem>
+				<listitem><para>How are gravitons used to defend a ship?</para></listitem>
+			</orderedlist>
+		</section>
+		<section>
+			<title>Role Playing</title>
+			<orderedlist>
+				<listitem><para>You are the CE. You have three junior officers. There is currently nothing going on that requires Engineering. What do you do and what do you tell your Engineering junior officers to do?</para></listitem>
+				<listitem><para>You are an engineering junior officer, and are on an away mission to another ship. Half the ship isn't working, and you have to get it working. What sort of things would you try to do, GM permitting?</para></listitem>
+				<listitem><para>You look over the specs for your ship, and find that something the crew has done contradicts what the specs say is possible for that class. What do you do? Why?</para></listitem>
+			</orderedlist>
+		</section>
+		<section>
+			<title>Ship Design</title>
+			<orderedlist>
+				<listitem>
+					<para>You have designed a new class of ship designed as a science vessel in uncharted but generally calm space. What is the most appropriate set of numbers for the ship?</para>
+					<orderedlist numeration="upperalpha">
+						<listitem><para>Max Warp 9.8, Max Impulse .34c, 14 phaser banks</para></listitem>
+						<listitem><para>Max Warp 8.7, Max Impulse .28c, 5 phaser banks</para></listitem>
+						<listitem><para>Max Warp 9.8, Max Impulse .19c, 7 phaser banks</para></listitem>
+						<listitem><para>Max Warp 9.5, Max Impulse .26c, 2 phaser banks</para></listitem>
+					</orderedlist>
+				</listitem>
+				<listitem><para>You are working on a new weapon. In the process, you find that it relies on several technologies that have been supplanted between now and the 24th century. These technologies are basic to the design. The other members of the ED have pointed out this flaw. What do you do? Why?</para></listitem>
+				<listitem><para>You've examined the Tech Manual and modern physics and seen all the TV shows, and have figured out a way to build a ship that would defeat a Borg cube. Other people have looked at it, and determined that technologically it is fairly sound. Do you propose it in the ED? Why?</para></listitem>
+			</orderedlist>
+		</section>
+		<section>
+			<title>References</title>
+			<orderedlist>
+				<listitem><para>You read in one of the novels about a certain technology. You think it is really cool, and integrate it into a design or RPG. Someone complains, stating that something the TNG Tech Manual says makes it invalid. Can you still use the technology? Why?</para></listitem>
+				<listitem><para>You have a technology in a design. You do some additional research, and find that the DS9 Tech Manual states that it is impossible. What do you do? Why?</para></listitem>
+				<listitem><para>Digging through one of the Tech Manuals, you notice something about some technology that gives you a way out of your current problem in an RPG. You take advantage of it, planning for the ship to be able to use it to win the day. Someone else disagrees with you, stating that they've never heard of such a feature in the technology. Are you in the right? Why? If the GM is the person you are arguing against, how do you handle it?</para></listitem>
+			</orderedlist>
+		</section>
+		<section>
+			<title>Extra Credit</title>
+			<para>Design a workable miracle technology that you could "invent" in a few minutes on a ship that would work, be useful, not break any laws, and save the ship.</para>
+		</section>
 	</section>
 </article>

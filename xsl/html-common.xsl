@@ -25,6 +25,11 @@
 	<!-- Turn off automatic style attributes. -->
 	<xsl:param name="css.decoration" select="0" />
 
+	<!-- Disable auto-numbering of chapters and sections unless we say otherwise. -->
+	<xsl:param name="chapter.autolabel" select="0" />
+	<xsl:param name="section.autolabel" select="0" />
+	<xsl:param name="section.autolabel.max.depth" select="0" />
+
 	<!-- Get rid of the silly period after honorifics. -->
 	<xsl:param name="punct.honorific" /> <!-- set it to empty string, select="" didn't work -->
 	

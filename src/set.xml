@@ -4,18 +4,22 @@
 	<setinfo>
 		<title>The STF Library</title>
 		<titleabbrev>Library</titleabbrev>
-		<corpauthor>STF</corpauthor>
 		<editor>
-			<honorific>Admiral</honorific>
+			<honorific>Librarian</honorific>
 			<firstname>Larry</firstname>
 			<surname>Garfield</surname>
 		</editor>
-		<author>
-			<honorific>Admiral</honorific>
-			<firstname>Larry</firstname>
-			<surname>Garfield</surname>
-		</author>
-		<date>23 June 2005</date>
+		<editor>
+			<honorific>Assistant Librarian</honorific>
+			<firstname>Amanda</firstname>
+			<surname>Noon</surname>
+		</editor>
+		<copyright>
+			<year>2005</year>
+			<holder>STF and its Members</holder>
+		</copyright>
+		<legalnotice><para>The contents of this Library are copyright their respective authors and released to STF.  Reuse of any content from this Library within STF is permitted provided the work is attributed correctly.  Use outside of STF without the permission of the original author is forbidden.</para></legalnotice>
+		<date>10 July 2005</date>
 	</setinfo>
 
 	<!-- Include each of the books in this set. -->

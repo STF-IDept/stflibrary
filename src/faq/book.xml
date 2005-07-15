@@ -1,11 +1,12 @@
 <!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
                     "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
 <book id="faq">
-	<?dbhtml dir="faq" ?>
+	<?dbhtml dir="faq" filename="index.html" ?>
 	<bookinfo>
 		<title>STF Frequently Asked Questions</title>
+		<corpauthor>The STF Librarian</corpauthor>
 		<editor>
-			<honorific>Admiral</honorific>
+			<honorific>Librarian</honorific>
 			<firstname>Larry</firstname>
 			<surname>Garfield</surname>
 		</editor>

@@ -1,0 +1,52 @@
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
+                    "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<article id="charter-pd">
+	<title>The Personnel Department</title>
+	<articleinfo>
+		<author role="President">
+			<honorific>President</honorific>
+			<firstname>Jack</firstname>
+			<surname>Dipper</surname>
+		</author>
+		<author role="Personnel Director">
+			<honorific>Personnel Director</honorific>
+			<firstname>Jen </firstname>
+			<surname>Herr</surname>
+		</author>
+		<revhistory>
+			<revision>
+				<revnumber>1</revnumber>
+				<date>15 July 2005</date>
+				<revdescription>
+					<para>Based on Edict <ulink url="http://star-fleet.com/prez/dipper.php#e16">Dipper #16</ulink></para>
+				</revdescription>
+			</revision>
+		</revhistory>
+	</articleinfo>
+	<section>
+		<title>Establishment of the Personnel Department</title>
+		<para>The Personnel Department shall serve as the primary department responsible for tasks relating to member accounts, including but not limited to creating new accounts, member placement, resetting member passwords, setting user's access levels below super-user, and ensuring compliance with the STF Accounts Terms of Service. The Personnel Department may also operate and maintain a range of resources that serves to help fleets fill their personnel needs, as set by departmental policy.</para>
+		<para>The Personnel Director, who shall be appointed by the President, shall oversee the daily activity of the Personnel Department. Personnel Director is a cabinet position, and is equal in power to other Departmental Directors and Fleet Commanders.</para>
+		<para>The Personnel Director shall appoint an Assistant Personnel Director. The Assistant Personnel Director answers directly to the Personnel Director, and is responsible for departmental decisions in the event the Personnel Director is not available. Additional responsibilities are at the discretion of the Personnel Director.</para>
+		<para>The Personnel Director may create staff positions in the Personnel Department, issued as department policy. The Personnel Director may delegate any of the duties listed in this edict, or any other responsibilities brought upon him by another edict to any member of the Personnel Department. The Personnel Department is required to maintain a list of current policies and staff members.</para>
+	</section>
+	<section>
+		<title>Ship placements</title>
+		<para>The Personnel Department is solely responsible for placing new members on ships. Members who request the Academy will be assigned to the Academy on a space available basis, at the rank of Cadet. The Personnel Department will only assign new member applicants to the Academy. All other applicants will be assigned to a Standard Ship not classified as Second Character Only, at the rank of Ensign, and in a manner and pattern determined most appropriate by the Personnel Department.</para>
+		<para>The Personnel Department may also assist any member in finding a ship for additional characters. Such placements may only be made at the rank of Ensign, and to a random mainstream ship with a need for role players in the requested department.</para>
+	</section>
+	<section>
+		<title>Mentors program</title>
+		<para>The Personnel Department shall maintain a Mentors Program. This program is tasked with creating and maintaining a list of available people to mentor new members, and assigning mentors to new members who request them.</para>
+		<para>A Mentor must be a current member in STF with at least three months service in STF. The Personnel Department reserves the right to approve or deny any Mentor application on any basis. All new members who request a Mentor will be assigned one.</para>
+		<para>The Mentor's main responsibility is to provide a personal contact for the new member who requests it. This is done in order to assist new members who feel they need that little bit of extra help to settle in and role-play on their ships. Mentors are available to help with problems or queries the new member may have, and offer role-playing tips and advise on how to best fit into our RPG.</para>
+	</section>
+	<section>
+		<title>Yearbook</title>
+		<para>The Personnel Department will maintain the STF Yearbook. The Yearbook is a place where any member can submit a real life photograph of themselves, and a bit of personal information about themselves. All information given is strictly voluntary, though a photograph is required for participation. Any photograph or information may be added or removed at any time by the Personnel Department for any reason. Any member may request that their photograph is added or removed for any reason. All photographs and content must adhere to the STF Terms of Service.</para>
+	</section>
+	<section>
+		<title>Statistics</title>
+		 <para>The Personnel Department shall be required to maintain and publish monthly statistics regarding the membership, including, but not limited to, total number of applicants per month, and how many of those members are still posting actively. Additional statistics are at the discretion of the Personnel Department.</para>
+	</section>
+</article>

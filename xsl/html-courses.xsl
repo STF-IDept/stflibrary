@@ -14,7 +14,13 @@
 	<xsl:param name="section.autolabel" select="1" />
 
 	<!-- Any custom templates we need go here. -->
-	
+
+	<!-- We DO want each section (lesson) to be its own file. -->
+	<xsl:param name="chunk.section.depth" select="1" />
+
+	<!-- Only two levels in the TOC. -->
+	<xsl:param name="toc.max.depth" select="2"/>
+
 	<!-- Add the common footer bar, customized for this book. -->
 	<xsl:template name="user.footer.content">
 		<xsl:call-template name="copyright.bar">

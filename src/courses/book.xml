@@ -2,14 +2,10 @@
 <!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN"
 	"http://www.oasis-open.org/docbook/xml/4.0/docbookx.dtd">
 <book id="courses">
-	<?dbhtml dir="courses" ?>
+	<?dbhtml dir="courses" filename="index.html" ?>
 	<bookinfo>
-		<title>STF Academy Coursework</title>
-		<subtitle>No spitballs, please</subtitle>
-		<editor>
-			<firstname>Larry</firstname>
-			<surname>Garfield</surname>
-		</editor>
+		<title>STF Academy Textbook</title>
+		<corpauthor>Starfleet Academy</corpauthor>
 		<date>10 July 2005</date>
 	</bookinfo>
 	
