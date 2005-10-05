@@ -64,6 +64,7 @@
 					<img border="0" alt="Get Firefox!" title="Get Firefox!" src="http://sfx-images.mozilla.org/affiliates/Buttons/80x15/white_2.gif"/>
 				</a>
 			</div>
+			<br />
 			<!--<div class="pdflink">
 				<xsl:element name="a">
 					<xsl:attribute name="href">../pdf/<xsl:value-of select="$pdffile"/></xsl:attribute>
