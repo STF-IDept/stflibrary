@@ -1,0 +1,282 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN"
+	"http://www.oasis-open.org/docbook/xml/4.0/docbookx.dtd">
+<article id="textbook-administrative">
+	<title>Administrative Menu</title>
+	<articleinfo>
+		<authorgroup>
+			<author>
+				<firstname>Catherine</firstname>
+				<surname>Potterton</surname>
+				<email></email>
+			</author>
+		</authorgroup>
+		<revhistory>
+			<revision>
+				<revnumber>1</revnumber>
+				<date>20 September 2005</date>
+				<revdescription>
+					<para>Added to the Library</para>
+				</revdescription>
+			</revision>
+		</revhistory>
+	</articleinfo>
+	<section id="admin-intro">
+		<title>Introduction</title>
+		<para>Welcome to the Admin course, designed for COs, XOs, and GMs to get them acquainted with the functions of the administrative menu. There is no exam to take, or grade to worry about. This course simply goes through the functions of the administrative menu one by one, examining them in detail.</para>
+		<para>Now, if you look below the ship's roster, you will find a mysterious new button, let's find out what it does. Go on, you know you've been waiting to click it . . .</para>
+		<figure>
+			<title>Administrative Menu Button</title>
+			<mediaobject>
+				<imageobject id="adminbutton">
+					<objectinfo>
+						<author>
+							<firstname>Sarah</firstname>
+							<surname>Hemenway</surname>
+						</author>
+					</objectinfo>
+                    <imagedata format="PNG" fileref="images/textbook/administrative-menu-button.png"/>
+				</imageobject>
+				<textobject>
+					<phrase>The Administrative Menu Button</phrase>
+				</textobject>
+			</mediaobject>
+		</figure>
+	</section>
+	<section id="admin-101">
+		<title>The Administrative Menu</title>
+		<para>Right, now that you've clicked on the  button, you will be faced with several options. This is what it should look like. (I've included a brief description of each button and information about who is allowed to use it.)</para>
+		<para>This is what you should see:</para>
+		<figure>
+			<title>The Administrative Menu</title>
+			<mediaobject>
+				<imageobject id="adminmenu">
+					<objectinfo>
+						<author>
+							<firstname>Sarah</firstname>
+							<surname>Hemenway</surname>
+						</author>
+					</objectinfo>
+                    <imagedata format="PNG" fileref="images/textbook/administrative-menu.png"/>
+				</imageobject>
+				<textobject>
+					<phrase>The Administrative Menu</phrase>
+				</textobject>
+			</mediaobject>
+		</figure>
+		<variablelist>
+			<varlistentry>
+				<term></term>
+				<listitem><para>This will take you back to the MOTD of your ship (All)</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Modify MOTD</term>
+				<listitem><para>This will take you to the built-in text editor of the MOTD (All)</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Modify Captain's Log</term>
+				<listitem><para>This takes you to the text of the Captain's log (CO)</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Add a New Character</term>
+				<listitem><para>Adds a new character to the ship (All)</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Modify an Existing Character</term>
+				<listitem><para>Modifies any of the current characters on the ship. (All)</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Delete an Existing Character</term>
+				<listitem><para>Deletes any of the current characters on the ship.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Turn Topic Restrictions On/Off</term>
+				<listitem><para>This decides whether or not the crew can add a topic to the ship. (CO)</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Remove The Selected Topic</term>
+				<listitem><para>Removes a topic from the ship. (All)</para></listitem>
+			</varlistentry>					
+			<varlistentry>					
+				<term>Rename The Selected Topic</term>
+				<listitem><para>Changes the name of a topic. (All)</para></listitem>
+			</varlistentry>
+			<varlistentry>			
+				<term>Toggle Topic Immortality</term>
+				<listitem><para>If it is empty this makes sure the topic is not deleted when an archive is done (CO)</para></listitem>
+			</varlistentry>
+          </variablelist>
+		<para>So now you have a small idea about what each of the buttons do. So, in the following lessons, we're going to explore them in more detail.</para>		
+	</section>
+	<section id="admin-102">
+		<title>The MOTD</title>
+		<para>The Modify MOTD area of the Admin menu can be used by any of the Command crew, although the actual design of the MOTD is captain's discretion. Although MOTD stands for Message of the Day, these pages don't have to be updated that often. They should, however, be updated regularly. MOTDs with outdated information are of no use to anyone.</para>
+		<para>When you access the MOTD, you're presented with the text version, including all the HTML codes. If you're not familiar with HTML, the Internet Department can help you out. Your best bet in the mean time is to keep the current MOTD design and simply alter the contents.</para>
+		<para>To do that, simply find the area you want to change, highlight the text, and then rewrite the section. When you're done, cross your fingers and hit Write the new MOTD button.</para>
+		<para>Return to the MOTD and make sure the changes you made look okay. Even HTML experts can create typos which wreak havoc with the code. If something looks wrong, be sure to go back to the editor and correct it.</para>
+		<figure>
+			<title>Write the new MOTD</title>
+			<mediaobject>
+				<imageobject id="writemotd">
+					<objectinfo>
+						<author>
+							<firstname>Sarah</firstname>
+							<surname>Hemenway</surname>
+						</author>
+					</objectinfo>
+                    <imagedata format="PNG" fileref="images/textbook/modify-motd.png"/>
+				</imageobject>
+				<textobject>
+					<phrase>Write the new MOTD</phrase>
+				</textobject>
+			</mediaobject>
+		</figure>	
+	</section>
+	<section id="admin-103">
+		<title>The Captain's Log</title>
+		<para>The Captain's log is accessible by anyone as soon as they log into Star-Fleet. It should be a transcript of what has been going on in the ship. It's usually written in character, although that's not a rule. It should also be updated regularly. Not all captain's use the log option. If you do, keep it current.</para>
+		<para>Once you access the log, you'll see what is currently in the file. You can delete what's there, but it's customary to leave a few of the old logs in there, as a sort of running commentary on what's happening on the ship.</para>
+		<para>Here's an example, taken from the USS Challenger. (At the time of this writing, Scott Jones was CO, Deanne Ashton XO, and Sinead Doyle GM):</para>
+		<para>Captain's log: Supplemental; Upon reaching the surface our party found the main base to be abandoned, at least a week I'm told. We've made contact with 2 members of the observation team, one of them was wounded by an arrow. I'm going to get as many of the observation team off planet as soon as able. Apparently Dr. Holland has had an accident and believes himself to be the character he was roleplaying, now he's helping the local king hunt down the rest of the observation team who have been labeled witches. I don't plan to leave Dr Holland behind, but if I have to choose between him and my ship, I choose my ship.</para>
+		<para>Captain's Log Stardate 01121.2 We've arrived at Aibrean, plagued by little malfunctions that are appearing all over the ship. My CE is keeping these under control, but we've had no idea who's doing it. Also, a Cadet was found murdered, cause of death reportedly a phaser set on stun at close range, quite fatal. I've set the away team and we are heading planetside to get the anthropology team out of there. I've left Commander Tanan in command of Challenger, since I'm leading the away team. I'm pretty sure I'm the only one with any field combat experience, if things get hairy, it could get ugly, very fast. The ion storm is arriving sooner than expected, so instead of having days to get the team out, we've only got hours.</para>
+		<para>Captain's Log Stardate 01112.8 Captain Boka recording: We've been ordered to the planet Aibrean, located in the Neutral Zone, to pick up an anthropology team that's studying the natives there. Admiral Cagney has informed us that the Roms are aware of our mission, so we shouldnt expect any hostilities from them. Personally, i'm expecting some trouble, frankly, I don't trust Roms further than I can throw them. But we need to get in and out as quickly as possible, since in 7 days an ion storm will hit the planet, and these last for a very long time, i'm told. The transit will take 3 days, maximum warp. In addition to this, Starfleet has saddled us with Admiral Cagney, who's along for the ride, but turns out to be an old friend of the leader of the previously mentioned anthropology team. We've recently left starbase at warp but now we are traveling at sublight, due to what appears to be a malfunction. My CE assures me that everything was working when we left the base, but he's checking it out, just in case.</para>
+		<para>Captain's Log, Stardate 01110.8, Captain Boka Jakob recording I've just assumed command of Challenger, seeking my first officer. Will have to schedule a meet and greet with all DH's. Current ship's status, unknown. But on a personal note, she looks like a fine vessel.</para>
+		<para>Now you have an idea of how the Captain's log works, we'll move on to adding characters.</para>
+	</section>
+	<section id="admin-104">
+		<title>Adding A Character</title>
+		<figure>
+			<title>Add a new Character Page</title>
+			<mediaobject>
+				<imageobject id="addcharacterpage">
+					<objectinfo>
+						<author>
+							<firstname>Sarah</firstname>
+							<surname>Hemenway</surname>
+						</author>
+					</objectinfo>
+                    <imagedata format="PNG" fileref="images/textbook/add-character.png"/>
+				</imageobject>
+				<textobject>
+					<phrase>Add a new Character Page</phrase>
+				</textobject>
+			</mediaobject>
+		</figure>		
+		<para>When you start adding a new character, choose the owner from the drop down menu. Then write in the character name. Pick the character's position from the drop down menu. Department heads are chiefs, so the CMO would be Medical Chief and COS would be Security Chief. Junior officers are assistants. If you're creating a custom position, tick the override box and type in the position title. For example: Bartender, Xenobiologist, Archeologist. Select the appropriate rank, and press the Write User to Disk button to save your changes. If you make a mistake, press the Reset button, and start again.</para>
+		<para>Of note: Only players with FComm access or above have access to the ranks above Commander. Also, the Crewman rank is not available in the Create Character mode (for reasons unclear to this writer). If you have an enlisted character, create it as a Civilian, then use the Modify Character option (explained in the next lesson) to change it to Crewman.</para>
+		<para>Giving a rank puts the character on the roster. If you do not want the character on the roster (ie: GM characters for each sim are kept off the roster), leave the rank area with No Title. If the character has a rank, put it with the name. (ie: Admiral John Doe rather than just John Doe.)</para>
+	</section>
+	<section id="admin-105">
+		<title>Modifying a Character</title>
+		<para>As the name implies, you use this option to make changes to an existing character. Name changes, promotions, demotions, and department switches are handled here. Plus the switch to Crewman, as mentioned in the previous lesson. If you need to AWOL a player, you change the rank to AWOL. More on the AWOL process is found in Lesson 108.</para>
+		<figure>
+			<title>Modify an existing Character Page</title>
+			<mediaobject>
+				<imageobject id="modifycharacterpage">
+					<objectinfo>
+						<author>
+							<firstname>Sarah</firstname>
+							<surname>Hemenway</surname>
+						</author>
+					</objectinfo>
+                    <imagedata format="PNG" fileref="images/textbook/modify-character.png"/>
+				</imageobject>
+				<textobject>
+					<phrase>Modify an existing Character Page</phrase>
+				</textobject>
+			</mediaobject>
+		</figure>		
+		<para>Select the character you wish to modify from the drop down menu and fill in the fields that you wish to change, as described in lesson 104.</para>
+		<para>You'll notice the (spoooooooned) part in the example. This is the WeBB's way of acknowledging a custom position. If you make ANY changes to a custom position, be sure to tick the override box. Otherwise, the entry will get scrambled.</para>
+		<para><emphasis>Always go to the main Admin menu after you finish one change if you intend to do another one. After modifying a character, the drop down list order can change, which will not be seen if you just clicked the back button to get to the previous page.</emphasis></para>
+	</section>
+	<section id="admin-106">
+		<title>Deleting a Character</title>
+		<para>When you have no further use for a character, either because the player or character is gone, it is customary to delete it from the ship. Just removing a character from the roster does not take it off the ship. If the player has left the ship, but the character is just off the roster, it creates inaccurate information in the player's posting record. So be sure to actually delete the character from the ship database.</para>
+		<para>Note: Only the CO and XO should delete characters belonging to a player. The GM has jurisdiction only over the characters he created for his sim.</para>
+		<figure>
+			<title>Delete an existing Character Page</title>
+			<mediaobject>
+				<imageobject id="deletecharacterpage">
+					<objectinfo>
+						<author>
+							<firstname>Sarah</firstname>
+							<surname>Hemenway</surname>
+						</author>
+					</objectinfo>
+                    <imagedata format="PNG" fileref="images/textbook/delete-character.png"/>
+				</imageobject>
+				<textobject>
+					<phrase>Delete an existing Character Page</phrase>
+				</textobject>
+			</mediaobject>
+		</figure>
+		<para><emphasis>Always go to the main Admin menu before deleting another character. After a deleting a character, the drop down charcter list order can change, which will not be seen if you just clicked the back button to get to the previous page.</emphasis></para>
+		<para>Now, onto the last three things on your menu: the topic managing facilities.</para>		
+	</section>
+	<section id="admin-107">
+		<title>Topic Facilities</title>
+		<para>The last things you need to know about are the topic facilities. These control who can add a topic, how long a topic will stay on the ship, deleting a topic, and changing a topic.</para>
+		<para>Turning the topic restrictions on or off is for COs only. If restrictions are on, it stops the general crewmembers from adding their own topics, and allows only the CO, XO and GM to add topics. Only the CO should change the topic restrictions. If the restrictions are off, anyone can add a topic.</para>
+		<para>Removing a topic can help keep the ship's topic list from becoming too cluttered. The problem here is you can only delete topics that contain no notes. So you have to wait until post archives are downloaded and a topic is empty before you can delete it.</para>
+		<para>Alternatively, a CO, XO, and GM may prefer just to rename the unneeded topics rather than deleting one and adding another. This is very useful if an archive has not been run, because topics do not need to be empty to be changed. The only downside is it makes navigating the archives a bit difficult.</para>
+		<para>A topic's 'immortality' refers to how long it will stay on the ship. When an archive purge is run, all topics on a ship which are empty are removed automatically. Some topics, such as the Bridge, should be made permanent (perm) as they are inherent to the ship. All topics denoted as (perm) will not be purged. All topics denoted (norm) are subject to purging if they are empty. This is for CO use only.</para>
+		<para>That covers all the functions of the Admin Menu. However, there are a couple of other administrative duties that deserve to be examined a little closer. We'll do that in the next lesson.</para>
+	</section>
+	<section id="admin-108">
+		<title>AWOLs and LOAs</title>
+		<para>When crewmembers take LOAs, it is their duty to inform their CO or XO and to declare their LOA using the "Declare an LOA" function of the WeBB. Players doing this will update their status on the rosters (the new column you now see). Some COs also append it to the players character name or one of the other editable fields so that the rest of the crew without a view of the Status column can see that a person is on LOA. The status column will also give you an indication of how active a person is. You can tell if a person is AWOL as you can see the number of days since their last post on the ship. This number is rounded down, (e.g. If a person has not posted for 1 day, 23 hours, 59 minutes, the number shown will be a 1).</para>
+		<figure>
+			<title>Example Roster</title>
+			<mediaobject>
+				<imageobject id="exampleroster">
+					<objectinfo>
+						<author>
+							<firstname>Sarah</firstname>
+							<surname>Hemenway</surname>
+						</author>
+					</objectinfo>
+                    <imagedata format="PNG" fileref="images/textbook/roster.png"/>
+				</imageobject>
+				<textobject>
+					<phrase>Example Roster</phrase>
+				</textobject>
+			</mediaobject>
+		</figure>
+		<para>The status column, is the one that is to the right of everyone's real name. Now, in a perfect world these should all read 0. As mentioned above, these numbers are the number of whole days since the crewmember last posted. When the number gets into the double digits (somewhere around 14 days) this number changes to show the number of days since the players last login. If you click on this number, you will see some summary information about the players login, and a list of all the players ships. The number shown next to these ships is the number of days, hours, minutes, and seconds since they last posted on them. This number does not change to the login number like the previous one does. This can be useful if you're wondering if it's just your ship the person has stopped posting on, or whether they have slowed down in general.</para>
+		<figure>
+			<title>Example Player Stats</title>
+			<mediaobject>
+				<imageobject id="exampleplayerstats">
+					<objectinfo>
+						<author>
+							<firstname>Sarah</firstname>
+							<surname>Hemenway</surname>
+						</author>
+					</objectinfo>
+                    <imagedata format="PNG" fileref="images/textbook/player-statistics.png"/>
+				</imageobject>
+				<textobject>
+					<phrase>Example Player Stats</phrase>
+				</textobject>
+			</mediaobject>
+		</figure>
+		<para>When a player uses the "Declare an LOA" button at the bottom of the main Page after logging in, then LOA will be seen in the status column for that player. If you then click the status to go to the breakdown page, it will give you the reason they put in for the LOA, and the time left until they due to return.</para>
+		<para>If a character is past the AWOL limit set for the fleet, then as CO or the person assigned to carry out the admin of the roster, you can modify that persons character rank to AWOL using the Modify Character button of the Admin Menu (usage of this button can be found in Lesson 105. Just as an aside, it's nice to e-mail them and follow it up before you just AWOL or delete characters from the roster.</para>
+		<para>We have now gone through the basic use of the "Administrative" menu. Just the Conclusion to go and you've finished this course.</para>
+    </section>
+	<section id="admin-conclusion">
+		<title>Conclusion</title>
+		<para>We have been through all the different options of the Admin Menu, and I hope I have been helpful. I have not included much about the confirmation pages you see after you have modified something. They usually just give you a link back to the Admin menu anyway.</para>
+		<para>Make sure you always read the MOTD after you make changes, just to check that you haven't left any stray HTML tags or crewmembers lying around.</para>
+		<para>The main thing to keep in mind when using the Admin menu is don't use the back button unless you can help it - the WeBB doesn't like it. If you make a mistake, just go back and redo it, that's what the reset buttons are for. No one will persecute you for making a few mistakes at first, you're only human after all. Never be afraid to ask for help.</para>
+		<para>Lastly, good luck with your new position, and if you have any questions, feel free to contact the commandant using the e-mail address to the left.</para>
+		<para>Thanks</para>
+		<para>My thanks have to go to the following people for their help in the development of the course, and for reading the (several) drafts of it and not laughing to hard.</para>
+		<itemizedlist>
+			<listitem><para>Amanda Noon</para></listitem>
+			<listitem><para>Emma Rouse-Deane</para></listitem>
+			<listitem><para>Nikolle Burchett</para></listitem>
+		</itemizedlist>
+	</section>
+</article>

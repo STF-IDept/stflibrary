@@ -1,0 +1,448 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN"
+	"http://www.oasis-open.org/docbook/xml/4.0/docbookx.dtd">
+<article id="textbook-medical">
+	<title>Medical</title>
+	<articleinfo>
+		<authorgroup>
+			<author>
+				<firstname>Steve</firstname>
+				<surname>Ashton</surname>
+				<email></email>
+			</author>
+		</authorgroup>
+		<revhistory>
+			<revision>
+				<revnumber>1</revnumber>
+				<date>19 September 2005</date>
+				<revdescription>
+					<para>Added to Library</para>
+				</revdescription>
+			</revision>
+		</revhistory>
+	</articleinfo>
+	<section id="med-intro">
+		<title>Introduction</title>
+		<para>Welcome to the STF Academy medical course. The goal of the course is to give you a better understanding on how to role-play an STF medical character, and to give you hints and tips that will hopefully make you excel in that role. At the end of the course, there will be a short exam to test your newfound abilities.</para>
+		<para>The first thing to mention about the role of the medical character is that they are not engineers, science officers, nor security personnel, (although they may well be proficient with a matter inducer, Seismograph, or a phaser and had security training, there are other officers on the ship for that role). As a doctor, it should also be pointed out, that a doctor's number one directive is to the well being of his patient's and those that are sick and injured. This doesn't mean you should mutiny the ship to get your way, but plead to the captain's better side.</para>
+	</section>
+	<section id="med-101">
+		<title>Your Character</title>
+		<para>OYou have a choice of 3 characters to role-play. These are medic, nurse, and doctor.</para>
+		<para>The role most people choose is that of the doctor. The other roles are a little restricted in what they can do. For example, a medic would not perform surgery on patients, as they would lack the necessary training.</para>
+		<para>Below is a brief summary of how I would categorize the three roles that you can choose from.</para>
+		<section>
+			<title>Medic</title>
+			<para>The way I look at the role of a medic, I would class it as that of an orderly or lab assistant, albeit one that has been trained in more that just first aid. Their main job is to assist the doctors and nurses in their duties on the ship. The training that they would have received would be considerably higher than that of a first-aider by today's standards. After all, the technology is considerably higher, and as the computer diagnosis' most illnesses and injuries, I would think that they would be allowed to treat minor problems. Of course in emergency situations they are allowed to treat patients to stabilize them in order to get them to a doctor.</para>
+			<para>Other major roles of the medic are labwork, and the care of the equipment. The medic would be able to perform simple lab duties such as blood and DNA analysis, and other similar tests. The responsibility of caring for the equipment would also fall on them. They would be responsible for the storage, the cleaning and the diagnostics of it.</para>
+		</section>
+		<section>
+			<title>Nurse</title>
+			<para>The role of the nurse is not too far different from that of the medic. The differences are the medical tasks they do. Their main task, apart from aiding the doctors in treating patients, is the welfare of the patients in sickbay. They carry out the routine treatments on the patients, whether they are in or out patients. Their training would be more advanced than that of a medic, but in their quiet periods, they would assist the medics in caring for the equipment.</para>
+		</section>
+		<section>
+			<title>Doctor</title>
+			<para>As mentioned before, this is the role most people take on. It is less restrictive on duty, as the doctor can carry out all the tasks of nurses and medics and much much more. This is the character I would recommend you choose.</para>
+		</section>
+		<section>
+			<title>My 2 Cents</title>
+			<para>Unless you are a strong role-player, I would recommend you choosing the Doctor. The other two roles will require much on your behalf, as it would be up to you to find things to do not the GM.</para>
+    </section>
+	</section>
+	<section id="med-102">
+		<title>Species</title>
+		<para>No, this isn't your character species; it's everybody else's character types. The majority of STF characters are probably human but there are many other types too, such as Klingon, Trill, and El Aurian, to name but a few.</para>
+		<para>I would have liked to write quite a bit about the medical side of the species in the Star Trek arena, but unfortunately, the information is pretty much non existant. In STF, you can look at the IC Library under the GMDept for race information. Also places like startrek.com carry plenty of information about the different races, (again not in a medical sense), although it does contain many diseases and equipment in its library databanks.</para>
+	</section>
+	<section id="med-103">
+		<title>Equipment</title>
+		<para>One of the most important things about being a Doctor, Nurse, or medic in the 24th century is knowing the equipment you have at your disposal. Below is a list of some of the medical equipment available of that time frame.</para>
+		<variablelist>
+			<varlistentry>
+				<term>Alpha-Wave Inducer</term>
+				<listitem><para>This is a device for inducing sleep into humanoids. It is for occasional use only. For other sleep inducers, see Somnetic Inducer.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Auto-Suture</term>
+				<listitem><para>Instrument used for closing wounds.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Biobed</term>
+				<listitem><para>Medical device in the form of a bed, used to monitor patients' vital signs. Some advanced models have built in sensors to analyze patients to the molecular level.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Bioregenerative Field</term>
+				<listitem><para>Radiated energy used in biomedical applications to accelerate cellular growth.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Cortical Stimulator</term>
+				<listitem><para>Medical instrument used to revitalize neural activity in a humanoid nervous system.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Dermal Regenerator</term>
+				<listitem><para>Medical Instrument used to repair damaged epidermal tissue.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Drechtal Beams</term>
+				<listitem><para>Surgical device used to sever neural connections.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Exoscalpel</term>
+				<listitem><para>Used by Star-Fleet medical personnel to incise the skin and expose the underlying tissue. Also referred to as a Laser Scalpel</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Hypospray</term>
+				<listitem><para>Medical instrument for the subcutaneous and intramuscular administration of medicine for many humanoid patients. It uses an extremely fine high-pressure aerosuspension delivery system, eliminating the need for a needle to penetrate the skin.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Laser Scalpel</term>
+				<listitem><para>See Exoscapel</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Medical Tricorder</term>
+				<listitem><para>This device is a more sophisticated device than its sister model. Its is used for medical applications only. It has a removable scanning probe that allows for a freer movement around the subject being scanned and ease of reading whilst scanning.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Med kit</term>
+				<listitem><para>Medical supply modules stored in bulk on Federation ships for emergency relief missions. The kit contains basic medical equipment and drugs.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Microtome</term>
+				<listitem><para>Imaging technique using a series of microscopic narrow beam x-ray's to derive information on a cellular level.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Motor Assist Pads</term>
+				<listitem><para>Four centimeter-wide straps like bands used with neurologically damaged patients. He band provides electrical stimulation to patients' limbs to help with muscle retraining.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Neural Calipers</term>
+				<listitem><para>Medical instrument used in surgical procedures to measure the neural pathway.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Neural Stimulator</term>
+				<listitem><para>Medical device used to increase the activity in the central nervous system of a humanoid brain.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Neural Transducer</term>
+				<listitem><para>Implant able bioelectrical devices that receive nerve impulses from the brain and transmit it to affected voluntary muscle groups. These instruments are used in cases of severed spinal cord damage to give the patient some control over their extremities.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Physiostimulator</term>
+				<listitem><para>Medical instrument used to elevate metabolic functions in an impaired individual.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Plasma Infusion unit</term>
+				<listitem><para>Medical device used to dispense fluids and electrolytes.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Protodynoplaser</term>
+				<listitem><para>Medical device used to stabilize immune systems.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Psychotricorder</term>
+				<listitem><para>Medical instrument used to record past memories.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Pulmonary Support Unit</term>
+				<listitem><para>Emergency Cardiopulmonary support Unit.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Somnetic inducer</term>
+				<listitem><para>A small pad like device used to aid the induction of sleep in humanoids.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Sonic Separator</term>
+				<listitem><para>Medical instrument used by Doctor McCoy when he restored Spocks brain to his body on planet Sigma Draconis VI. ('Spocks Brain' TOS)</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Stasis Unit</term>
+				<listitem><para>Emergency medical device used to hold a patient in suspended animation until treatment can be rendered. It can also be used to preserve dead bodies and prevent them from decaying whilst awaiting burial.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>T-Cell Stimulator</term>
+				<listitem><para>Medical treatment tool. The device increases the production of T-Cells, a type of lymphocyte that enables the humanoid to fight infection.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Tissue Migrator</term>
+				<listitem><para>Medical instrument used in surgical procedures for the rebuilding of damaged tissue.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Trilaser Connector</term>
+				<listitem><para>Medical instrument used by doctor McCoy when he restored Spocks brain to his body on Sigma Draconis VI.</para></listitem>
+			</varlistentry>
+		</variablelist>
+	</section>
+	<section id="med-104">
+		<title>Diseases and Conditions</title>
+		<para>Listed below are some diseases of the time. Most are alien in origin.</para>
+		<variablelist>
+			<varlistentry>
+				<term>Anchilles Fever</term>
+				<listitem><para>A deadly disease, capable of spreading rapidly in a planetary population. Causing widespread and painful deaths in the millions.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Andronesian Encephalitis</term>
+				<listitem><para>A disease transmitted by airborne particles. It is curable.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Arethian Flu</term>
+				<listitem><para>Viral disease. Curable</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Atherosclerosis</term>
+				<listitem><para>A pathological condition in some humanoid species, characterized by the hardening of the arteries and accompanied by the deposit of fat in the inner arterial wall. If untreated, the condition will require a transplant of the artery.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Ba'ltmasor Syndrome</term>
+				<listitem><para>Disease suffered by Klingons, requiring regular treatments, given by injection. Non curable</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Barclay's Protomorphosis Syndrome</term>
+				<listitem><para>An intron virus that causes humanoids and other animals to develop structural and behavioral characteristics of earlier evolutionary forms. It was accidentally developed in 2370, when a routine synthetic T-Cell treatment became mutated. The virus exhibited airborne transmission, and worked by invading the hosts DNA and activating introns. Discovered by Dr. Beverly Crusher, of the USS Enterprise-D, and named for Reginald Barclay, the first patient known to have contracted the virus.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Bendii Syndrome</term>
+				<listitem><para>This is a rare illness that only affects Vulcans over the age of 200. The disease is characterized by gradual loss of emotional control. Victims exhibit sudden bursts of emotions and irrational anger. Diagnosis is made by culturing tissue form the patient's metathalamus. A dangerous side effect of Bendii Syndrome is that the loss of emotional control can be telepathically projected to others.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Cold Common</term>
+				<listitem><para>An infection of the upper respiratory tract cause by any of over 200 viruses in many humanoid species. By the 24th century, the common cold was a curable ailment.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Dermal Dysplasia</term>
+				<listitem><para>Medical skin disorder caused by the over exposure of the epidermis to hazardous levels of thermal and ultraviolet radiation.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Dorek Syndrome</term>
+				<listitem><para>A very rare and incurable disease that afflicts one in five million Ferengi.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Hemocythemia</term>
+				<listitem><para>Medical condition where inter cellular pressures are unstable. This condition is also called Hemocythemiic Imbalance, and is treatable by Osmothic Pressure Therapy.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Hesperan Thumping Cough</term>
+				<listitem><para>Flu like affliction.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>HTDS</term>
+				<listitem><para>Holotransference Dementia Syndrome. Medical condition where a person becomes so disorientated in a holographic simulation that they lose their sense of identity and start to think that they are part of the program.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Irumodic Syndrome</term>
+				<listitem><para>Degenerative disorder that causes progressive deterioration of the synaptic pathways. The disease can cause senility and eventually death. Treatment of choice was Peridaxon, though this was simply palliative. No cure exists.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Iverson's Disease</term>
+				<listitem><para>A chronic disease that causes fatal degeneration of muscular functions in humans. Iverson's Disease does not, however, affect mental functions. There is no know cure for the disease.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Kalla-Nohra Syndrome</term>
+				<listitem><para>Chronic pulmanormy disease. Kalla-Nohra Syndrome is only found in individuals exposed to a mining accident at Gallitep, a labor camp run by the Cardassians during the ocupation. There are no known instances of anyone not involved with that mining accident contracting the disease, so a positive diagnosis makes it virtually certain that the individual has been at that infamous death camp.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Levodian Flu</term>
+				<listitem><para>A Viral disease. The Lethodian Flu normally lasts 29 hours. Symptoms include sneezing and a runny nose.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Memory Virus</term>
+				<listitem><para>A parasitic organism that thrives on the peptides generated by the host's brain. The virus, discovered in 2373 by Voyager scientists, is able to avoid the body's immune system by disguising itself as an engram. The parasite creates a false memory for its host so traumatic that the host's mind represses it. The memory virus lives in person after person, hiding in the part of the brain the unconscious mind would want to avoid at all costs. When it senses death, it leaves its host to find another. Thoron radiation is lethal to the memory Virus</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Mendakan Pox</term>
+				<listitem><para>Humanoid disease characterized by the mottling of the skin.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Neurochemical Imbalance</term>
+				<listitem><para>A serious physiological condition in Vulcans from the effects of the Pon Farr mating drive. Contact from a Vulcan telepathic mating bond can induce the effects on other species, in some cases proving to be fatal.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Orkett's Disease</term>
+				<listitem><para>Viral sickness. Orkett's disease swept through Bajoran work camps during the Cardassian occupation of Bajor, killing thousands of children.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Phyrox Plague</term>
+				<listitem><para>The population of the planet Cor Caroli V suffered an outbreak of Pharox Plague. The epidemic was contained with the assistance of the Enterprise-D personnel. Starfleet Command classified the incident as 'secret'.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Pottrik Syndrome</term>
+				<listitem><para>A disease that effect Cardasians, similar to the Kalla-Nohra Syndrome. So alike are the two, that they are treated by the same medicine. A lower pulmonary bio-probe for Pottrik syndrome will show up negative, where for Kalla-Nohra it will show up positive.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Psi 2000 Virus</term>
+				<listitem><para>A water based disease organism originally found on the planet Psi 2000. It causes suppression of inhibitions within the victims and ultimately their deaths.. it is transmitted through human perspiration. In 2364, a varient of the disease affected the crews of the Tsiolkovsky , where it killed the crew, and of the Enterprise-D, where Dr. Beverly Crusher found a cure.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Rigelian Fever</term>
+				<listitem><para>A deadly disease resembling the Bubonic Plague. The cure for this disease os the antidote Rytalyn.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Rop'ngor</term>
+				<listitem><para>A disease that affects Klingon children, somewhat akin to the terrestrial measles.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Schizophrenia</term>
+				<listitem><para>Psychotic mental disorder with such symptoms as delusions, retreat form reality, and conflicting emotions.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Synthococcus Novae</term>
+				<listitem><para>Dangerous Bacillus-strain organism, a by-product of modern technology. Although treatable, the bacteria was regarded as a significant health hazard.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Telurian Plague</term>
+				<listitem><para>A terrible disease that is incurable</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Teplan Blight</term>
+				<listitem><para>Viral disease endemic to the humanoid population of a planet in the Teplan system, located in the Gamma quadrant. The disease was introduced by the Jem'Hadar, in 2171 for retribution to the planet's having resisted Dominion control. Spider-like lesions that appear blue at birth, and redden when death is imminent characterize the blight. Dr Julian Bashir developed a vaccine that eradicated the disease from unborn children, so that the next generation would be disease-free.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Terellian Death Syndrome</term>
+				<listitem><para>A disease whose symptoms includes, dizziness, blurred vision, and a stinging in the lower spine. The condition causes cellular decay, but if caught early enough can be reversed.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Terrellian Plague</term>
+				<listitem><para>Dangerous Viral disease</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Thelusian Flu</term>
+				<listitem><para>An exotic but harmless Rhinovius.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Transporter Psychosis</term>
+				<listitem><para>A rare medical disorder caused by a breakdown of neurochemical molecules during transport. The condition affects the body's motor functions, as well as the autonomic systems and higher brain functions. Victims are found to suffer from paranoid delusions, multi-infarct dementia, tactile and visual hallucinations, and psychogenic hysteria. Peripheral symptoms include sleeplessness, accelerated heart rate, myopia, muscular spasms, and dehydration. The problem was eliminated by the introduction of the 'multiplex buffer'.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Transporter Shock</term>
+				<listitem><para>A rare phenomenon wherein a person experiences dizziness, headaches, and disorientation after being transported. The effects wear off quickly and this condition is usually the result of a transporter malfuntion.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Zanthi Fever</term>
+				<listitem><para>Viral condition that affects the empathic abilities of mature Betazoids. A patient suffering from Zanthi fever can involuntary project emotions onto others</para></listitem>
+			</varlistentry>
+		</variablelist>
+	</section>
+	<section id="med-105">
+		<title>Medicines of the 24th Century</title>
+		<para>Following is a list of some of the medicines they use in the 24th century. You will however note there is no mention of the earth vaccines used today (such as Typhoid, Dipheria). This is because, as noted in some of the episodes and films of Star Trek, they have been eradicated by this time frame.</para>
+		<variablelist>
+			<varlistentry>
+				<term>Anesthezine</term>
+				<listitem><para>Dosage: 10ml.</para></listitem>
+				<listitem><para>Desc: Anesthetic/Sedative.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Chloromide</term>
+				<listitem><para>Dosage: 18ml.</para></listitem>
+				<listitem><para>Desc: Cardiostimulant.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Cordrazine</term>
+				<listitem><para>Dosage: 2 to 25ml.</para></listitem>
+				<listitem><para>Desc: Awakens unconcious patients and also a tempory pain reliever.</para></listitem>
+				<listitem><para>Side Effect: Too much can cause disorientation and even insanity.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Delactovine</term>
+				<listitem><para>Dosage: 3 to 50ml.</para></listitem>
+				<listitem><para>Desc: Awakens sleeping/unconcious patients. Not as strong as Cordrazine.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Dexalin</term>
+				<listitem><para>Dosage: 10 to 200ml.</para></listitem>
+				<listitem><para>Desc: Counteracts Oxygen deprivation, (but does not treat any resulting brain damage).</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Hyronalin</term>
+				<listitem><para>Dosage: Varies.</para></listitem>
+				<listitem><para>Desc: Treats radiation exposure. Apply up to one hour after exposure for complete results. Can also be applied prior to exposure for a 3 hour immunity.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Inaprovaline</term>
+				<listitem><para>Dosage: 10 to 250ml.</para></listitem>
+				<listitem><para>Desc: Cardiostimulant. Low doses (less than 150ml) stabilises bleeding. Higher doses stimulate tissue regeneration.</para></listitem>
+				<listitem><para>Side Effect: Can lead to Cardiopulmanory System collapse if over dosed.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Kayolane</term>
+				<listitem><para>Dosage: 25 to 300ml.</para></listitem>
+				<listitem><para>Desc: Sedative. Low doses cause grogginess. Higher doses cause unconciousness. Lasts 1 to 3 hours. Dosages must be calibrated to patients metabolism.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Melorazine</term>
+				<listitem><para>Dosage: 50ml.</para></listitem>
+				<listitem><para>Desc: Sedative. Similar to KAYOLANE, but not as precise. Lasts 1 to 3 hours.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Terakine</term>
+				<listitem><para>Dosage: 1 to 4ml.</para></listitem>
+				<listitem><para>Desc: Pain reliever. Lasts 5 hours.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Vertazine</term>
+				<listitem><para>Dosage: 35ml.</para></listitem>
+				<listitem><para>Desc: Counteracts vertigo (as well as zero gravity sickness). Lasts 6 hours.</para></listitem>
+			</varlistentry>
+		</variablelist>
+	</section>
+	<section id="med-106">
+		<title>Non Player Characters</title>
+		<para>Non-Players Characters, or NPCs as they are referred to in STF (also referred to as NEs [Nameless Ensigns]) are probably as important to a medical character as the equipment and medicine they use. How do they work? You ask.</para>
+		<para>If you look at Star Trek, there are more people on the ship/station than the six or so main characters. What you're doing by creating a NPC is making a character that only has a bit part in the sim, like the extras on the set.</para>
+		<para>You don't create the character as a 2nd character on a ship; you create it to interact with your character or somebody else character who needs the medical department. For example, if the ship you are on is a bit lacking in the med dept (a CMO and a Med-1 only), and both of these are on an away mission, that leaves the sickbay unattended should people need it. What you or the CMO should do is have a NPC tending sickbay till one of you returns.</para>
+		<para>As another example you have been given a task to do, but you, as most Doctors in hospitals would, have a nurse or medic assist you. Yes, you could have the med-2 assist, but that would slow the R-P down waiting for the posts. An alternative is to create a NPC Nurse or Medic to assist, and you R-P the character.</para>
+	</section>
+	<section id="med-conclusion">
+		<title>Conclusion</title>
+		<para>You have now completed the Star-Fleet Academy Medical Course, well almost. The last hurdle is the exam.</para>
+		<para>By studying this course, you have hopefully learnt what it takes to play a good medical character in STF. This doesn't mean you have to stick to this course. Its only purpose is to give you guidance where you may need it.</para>
+		<para>You should feel free to create your own diseases and cures and also the equipment you need to help your through your time in STF. Though with the equipment, it really should be approved by Star-Fleet Engineering to be official, but who says you can't jury-rig something for a sim.</para>
+		<para>That said, its exam time. Just email me your answers and I'll grade them as soon as can and get the results back to you and the Academy personnel. My email address is <ulink url="mailto:sea13quest@hotmail.com">sea13quest@hotmail.com</ulink>.</para>
+		<para>Note from author I would like to take this opportunity to thank Captain Paul Jones and my wife, Commodore Deanne Ashton for their contributions. Without them it might have taken a lot longer to write this course. Thanks Fleet Capt. Steve Ashton.</para>
+	</section>
+	<section id="med-exam">
+		<title>Exam</title>
+		<para>Submission Instructions</para>
+		<orderedlist>
+			<listitem><para>Write out your answers to the questions below.</para></listitem>
+			<listitem><para>E-mail them to the course grader: <ulink url="mailto:sea13quest@hotmail.com">Steve Johnson</ulink></para></listitem>
+			<listitem><para><emphasis>Be sure to include your full name at the top of the e-mail!</emphasis></para></listitem>
+			<listitem><para>Do <emphasis>not</emphasis> send the original question, just the answers.</para></listitem>
+			<listitem><para>Do <emphasis>not</emphasis> send your answers as an attachment.  Send them in the body of the e-mail.</para></listitem>
+			<listitem><para>Do <emphasis>not</emphasis> use "HTML-enriched" e-mail.  It makes it harder to grade.</para></listitem>
+			<listitem><para>All answers must be original.  Do not simply copy and paste from the lessons.</para></listitem>
+		</orderedlist>
+		<section>
+			<title>Emergency</title>
+			<orderedlist>
+				<listitem><para>You are CMO and your ship has responded to an emergency hail from a Federation colony. A torrential storm has caused massive flooding and destruction. The hospital was destroyed and the sick and injured require care.</para></listitem>
+				<listitem><para>A desolate planet was the site of a ferocious battle between a band of Klingons and a shipload of Romulans. No one is sure why any of them are on this uncharted world. You are a doctor and junior officer aboard the first ship to make it to the battle zone, and the CMO has instructed you to conduct triage.</para></listitem>
+				<listitem><para>You are the CMO and your ship has answered a distress call from a Federation passenger ship that has suffered a major hull breach. While Engineering assists with getting the ship patched together enough to be towed to the nearest starbase, Medical must take care of the sick and injured.</para></listitem>
+			</orderedlist>
+		</section>
+		<section>
+			<title>Physicals</title>
+			<orderedlist>
+				<listitem><para>You are a doctor assigned to a brand new ship and crew physicals are underway. Sickbay is packed as everyone is trying to get this nuisance out of the way as soon as possible.</para></listitem>
+				<listitem><para>You are a nurse on duty while crew physicals are underway. The doctors are all busy with patients. It's your job to start processing those crewmen who are waiting in line.</para></listitem>
+				<listitem><para>Your ship's new security officer, a burly Klingon with the usual attitude problem, has come in for his physical. The CMO is not on duty and you just sent the nurse on a break.</para></listitem>
+			</orderedlist>
+		</section>
+		<section>
+			<title>Office Visits</title>
+			<orderedlist>
+				<listitem><para>It's a quiet, routine day in sickbay. One of the engineers comes in, complaining of a burned hand. He was working in one of the Jefferies Tubes and got zapped by one of the exposed panels.</para></listitem>
+				<listitem><para>You are a nurse and alone in sickbay. A civilian guest aboard ship, an elderly human, comes in complaining that his left arm has been hurting off and on for the past two days. Then he collapses on the deck, unconscious.</para></listitem>
+				<listitem><para>Pareses Squares, the bane of every parent and the joy of every active boy. Three such boys, all human, ages 10, 15, and 16 come into sickbay with various injuries from playing the dangerous game. As CMO, you know just about everyone and realize the 10 and 16-year-olds are the sons of the XO.</para></listitem>
+			</orderedlist>
+		</section>
+		<section>
+			<title>Lab Work</title>
+			<orderedlist>
+				<listitem><para>An epidemic is spreading throughout the ship. The doctors and nurses are overrun with patients complaining of uncontrolled sneezing. You are the med tech collecting and analyzing cultures.</para></listitem>
+				<listitem><para>A Federation colony is dying, apparently from dehydration. You are one of the doctors trying to determine the cause.</para></listitem>
+				<listitem><para>The crew is going crazy, literally. You are the CMO and all around you, people are falling victim to a bizarre mental instability. Your ship is conducting a team of scientists who have spent the last five years in experimental deep space isolation. The team consists of a human, Andorian, Vulcan, Betazoid, and Trill.</para></listitem>
+			</orderedlist>
+		</section>
+	</section>
+</article>

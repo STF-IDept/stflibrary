@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN"
+	"http://www.oasis-open.org/docbook/xml/4.0/docbookx.dtd">
+<book id="textbook">
+    <?dbhtml dir="textbook" filename="index.html" ?>
+	<bookinfo>
+		<title>STF Academy Textbook</title>
+		<corpauthor>Starfleet Academy</corpauthor>
+		<date>4 October 2005</date>
+	</bookinfo>
+	
+	<!-- Each course is a separate Article -->
+	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="administrative.xml" />
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="counseling.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="engineering.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="medical.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="security.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="science.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="gamemaster.xml" />
+	
+</book>

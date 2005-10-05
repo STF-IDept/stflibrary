@@ -7,16 +7,12 @@ Dirs=
 Files=library.css
 
 [Dir src]
-Dirs=handbook/images/charters/faq/rm/courses
+Dirs=handbook/images/charters/faq/rm/textbook
 Files=set.xml
 
 [Dir src/charters]
 Dirs=
 Files=book.xml/gmd.xml/preface.xml/depts.xml/library.xml/fleets.xml/crell.xml/oed_v.xml/merrimack.xml/bonaventure.xml/pd.xml
-
-[Dir src/courses]
-Dirs=
-Files=book.xml/engineering.xml
 
 [Dir src/faq]
 Dirs=
@@ -50,9 +46,13 @@ Files=entrytypes.xml/template-location.xml/template-power.xml/template-species.x
 Dirs=
 Files=acamarian.xml/bajoran.xml/bandi.xml/benzite.xml/breen.xml/bynars.xml/caitian.xml/chairosan.xml/chameloid.xml/cytherian.xml/dilkian.xml/eldaraane.xml/elven.xml/etopian.xml/ferengi.xml/flarn.xml/komunicaton.xml/o.xml/pakled.xml/quasian.xml/talosian.xml/tholian.xml/trill.xml
 
+[Dir src/textbook]
+Dirs=
+Files=administrative.xml/book.xml/counseling.xml/engineering.xml/gamemaster.xml/medical.xml/science.xml/security.xml
+
 [Dir xsl]
 Dirs=
-Files=fo-common.xsl/fo-handbook.xsl/html-common.xsl/html-handbook.xsl/html-onelibrary.xsl/html-set.xsl/html-set-customizations.xsl/html-tm-customizations.xsl/html-charters.xsl/fo-charters.xsl/fo-onelibrary.xsl/html-titlepage-templates.xml/fo-faq.xsl/html-faq.xsl/fo-rm.xsl/html-rm.xsl/fo-courses.xsl/html-courses.xsl
+Files=fo-common.xsl/fo-handbook.xsl/html-common.xsl/html-handbook.xsl/html-onelibrary.xsl/html-set.xsl/html-set-customizations.xsl/html-tm-customizations.xsl/html-charters.xsl/fo-charters.xsl/fo-onelibrary.xsl/html-titlepage-templates.xml/fo-faq.xsl/html-faq.xsl/fo-rm.xsl/html-rm.xsl/fo-textbook.xsl/html-textbook.xsl
 
 [Dir xsl-bak]
 Dirs=

@@ -11,15 +11,15 @@
 		</editor>
 		<editor>
 			<honorific>Assistant Librarian</honorific>
-			<firstname>Amanda</firstname>
-			<surname>Noon</surname>
+			<firstname>Sarah</firstname>
+			<surname>Hemenway</surname>
 		</editor>
 		<copyright>
 			<year>2005</year>
 			<holder>STF and its Members</holder>
 		</copyright>
 		<legalnotice><para>The contents of this Library are copyright their respective authors and released to STF.  Reuse of any content from this Library within STF is permitted provided the work is attributed correctly.  Use outside of STF without the permission of the original author is forbidden.</para></legalnotice>
-		<date>10 July 2005</date>
+		<date>4 October 2005</date>
 	</setinfo>
 
 	<!-- Include each of the books in this set. -->
@@ -27,6 +27,6 @@
 	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="charters/book.xml" />
 	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="faq/book.xml" />
 	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="rm/book.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="courses/book.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="textbook/book.xml" />
 
 </set>
