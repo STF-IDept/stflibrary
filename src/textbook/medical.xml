@@ -19,6 +19,13 @@
 					<para>Added to Library</para>
 				</revdescription>
 			</revision>
+            <revision>
+              <revnumber>2</revnumber>
+              <date>1 November 2005</date>
+              <revdescription>
+                <para>Fixed exam instructions to specify post format</para>
+              </revdescription>
+            </revision>
 		</revhistory>
 	</articleinfo>
 	<section id="med-intro">
@@ -411,6 +418,7 @@
 			<listitem><para>Do <emphasis>not</emphasis> send your answers as an attachment.  Send them in the body of the e-mail.</para></listitem>
 			<listitem><para>Do <emphasis>not</emphasis> use "HTML-enriched" e-mail.  It makes it harder to grade.</para></listitem>
 			<listitem><para>All answers must be original.  Do not simply copy and paste from the lessons.</para></listitem>
+            <listitem><para>Answer <emphasis>one</emphasis> question from each section.  All answers must be in the form of an in-character post.</para></listitem>
 		</orderedlist>
 		<section>
 			<title>Emergency</title>
