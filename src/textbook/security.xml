@@ -135,20 +135,22 @@ experience the same position.</para>
 		<section>
 			<title>Grenades</title>
 			<variablelist>
-				<varlistentry>Photon Grenades</varlistentry>
-				<listitem><para>Photon grenades are one of the most devastating personnel weapons developed by the Federation.  Their use is strictly controlled, usually limited strictly to wartime conditions.  They are effectively a more adjustable version of the microtorpedo used in modern fighter craft. Photon grenades may be set to explode upon impact, at some altitude above the ground, or at some preset time, up to ten hours after impact.  Both the power level and blast radius of these weapons may also be carefully controlled.  They have five distinct blast settings and a variable blast radius ranging from 3 to 10 meters.</para></listitem>
-				<listitem><para><emphasis>Mass</emphasis>: 0.2 kg</para></listitem>
-				<listitem><para><emphasis>Note</emphasis>: This weapon is limited in availability and use to wartime conditions or extreme combat zones and will be stocked only as mission conditions require.</para></listitem>
-				<listitem>
-					<para><emphasis>Settings</emphasis>:</para>
-					<orderedlist>
-						<listitem><para><emphasis>Flash</emphasis>: All humanoids inside the blast radius without special eye protection are blinded for approximately five minutes.</para></listitem>
-						<listitem><para><emphasis>Heavy Stun</emphasis>: Stun all humans in blast radius for one hour.</para></listitem>
-						<listitem><para><emphasis>Heavy Thermal</emphasis>: Melts most metals in blast radius</para></listitem>
-						<listitem><para><emphasis>Light Disrupt</emphasis>: Vaporize all Humanoids and softer materials within the blast radius</para></listitem>
-						<listitem><para><emphasis>Heavy Disrupt/Explode</emphasis>: Any none shielded object is obliterated on contact. Shielded objects are severely damaged dependant upon size and power of shielding.</para></listitem>
-					</orderedlist>
-				</listitem>
+				<varlistentry>
+					<term>Photon Grenades</term>
+					<listitem><para>Photon grenades are one of the most devastating personnel weapons developed by the Federation.  Their use is strictly controlled, usually limited strictly to wartime conditions.  They are effectively a more adjustable version of the microtorpedo used in modern fighter craft. Photon grenades may be set to explode upon impact, at some altitude above the ground, or at some preset time, up to ten hours after impact.  Both the power level and blast radius of these weapons may also be carefully controlled.  They have five distinct blast settings and a variable blast radius ranging from 3 to 10 meters.</para></listitem>
+					<listitem><para><emphasis>Mass</emphasis>: 0.2 kg</para></listitem>
+					<listitem><para><emphasis>Note</emphasis>: This weapon is limited in availability and use to wartime conditions or extreme combat zones and will be stocked only as mission conditions require.</para></listitem>
+					<listitem>
+						<para><emphasis>Settings</emphasis>:</para>
+						<orderedlist>
+							<listitem><para><emphasis>Flash</emphasis>: All humanoids inside the blast radius without special eye protection are blinded for approximately five minutes.</para></listitem>
+							<listitem><para><emphasis>Heavy Stun</emphasis>: Stun all humans in blast radius for one hour.</para></listitem>
+							<listitem><para><emphasis>Heavy Thermal</emphasis>: Melts most metals in blast radius</para></listitem>
+							<listitem><para><emphasis>Light Disrupt</emphasis>: Vaporize all Humanoids and softer materials within the blast radius</para></listitem>
+							<listitem><para><emphasis>Heavy Disrupt/Explode</emphasis>: Any none shielded object is obliterated on contact. Shielded objects are severely damaged dependant upon size and power of shielding.</para></listitem>
+						</orderedlist>
+					</listitem>
+				</varlistentry>
 			</variablelist>
 		</section>
 		<section>
