@@ -31,6 +31,7 @@
 		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="library.xml" />
 		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="gmd.xml" />
 		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="pd.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="id.xml" />
 	</part>
 	<part id="altrpgareas">
 		<title>Alternate Role-Playing Environments</title>
