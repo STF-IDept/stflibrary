@@ -10,7 +10,7 @@
 	<xsl:import href="html-common.xsl"/>
 
 	<!-- Additional stylesheet parameters. -->
-	<xsl:param name="html.stylesheet" select="'styles/library.css'" />
+	<xsl:param name="html.stylesheet" select="'styles/main.css'" />
 
 	<!-- Any custom templates we need go here. -->
 	

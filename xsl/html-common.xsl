@@ -5,7 +5,7 @@
 
 	
 	<!-- Set the stylesheet to use for the entire library. We'll set book-specific ones later. -->
-	<xsl:param name="html.stylesheet" select="'../styles/library.css'" />
+	<xsl:param name="html.stylesheet" select="'../styles/main.css'" />
 
 	<!-- Speeds up chunking under Xalan, Saxon. -->
 	<xsl:param name="chunk.fast" select="1" />
