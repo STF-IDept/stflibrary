@@ -1,7 +1,6 @@
 body {
 background-color: black;
-background-image: url(http://www.star-fleet.com/images/starfield.gif);
-color: #EEEEEE;
+color: #eeeeee;
 /*border: 0px;
 padding: 0px;
 margin: 0px;*/
@@ -15,14 +14,20 @@ img {
 border: none;
 }
 
+hr {
+display: none;
+}
+
 div.example {
-background-image: url(http://www.star-fleet.com/images/starfields/blue.jpg);
+background-image: url(http://www.star-fleet.com/images/starfield.gif);
+border: thin solid #bbbbbb;
 margin-left: 10%;
 margin-right: 10%;
 }
 
 div.navheader {
-background-image: url(http://www.star-fleet.com/images/starfields/blue.jpg);
+background-image: url(http://www.star-fleet.com/images/starfield.gif);
+border: thin solid #bbbbbb;
 /*position: fixed;
 width: 100%;
 padding: 0px;
@@ -56,7 +61,11 @@ div.chapter {
 }
 
 div.chapter div.toc, div.article div.toc {
-background-image: url(http://www.star-fleet.com/images/starfields/blue.jpg);
+background-image: url(http://www.star-fleet.com/images/starfield.gif);
+border: thin solid #bbbbbb;
+margin-top: 5px;
+margin-left: 5px;
+padding-left: 5px;
 width: 20%;
 float: right;
 }
@@ -98,7 +107,8 @@ content: "By ";
 }
 
 div.user-footer-content {
-background-image: url(http://www.star-fleet.com/images/starfields/blue.jpg);
+background-image: url(http://www.star-fleet.com/images/starfield.gif);
+border: thin solid #bbbbbb;
 position: relative;
 clear: both;
 }
