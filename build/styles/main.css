@@ -102,9 +102,11 @@ div.orderedlist li {
   margin-top: 1em;
 }
 
+/*
 h3.author:before {
 content: "By ";
 }
+*/
 
 div.user-footer-content {
 background-image: url(http://www.star-fleet.com/images/starfield.gif);
@@ -167,4 +169,10 @@ content: ":";
 tr.question p {
 color: #dfb833;
 font-weight: bold;
+}
+
+div.blockquote,
+div.blockquote table,
+span.quote {
+font-style: italic;
 }

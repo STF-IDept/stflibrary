@@ -28,5 +28,6 @@
 	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="faq/book.xml" />
 	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="rm/book.xml" />
 	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="textbook/book.xml" />
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="minutes/book.xml" />
 
 </set>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN"
+	"http://www.oasis-open.org/docbook/xml/4.0/docbookx.dtd">
+<book id="minutes">
+	<?dbhtml dir="minutes" filename="index.html" ?>
+	<bookinfo>
+		<title>Minutes of Notable Command Discussions</title>
+		<corpauthor>Starfleet Command</corpauthor>
+		<date>19 June 2005</date>
+	</bookinfo>
+	<part id="minutes-herr">
+		<partinfo>
+			<title>President Jen Herr</title>
+			<subtitle>1 December 2005 - Present</subtitle>
+		</partinfo>
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="ircrpg.xml" />
+	</part>
+</book>
