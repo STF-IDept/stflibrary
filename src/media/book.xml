@@ -1,0 +1,21 @@
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN"
+	"http://www.oasis-open.org/docbook/xml/4.0/docbookx.dtd">
+<book id="media">
+  <?dbhtml dir="media" filename="index.html" ?>
+
+  <bookinfo>
+    <title>STF Media Publications</title>
+    <corpauthor>The STF Librarian</corpauthor>
+    <date>24 January 2006</date>
+  </bookinfo>
+  <abstract>
+    <title>About this book</title>
+    <para>STF has had numerous independent newspapers, newsletters, and other media agencies throughout the years.  Some have been serious, most at least slightly humorous.</para>
+    <para>Many of these publications were managed off-server, and as a result some have been lost.  Others were kept on-server, and are still available for the amature historian in search of a laugh.</para>
+  </abstract>
+
+  <!-- Each publication is a separate chapter -->
+  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="snn.xml" />
+
+
+</book>

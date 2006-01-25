@@ -1,0 +1,39 @@
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
+                    "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<chapter id="media-snn">
+  <chapterinfo>
+    <title>The Starfleet News Network</title>
+    <epigraph><attribution>Mike Ballway</attribution><para>Quite, Informative, Totally Biased Reporting of STF Events</para></epigraph>
+  </chapterinfo>
+  <section>
+    <title>About SNN</title>
+    <para>Known variously as the STF News and Announcement Service, CNN of STF, and the Starfleet News Network, SNN is STF's oldest media empire dating all the way back to 1992.  It passed through several hands in STF's eary days, including assorted columns by <ulink url="http://star-fleet.com/snn/misc/index.html#ME">Genesun Han</ulink>, <ulink url="http://star-fleet.com/snn/misc/index.html#FT">Franco Torres</ulink>, and finally Editor-in-Chief <ulink url="http://star-fleet.com/snn/misc/index.html#MC">Mike Cathcart</ulink>.  Each published essentially simple columns, mixing somewhat current events with satire.</para>
+    <para><ulink url="http://star-fleet.com/snn/misc/index.html#M">Mike Ballway</ulink> took over the SNN Empire in 1995 when Cathcart went AWOL and assumed the title Executive Editor since Cathcart hadn't actually stepped down.  Following a series of stand-alone publications and editorials, Ballway started <ulink url="http://star-fleet.com/snn/su/index.html">SNN UPDATE</ulink>, a comedic column that would run for many years, documenting in a rather tongue-in-cheek fashion the latter half of STF's Prodigy Era.  SNN UPDATE was also the origin of SNN QuoteGags(tm), which served as a mainstay of SNN media for many years.</para>
+    <para>In 1997 when STF expanded onto the World Wide Web with the "WeBB" branch of the club, SNN expanded with it.  <ulink url="http://star-fleet.com/snn/ws/index.html">WeBBsights</ulink> was a joint venture between Ballway and Larry Garfield, who joined the WeBB in its very early days after being prodded to do so by Ballway for years before that.  It was the first STF news publication to take itself seriously (at least sometimes).  Varying from completely fictional humor stories to objective reporting with everything in between, WeBBsights was a regular fixture on the WeBB for several years.  When Ballway left STF in 2000, Garfield took over as Executive Editor, a position he still holds.</para>
+    <para>Another Prodigy publication joined the SNN network in 1998.  The first was Mark Wilson's <ulink url="http://star-fleet.com/snn/hn/index.html">SNN Headline News</ulink>.  Wilson, an STF import from competing Prodigy club STNG, was jealous of Ballway's humorous capacity and set out to get some laughs of his own.  Ballway and Wilson would later both insist under oath that the other was the funnest person in STF.  Headline News went through two volumes, one Prodigy-targeted and one WeBB-targeted.  Unfortunately most of the later issues were hosted off-site and as of this writing are no longer available.</para>
+    <para>In 1999, the defunct WeBBsights section "Fleet Beat" was spun off into its own publication of the same name under the leadership of Garfield and Seamus Hughes.  <ulink url="http://star-fleet.com/snn/fb/latest.html">Fleet Beat</ulink> was to cover all In Character events throughout STF, covered by a large staff of reporters, each with their own "fleet beat".  Due to the coordination involved, however, Fleet Beat lasted exactly one issue.  A similar function was later picked up by the <ulink url="http://www.star-fleet.com/gmd/archive/">GMD Archive</ulink>.</para>
+    <para>SNN is the only publication known to have crossed over into In Character activities.  Since the beginnings of the 1997-98 Fleet Three Fleetwide, SNN has had a periodic RPing presence in the form of reporter characters (always played by Garfield) covering (and sometimes interfering with) plot events.  The often-referenced Nameless Ensigns Weekly Standard (N.E.W.S.) is a fictional competitor.</para>
+    <para>SNN is reputedly headquartered at SNN Center, Chicago, on the site of the old Tribune Building.</para>
+  </section>
+  <section>
+    <title>Histories</title>
+    <para>In addition to its periodicals, SNN has also collected a number of memoirs and club histories written by various members.</para>
+    <itemizedlist>
+      <listitem><para><ulink url="http://star-fleet.com/snn/history/nr.html"></ulink>: No Regrets, by Jim Midyette, 1994</para></listitem>
+      <listitem><para><ulink url="http://star-fleet.com/snn/history/bourdaa.html"></ulink>: The Bourdaa Papers, by Mike Bourdaa, 1997</para></listitem>
+      <listitem><para><ulink url="http://star-fleet.com/snn/history/webb.html"></ulink>: The STF WeBB History, by Greg Hertzsch, 1998</para></listitem>
+      <listitem><para><ulink url="http://star-fleet.com/snn/history/ed.html"></ulink>: History of STF's ED, by Mike Ballway, 1998</para></listitem>
+    </itemizedlist>
+  </section>
+  <section>
+    <title>Links</title>
+    <itemizedlist>
+      <listitem><para><ulink url="http://www.star-fleet.com/snn/"></ulink>: The Starfleet News Network</para></listitem>
+      <listitem><para><ulink url="http://www.star-fleet.com/snn/su/"></ulink>: SNN UPDATE</para></listitem>
+      <listitem><para><ulink url="http://www.star-fleet.com/snn/ws/"></ulink>: WeBBsights</para></listitem>
+      <listitem><para><ulink url="http://www.star-fleet.com/snn/hn/"></ulink>: SNN Headline News</para></listitem>
+      <listitem><para><ulink url="http://www.star-fleet.com/snn/fb/latest.html"></ulink>: Fleet Beat</para></listitem>
+      <listitem><para><ulink url="http://www.star-fleet.com/snn/jukebox/"></ulink>: The SNN Jukebox; musical satires by SNN staffers</para></listitem>
+    </itemizedlist>
+  </section>
+</chapter>

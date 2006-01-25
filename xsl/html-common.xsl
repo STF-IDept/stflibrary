@@ -1,27 +1,25 @@
 <?xml version='1.0'?>
 <xsl:stylesheet
-	xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0"> 
+	xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 
-
-	
 	<!-- Set the stylesheet to use for the entire library. We'll set book-specific ones later. -->
 	<xsl:param name="html.stylesheet" select="'../styles/main.css'" />
 
 	<!-- Speeds up chunking under Xalan, Saxon. -->
 	<xsl:param name="chunk.fast" select="1" />
-	
+
 	<!-- Sets the starting directory for the whole tree's output. -->
 <!-- 	<xsl:param name="base.dir" select="'output/'" /> -->
-	
+
 	<!-- Pretty-print the output. -->
 	<xsl:param name="chunker.output.indent" select="'yes'" />
 
 	<!-- Don't make each sect1 its own file, only chapters/articles. -->
 	<xsl:param name="chunk.section.depth" select="0" />
-	
+
 	<!-- Base filenames off of ids instead of ugly strings. -->
 	<xsl:param name="use.id.as.filename" select="1" />
-	
+
 	<!-- Turn off automatic style attributes. -->
 	<xsl:param name="css.decoration" select="0" />
 
@@ -32,9 +30,9 @@
 
 	<!-- Get rid of the silly period after honorifics. -->
 	<xsl:param name="punct.honorific" /> <!-- set it to empty string, select="" didn't work -->
-	
+
 <!-- 	<xsl:param name="img.src.path" select="'images/'" /> -->
-	
+
 	<!-- Any custom templates we need go here. -->
 
 	<!-- Disable the body element attributes that are not strict-complaint. -->
@@ -75,4 +73,4 @@
 	</xsl:template>
 
 
-</xsl:stylesheet>  
+</xsl:stylesheet>

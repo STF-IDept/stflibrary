@@ -19,15 +19,16 @@
 			<holder>STF and its Members</holder>
 		</copyright>
 		<legalnotice><para>The contents of this Library are copyright their respective authors and released to STF.  Reuse of any content from this Library within STF is permitted provided the work is attributed correctly.  Use outside of STF without the permission of the original author is forbidden.</para></legalnotice>
-		<date>21 January 2006</date>
+		<date>24 January 2006</date>
 	</setinfo>
 
-	<!-- Include each of the books in this set. -->
-	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="handbook/book.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="charters/book.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="faq/book.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="rm/book.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="textbook/book.xml" />
-    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="minutes/book.xml" />
+  <!-- Include each of the books in this set. -->
+  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="handbook/book.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="charters/book.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="faq/book.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="rm/book.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="textbook/book.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="minutes/book.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="media/book.xml" />
 
 </set>
