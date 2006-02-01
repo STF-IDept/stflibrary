@@ -1,0 +1,21 @@
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
+                    "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<chapter id="media-gin">
+  <chapterinfo>
+    <title>Galatic Independent News</title>
+    <epigraph>
+      <attribution>Mike Bourdaa</attribution>
+      <para>Your number five source for STF news, information, and poor humor</para>
+    </epigraph>
+  </chapterinfo>
+  <section>
+    <title>About GiN</title>
+    <para>Galatic Independent News (GiN)'s "The Observer" was one of the many short-lived papers during the Golden Age of STF news media in 1999.  Founded by outgoing President Mike Bourdaa to cover the election to choose his successor, GiN lasted only two issues.  Rather than the one-page format of SNN, GiN was the first publication to break articles up into separate pages.  It also did not make a serious attempt at humor, also a first for STF media.</para>
+  </section>
+  <section>
+    <title>Links</title>
+    <itemizedlist>
+      <listitem><para><ulink url="http://www.star-fleet.com/gin/"></ulink>: Galactic Independent News</para></listitem>
+    </itemizedlist>
+  </section>
+</chapter>

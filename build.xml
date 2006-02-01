@@ -438,7 +438,7 @@
       <echo>Creating RM PDF file</echo>
       <java classname="${fo.processor.class}" failonerror="true">
         <classpath refid="fo.processor.classpath" />
-        <arg line="-fo ${fo.dir}/media.fo"/>
+        <arg line="-fo ${fo.dir}/minutes.fo"/>
         <arg line="-pdf ${build.dir}/pdf/minutes.pdf"/>
       </java>
     </target>

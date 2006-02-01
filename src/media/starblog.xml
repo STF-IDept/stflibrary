@@ -1,0 +1,22 @@
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
+                    "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<chapter id="media-starblog">
+  <chapterinfo>
+    <title>USS STarBlog</title>
+    <epigraph>
+      <attribution>Colin Wyers</attribution>
+      <para>You're so vain, you probably think this blog is about you..</para>
+    </epigraph>
+  </chapterinfo>
+  <section>
+    <title>About STarBlog</title>
+    <para>In mid-2002, STF regular Colin Wyers decided to try and cash in on the rising popularity of "Blogs" with an STF blog/news/column/thing dubbed "The USS STarBlog".  The blog format made it easy to skip the difficulties involved in "publication" and "issues", but at the same time also lent itself far more to editorial content than news.  It had numerous contributors, ranging from Wyers to SNN's Mike Ballway to assorted random members.  Although it never formally ceased operation, interest quickly wained and it lasted only one brief but active month of posts.</para>
+    <para>Although hosted off-site, STarBlog's archives are still available online.</para>
+  </section>
+  <section>
+    <title>Links</title>
+    <itemizedlist>
+      <listitem><para><ulink url="http://www.pontifexexmachina.com/stf/"></ulink>: The USS STarBlog</para></listitem>
+    </itemizedlist>
+  </section>
+</chapter>

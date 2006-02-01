@@ -5,17 +5,29 @@
 
   <bookinfo>
     <title>STF Media Publications</title>
+    <author>
+      <firstname>Larry</firstname>
+      <surname>Garfield</surname>
+    </author>
     <corpauthor>The STF Librarian</corpauthor>
     <date>24 January 2006</date>
+    <abstract>
+      <title>About this book</title>
+      <para>STF has had numerous independent newspapers, newsletters, and other media agencies throughout the years.  Some have been serious, most at least slightly humorous.</para>
+      <para>Many of these publications were managed off-server, and as a result some have been lost.  Others were kept on-server, and are still available for the amature historian in search of a laugh.  They are presented below more or less chronologically.</para>
+    </abstract>
   </bookinfo>
-  <abstract>
-    <title>About this book</title>
-    <para>STF has had numerous independent newspapers, newsletters, and other media agencies throughout the years.  Some have been serious, most at least slightly humorous.</para>
-    <para>Many of these publications were managed off-server, and as a result some have been lost.  Others were kept on-server, and are still available for the amature historian in search of a laugh.</para>
-  </abstract>
 
   <!-- Each publication is a separate chapter -->
   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="snn.xml" />
-
+  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="aotw.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="ivestfiya.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="gin.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="fnn.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="pun.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="twww.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="rfstf.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="starblog.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="po.xml" />
 
 </book>
