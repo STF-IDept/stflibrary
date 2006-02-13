@@ -10,7 +10,7 @@
 			<firstname>Larry</firstname>
 			<surname>Garfield</surname>
 		</editor>
-		<date>31 January 2006</date>
+		<date>13 February 2006</date>
 		<abstract>
 			<title>About this book</title>
 			<para>STF Executive Departments and role playing areas (ships) are created by Presidential Edict.  These edicts serve as "charters" for a specific department or role playing area, and define that department's rules and code of condult, what authority a given department has, that role playing area's unique attributes (for Alternate Role-Playing Areas), and various other useful and important pieces of information.  Other edicts make clear certain aspects of STF's procedure and functioning in one clearly-defined place.</para>
@@ -27,11 +27,12 @@
 	</part>
 	<part id="departments">
 		<title>Executive Departments and Assistants</title>
-        <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="acad.xml" />
+        	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="acad.xml" />
 		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="library.xml" />
 		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="gmd.xml" />
 		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="pd.xml" />
 		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="id.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="policies.xml" />
 	</part>
 	<part id="altrpgareas">
       <title>Alternate Role-Playing Environments</title>
