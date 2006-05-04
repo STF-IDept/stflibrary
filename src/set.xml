@@ -30,5 +30,6 @@
   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="media/book.xml" />
   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="rm/book.xml" />
   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="textbook/book.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="tm/book.xml" />
 
 </set>

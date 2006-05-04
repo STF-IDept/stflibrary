@@ -1,0 +1,655 @@
+<!-- edited with XML Spy v3.5 NT (http://www.xmlspy.com) by Larry Garfield (None) -->
+<!-- <?xml version="1.0"?> -->
+<!-- <!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN"
+                    "http://www.oasis-open.org/docbook/xml/4.0/docbookx.dtd"> -->
+<?xml-stylesheet type="text/xsl" href="tm-control.xslt"?>
+<article class="specification" id="pendragon">
+	<title>Pendragon-class</title>
+	<articleinfo>
+		<authorgroup role="Maintainer">
+			<author>
+				<firstname>Bradley</firstname>
+				<surname>Joy</surname>
+			</author>
+		</authorgroup>
+		<authorgroup role="Primary">
+			<author>
+				<firstname>Israel</firstname>
+				<surname>Harris</surname>
+			</author>
+			<author>
+				<firstname>Bradley</firstname>
+				<surname>Joy</surname>
+			</author>
+		</authorgroup>
+		<authorgroup role="Original">
+			<author>
+				<firstname>Israel</firstname>
+				<surname>Harris</surname>
+			</author>
+			<author>
+				<firstname>Bradley</firstname>
+				<surname>Joy</surname>
+			</author>
+		</authorgroup>
+		<keywordset>
+			<keyword role="service">PC</keyword>
+			<keyword role="category">Battlecruiser</keyword>
+			<keyword role="variant">Medium</keyword>
+			<keyword role="mark">I</keyword>
+		</keywordset>
+		<revhistory>
+			<revision>
+				<revnumber>1</revnumber>
+				<date>24 March 2001</date>
+				<revdescription>
+					<para>Approved by Engineering Owen Townes</para>
+				</revdescription>
+			</revision>
+		</revhistory>
+	</articleinfo>
+	<sect1>
+		<title>History and Mission Overview</title>
+		<epigraph>
+			<attribution>--Terry Pratchett</attribution>
+			<para>"Everything begins somewhere, although many physicists disagree."</para>
+		</epigraph>
+		<para>Following the end of the Cardassian War, and the Borg invasions of the late 2360s, Star Fleet and the Federation Council decided that it would be in the Federation's best interests to create a craft capable of defending Federation space from external threats. Until this point, the Federation hadn't developed combat vessels as a matter of principal. However, the repeated arising of new threats to the Federation forced the Council to re-evaluate this viewpoint.</para>
+		<para>Out of this ship evaluation and modernization program would be the Pendragon class. The project was assigned to Starfleet's Avalon Shipyards. For the next 11 some years, a group of Avalon researchers, developers and designers would slave away in a dark chamber in the heart of Avalon's Research and Development complex creating the next generation warship for Starfleet.</para>
+		<para>Finally on June 5, 2377 the project ship was delivered to Starfleet testing grounds for final inspection. The ship was sent through all the standard Starfleet tests and passed with flying colours. High praise was given to the ship for its sturdiness, and long-range capability's. The end result of the project, the USS Pendragon, was commissioned with the registration NCC-86271.</para>
+		<para>The Pendragon-Class Battlecruiser is designed to provide military superiority in unstable regions. As such, it is well armed and self reliant, capable of handling most military situations short of fleet battle. However, as Star Fleet appears to be taking on the role of galactic police officer the Pendragon class is fitted for diplomatic purposes to hopefully stop conflict as it starts.</para>
+		<para>When the Pendragon is in a Fleet/Task force situation the firepower, manoeuvrability, and size of the Pendragon makes its role in the battlefield are less defined then that of destroyers and dreadnoughts. As a result, the Pendragon is capable of many different combat roles, a sample of which are listed here:</para>
+		<simplelist>
+			<member>Frontline combat</member>
+			<member>Support of frontline vessels</member>
+			<member>Flank Attack</member>
+			<member>Rapid Response to Threat vessels</member>
+			<member>Fleet Command</member>
+			<member>High Security Prisoner transport</member>
+		</simplelist>
+	</sect1>
+	<sect1>
+		<title>Structure and Construction</title>
+		<epigraph>
+			<attribution>--The Metatron</attribution>
+			<para>"She can rebuild you. She has the technology."</para>
+		</epigraph>
+		<para>The Pendragon, despite being a combat vessel, resembles the more common exploration cruiser except for the fact it is heavily armed. The saucer section itself is circular, with the engineering hull blending out of it. Fixed off each side of the engineering hull there is a set of warp nacelle pylons.</para>
+		<para>The Pendragon utilizes a series of interlocking tritanium/duranium truss frames for its space frame construction. Instead of gamma wave welding, the Pendragon Project ship and all ships of its class used Transporter Welding<xref linkend="transporterwelding"/> to create stronger joints compared to traditional construction methods.</para>
+		<para>Furthermore, the Pendragon's hull is completely covered with 8 cm of enhanced Tritanium armour. This armour can easily resist fire from type 8 phasers in most areas where there is enough structural backing to support the armour. This is further reinforced with an additional 4-cm layer of ablative armour covering allowing an evenly distributed level of protection along most of the hull.</para>
+		<para>These ablative inserts can be found on areas including,</para>
+		<simplelist>
+			<member>Most of the warp nacelles</member>
+			<member>All of the bridge structure</member>
+			<member>Space lock openings</member>
+			<member>Protected vents</member>
+			<member>Protective sensor plates</member>
+			<member>Window coverings</member>
+			<member>Shuttle bay doors</member>
+			<member>Areas where normal armour cannot effectively protect to full due to the need for structural support behind it.</member>
+		</simplelist>
+		<para>Further use of enhanced Tritanium armour is made with in the ship to protect the crew from attacks that pierce the armoured hull. This includes 5-cm armour inserts in most walls, ceiling and floors between 10 and 20 meters from the hull. Walls protected in such a manner can resist type V phaser fire with ease, and prevent key locations on the ship from being destroyed by powerful shot piercing through the hull.</para>
+		<para>Key points of the ship are further armoured with enhanced Tritaniuml including (but not limited to)</para>
+		<simplelist>
+			<member>Bridge</member>
+			<member>Engineering</member>
+			<member>Structural integrity field and inertial dampening field generators</member>
+			<member>Armoury</member>
+			<member>Sickbay</member>
+			<member>Matter and anti-matter fuel storage</member>
+			<member>Torpedo magazines</member>
+			<member>Torpedo bays</member>
+		</simplelist>
+	</sect1>
+	<sect1>
+		<title>Science and Remote Sensing Systems</title>
+		<epigraph>
+			<attribution>--The Offspring, "One Fine Day"</attribution>
+			<para>"I believe it is my god-given right to destroy everything in my sight!"</para>
+		</epigraph>
+		<sect2>
+			<title>Computer Systems</title>
+			<para>The Pendragon is equipped with 3 military orientated science labs on deck 4 that are capable of handling the basic science needs of any federation ship. These can easily function as evidence testing and analysis labs for criminal justice use. There is also a basic stellar cartography lab on the same deck as the science labs.</para>
+			<para>The Pendragon utilizes three computer cores, and backed by a series of bio-neural gel-packs. Each core is capable of handling all the functions of the ship, so the three cores provide 100% redundancy. Should the ship be required to run with just one core active, there will be no interruptions, although some secondary and recreation functions may be suspended. Cooling of each core is handled by liquid nitrogen loops, with incorporated delayed-venting heat storage blocks for stealth operations.</para>
+			<para>Because all three of the computer cores are isolinear-based systems, the tried and true LCARS operating system program was used for the base operating system. Some new features were added to the old LCARS operating system to provide for some of the special needs of a combat vessel. These new features include better tactical recognition and targeting systems, faster sensor sweep protocols and the addition of sentinel programs to the security matrix.</para>
+			<para>Bio-neural gel-packs are used for optimum response times and data handling efficiency. Networks of bio-gel packs are distributed throughout the ship. A total of 420 bio-gel packs assist with the function of the ship and systems. In the event of total core shutdown, the bio-gel packs take over all the basic functions of the ship.</para>
+		</sect2>
+		<sect2>
+			<title>Sensory Systems</title>
+			<para>The Pendragon is equipped with standard sensor packages. Some of these are behind the main deflector, while others are placed in sensor pallet arrays. They can be upgraded through time as deemed necessary. Sensor are attached to shock protective mountings, and protected by articulated hull plating. The only time a sensor is fully exposed is when running deep in-depth scans. In addition, the Pendragon is equipped with Emissions Tracking System units for improved targeting during combat.</para>
+			<para>The Pendragon carries a selection of scientific probes, which can be restocked at any star base, or built in its Machine Shop<xref linkend="machineshop"/>.</para>
+		</sect2>
+		<sect2>
+			<title>Holographic Crew Members</title>
+			<para>Sickbay is equipped with two EMH mark IV systems for use if needed, as described below.</para>
+		</sect2>
+	</sect1>
+	<sect1>
+		<title>Warp Propulsion Systems</title>
+		<epigraph>
+			<attribution>--Agent K</attribution>
+			<para>"Push the little red button."</para>
+		</epigraph>
+		<simplelist>
+			<member role="Warp Core">1500 Cochrane Warp Core</member>
+			<member role="Max. Sustainable Warp">9.3</member>
+			<member role="Emergency Warp">9.7 (12 hours)</member>
+			<member role="Cruising Speed">warp 6.0</member>
+		</simplelist>
+		<para>The Warp Propulsion System (WPS) of the Pendragon-Class Battlecruiser consists of three major components: the Matter/Anti-Matter reaction assembly, the power transfer conduits, and the two warp engine nacelles. Specifications sent to Avalon called for the Pendragon to be able to maintain a normal cruise speed of Warp 6.0 until fuel exhaustion, a maximum cruise of Warp 9.3, and an emergency warp speed of Warp 9.7 sustainable for 12 hours To achieve this the ship uses warp nacelles designed to prevent the subspace distortion effect present in old warp propulsion systems.</para>
+		<para>The Pendragon has 30 standard anti-matter storage tanks, allowing a Pendragon-Class Battlecruiser an operational life of approximately five to seven years before fuel exhaustion. Deuterium tanks are located in the star drive hull, and can be access for refuelling via aperture. The tanks hold a sufficient amount of deuterium to allow for a five-year mission life under normal operational conditions.</para>
+	</sect1>
+	<sect1>
+		<title>Impulse Propulsion Systems</title>
+		<epigraph>
+			<attribution>--David Levison</attribution>
+			<para>"Faster. Must go faster."</para>
+		</epigraph>
+		<para>The Impulse Propulsion Systems (IPS) handles the primary sub light propulsion of the ship and certain power generation. The Pendragon has two impulse engines located in the saucer hull. The Deuterium tanks provide fuel for the impulse drives. Due to relativity and fuel constraints, that can cause major computer malfunctions, the ship is never taken faster the .27c.</para>
+		<para>The Pendragon has a rapid rate of acceleration and deceleration. However, the ship is incapable of the sharp turns that characterise some smaller vessels. As such, it is not recommend that Pendragons be sent to areas requiring this ability, such as the Badlands.</para>
+	</sect1>
+	<sect1>
+		<title>Tactical Systems</title>
+		<epigraph>
+			<attribution>--Favourite Baseball chat of Klingon baseball fans everywhere</attribution>
+			<para>"Death to the Opposition!"</para>
+		</epigraph>
+		<sect2>
+			<title>Shield Systems</title>
+			<para>The shields of the Pendragon were made slightly tighter than usual in order to save as much power as possible. In addition, the Pendragon is equipped with a series of back-up shield emitters designed to protect the Bridge, deflector array, warp nacelles and weapon systems. These only provide protection to these locations, not to the entire ship. These shields are only activated should the main shields fail.</para>
+			<simplelist>
+				<member role="Maximum Gravitational Load">2700 megawatts</member>
+				<member role="Maximum Energy Dissipation Rate">7.9 x 10^5 kilowatts</member>
+			</simplelist>
+		</sect2>
+		<sect2>
+			<title>Phaser Systems</title>
+			<para>Phaser systems were incorporated to allow the ship to fire in any direction, although the most effective firepower is found to the front of the vessel. The recharge rate for each phaser bank is less then or equal to .4 seconds. Phaser emitters are optimised to produce an output on 5.1 MW while still being able to maintain a full power for 1.5 hours due in part to a massive reworking of the coolant systems and power supply systems.</para>
+			<simplelist>
+				<member>4 Type-X Phaser Banks, each with 190 emitters, mounted on the saucer section.</member>
+				<member>4 Type-X Phaser Banks, with a total of 280 emitters, mounted on the star drive section.</member>
+			</simplelist>
+		</sect2>
+		<sect2>
+			<title>Torpedo Systems</title>
+			<para>The Pendragon has a forward facing pair of these torpedo tubes on either side of the main defector dish, and another pair of rear facing tubes is mounted near the end of the star drive hull. These torpedo launcher can each load, burst fire 4 star fleet standard torpedoes, and reset the torpedo tube for another load in 15 second flat. Up to 8 torpedoes can be loaded into a torpedo tube at one time but the loading of the 4 extra torpedoes requires a extra 10 seconds to torpedo fire procedure.</para>
+			<para>All Pendragon Battlecruiser carries a ratio of 100 Quantum torpedoes, 500 Photon torpedoes, and over 100 sensor probes in their torpedo magazines.</para>
+		</sect2>
+		<sect2>
+			<title>Self-Destruct</title>
+			<para>The Pendragon-Class carries a complete self-destruct system, intended to leave no remains of the ship. The main features of this are 42 rings of detonators and safety interlock release systems on the matter/anti-matter storage units.</para>
+		</sect2>
+	</sect1>
+	<sect1>
+		<title>Command and Support Systems</title>
+		<epigraph>
+			<attribution>--Primacron</attribution>
+			<para>"Of Course! The reverse switch!"</para>
+		</epigraph>
+		<para>The Pendragon-Class Battlecruiser includes all standard EPS, fluid transfer, ODN lines, atmospheric, and other energetic or consumable systems. EPS conduits and ODN fibre bundles are reinforced to protect against damage in battle and tactically placed to prevent rupture due to internal phaser fire. Jefferies Tubes provide access to all major systems. Turbolifts are used to connect all areas of the ship. Auxiliary power is provided by a series of power generators located around the ship. These will power most systems on-board the ship.</para>
+		<sect2>
+			<title>Bridge</title>
+			<para>The Bridge is found on Deck 1. The Captain's chair is in the centre of the Bridge. To the Captain's right is the XO's chair. A third chair is found to the Captain's left for use if needed. Conn and Ops stations are in front of the Captain. Primary Tactical Control is behind the Captain; a Security Station is behind this to relieve the workload of Tactical Officers. The Engineering Station (found next to the Security Station) is large enough to accommodate two Engineers at any time, and offers extensive control over engineering systems. A science station is also present.</para>
+		</sect2>
+		<sect2>
+			<title>Battle Bridge</title>
+			<para>A Battle Bridge is on Deck 7. This has a single command seat plus conn, ops, tactical and engineering stations.</para>
+		</sect2>
+		<sect2>
+			<title>War Room</title>
+			<para>A War Room is found on Deck 1, adjacent to the Bridge. As well as allowing co-ordination between fleet elements and planning for fleet operations, it will also serve as a Briefing Room for Command staff and Department Heads.</para>
+		</sect2>
+		<sect2>
+			<title>Main Engineering</title>
+			<para>In the event that both main and battle bridge become disabled, captured or destroyed, Main Engineering is capable of serving as a bridge unit. Workstations would be configured for Conn, Ops, Tactical, and other command functions. Main Engineering is a two-deck facility, found on Decks 12 and 11.</para>
+		</sect2>
+		<sect2>
+			<title>Diplomatic Facilities</title>
+			<para>The Pendragon is equipped with basic diplomatic facilities on deck 4. The Diplomatic areas on this deck only take up a small portion of the ships area but provide enough room for basic negotiations. Food can be cooked in the Mess hall and brought up if need. Most of the quarters on this deck are dedicated diplomatic quarters and as such are a little more lavish in their decor and set up. The diplomatic areas could be quickly converted to command and tactical planning areas for the brass, and Military Justice Division centres that serve out in the field.</para>
+		</sect2>
+		<sect2>
+			<title>Armory</title>
+			<para>On deck 7 is where most of security resides. The armoury that is on this deck is rather large and maintains a collection of federation phaser capable of arming the whole crew and then some. Type 1, type 2, and type 3 phasers and their variations are kept here along with hazard, black ops and marine armoured suits. Other systems that are kept here including the uncommonly seen Type 4 squad cannon, TR-116 rifles, Iso-magnetic Disintegrators and Tetryon Pulse Launchers. This area is of course protected by a thick 5-cm layer of Hard Metal Type Armour capable of protecting against most internal security breaches.</para>
+		</sect2>
+		<sect2>
+			<title>Brig</title>
+			<para>The Brig resides on the other side of the deck from the armoury. There are 10 cells here protected by force fields, transport inhibitors, and 5-cm layer of Hard Metal Type Armour over the walls around and in the brig. Besides the force field guarded entry the only other opening in a cell is a maintenance hatch in the ceiling that is protected by electrostatic circuits.</para>
+		</sect2>
+		<sect2>
+			<title>Phaser Range</title>
+			<para>A Phaser Practice Range is present in order to provide practice with weaponry without using up more of the ship's resources than are necessary.</para>
+		</sect2>
+		<sect2>
+			<title>Departmental Offices</title>
+			<para>Each Department Head has his or her own office. These are located together with the officer's respective sphere of influence (example: The COS's office is between the Brig and armoury).</para>
+		</sect2>
+		<sect2>
+			<title>Machine Shop</title>
+			<para>The Pendragon is equipped with a machine shop<xref linkend="machineshop"/> area so to prolong its ability to stay in the field. This area equipped with the basic versions of the latest tools deemed necessary by star fleet to keep the Pendragon parts in top condition due to normal wear and tear.</para>
+		</sect2>
+	</sect1>
+	<sect1>
+		<title>UItility Systems</title>
+		<epigraph>
+			<attribution>--Call</attribution>
+			<para>"This way."</para>
+		</epigraph>
+		<sect2>
+			<title>Cargo Bays</title>
+			<para>Storage bays can be found though out the ship. These cargo bays are of varying capacity and capacity. Some are equipped with cargo transporters depending on the normal content and location of the cargo bay.</para>
+		</sect2>
+		<sect2>
+			<title>Tractor Beam Systems</title>
+			<para>The Pendragon-Class is fitted with a Tractor Beam system as standard. This is found immediately below the Deflector Array, with a maximum range of 20,000km. Effective range is dependent on the mass of the object being tractored.</para>
+		</sect2>
+		<sect2>
+			<title>Transporter Systems</title>
+			<para>The Pendragon-Class has three pairs of transporter rooms. These are to be found on decks 2, 10 and 16.</para>
+		</sect2>
+		<sect2>
+			<title>Communication Systems</title>
+			<para>The Pendragon utilises RF and subspace communication packages common to most, if not all, Star Fleet vessels. In addition, closed-band and encoded transmission equipment is fitted to aid in Fleet Command and Combat Group Manoeuvres.</para>
+		</sect2>
+	</sect1>
+	<sect1>
+		<title>Crew Support Systems</title>
+		<epigraph>
+			<attribution>--Agent J</attribution>
+			<para>"Unlimited technology from across the galaxy, and all we get is this Ford POS."</para>
+		</epigraph>
+		<sect2>
+			<title>Environmental Systems</title>
+			<para>A de-centralized environmental system is used, allowing quarters to have atmospheric conditions changed to suit the occupant and make it close to impossible for life support to be knocked out by targeting a single portion of the ship. These decentralized life support systems comprise of gravity deck plating, and room based air filtration systems. Sickbay and the cargo bays also have a wide degree of environmental flexibility for the accommodation of refugees, specialized crops and aiding the recovery of patients. As needed, all closed off rooms of the ship can be set to Type M, H, K, and L environment conditions within a little as a few minutes. Should one of the independent life support system fail (however unlikely as it may be because of all the safe guards built into the systems), main life support systems will take over.</para>
+		</sect2>
+		<sect2>
+			<title>Recreational Facilities</title>
+			<para>The principal recreational facilities on the Pendragon are the 10-Forward (10-F) bar and lounge, popular amongst crewmembers looking to relax. Replicators and found in 10-F and the Mess Hall for the use of anyone on ship. These are significantly larger than those found in crew quarters.</para>
+			<para>Additional recreational facilities consist of 2 holodecks, 6 holosuites. Crewmembers can also participate in training exercises that can count as field experiences towards promotions. The holodecks can also be used for combat-training exercises. As with replicators, all holo-recreation facilities shut down during red alert and can only be turned on during such at time by a command officer.</para>
+			<para>In addition, to keep the crew in good health, there is small gym facility. This includes a matted exercise area perfect for hand combat training, practice (or ironing out crew members differences of opinions), machine fitness room, and a military standard sized basketball court. There is also a small steam room, and small hot tub area between the locker rooms.</para>
+		</sect2>
+		<sect2>
+			<title>Crew Quarters</title>
+			<para>The ship includes enough quarters to house the crew, plus some guests. Although not large, crew quarters are space-efficient by nature. Diplomatic and command quarters offer a significant improvement. Should crewmembers need special quarter's arrangements; there is normally enough flexibility in the Pendragon's set up to provide.</para>
+			<para>All quarters have personal replicators capable of replicating small meals, beverages and small objects. The Mess hall and 10-Forward Lounge are both equipped with high-volume replicators, which incorporate imaging scanners for entering new meals, beverages and objects for future replication. If needed, the captain can assign a replicator ration system in crisis situations. Replicators go off line in red alert situations, and can only be turned on during such at time by a command level officer.</para>
+		</sect2>
+		<sect2>
+			<title>Sickbay</title>
+			<para>The Pendragon's Sickbay is large and well equipped, with the intention of returning crewmembers to duty as soon as possible. There are 4 main joined areas with 10 beds and, surgical facilities in each area. The main sickbay areas and labs are equipped with holo-emitters, personal medical computer core, and four micro fusion generators. As such, up to 2 EMH programs can be run throughout sickbay, and only sickbay, at one time. In addition to this, there are quarters already fitted as recovery areas for medical usage, medical labs, and storage for additional equipment and supplies in a special storage bay.</para>
+		</sect2>
+		<sect2>
+			<title>Lifeboats</title>
+			<para>The Pendragon-Class is fitted with enough lifeboats to fully accommodate the potential passenger capacity of the ship (passenger includes crew, civilians and dignitaries). This ensures that no one is left behind if the ship must be abandoned.</para>
+		</sect2>
+		<sect2>
+			<title>Crew Complement</title>
+			<para>In addition to standard Department heads, the Pendragon may typically carry a Chief Tactical Officer and/or Chief Intelligence Officer as a long-term officer and members of the Judge Advocate General's office or Diplomatic Officer on short-term missions.</para>
+		</sect2>
+	</sect1>
+	<sect1>
+		<title>Auxiliary Spacecraft Systems</title>
+		<epigraph>
+			<attribution>--Willow Rosenburg</attribution>
+			<para>"I'll get Oz. He has a van."</para>
+		</epigraph>
+		<para>The Pendragon has one shuttle bay, found on decks 10-12. The bay can hold a total of 10 Armadillo-Class shuttlecraft.</para>
+		<para>To keep shuttlecraft and turbo lifts in peak condition; there is a shuttle maintenance bay on deck 13-14. Shuttlecraft can be lowered from the main shuttle bay or lifted from the make shift shuttle bays by electro-hydraulic elevator landing pads. There is also an open- ended turbo lift tunnel here allowing turbo lifts to be brought in for maintenance.</para>
+	</sect1>
+	<sect1>
+		<title>Technical Specifications</title>
+		<epigraph>
+			<attribution>--Daniel Osbourne</attribution>
+			<para>"Actually, it explains a lot."</para>
+		</epigraph>
+		<sect2>
+			<title>Dimensions and Structure</title>
+			<simplelist>
+				<member role="Length">499.09 meters</member>
+				<member role="Beam (Width)">212.72 meters</member>
+				<member role="Height">96.95 meters</member>
+				<member role="Decks">20</member>
+			</simplelist>
+		</sect2>
+		<sect2>
+			<title>Crew Complement</title>
+			<simplelist>
+				<member role="Officers and Crew">600</member>
+				<member role="Command">5%</member>
+				<member role="Engineering">30%</member>
+				<member role="Intelligence">5% (not present on every ship of the class)</member>
+				<member role="Medical">25%</member>
+				<member role="Science">5%</member>
+				<member role="Security">25% (30% if no Intelligence officers)</member>
+				<member role="Tactical">5%</member>
+				<member role="Visiting Personnel">100</member>
+				<member role="Maximum Evacuation Limit">1200</member>
+			</simplelist>
+		</sect2>
+		<sect2>
+			<title>Computer Systems</title>
+			<simplelist>
+				<member role="Core">Isolinear Rod Computer Core x3</member>
+				<member role="Operating System">Starfleet Library Computer Access and Retrieval System (LCARS)</member>
+				<member role="User Interface">MAJEL</member>
+			</simplelist>
+		</sect2>
+		<sect2>
+			<title>Warp Systems</title>
+			<simplelist>
+				<member role="Power Plant">One 1500+ cochrane M/ARA core feeding two nacelles</member>
+				<member role="Cruising Velocity">Warp 6.0</member>
+				<member role="Maximum Sustainable Velocity">Warp 9.3</member>
+				<member role="Maximum Velocity">Warp 9.7 (12 hours)</member>
+			</simplelist>
+		</sect2>
+		<sect2>
+			<title>Impulse Systems</title>
+			<simplelist>
+				<member role="Full Impulse">0.27c</member>
+				<member role="Accellerate">13 seconds</member>
+				<member role="Decellerate">26 seconds</member>
+			</simplelist>
+		</sect2>
+		<sect2>
+			<title>Defensive Systems</title>
+			<simplelist>
+				<member role="Shield Maximum Graviton Load (Continuous)">2700 MegaWatts</member>
+				<member role="Shield Maximum Energy Dissipation Rate">7.9 x 10^5 kilowatts</member>
+			</simplelist>
+		</sect2>
+		<sect2>
+			<title>Offensive Systems</title>
+			<simplelist role="Torpedoes">
+				<member role="Torpedo Tubes">4</member>
+				<member role="Standard Payload (total)">500 photon torpedoes; 100 Quantum Torpedoes; 100 Probes</member>
+			</simplelist>
+			<simplelist role="Phasers">
+				<member>8 Type-X Phaser Strips</member>
+			</simplelist>
+		</sect2>
+	</sect1>
+	<sect1>
+		<title>Deck Layout</title>
+		<epigraph>
+			<attribution>--Ellie Sattler</attribution>
+			<para>"How many lines of code are there?"</para>
+		</epigraph>
+		<sect2 role="Deck">
+			<title>Deck 1</title>
+			<simplelist>
+				<member>Bridge</member>
+				<member>Captain's Ready Room</member>
+				<member>War Room</member>
+			</simplelist>
+		</sect2>
+		<sect2 role="Deck">
+			<title>Deck 2</title>
+			<simplelist>
+				<member>XO's Office</member>
+				<member>CTO's Office</member>
+				<member>Transporter Rooms 01 and 02</member>
+				<member>Main Life Support Control</member>
+			</simplelist>
+		</sect2>
+		<sect2 role="Deck">
+			<title>Deck 3</title>
+			<simplelist>
+				<member>Department Command Level Crew Quarters</member>
+				<member>Computer Core 01 and 02, Level A</member>
+				<member>Storage Bays</member>
+			</simplelist>
+		</sect2>
+		<sect2 role="Deck">
+			<title>Deck 4</title>
+			<simplelist>
+				<member>Stellar Cartography Lab</member>
+				<member>Science Labs</member>
+				<member>CSO's Office</member>
+				<member>Diplomatic Meeting Rooms</member>
+				<member>Computer Core 01 and 02, Level B</member>
+				<member>Diplomatic Guest Quarters</member>
+				<member>Storage Bays</member>
+			</simplelist>
+		</sect2>
+		<sect2 role="Deck">
+			<title>Deck 5</title>
+			<simplelist>
+				<member>Sick Bay</member>
+				<member>CMO's office</member>
+				<member>Emergency Medical Computer Core</member>
+				<member>Recovery Quarters</member>
+				<member>Medical Equipment Storage Bays</member>
+				<member>Computer Core 01 and 02, Level C</member>
+				<member>Crew and Guest Quarters</member>
+				<member>Storage Bays</member>
+				<member>Deuterium storage tanks</member>
+			</simplelist>
+		</sect2>
+		<sect2 role="Deck">
+			<title>Deck 6</title>
+			<simplelist>
+				<member>Computer Core 01 and 02, Level D</member>
+				<member>Crew Quarters</member>
+				<member>Storage Bays</member>
+				<member>Deuterium storage tanks</member>
+			</simplelist>
+		</sect2>
+		<sect2 role="Deck">
+			<title>Deck 7</title>
+			<simplelist>
+				<member>Battle Bridge</member>
+				<member>COS's office</member>
+				<member>Armoury</member>
+				<member>Brig</member>
+				<member>Phaser Practice Range</member>
+				<member>Computer Core 01 and 02, Level E</member>
+				<member>Crew Quarters</member>
+				<member>Storage Bays</member>
+				<member>Deuterium storage tanks</member>
+			</simplelist>
+		</sect2>
+		<sect2 role="Deck">
+			<title>Deck 8</title>
+			<simplelist>
+				<member>Captain's Quarters</member>
+				<member>Computer Core 01 and 02, Level F</member>
+				<member>Crew and Guest Quarters</member>
+				<member>Storage Bays</member>
+			</simplelist>
+		</sect2>
+		<sect2 role="Deck">
+			<title>Deck 9</title>
+			<simplelist>
+				<member>Computer Core 01 and 20, Level G</member>
+				<member>Crew and Guest Quarters</member>
+				<member>Storage Bays</member>
+			</simplelist>
+		</sect2>
+		<sect2 role="Deck">
+			<title>Deck 10</title>
+			<simplelist>
+				<member>Transporter Rooms 03 and 04</member>
+				<member>Shuttle Bay Observation Deck, Open space</member>
+				<member>Personal Holodecks</member>
+				<member>Group Holodecks, Upper levels</member>
+				<member>10-Forward Bar and Lounge</member>
+				<member>Mess Hall</member>
+				<member>Gym Deck 01</member>
+				<member>Machine Shop, Deck A</member>
+				<member>Computer Core 03, level A</member>
+				<member>Crew and Guest Quarters</member>
+				<member>Storage Bays</member>
+			</simplelist>
+		</sect2>
+		<sect2 role="Deck">
+			<title>Deck 11</title>
+			<simplelist>
+				<member>Main Engineering level 01</member>
+				<member>Shuttle Bay Open Space</member>
+				<member>Group Holodecks, Main level</member>
+				<member>Gym Deck 02</member>
+				<member>Machine Shop, Deck B</member>
+				<member>Main Gang Way</member>
+				<member>Computer Core 03, level B</member>
+				<member>Crew and Guest Quarters</member>
+				<member>Storage Bays</member>
+			</simplelist>
+		</sect2>
+		<sect2 role="Deck">
+			<title>Deck 12</title>
+			<simplelist>
+				<member>Main Engineering level 02</member>
+				<member>Warp Core Reaction Chamber</member>
+				<member>CE's Office</member>
+				<member>Computer Core 03, level C</member>
+				<member>Crew and Guest Quarters</member>
+				<member>Shuttle Bay Landing Area</member>
+				<member>Storage Bays</member>
+			</simplelist>
+		</sect2>
+		<sect2 role="Deck">
+			<title>Deck 13</title>
+			<simplelist>
+				<member>Computer Core 03, level D</member>
+				<member>Shuttle Bay Maintenance, Open Space</member>
+				<member>Storage Bays</member>
+			</simplelist>
+		</sect2>
+		<sect2 role="Deck">
+			<title>Deck 14</title>
+			<simplelist>
+				<member>Computer Core 3, level E</member>
+				<member>Shuttle Bay Manitenance Main Area</member>
+				<member>Storage Bays</member>
+			</simplelist>
+		</sect2>
+		<sect2 role="Deck">
+			<title>Deck 15</title>
+			<simplelist>
+				<member>Computer Core 03, level F</member>
+				<member>Storage bays</member>
+			</simplelist>
+		</sect2>
+		<sect2 role="Deck">
+			<title>Deck 16</title>
+			<simplelist>
+				<member>Deflector Control abnd Array</member>
+				<member>Transporter Rooms 05 and 06</member>
+				<member>Computer Core 03, level G</member>
+				<member>torage Bays</member>
+			</simplelist>
+		</sect2>
+		<sect2 role="Deck">
+			<title>Deck 17</title>
+			<simplelist>
+				<member>Waste Management Control</member>
+				<member>Storage Bays</member>
+			</simplelist>
+		</sect2>
+		<sect2 role="Deck">
+			<title>Deck 18</title>
+			<simplelist>
+				<member>Antimatter Generator</member>
+				<member>Storage Bay</member>
+			</simplelist>
+		</sect2>
+		<sect2 role="Deck">
+			<title>Deck 19</title>
+			<simplelist>
+				<member>Warp Core Antimatter Reactant Injector</member>
+				<member>Emergency Antimatter Pods Ejection Systems</member>
+			</simplelist>
+		</sect2>
+		<sect2 role="Deck">
+			<title>Deck 20</title>
+			<simplelist>
+				<member>Emergency Warp Core Ejection Systems Area</member>
+			</simplelist>
+		</sect2>
+	</sect1>
+	<sect1>
+		<title>Ships of the Class</title>
+		<epigraph>
+			<attribution>--Christie</attribution>
+			<para>"How many are there?"</para>
+		</epigraph>
+		<para>Pendragon-Class ships are named after types of warrior throughout history.</para>
+		<simplelist role="ShipList">
+			<member role="PC">
+				<productname>Pendragon</productname>
+				<productnumber>86271</productnumber>
+			</member>
+			<member role="PC">
+				<productname>Dragoon</productname>
+				<productnumber>42069</productnumber>
+			</member>
+			<member role="PC">
+				<productname>Paladin</productname>
+				<productnumber>86272</productnumber>
+			</member>
+			<member role="PC">
+				<productname>Castellan</productname>
+				<productnumber>86273</productnumber>
+			</member>
+			<member role="PC">
+				<productname>Knight Templar</productname>
+				<productnumber>86274</productnumber>
+			</member>
+			<member role="PC">
+				<productname>Shogun</productname>
+				<productnumber>86275</productnumber>
+			</member>
+			<member role="PC">
+				<productname>Ninja</productname>
+				<productnumber>86276</productnumber>
+			</member>
+			<member role="PC">
+				<productname>Samurai</productname>
+				<productnumber>86277</productnumber>
+			</member>
+			<member role="PC">
+				<productname>Housecarl</productname>
+				<productnumber>86278</productnumber>
+			</member>
+			<member role="PC">
+				<productname>Pistoleer</productname>
+				<productnumber>86279</productnumber>
+			</member>
+			<member role="PC">
+				<productname>Lancer</productname>
+				<productnumber>86280</productnumber>
+			</member>
+			<member role="PC">
+				<productname>Berserker</productname>
+				<productnumber>86281</productnumber>
+			</member>
+			<member role="PC">
+				<productname>Grunt</productname>
+				<productnumber>86282</productnumber>
+			</member>
+			<member role="PC">
+				<productname>Gladiator</productname>
+				<productnumber>86283</productnumber>
+			</member>
+			<member role="PC">
+				<productname>Legionnaire</productname>
+				<productnumber>86284</productnumber>
+			</member>
+			<member role="PC">
+				<productname>Saracen</productname>
+				<productnumber>86285</productnumber>
+			</member>
+			<member role="PC">
+				<productname>Crusader</productname>
+				<productnumber>86286</productnumber>
+			</member>
+		</simplelist>
+	</sect1>
+	<sect1>
+		<title>Conclusion</title>
+		<epigraph>
+			<attribution>--Slag</attribution>
+			<para>"Excuse Me."</para>
+		</epigraph>
+		<para>The USS Pendragon, and its sister ships, are heavily armed, armoured frontline combat vessels. Scientific, diplomatic and recreational facilities are minimal, although present. The USS Pendragon was commissioned shortly after the Dominion War, and the class continues to serve in heavy military, swift justice, and basic science and diplomatic roles.</para>
+	</sect1>
+</article>

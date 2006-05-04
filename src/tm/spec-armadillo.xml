@@ -1,0 +1,144 @@
+<!-- <?xml version="1.0"?> -->
+<!-- edited with XML Spy v3.5 NT (http://www.xmlspy.com) by Larry Garfield (None) -->
+<!-- <!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN"
+                    "http://www.oasis-open.org/docbook/xml/4.0/docbookx.dtd"> -->
+<?xml-stylesheet type="text/xsl" href="techmanual.xslt"?>
+<article class="specification" id="armadillo">
+	<title>Armadillo-class</title>
+	<articleinfo>
+		<authorgroup role="Maintainer">
+			<author>
+				<firstname>Bradley</firstname>
+				<surname>Joy</surname>
+			</author>
+		</authorgroup>
+		<authorgroup role="Primary">
+			<author>
+				<firstname>Bradley</firstname>
+				<surname>Joy</surname>
+			</author>
+		</authorgroup>
+		<authorgroup role="Original">
+			<author>
+				<firstname>Bradley</firstname>
+				<surname>Joy</surname>
+			</author>
+		</authorgroup>
+		<keywordset>
+			<keyword role="service">NPC</keyword>
+			<keyword role="category">Shuttlecraft</keyword>
+			<keyword role="variant">Medium</keyword>
+			<keyword role="mark">I</keyword>
+		</keywordset>
+		<revhistory>
+			<revision>
+				<revnumber>1</revnumber>
+				<date>23 March 2001</date>
+				<revdescription>
+					<para>Approved by Engineering Director Owen Townes</para>
+				</revdescription>
+			</revision>
+		</revhistory>
+	</articleinfo>
+	<sect1>
+		<title>History and Mission Overview</title>
+		<para>The Armadillo shuttlecraft was developed at Avalon Ship Yards for two reasons.</para>
+		<para>Firstly, the development of the Pendragon-Class vessels. It was felt that a new shuttlecraft, more suited for the needs of combat vessels, was required.</para>
+		<para>Secondly, the massive crew reassignments both during and in the aftermath of the Dominion War. With many ships in the field, warp capable shuttle was deemed more suitable for transferring low numbers of crew member.</para>
+		<para>The Armadillo, named for a species of mammal native to Earth, was designed to fit these needs. It's primary purpose is as a transport for crew members, both for crew transfers and away teams. It also serves to increase the science capabilities of vessels, especially combat vessels, by effective extending sensor range and providing alternative means by which to examine anomalies. In some situations, it can also be used to transport ground forces to a planet, and subsequently provide air support for said forces, although it isn't ideal for such a role.</para>
+	</sect1>
+	<sect1>
+		<title>Structure and Construction</title>
+		<para>The Armadillo has a narrow nose, widening as it approaches the mid-section, at which point it settles down to one width. The overall shape is a curved upper surface, starting at the nose, with comparatively flat underside and a flat rear hull surface. Warp nacelles are attached to the craft's sides towards the rear of the shuttle.</para>
+		<para>The shuttle is constructed from standard Tritanium and Duranium alloys. The main space frame is constructed in a single piece, intended to reduce the power required for Structural Integrity Fields.</para>
+		<para>Overall, the Armadillo measures 3.24m in height, 9.43m in length, and has a beam measurement of 5.72m.</para>
+	</sect1>
+	<sect1>
+		<title>Science and Remote Sensing Systems</title>
+		<para>The Armadillo's computer core isolinear rods. User interface is provided by LCARS. Off-the-shelf sensor packages are used on the Armadillo.</para>
+	</sect1>
+	<sect1>
+		<title>Warp Propulsion Systems</title>
+		<para>The Armadillo is equipped with a 28 Cochrane Warp core. This allows for a sustainable cruise of Warp Factor 1.4. Maximum Warp is warp factor 2.3 for 3 hours.</para>
+	</sect1>
+	<sect1>
+		<title>Impulse Propulsion Systems</title>
+		<para>Sub-light propulsion is provided by RCS packages designed to provide adequate sub-light speed. These provide a sustainable speed of 0.23c. Although not the fastest craft around, it's manoeuvring ability is exceeded only by fighter craft.</para>
+	</sect1>
+	<sect1>
+		<title>Tactical Systems</title>
+		<para>Given the general wartime conditions during development, it would have been foolish not to give the Armadillo some tactical systems. It is important to note that, although present, weaponry on the Armadillo does little more than comfort the crew against anything larger than another shuttle.</para>
+		<para>The Armadillo was given Shield Generators providing a Maximum Gravitational Load of 27 MW, with a Maximum Energy Dissipation rate of 790 kW.</para>
+		<para>Offensive systems consist of two Type-IV phaser as standard, upgradeable to Type-V if needed.</para>
+	</sect1>
+	<sect1>
+		<title>Utility Systems</title>
+		<para>The Armadillo is equipped with a single Transporter Pad, which can transport two people up to 5000 kilometers.</para>
+	</sect1>
+	<sect1>
+		<title>Crew Support Systems</title>
+		<para>Although extensive crew support facilities are impossible on a shuttlecraft, some are included. A single replicator is found within the craft, limited to a single beverage or small dish at a time, along with two emergency med-kits, should the need to use them arise. Survival rations are stored next to the replicator, should the latter be inoperable.</para>
+	</sect1>
+	<sect1>
+		<title>Technical Specifications</title>
+		<sect2>
+			<title>Dimensions and Structure</title>
+			<simplelist>
+				<member role="Length">9.43 meters</member>
+				<member role="Beam (Width)">5.72 meters</member>
+				<member role="Height">3.24 meters</member>
+				<member role="Decks">1</member>
+			</simplelist>
+		</sect2>
+		<sect2>
+			<title>Crew Complement</title>
+			<simplelist>
+				<member role="Officers and Crew">1-3</member>
+				<member role="Total Capacity">10</member>
+				<member role="Maximum Evacuation Limit">17</member>
+			</simplelist>
+		</sect2>
+		<sect2>
+			<title>Computer Systems</title>
+			<simplelist>
+				<member role="Core">Isolinear Rod Based Computer Core</member>
+				<member role="Operating System">Starfleet Library Computer Access and Retrieval System (LCARS)</member>
+				<member role="User Interface">MAJEL</member>
+			</simplelist>
+		</sect2>
+		<sect2>
+			<title>Warp Systems</title>
+			<simplelist>
+				<member role="Power Plant">One 28 Cochrane M/ARA core feeding two nacelles</member>
+				<member role="Cruising Velocity">Warp 1.4</member>
+				<member role="Maximum Sustainable Velocity">Warp 2</member>
+				<member role="Maximum Velocity">Warp 2.3 (12 hours)</member>
+			</simplelist>
+		</sect2>
+		<sect2>
+			<title>Impulse Systems</title>
+			<simplelist>
+				<member role="Full Impulse">0.24cc</member>
+				<member role="Accellerate">15 seconds</member>
+				<member role="Decellerate">20 seconds</member>
+			</simplelist>
+		</sect2>
+		<sect2>
+			<title>Defensive Systems</title>
+			<simplelist>
+				<member role="Shield Maximum Graviton Load (Continuous)">27 MegaWatts</member>
+				<member role="Shield Maximum Energy Dissipation Rate">790 kilowatts</member>
+			</simplelist>
+		</sect2>
+		<sect2>
+			<title>Offensive Systems</title>
+			<simplelist role="Phasers">
+				<member>1 Type-IV Phaser Emitter (upgradable to Type-V)</member>
+			</simplelist>
+		</sect2>
+	</sect1>
+	<sect1>
+		<title>Conclusion</title>
+		<para>Following the development of the Armadillo as an armoured shuttlecraft, the design has been used extensively by Avalon and other Ship Yards, due to its versatile and resistant design. It continues to see service in a variety of situations.</para>
+	</sect1>
+</article>

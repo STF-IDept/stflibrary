@@ -1,0 +1,49 @@
+<?xml-stylesheet type="text/xsl" href="techmanual.xslt"?>
+<article class="journalarticle" id="articlename">
+	<title>TITLE</title>
+	<subtitle/>
+	<titleabbrev>TITLEABBREV</titleabbrev>
+	<articleinfo>
+		<authorgroup role="Maintainer">
+			<author>
+				<firstname>FIRST</firstname>
+				<surname>LAST</surname>
+			</author>
+		</authorgroup>
+		<authorgroup role="Primary">
+			<author>
+				<firstname>FIRST</firstname>
+				<surname>LAST</surname>
+			</author>
+		</authorgroup>
+		<authorgroup role="Contributing">
+			<author>
+				<firstname>FIRST</firstname>
+				<surname>LAST</surname>
+			</author>
+		</authorgroup>
+		<authorgroup role="Original">
+			<author>
+				<firstname>FIRST</firstname>
+				<surname>LAST</surname>
+			</author>
+		</authorgroup>
+		<revhistory>
+			<revision>
+				<revnumber>1</revnumber>
+				<date>DATE</date>
+				<revdescription>
+					<para>Posted in the ED</para>
+				</revdescription>
+			</revision>
+		</revhistory>
+	</articleinfo>
+	<sect1>
+		<title>NAME</title>
+		<para>X</para>
+	</sect1>
+	<sect1>
+		<title>NAME</title>
+		<para>X</para>
+	</sect1>
+</article>

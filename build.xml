@@ -61,6 +61,8 @@
   <property name="xslFoMinutes" value="${xslPath}/fo-minutes.xsl"/>
   <property name="xslHtmlMedia" value="${xslPath}/html-media.xsl"/>
   <property name="xslFoMedia" value="${xslPath}/fo-media.xsl"/>
+  <property name="xslHtmlTm" value="${xslPath}/html-tm.xsl"/>
+  <property name="xslFoTm" value="${xslPath}/fo-tm.xsl"/>
 
 	<!-- Define the actual Java classes to use. -->
 	<property name="xslt.processor.class" value="com.icl.saxon.StyleSheet" />
@@ -121,6 +123,8 @@
   <target name="minutes" depends="html.minutes, pdf.minutes" />
 
   <target name="media" depends="html.media, pdf.media" />
+	
+  <target name="tm" depends="html.tm, pdf.tm" />
 
 	<target name="html.titlepage" depends="init">
 		<java classname="${xslt.processor.class}" fork="yes" failonerror="true">
@@ -484,8 +488,45 @@
       </java>
     </target>
 
+    <target name="html.tm" depends="init, html.titlepage">
+      <java classname="${xslt.processor.class}" fork="yes" failonerror="true">
+        <classpath refid="xslt.processor.classpath" />
+        <jvmarg value="-Djavax.xml.parsers.DocumentBuilderFactory=org.apache.xerces.jaxp.DocumentBuilderFactoryImpl"/>
+        <jvmarg value="-Djavax.xml.parsers.SAXParserFactory=org.apache.xerces.jaxp.SAXParserFactoryImpl"/>
+        <jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
+        <arg line="-x ${resolving.reader.class}"/>
+        <arg line="-y ${resolving.reader.class}"/>
+        <arg line="-r ${catalog.resolver.class}"/>
+        <arg line="-u"/>
+        <arg line="${source.dir}/tm/book.xml"/>
+        <arg line="${xslHtmlTm}" />
+        <arg line="base.dir=${build.dir}/" />
+      </java>
+    </target>
 
-
+    <target name="pdf.tm" depends="init">
+      <echo>Building XSL-FO intermediate output.</echo>
+      <java classname="${xslt.processor.class}" fork="yes" failonerror="true">
+        <classpath refid="xslt.processor.classpath" />
+        <jvmarg value="-Djavax.xml.parsers.DocumentBuilderFactory=org.apache.xerces.jaxp.DocumentBuilderFactoryImpl"/>
+        <jvmarg value="-Djavax.xml.parsers.SAXParserFactory=org.apache.xerces.jaxp.SAXParserFactoryImpl"/>
+        <jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
+        <arg line="-x ${resolving.reader.class}"/>
+        <arg line="-y ${resolving.reader.class}"/>
+        <arg line="-r ${catalog.resolver.class}"/>
+        <arg line="-u"/>
+        <arg line="-o ${fo.dir}/tmfo"/>
+        <arg line="${source.dir}/tm/book.xml"/>
+        <arg line="${xslFoTm}" />
+      </java>
+      <echo>Creating RM PDF file</echo>
+      <java classname="${fo.processor.class}" failonerror="true">
+        <classpath refid="fo.processor.classpath" />
+        <arg line="-fo ${fo.dir}/tm.fo"/>
+        <arg line="-pdf ${build.dir}/pdf/tm.pdf"/>
+      </java>
+    </target>
+	
 	<!--
 	<target name="resolve.set" depends="init">
 		<echo>Resolving unified input file.</echo>

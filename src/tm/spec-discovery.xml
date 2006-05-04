@@ -1,0 +1,538 @@
+<!-- <?xml version="1.0" encoding="UTF-8"?> -->
+<!-- edited with XML Spy v3.5 NT (http://www.xmlspy.com) by Larry Garfield (None) -->
+<!-- <!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN"
+                    "http://www.oasis-open.org/docbook/xml/4.0/docbookx.dtd" [ ]> -->
+<?xml-stylesheet type="text/xsl" href="techmanual.xslt"?>
+<article class="specification" id="discovery">
+	<title>Discovery-class</title>
+	<articleinfo>
+		<authorgroup role="Maintainer">
+			<author>
+				<firstname>Barret</firstname>
+				<surname>Vogtman</surname>
+			</author>
+		</authorgroup>
+		<authorgroup role="Primary">
+			<author>
+				<firstname>Mackael</firstname>
+				<surname>Stockhausen</surname>
+			</author>
+			<author>
+				<firstname>Barret</firstname>
+				<surname>Vogtman</surname>
+			</author>
+		</authorgroup>
+		<authorgroup role="Original">
+			<author>
+				<firstname>Mackael</firstname>
+				<surname>Stockhausen</surname>
+			</author>
+			<author>
+				<firstname>Barret</firstname>
+				<surname>Vogtman</surname>
+			</author>
+		</authorgroup>
+		<keywordset>
+			<keyword role="service">PC</keyword>
+			<keyword role="category">Observer</keyword>
+			<keyword role="variant">Medium</keyword>
+			<keyword role="mark">I</keyword>
+		</keywordset>
+		<revhistory>
+			<revision>
+				<revnumber>1</revnumber>
+				<date>15 December 2000</date>
+				<revdescription>
+					<para>Approved by Engineering Director Owen Townes</para>
+				</revdescription>
+			</revision>
+		</revhistory>
+	</articleinfo>
+	<sect1>
+		<title>History and Mission Overview</title>
+		<para>After the Dominion War, several members of Star Fleet Science felt that Star Fleet was losing focus of its science mission. They successfully lobbied to begin R &amp; D into a new generation long-range science vessel. After recovery of the Prometheus in 2374, it was decided to use a modified design as a basis for the new class. The primary and secondary hull we're left as a single unit, changing the three-stage separation to a two stage. Do to its role as a science vessel, 10 phaser arrays and one torpedo tube were removed. This exchange allowed ample room for the addition of science labs and conference rooms. Most notable is the addition of two interchangeable mission modules: One in the primary hull and one in the secondary. These modules can be changed according to the ships mission. The ship is also equipped for a planetary landing should such be warranted and necessary.</para>
+		<para>The designers opted to keep several key advancements. The quad nacelle and the MARA Mark II Dual-Split Prototype were kept. This design allows both the primary and secondary hulls to remain warp capable during a separation. They also kept the holo-emitters placed throughout the ship. Placement of the holo-emitters throughout the ship allows the upgraded EMH (Mark IV) access to the entire ship in the event of a medical emergency and no medics were available.</para>
+		<para>One final addition was the conference rooms. This allows the class to also be utilized for diplomatic missions. It may be utilized in both a courier and/or hosting capacity.</para>
+		<simplelist role="Mission Objectives">
+			<member>Deep Space Exploration</member>
+			<member>First Contact</member>
+			<member>First Response Planetary Assistance</member>
+			<member>Diplomatic Transport</member>
+			<member>Diplomatic Hosting</member>
+		</simplelist>
+	</sect1>
+	<sect1>
+		<title>Structure and Construction</title>
+		<para>The Discovery, like the Prometheus, is a hybrid of the Intrepid and Sovereign classes. It utilizes a quad-nacelle design allowing the primary and secondary hulls to both remain warp capable during a separation. The separation occurs between decks 7 and 8. The nacelles are similar in design to the Sovereign class. The rest of the frame is based on the Intrepid class with one exception; the "saucer" section is more triangular in shape; not quite as much as the Prometheus, however.</para>
+		<para>The ships contain a double hull constructed of heavy duranium/tritanium alloy. It also contains a high-level structural integrity field. The ships have 13 decks and come equipped with landing struts should a planetary landing be necessary. The secondary hull is capable of a planetary landing during a separation.</para>
+		<sect2>
+			<title>Mission Modules</title>
+			<para>The class is equipped with interchangeable modules on decks 2 and 12 with the capability of being changed at a starbase. Several modules have been developed to enhance the ships effectiveness in different missions.</para>
+			<para>"Standard module" -- contains systems that are not required for a specific mission, hence the name 'Standard', such as two Type X phaser banks per module (one ventral, one dorsal), additional crew quarters, and additional sensory and communication pallets.</para>
+			<para>"Diplomatic Mission Modules" --- The Discovery Class has a Federation diplomatic rating of 4. Although any star ship can be transformed into a diplomatic vessel, the Discovery class can be re-fitted with the Diplomatic Modules. These modules include, additional staff quarters, independent communications facilities, facilities for up to 50 members of the press, and a conference hall for 450 guests. The addition of the modules would also require an adjustment to existing diplomatic facilities. The conversion would raise the diplomatic rating of the class to 5 and final specs would be as follows:</para>
+			<simplelist>
+				<member>20 - Ambassadorial quarters at 100 square meters each</member>
+				<member>400 - Staff quarters at 15 square meters each</member>
+				<member>1 - 1,000 square meter conference hall complexes for 450 guests</member>
+				<member>20 - 90 square meter 25 seat-briefing rooms</member>
+				<member>20 - Independent communications facilities</member>
+				<member>15% of all facilities, including interconnecting corridors, capable of supporting H, K, or L environments</member>
+				<member>Facilities for up to 50 members of the press</member>
+			</simplelist>
+			<para>The addition of the diplomatic modules requires both module sections to be utilized; hence no other module can be used in conjunction.</para>
+			<para>"Medical Mission Module" -- When in construction, Lt.Cmdr Mackael Stockhausen thought about a 'Medical Emergency' or Evacuation plan. The Medical Module could transform a portion of the ship into a medical response team. Two additional sickbays could be added; another Emergency Medical Hologram would be added. Due to the extreme circumstances under which this module would be utilized, however, the module EMH would be restricted to the module sickbays. In order to accommodate the possibility of a planetary evacuation, the medical module facilities include extra equipment for xeno-biology.</para>
+			<para>"Advanced Science Module" -- This module provides the Discovery with the ability to perform deep space exploration and mapping. Additional science labs, such as Xenobiology, Exobiology, Stellar Cartography, Astrometrics, etc., along with additional sensor arrays come standard with this module.</para>
+			<para>Additional modules may be created if a need arise for a specific mission.</para>
+		</sect2>
+	</sect1>
+	<sect1>
+		<title>Science and Remote Sensing Systems</title>
+		<para>The Discovery Class contains a bio/neural gel pack computer system network with LCARS 3.1 interface. It has 2000 dedicated modules, a data transfer rate of 7500 kilo quads/sec, and a total storage capacity of 852,000 module/module.</para>
+		<para>The class also contains an advanced version of the Mark IV Emergency Medical Hologram. The modified EMH Mark IV is capable of responding anywhere in the ship due to strategic placement of holo-emitters throughout all habitable portions of the ship with exception of Jeffries tubes.</para>
+	</sect1>
+	<sect1>
+		<title>Warp Propulsion Systems</title>
+		<para>The class is equipped with dual M/ARA warp cores each feeding two nacelles, one located on decks 4 through 6 and one on decks 9 through 11. This setup provides for both the primary hull and secondary hull to remain warp capable during a separation. This design gives both sections the capability of a cruising velocity of Warp 7.25, maximum sustainable velocity warp 8.6, and a maximum velocity of warp 9.8 for 12 hours. When not separated, only one warp system will be active, while the other is kept in cold standby. Should the ship be brought to yellow or red alert the system will be brought automatically to hot standby in anticipation of a separation or of damage to the active system. The time from cold to hot standby is ten minutes.</para>
+		<para>The Discovery is equipped with a quad-nacelle design. The nacelles are similar to the Sovereign class in design and are of variable geometry. When not at warp, the four nacelles give the appearance of 2 large nacelles, extending out along the horizontal axis of the ship. When at warp, the nacelles are at a 30-degree angle from the horizontal axis. The 30-degree angle is not static, however, as minor adjustments in angle may be necessary during warp travel. The computer handles all adjustments automatically, keeping the angle at the optimum setting for the particular area of space.</para>
+	</sect1>
+	<sect1>
+		<title>Impulse Propulsion Systems</title>
+		<para>The class contains the standard impulse drive system. It contains 16 fusion generators feeding four impulse engines. There are 2 impulse engines located on deck 3 and 2 on deck 11. The impulse engines propel the class to a maximum of 0.27c.</para>
+	</sect1>
+	<sect1>
+		<title>Tactical Systems</title>
+		<para>The Discovery class employs a standard shield system with a total dissipation rate of 2.43x10^5 kW. It also is equipped with metaphasic shielding for use in areas with especially high solar radiation. It also contains 400 type-10 phaser emitters (50 emitters per array) with a total output 5.0 MW. There are 2 arrays located on the ventral section and 2 located on the dorsal section. The other four are only exposed during times of separation, allowing each section to retain 360-degree phaser coverage. Finally, the class carries a standard compliment of 200 torpedoes feeding 4 tubes. There are 2 forward, one on deck 4 and one on deck 9, and 2 aft, one on deck 7 and one on deck 11. The four-tube system provides for complete protection during a separation.</para>
+	</sect1>
+	<sect1>
+		<title>Command and Support Systems</title>
+		<sect2>
+			<title>Bridge</title>
+			<para>The bridge is situated in the center of deck one. It is modular as to facilitate upgrades in space dock as needed. A visual representation of the bridge can be found below.</para>
+			<mediaobject>
+				<imageobject role="thumbnail">
+					<objectinfo>
+						<author>
+							<firstname>Larry</firstname>
+							<surname>Garfield</surname>
+						</author>
+					</objectinfo>
+					<imagedata fileref="images/discovery-bridge-thumb.jpg" format="JPG"/>
+				</imageobject>
+				<imageobject role="full">
+					<objectinfo>
+						<author>
+							<firstname>Mackael</firstname>
+							<surname>Stockhausen</surname>
+						</author>
+					</objectinfo>
+					<imagedata fileref="images/discovery-bridge.jpg" format="JPG"/>
+				</imageobject>
+				<caption>
+					<para>Bridge</para>
+				</caption>
+			</mediaobject>
+			<mediaobject>
+				<imageobject role="thumbnail">
+					<objectinfo>
+						<author>
+							<firstname>Larry</firstname>
+							<surname>Garfield</surname>
+						</author>
+					</objectinfo>
+					<imagedata fileref="images/discovery-viewscreen-thumb.jpg" format="JPG"/>
+				</imageobject>
+				<imageobject role="full">
+					<objectinfo>
+						<author>
+							<firstname>Mackael</firstname>
+							<surname>Stockhausen</surname>
+						</author>
+					</objectinfo>
+					<imagedata fileref="images/discovery-viewscreen.jpg" format="JPG"/>
+				</imageobject>
+				<caption>
+					<para>Viewscreen</para>
+				</caption>
+			</mediaobject>
+		</sect2>
+	</sect1>
+	<sect1>
+		<title>Utility Systems</title>
+		<sect2>
+			<title>Cargo Bays</title>
+			<para>The Discovery contains 5 cargo bays located as follows: 2 on deck 6, 2 on deck 12, and one auxiliary on deck 13. All cargo bays are on the interior of the ship and therefore are not directly accessible to the exterior of the ship without the use of transporters.</para>
+		</sect2>
+		<sect2>
+			<title>Tractor Beam Systems</title>
+			<para>The Main Tractor beam is located on deck 13 and the secondary is on deck 6. Both have a maximum range of 500,000 km.</para>
+		</sect2>
+		<sect2>
+			<title>Transporter Systems</title>
+			<para>The class also contains 4 transporter rooms each with a range of 40,000 km. The transporter rooms are located as follows: Two on deck 3 and two on deck 8.</para>
+		</sect2>
+	</sect1>
+	<sect1>
+		<title>Crew Support Systems</title>
+		<sect2>
+			<title>Diplomatic Systems</title>
+			<para>The class carries a diplomatic rating of 4. In accordance with Federation standards, the class is equipped with 5 Ambassadorial quarters, 50 staff quarters, 1 conference hall, 5 Briefing rooms, and one independent communications facility.</para>
+		</sect2>
+		<sect2>
+			<title>Alternate Enviornment</title>
+			<para>The VIP Quarters, Conferences rooms, Briefing rooms, Communication facility, and adjoining hallways on deck three have been equipped to provide an H or K environment to suit the needs of the diplomats that may come aboard.</para>
+		</sect2>
+		<sect2>
+			<title>Holodeck</title>
+			<para>The Discovery Class has the most advanced holo-technology in Star-Fleet. Two main holodecks for crew use are installed. These holodecks are standard size, which is two decks tall. The Discovery is also equipped with a holo-engineering facility used for Scientific and Medical work only. The holo-engineering systems are mainly used for scientific purposes, so that the primary holodecks are not being used for Star-Fleet Science work.</para>
+			<para>Starfleet has spent time on working on ways to improve Holodeck safety. Research has shown 'Holo addiction' and 'Safety Protocol Deactivation' has been a high risk factor. This has led to an improved safety protocol.</para>
+			<para>Holo-Addiction Protocol Zeta Nine - A New piece of 'Software' which is embedded within the Primary and Secondary Holodeck systems. This software is set to shut down the holodeck when the desired program has been running for a maximum of 8 hours. The protocol will shut down the holodeck, save any relevant data, and open the holodeck doors.</para>
+			<para>Safety Protocols - The Standard Safety Protocols have been shown to have flaws in the design. The new protocol will reengage after 5 minutes, if the program has a bug in it's coding, or if the holodeck/ship has experienced damage. Two Command level officers, XO or above, and an override code are required to deactivate the Safety Protocols.</para>
+		</sect2>
+		<sect2>
+			<title>VIP Quarters</title>
+			<para>The VIP quarters contain LCARS terminal, communications display and conference desk, one queen-sized bed, three leather chairs, and a replicator similar to the design on the bridge. The quarters, along with a portion of the deck and the conference rooms, have been equipped to provide an H or K environment to suit the needs of the diplomats that may come aboard.</para>
+		</sect2>
+		<sect2>
+			<title>Sickbay</title>
+			<para>The sickbay is one of the advanced systems on the Discovery. Within the sickbay a total of five biobeds are available, and three emergency biobeds can be constructed within a matter of minutes. Five medical LCARS terminals are within the Sickbay, along with three different surgical beds.</para>
+			<para>The Chief Medical Officer's Office is separated off to the side of the main sickbay; it consists of one chair, desk, replicator and LCARS Interface.</para>
+		</sect2>
+		<sect2>
+			<title>Crew Lounge</title>
+			<para>The Crew lounge, Nine Forward, is a recreational area for the crew when off duty, the lounge itself is pointed towards the front of the ship, giving a peaceful environment to the lounge. It has a compliment of 12 tables and 25 chairs, 12 bar stools and a bar that occupies the left side of the lounge, approximately 8 meters in length.</para>
+		</sect2>
+	</sect1>
+	<sect1>
+		<title>Auxiliary Spacecraft Systems</title>
+		<para>The Discovery class carries a compliment of 4 Type 12 personnel shuttles and 2 Valhalla class Runabouts located in the main shuttle bay. The main shuttle bay encompasses 2 decks and is to the rear of the ship on decks 8 and 9.</para>
+	</sect1>
+	<sect1>
+		<title>Technical Specifications</title>
+		<sect2>
+			<title>Dimensions and Structure</title>
+			<simplelist>
+				<member role="Length">415 meters</member>
+				<member role="Beam (Width)">163 meters</member>
+				<member role="Height">58.5 meters</member>
+				<member role="Decks">13</member>
+			</simplelist>
+		</sect2>
+		<sect2>
+			<title>Crew Complement</title>
+			<simplelist>
+				<member role="Officers and Crew">141</member>
+				<member role="Visiting Personnel">500</member>
+				<member role="Maximum Evacuation Limit">950</member>
+			</simplelist>
+		</sect2>
+		<sect2>
+			<title>Computer Systems</title>
+			<simplelist>
+				<member role="Core">Bio-neural data core</member>
+				<member role="Chipset">N/A</member>
+				<member role="Operating System">Starfleet Library Computer Access and Retrieval System (LCARS)</member>
+				<member role="User Interface">MAJEL</member>
+			</simplelist>
+		</sect2>
+		<sect2>
+			<title>Warp Systems</title>
+			<simplelist>
+				<member role="Power Plant">Two 1500+ cochrane M/ARA cores feeding four nacelles</member>
+				<member role="Cruising Velocity">Warp 7.25</member>
+				<member role="Maximum Sustainable Velocity">Warp 8.6</member>
+				<member role="Maximum Velocity">Warp 9.8 (12 hours)</member>
+			</simplelist>
+		</sect2>
+		<sect2>
+			<title>Impulse Systems</title>
+			<simplelist>
+				<member role="Full Impulse">0.27c</member>
+				<member role="Accellerate">5.13 seconds</member>
+				<member role="Decellerate">5.85 seconds</member>
+			</simplelist>
+		</sect2>
+		<sect2>
+			<title>Defensive Systems</title>
+			<simplelist>
+				<member role="Shield Maximum Graviton Load (Continuous)">895 MegaWatts</member>
+				<member role="Shield Maximum Energy Dissipation Rate">2.43x10^5 kilowatts</member>
+			</simplelist>
+		</sect2>
+		<sect2>
+			<title>Offensive Systems</title>
+			<simplelist role="Torpedoes">
+				<member role="Torpedo Tubes">4</member>
+				<member role="Standard Payload (total)">200 photon torpedoes</member>
+			</simplelist>
+			<simplelist role="Phasers">
+				<member>8 Type-X Phaser Strips</member>
+			</simplelist>
+			<!-- <simplelist role="Other Systems">
+					<member>XX</member>
+			</simplelist> -->
+		</sect2>
+	</sect1>
+	<sect1>
+		<title>Deck Layout</title>
+		<sect2 role="Deck">
+			<title>Deck 1</title>
+			<simplelist>
+				<member>Captain's Ready Room</member>
+				<member>Main Bridge</member>
+				<member>Observation Lounge</member>
+				<member>Science Lab 1</member>
+			</simplelist>
+		</sect2>
+		<sect2 role="Deck">
+			<title>Deck 2</title>
+			<simplelist>
+				<member>CO's Quarters</member>
+				<member>XO's Hot Tub</member>
+				<member>Astrometrics 1</member>
+				<member>Environmental Controls</member>
+				<member>Geophysics Lab 1</member>
+				<member>Life Support</member>
+				<member>Mission Module (interchangeable)</member>
+				<member>Stellar Cartography 1</member>
+			</simplelist>
+		</sect2>
+		<sect2 role="Deck">
+			<title>Deck 3</title>
+			<simplelist>
+				<member>Antimatter Storage Pods</member>
+				<member>CO Quarters</member>
+				<member>Conference Room</member>
+				<member>Briefing Rooms</member>
+				<member>Diplomatic Communications Facility</member>
+				<member>EPS Support</member>
+				<member>Gymnasium</member>
+				<member>Life Boats</member>
+				<member>Senior Officers Quarters</member>
+				<member>Transporter Room 1 and 2</member>
+				<member>VIP Quarters</member>
+				<member>XO Quarters</member>
+			</simplelist>
+		</sect2>
+		<sect2 role="Deck">
+			<title>Deck 4</title>
+			<simplelist>
+				<member>2 Dorsal Type X Phaser Arrays (50 emitters per array)</member>
+				<member>Antimatter Injector Reactors</member>
+				<member>Biochemistry Lab</member>
+				<member>Bioscience Lab 1</member>
+				<member>Forward Torpedo Launcher</member>
+				<member>Genetics Lab</member>
+				<member>Microbiology Lab</member>
+				<member>Phaser Batteries</member>
+				<member>Torpedo Magazine</member>
+				<member>Science Lab 2</member>
+				<member>Sick Bay</member>
+				<member>Upper Computer Core</member>
+			</simplelist>
+		</sect2>
+		<sect2 role="Deck">
+			<title>Deck 5</title>
+			<simplelist>
+				<member>Arboretum</member>
+				<member>Astrometrics 2</member>
+				<member>Engineering Support Labs</member>
+				<member>Holodecks 1 and 2</member>
+				<member>Junior Officers' Quarters</member>
+				<member>Main Engineering</member>
+				<member>Power Distribution</member>
+				<member>Quantum Physics Lab 1</member>
+				<member>Science Lab 2</member>
+				<member>Stellar Cartography 2</member>
+			</simplelist>
+		</sect2>
+		<sect2 role="Deck">
+			<title>Deck 6</title>
+			<simplelist>
+				<member>Cargo Bay 1 and 2</member>
+				<member>Crew Quarters</member>
+				<member>Impulse Reactors</member>
+				<member>Main Sickbay</member>
+				<member>Medical Labs</member>
+				<member>Officer's Mess</member>
+				<member>Shuttle Bay</member>
+				<member>Shuttle Bay Support</member>
+				<member>Secondary Tractor Beam Emitters</member>
+				<member>Surgical Suites</member>
+			</simplelist>
+		</sect2>
+		<sect2 role="Deck">
+			<title>Deck 7</title>
+			<simplelist>
+				<member>2 Ventral Type X Phaser Arrays (50 emitters per array)</member>
+				<member>Aft Torpedo Launcher</member>
+				<member>Bioscience Lab 2</member>
+				<member>Brig</member>
+				<member>Deuterium Fuel Pumps and Fill Ports</member>
+				<member>Deuterium Fuel Storage</member>
+				<member>Deuterium Injector Reactors</member>
+				<member>Docking Latches</member>
+				<member>Geophysics Lab 1</member>
+				<member>Science Lab 3</member>
+				<member>Secondary Hull Docking Latches</member>
+				<member>Security Office</member>
+				<member>Seven Forward Lounge</member>
+				<member>Quantum Physics Lab 2</member>
+				<member>Warp Core Docking Hatch</member>
+				<member>Warp Core Jettison Hatch</member>
+			</simplelist>
+		</sect2>
+		<sect2 role="Deck">
+			<title>Deck 8</title>
+			<simplelist>
+				<member>2 Dorsal Type X Phaser Arrays (50 emitters per array)</member>
+				<member>Battle Bridge</member>
+				<member>Deuterium Fuel Pumps and Fill Ports</member>
+				<member>Deuterium Fuel Storage</member>
+				<member>Deuterium Injector Reactors</member>
+				<member>Docking Hatches</member>
+				<member>Environmental Support</member>
+				<member>Life Support</member>
+				<member>Warp Core Docking Hatch</member>
+				<member>Upper level Main Shuttle Bay</member>
+			</simplelist>
+		</sect2>
+		<sect2 role="Deck">
+			<title>Deck 9</title>
+			<simplelist>
+				<member>Battle Sickbay</member>
+				<member>Crew Lounge</member>
+				<member>Crew Quarters</member>
+				<member>Forward Torpedo Launcher</member>
+				<member>Lower Computer Core</member>
+				<member>Transporter Room 3 and 4</member>
+				<member>Lower level Main Shuttle Bay</member>
+			</simplelist>
+		</sect2>
+		<sect2 role="Deck">
+			<title>Deck 10</title>
+			<simplelist>
+				<member>2 Ventral Type X Phaser Arrays (50 emitters per array)</member>
+				<member>Auxiliary Engineering</member>
+				<member>Bioscience Lab 2</member>
+				<member>Emergency Batteries</member>
+				<member>Geophysics Lab 2</member>
+				<member>Phaser Batteries</member>
+			</simplelist>
+		</sect2>
+		<sect2 role="Deck">
+			<title>Deck 11</title>
+			<simplelist>
+				<member>Aft Torpedo Launchers</member>
+				<member>Antimatter Injector Reactors</member>
+				<member>Deflector Control</member>
+				<member>Deflector Signal Processing</member>
+				<member>Life Boats</member>
+				<member>Main Deflector Dish</member>
+				<member>Main Deflector Field Emitter</member>
+				<member>Navigational Control</member>
+				<member>Photon and Quantum Magazine</member>
+			</simplelist>
+		</sect2>
+		<sect2 role="Deck">
+			<title>Deck 12</title>
+			<simplelist>
+				<member>Antimatter Fuel Pumps and Fill Ports</member>
+				<member>Antimatter Storage Pods</member>
+				<member>Cargo Bays 3 and 4</member>
+				<member>Mission Module (interchangeable)</member>
+				<member>Transporter Room 4</member>
+				<member>Waste Management</member>
+			</simplelist>
+		</sect2>
+		<sect2 role="Deck">
+			<title>Deck 13</title>
+			<simplelist>
+				<member>Auxiliary Cargo Bays</member>
+				<member>Hover Pods</member>
+				<member>Landing Legs</member>
+				<member>Main Tractor Beam Emitters</member>
+				<member>Warp Core Jettison Hatch</member>
+			</simplelist>
+		</sect2>
+	</sect1>
+	<sect1>
+		<title>Ships of the Class</title>
+		<simplelist role="ShipList">
+			<member role="PC">
+				<productname>Discovery</productname>
+				<productnumber>73237</productnumber>
+			</member>
+			<member role="PC">
+				<productname>Cassini</productname>
+				<productnumber>74254</productnumber>
+			</member>
+			<member role="PC">
+				<productname>Resolution</productname>
+				<productnumber>74646</productnumber>
+			</member>
+			<member role="PC">
+				<productname>Rosetta</productname>
+				<productnumber>75674</productnumber>
+			</member>
+			<member role="PC">
+				<productname>Ceidrwin</productname>
+				<productnumber>76321</productnumber>
+			</member>
+			<member role="PC">
+				<productname>Hippocras</productname>
+				<productnumber>76585</productnumber>
+			</member>
+			<member role="PC">
+				<productname>Endeavor</productname>
+				<productnumber>76801</productnumber>
+			</member>
+			<member role="PC">
+				<productname>Galileo</productname>
+				<productnumber>87292</productnumber>
+			</member>
+			<member role="PC">
+				<productname>Fastrac</productname>
+				<productnumber>87453</productnumber>
+			</member>
+			<member role="PC">
+				<productname>Columbia</productname>
+				<productnumber>20103</productnumber>
+			</member>
+			<member role="PC">
+				<productname>Europa</productname>
+				<productnumber>87125</productnumber>
+			</member>
+		</simplelist>
+	</sect1>
+	<sect1>
+		<title>Conclusion</title>
+		<para>The Discovery class is on of the more advanced ship in Star Fleet. Its state of the art systems also allow it to be very versatile ship. In addition to all of the labs, the class also boasts two interchangeable mission modules, which can be utilized in a variety of functions, depending on the mission.</para>
+	</sect1>
+	<sect1>
+		<title>Illustrations</title>
+		<para>These other visual representations of the Discovery are available.</para>
+		<mediaobject>
+			<imageobject role="thumbnail">
+				<objectinfo>
+					<author>
+						<firstname>Larry</firstname>
+						<surname>Garfield</surname>
+					</author>
+				</objectinfo>
+				<imagedata fileref="images/discovery-asimova-thumb.jpg" format="JPG"/>
+			</imageobject>
+			<imageobject role="full">
+				<objectinfo>
+					<author>
+						<firstname>Mackael</firstname>
+						<surname>Stockhausen</surname>
+					</author>
+				</objectinfo>
+				<imagedata fileref="images/discovery-asimova.jpg" format="JPG"/>
+			</imageobject>
+			<caption>
+				<para>USS Asimov-A</para>
+			</caption>
+		</mediaobject>
+	</sect1>
+</article>

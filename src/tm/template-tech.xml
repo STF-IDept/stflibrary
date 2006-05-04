@@ -1,0 +1,56 @@
+<!-- edited with XML Spy v3.5 beta 4 build Jan 12 2001 (http://www.xmlspy.com) by Larry Garfield (None) -->
+<!-- <?xml version="1.0" ?> -->
+<!-- <!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN"
+                    "http://www.oasis-open.org/docbook/xml/4.0/docbookx.dtd"
+                    []> -->
+<?xml-stylesheet type="text/xsl" href="techmanual.xslt"?>
+<article class="techreport" id="techname">
+	<title>TITLE</title>
+	<subtitle/>
+	<titleabbrev>TITLEABBREV</titleabbrev>
+	<articleinfo>
+		<authorgroup role="Maintainer">
+			<author>
+				<firstname>FIRST</firstname>
+				<surname>LAST</surname>
+			</author>
+		</authorgroup>
+		<authorgroup role="Primary">
+			<author>
+				<firstname>FIRST</firstname>
+				<surname>LAST</surname>
+			</author>
+		</authorgroup>
+		<authorgroup role="Contributing">
+			<author>
+				<firstname>FIRST</firstname>
+				<surname>LAST</surname>
+			</author>
+		</authorgroup>
+		<authorgroup role="Original">
+			<author>
+				<firstname>FIRST</firstname>
+				<surname>LAST</surname>
+			</author>
+		</authorgroup>
+		<keywordset>
+			<keyword role="type">STARSHIP/PERSONNEL</keyword>
+			<keyword role="category">CATEGORY</keyword>
+			<keyword role="mark">I</keyword>
+		</keywordset>
+		<revhistory>
+			<revision>
+				<revnumber>1</revnumber>
+				<date>DATE</date>
+				<revdescription>
+					<para>Approved by Engineering Director NAME</para>
+				</revdescription>
+			</revision>
+		</revhistory>
+	</articleinfo>
+	<sect1>
+		<title>Description</title>
+		<para>X</para>
+		<para>X</para>
+	</sect1>
+</article>

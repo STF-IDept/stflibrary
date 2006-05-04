@@ -1,0 +1,46 @@
+<!-- <?xml version="1.0" ?> -->
+<!-- <!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN"
+                    "http://www.oasis-open.org/docbook/xml/4.0/docbookx.dtd"
+                    []> -->
+<?xml-stylesheet type="text/xsl" href="tm-control.xslt"?>
+<article class="techreport" id="transporterwelding">
+	<title>Transporter Welding</title>
+	<articleinfo>
+		<authorgroup role="Maintainer">
+			<author>
+				<firstname>Israel</firstname>
+				<surname>Harris</surname>
+			</author>
+		</authorgroup>
+		<authorgroup role="Primary">
+			<author>
+				<firstname>Israel</firstname>
+				<surname>Harris</surname>
+			</author>
+		</authorgroup>
+		<authorgroup role="Original">
+			<author>
+				<firstname>Israel</firstname>
+				<surname>Harris</surname>
+			</author>
+		</authorgroup>
+		<keywordset>
+			<keyword role="type">Starship</keyword>
+			<keyword role="category">Construction Method</keyword>
+			<keyword role="mark">I</keyword>
+		</keywordset>
+		<revhistory>
+			<revision>
+				<revnumber>1</revnumber>
+				<date>24 March 2001</date>
+				<revdescription>
+					<para>Approved by Engineering Director Owen Townes as part of the Pendragon-class</para>
+				</revdescription>
+			</revision>
+		</revhistory>
+	</articleinfo>
+	<sect1>
+		<title>Description</title>
+		<para>With a Transport Weld, two frame pieces are formed into one piece by transporting a joint piece into both frame pieces at the desired location.  Stress is then redistributed through the system once the whole space frame is finished by gamma radiation treatments.  The result is a strong joint that cleanly and effectively passes stress and force without buckling or breakage.  This also reduced the need for Integrity Field Reinforcement Bars, by some 90%, and cuts space frame manufacturing time by  some 6 months time compared to ship that used conventional technology.</para>
+	</sect1>
+</article>
