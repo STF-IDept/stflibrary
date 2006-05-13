@@ -1,0 +1,119 @@
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
+                    "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<article id="charter-ed">
+	<title>The Engineering Department</title>
+	<subtitle>"ENERGIE"</subtitle>
+	<articleinfo>
+		<author role="President">
+			<honorific>President</honorific>
+			<firstname>Jen</firstname>
+			<surname>Herr</surname>
+		</author>
+		<author role="EDir">
+			<honorific>Engineering Director</honorific>
+			<firstname>Dominic</firstname>
+			<surname>Waite</surname>
+		</author>
+		<revhistory>
+			<revision>
+				<revnumber>1</revnumber>
+				<date>13 May 2006</date>
+				<revdescription>
+					<para>Based on Edict <ulink url="http://star-fleet.com/prez/herr.php#e18">Her #18</ulink></para>
+				</revdescription>
+			</revision>
+		</revhistory>
+	</articleinfo>
+	<section>
+		<title>Supercedence of previous edicts</title>
+		<para>Edicts Bourdaa #8, Bourdaa #30, Bourdaa #31, Spurlin #14, and Dugan #23 are hereby rescinded and superceded by this Edict.</para>
+	</section>
+	<section>
+		<title>Establishment of the Engineering Department</title>
+		<para>An Executive Department is hereby established under the name of the "Engineering Department".</para>
+		<para>This Department is tasked with creating, maintaining and codifying STF-specific ship specifications and technology for use by STF, and acting as an Engineering-related resource and knowledge base for STF members.</para>
+		<para>Activity within the Engineering Department shall be overseen by the Engineering Director who shall be appointed by the President. The Engineering Director holds a cabinet position and is equal in power and authority to all other Department Directors and Fleet Commanders.</para>
+		<para>The Assistant Engineering Director shall be appointed by the Engineering Director and is responsible for all departmental decisions should the Engineering Director be unavailable. Additional responsibilities may be delegated at the discretion of the Engineering Director.</para>
+		<para>The Engineering Director may delegate any duties and authority laid out in this and related edicts to a named member of the Engineering Department.</para>
+	</section>
+	<section>
+		<title>Designer classification</title>
+		<para>The original member who posts a design for a ship specification or technology, collectively known as a "design", in the Engineering Department, will be recognized as Primary Designer. Permission must be obtained from the Engineering Director for a non-Designer to post later drafts of a design during the review process, in order to ensure a draft's authenticity.</para>
+		<para>The Primary Designer may name other members as either Primary Designers or Contributing Designers. Any disputes regarding the naming of Primary or Contributing Designers will be mediated by the Engineering Director in accordance with the section on Disputes.</para>
+		<para>Any action taken by or required of the Primary Designer(s) will require unanimous action on their part, including but not limited to the appointment of Primary and/or Contributing Designers.</para>
+		<para>The first recognized Primary Designer of a design will be recognized as Maintainer, should the design be approved. Another Primary Designer may be named Maintainer upon notification of the Engineering Director with the agreement of all Primary Designers. The Maintainer is responsible for any later upgrades to the design and for other maintenance duties as required by the Engineering Department.</para>
+		<para>A designer may relinquish ownership of a design at any time by notifying the Engineering Department of said intent.</para>
+		<para>Upon relinquishing of ownership of a design by all designers, that design becomes the property of the Engineering Department, and the Engineering Department will be named maintainer, and given specific rights to the design. This includes updates to the design as required by canon conflicts, approving new names and registration numbers for ships commissioned with this design, and approving a license to create a revised successor to the design.</para>
+		<para>All revisions made to a design under the control and direction of the Engineering Department shall be credited to the designers carrying out the work, though the Engineering Department shall be recognised as Maintainer and a Primary Designer.</para>
+	</section>
+	<section>
+		<title>Design submissions, testings, and approvals</title>
+		<para>All designs submitted to the Engineering Department will remain the copyright of the Primary Designer(s). By submitting a design to the Engineering Department, the Primary Designers agree that should it be approved, STF will be granted a full, perpetual license to utilize that design, including, but not limited to, commissioning ships of that design. Neither STF nor other designers receive license to create a revised successor to the design without the prior permission of the Primary Designer(s), where the Engineering Department does not act as full maintainer of said design.</para>
+		<para>Designers may incorporate already approved technologies into their designs provided that proper credit is given to the original designer.</para>
+		<para>The Engineering Department is granted authority to make non-substantive changes to the official copy of an approved design, such as in appearance and layout, and the correction of spelling and grammatical errors, where these are recognised as errors in both British and American English. Both forms of English are considered equally correct for the purposes of design review and maintenance.</para>
+		<para>The Engineering Department is not granted authority to make substantive changes to the official copy of an approved design without the prior express consent of all Primary Designers, where the Engineering Department does not act as full maintainer.</para>
+		<para>The Engineering Director shall set approval criteria by Departmental Mandate and shall serve as the approving authority.</para>
+		<para>Should the Engineering Director submit a design for approval, the Assistant Engineering Director shall be the approving authority.</para>
+	</section>
+	<section>
+		<title>Design upgrade</title>
+		<para>In the event that a Primary Designer wishes to supplant a design already approved with a revised version, the revised version must be approved by the Engineering Department as any other design. Should the revised version be approved, the previous version will automatically be removed from the approved design list, and placed in the Ship Museum or equivalent. The consent of all Primary Designers is necessary for a revised version to be submitted, where the Engineering Department does not act as full maintainer.</para>
+		<para>Different rules apply depending on the status of the existing version of the design.</para>
+		<para>Where the last-approved version of the design is currently in service: the new design shall be considered a revised version when substantial changes, such as in balance, layout or mission focus, and determined as such by the Engineering Director, have been made to the original design. If non-substantial changes have been made, the Engineering Director is empowered to pass the design without a review period. The design shall be given a new Mark number only if it is considered a revised version.</para>
+		<para>Where the last-approved version of the design is now retired: any changes made, except in spelling, grammar or presentation, are considered to form a revised version and must pass the approval process as any other design.</para>
+		<para>Should a retired design be revised, all due credit shall be given to all Original Primary and Contributing designers.</para>
+	</section>
+	<section>
+		<title>Design inheritance</title>
+		<para>Should the Maintainer leave STF (without relinquishing ownership of their design), the remaining Primary Designers shall decide amongst themselves which of them will be recognized as Maintainer.</para>
+		<para>Should there be no other Primary Designers remaining in STF, the Contributing Designers shall decide amongst themselves which of them will be recognized as Primary Designer and Maintainer.</para>
+		<para>The last remaining Primary or Contributing Designer may name another member as a Primary Designer to take over the Maintainership of the design should they leave STF.</para>
+		<para>Should there be no Contributing Designers remaining in STF, the Engineering Department shall assume full maintainer authority over the design. The Engineering Director shall have full authority to make substantive changes to any such controlled design where it is deemed that the design is inappropriate for continued use and shall publish it as a revision to the original design with full credit to the original designers, though all such revisions shall remain the property of the Engineering Department.</para>
+		<para>Alternatively, the final designer may specifically request upon leaving STF that the design be replaced and removed from the Department as soon as it is reasonably possible and practical to do so. In the event that a designer requests the timely removal of the design, the ED shall assume limited maintainer authority without the ability to make changes, except in spelling, grammar and presentation, and shall endeavour to replace the design with a new one as soon as one becomes available.</para>
+		<para>Should a design be under the Maintainer authority of the Engineering Department and not retired and one of the Primary Designers returns to STF, he will resume full Primary Designer and Maintainer status on the design. Should the design have been retired, the design shall remain retired. Where the design has been revised, the original design shall be considered retired and the property of the returned designer. The revision may only be removed or retired by the Engineering Director.</para>
+	</section>
+	<section>
+		<title>Design termination</title>
+		<para>The Engineering Department may retire from service any design over which it has Maintainer authority. The Engineering Department may retire from service any design over which it does not have Maintainer authority upon the issuing of a 90 day notification to the recognised Maintainer and public post in the Engineering Department should the design meet one or more of the following criteria:</para>
+		<itemizedlist>
+			<listitem><para>The design becomes directly contradicted by canonical sources.</para></listitem>
+			<listitem><para>The design is not updated in a timely manner.</para></listitem>
+			<listitem><para>It is deemed that the design no longer functions as a playable or realistic environment.</para></listitem>
+		</itemizedlist>
+	</section>
+	<section>
+		<title>Canon sources</title>
+		<section>
+			<title>Primary Sources</title>
+			<para>The following shall be considered canon primary sources for use by the Engineering Department and Designers:</para>
+			<itemizedlist>
+				<listitem><para>Any episode of Star Trek, Star Trek: The Next Generation, Star Trek: Deep Space 9, Star Trek: Voyager, or Enterprise</para></listitem>
+				<listitem><para>All Star Trek Movies</para></listitem>
+				<listitem><para>Star Trek: The Next Generation Technical Manual</para></listitem>
+				<listitem><para>Star Trek: Deep Space Nine Technical Manual</para></listitem>
+				<listitem><para>Star Trek Encyclopedia: A Reference Guide to the Future</para></listitem>
+				<listitem><para>Star Trek Chronology: The History of the Future</para></listitem>
+				<listitem><para>Any other source approved by Presidential Edict.</para></listitem>
+			</itemizedlist>
+		</section>
+		<section>
+			<title>Secondary Sources</title>
+			<para>The Engineering Department shall maintain an up-to-date list of secondary sources, such as reputable third-party websites and books, and the Engineering Department's own in-house articles, that may be used in addition to, or as a reference point for, the above primary sources. These shall be approved by the Engineering Director.</para>
+		</section>
+	</section>
+	<section>
+		<title>Design guidelines</title>
+		<para>The Engineering Department shall serve as a technical guide and reference to both members and designers, including the establishment of canon-based reference material and design standards, which are not design specific. All designers may contribute to and must adhere to these design standards.</para>
+	</section>
+	<section>
+		<title>Disputes</title>
+		<para>Should a dispute arise as to the status of a design or designer, the dispute shall be mediated by the Engineering Director or named Delegate. Should the dispute remain unresolved following the decision of the Engineering Director or named Delegate, that decision may be appealed to the President. The President's decision is final.</para>
+		<para>In the event that the ownership of, or changes to, a design become contested between two or more Primary or Contributing designers, the last-approved version of the design shall be considered the official version.</para>
+	</section>
+	<section>
+		<title>Implementation of regulations</title>
+		<para>These regulations shall take effect immediately for all designs not currently approved for use in STF and all designs within the Engineering Department Maintained areas and Library resources.</para>
+		<para>All currently approved designs with no active primary designer or full maintainer shall not be affected by the modified Rules contained in this Edict, but shall be administered under previous rules until they can be replaced by newer designs.</para>
+		<para>Should the designers of a design currently approved by the Engineering Department not be willing to accept these terms, they may request that their design be retired from service and removed from STF, provided that 90-day notification is given to the Engineering Department and the President. This notice must be provided within 30-days of ratification of this Edict.</para>
+	</section>
+</article>
