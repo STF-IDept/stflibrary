@@ -12,6 +12,7 @@
 
 	<!-- Additional stylesheet parameters. -->
 	<xsl:param name="section.autolabel" select="1" />
+	<xsl:param name="toc.max.depth" select="2"/>
 
 	<!-- Any custom templates we need go here. -->
 	<xsl:template match="productnumber">
