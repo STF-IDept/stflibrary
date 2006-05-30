@@ -75,7 +75,7 @@
 			<para>"She can rebuild you. She has the technology."</para>
 		</epigraph>
 		<para>The Pendragon, despite being a combat vessel, resembles the more common exploration cruiser except for the fact it is heavily armed. The saucer section itself is circular, with the engineering hull blending out of it. Fixed off each side of the engineering hull there is a set of warp nacelle pylons.</para>
-		<para>The Pendragon utilizes a series of interlocking tritanium/duranium truss frames for its space frame construction. Instead of gamma wave welding, the Pendragon Project ship and all ships of its class used Transporter Welding<xref linkend="transporterwelding"/> to create stronger joints compared to traditional construction methods.</para>
+		<para>The Pendragon utilizes a series of interlocking tritanium/duranium truss frames for its space frame construction. Instead of gamma wave welding, the Pendragon Project ship and all ships of its class used <link linkend="transporterwelding">Transporter Welding</link> to create stronger joints compared to traditional construction methods.</para>
 		<para>Furthermore, the Pendragon's hull is completely covered with 8 cm of enhanced Tritanium armour. This armour can easily resist fire from type 8 phasers in most areas where there is enough structural backing to support the armour. This is further reinforced with an additional 4-cm layer of ablative armour covering allowing an evenly distributed level of protection along most of the hull.</para>
 		<para>These ablative inserts can be found on areas including,</para>
 		<simplelist>
@@ -117,7 +117,7 @@
 		<sect2>
 			<title>Sensory Systems</title>
 			<para>The Pendragon is equipped with standard sensor packages. Some of these are behind the main deflector, while others are placed in sensor pallet arrays. They can be upgraded through time as deemed necessary. Sensor are attached to shock protective mountings, and protected by articulated hull plating. The only time a sensor is fully exposed is when running deep in-depth scans. In addition, the Pendragon is equipped with Emissions Tracking System units for improved targeting during combat.</para>
-			<para>The Pendragon carries a selection of scientific probes, which can be restocked at any star base, or built in its Machine Shop<xref linkend="machineshop"/>.</para>
+			<para>The Pendragon carries a selection of scientific probes, which can be restocked at any star base, or built in its <link linkend="machineshop">Machine Shop</link>.</para>
 		</sect2>
 		<sect2>
 			<title>Holographic Crew Members</title>
@@ -225,7 +225,7 @@
 		</sect2>
 		<sect2>
 			<title>Machine Shop</title>
-			<para>The Pendragon is equipped with a machine shop<xref linkend="machineshop"/> area so to prolong its ability to stay in the field. This area equipped with the basic versions of the latest tools deemed necessary by star fleet to keep the Pendragon parts in top condition due to normal wear and tear.</para>
+			<para>The Pendragon is equipped with a <link linkend="machineshop">Machine Shop</link> area so to prolong its ability to stay in the field. This area equipped with the basic versions of the latest tools deemed necessary by star fleet to keep the Pendragon parts in top condition due to normal wear and tear.</para>
 		</sect2>
 	</sect1>
 	<sect1>

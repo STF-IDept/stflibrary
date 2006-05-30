@@ -80,7 +80,7 @@
 		<title>Science and Remote Sensing Systems</title>
 		<sect2>
 			<title>Computer Systems</title>
-			<para>A full starship-grade computer system seemed like a waste to the design team.  Instead, they forewent the traditional LCARS system and opted instead for a freighter-specific computer system developed by Starfleet partner Nyetscape Communications.  The system, Basic I/O Grunt - Regimented Information Grouper (BIG RIG)<xref linkend="bigrig"/>, was built around a conventional isolinear core ODN network, and was optimized for logistical and material management, and suffices as a solid, work-horse system.</para>
+			<para>A full starship-grade computer system seemed like a waste to the design team.  Instead, they forewent the traditional LCARS system and opted instead for a freighter-specific computer system developed by Starfleet partner Nyetscape Communications.  The system, <link linkend="bigrig">Basic I/O Grunt - Regimented Information Grouper (BIG RIG)</link>, was built around a conventional isolinear core ODN network, and was optimized for logistical and material management, and suffices as a solid, work-horse system.</para>
 		</sect2>
 		<sect2>
 			<title>Sensory Systems</title>

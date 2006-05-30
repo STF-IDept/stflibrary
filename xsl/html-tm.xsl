@@ -14,7 +14,14 @@
 	<xsl:param name="section.autolabel" select="1" />
 
 	<!-- Any custom templates we need go here. -->
+	<xsl:template match="productnumber">
+	  <span class="{name(.)}">NCC-<xsl:apply-templates /></span>
+	</xsl:template>
 	
+	<xsl:template match="productname">
+	  <span class="{name(.)}">USS <xsl:apply-templates /></span>, 
+	</xsl:template>
+		
 	<!-- Add the common footer bar, customized for this book. -->
 	<xsl:template name="user.footer.content">
 		<xsl:call-template name="copyright.bar">

@@ -104,9 +104,9 @@
 
   <target name="all" depends="html, pdf" />
 
-  <target name="html" depends="html.onefile, html.set, html.handbook, html.charters, html.faq, html.rm, html.textbook, html.minutes, html.media" />
+  <target name="html" depends="html.onefile, html.set, html.handbook, html.charters, html.faq, html.rm, html.textbook, html.minutes, html.media, html.tm" />
 
-  <target name="pdf" depends="pdf.onefile, pdf.handbook, pdf.charters, pdf.faq, pdf.rm, pdf.textbook, pdf.minutes, pdf.media" />
+  <target name="pdf" depends="pdf.onefile, pdf.handbook, pdf.charters, pdf.faq, pdf.rm, pdf.textbook, pdf.minutes, pdf.media, pdf.tm" />
 
   <target name="onefile" depends="html.onefile, pdf.onefile" />
 
@@ -515,7 +515,7 @@
         <arg line="-y ${resolving.reader.class}"/>
         <arg line="-r ${catalog.resolver.class}"/>
         <arg line="-u"/>
-        <arg line="-o ${fo.dir}/tmfo"/>
+        <arg line="-o ${fo.dir}/tm.fo"/>
         <arg line="${source.dir}/tm/book.xml"/>
         <arg line="${xslFoTm}" />
       </java>

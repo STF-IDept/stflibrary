@@ -1,114 +1,70 @@
 <?xml version="1.0"?>
-<!DOCTYPE book [
-	<!-- PC Ships -->
-	<!ENTITY spec-discovery SYSTEM "spec-discovery.xml">
-	<!ENTITY spec-mccoy SYSTEM "spec-mccoy.xml">
-	<!ENTITY spec-pendragon SYSTEM "spec-pendragon.xml">
-	<!ENTITY spec-trafalgar SYSTEM "spec-trafalgar.xml">
-	<!ENTITY spec-phoenix SYSTEM "spec-phoenix.xml">
-	<!ENTITY spec-darwin SYSTEM "spec-darwin.xml">
-	<!ENTITY spec-maverick SYSTEM "spec-maverick.xml">
-	<!ENTITY spec-kearsarge SYSTEM "spec-kearsarge.xml">
-	<!ENTITY spec-chimera SYSTEM "spec-chimera.xml">
-	<!ENTITY spec-viking SYSTEM "spec-viking.xml">
-	<!ENTITY spec-nimitz SYSTEM "spec-nimitz.xml">
-	<!-- NPC Ships -->
-	<!ENTITY spec-monolith SYSTEM "spec-monolith.xml">
-	<!ENTITY spec-yub_nub SYSTEM "spec-yub_nub.xml">
-	<!ENTITY spec-avenger SYSTEM "spec-avenger.xml">
-	<!-- Auxiliary Ships -->
-	<!ENTITY spec-compsognathus SYSTEM "spec-compsognathus.xml">
-	<!ENTITY spec-ranger SYSTEM "spec-ranger.xml">
-	<!ENTITY spec-armadillo SYSTEM "spec-armadillo.xml">
-	<!ENTITY spec-liberty SYSTEM "spec-liberty.xml">
-	<!ENTITY spec-cutlass SYSTEM "spec-cutlass.xml">
-	<!-- Historical Ships -->
-	<!ENTITY spec-mariner SYSTEM "spec-mariner.xml">
-	<!ENTITY spec-bonaventure SYSTEM "spec-bonaventure.xml">
-	<!-- Ship Tech -->
-	<!ENTITY tech-swede SYSTEM "tech-swede.xml">
-	<!ENTITY tech-bigrig SYSTEM "tech-bigrig.xml">
-	<!ENTITY tech-transporterwelding SYSTEM "tech-transporterwelding.xml">
-	<!ENTITY tech-machineshop SYSTEM "tech-machineshop.xml">
-	<!-- Personal Tech -->
-	<!ENTITY tech-wearabletricorder SYSTEM "tech-wearabletricorder.xml">
-	<!ENTITY tech-psp1 SYSTEM "tech-psp1.xml">
-	<!ENTITY tech-ets SYSTEM "tech-ets.xml">
-	<!-- Designers Guide -->
-	<!ENTITY guide-computers SYSTEM "guide-computers.xml">
-	<!ENTITY guide-www SYSTEM "guide-www.xml">
-	<!ENTITY guide-classification SYSTEM "guide-classification.xml">
-]>
-<!--
-PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN"
-  "http://www.oasis-open.org/docbook/xml/4.0/docbookx.dtd"
--->
-<?xml-stylesheet type="text/xsl" href="tm-control.xslt"?>
-<book>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN"
+	"http://www.oasis-open.org/docbook/xml/4.0/docbookx.dtd">
+<book id="tm">
+	<?dbhtml dir="tm" filename="index.html" ?>
 	<bookinfo>
 		<title>The STF Technical Manual</title>
 		<subtitle>A collection of ED-Approved Ship Specifications and Technologies</subtitle>
-		<editor>
-			<honorific>Commodore</honorific>
-			<firstname>Larry</firstname>
-			<surname>Garfield</surname>
-		</editor>
-		<date>10 March 2005</date>
+		<corpauthor>Engineering Department</corpauthor>
+		<date>29 May 2006</date>
 	</bookinfo>
-	<preface>
+	<preface id="tm-preface">
 		<title>About this Manual</title>
 		<para>This Manual serves as the definitive list of all ships and technologies approved by the STF Engineering Department.  If you want to know what's what, this is the place to get it.</para>
 	</preface>
 	<part id="spec-primary">
 		<title>Ship Specifications (Primary)</title>
-		&spec-discovery;
-		&spec-mccoy;
-		&spec-pendragon;
-		&spec-trafalgar;
-		&spec-phoenix;
-		&spec-darwin;
-		&spec-maverick;
-		&spec-kearsarge;
-		&spec-chimera;
-		&spec-viking;
-		&spec-nimitz;
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="spec/discovery.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="spec/mccoy.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="spec/pendragon.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="spec/trafalgar.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="spec/phoenix.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="spec/darwin.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="spec/maverick.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="spec/kearsarge.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="spec/chimera.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="spec/viking.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="spec/nimitz.xml" />
 	</part>
 	<part id="spec-support">
 		<title>Ship Specifications (Support)</title>
-		&spec-monolith;
-		&spec-yub_nub;
-		&spec-avenger;
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="spec/monolith.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="spec/yub_nub.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="spec/avenger.xml" />
 	</part>
 	<part id="spec-auxilary">
 		<title>Ship Specifications (Auxiliary Craft)</title>
-		&spec-compsognathus;
-		&spec-ranger;
-		&spec-armadillo;
-		&spec-liberty;
-		&spec-cutlass;
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="spec/compsognathus.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="spec/ranger.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="spec/armadillo.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="spec/liberty.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="spec/cutlass.xml" />
 	</part>
 	<part id="spec-historical">
 		<title>Ship Specifications (Historical)</title>
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="spec/mariner.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="spec/bonaventure.xml" />
 		&spec-mariner;
 		&spec-bonaventure;
 	</part>
 	<part id="tech">
 		<title>Ship-Based Technologies</title>
-		&tech-bigrig;
-		&tech-swede;
-		&tech-ets;
-		&tech-transporterwelding;
-		&tech-machineshop;
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="tech/bigrig.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="tech/swede.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="tech/ets.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="tech/transporterwelding.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="tech/machineshop.xml" />
 	</part>
 	<part id="equip">
 		<title>Personnel Equipment</title>
-		&tech-wearabletricorder;
-		&tech-psp1;
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="tech/wearabletricorder.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="tech/psp1.xml" />
 	</part>
 	<part id="guide">
 		<title>Designers' Guide</title>
-		&guide-computers;
-		&guide-www;
-		&guide-classification;
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="guide/computers.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="guide/www.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="guide/classification.xml" />
 	</part>
 </book>

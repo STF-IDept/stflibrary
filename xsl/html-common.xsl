@@ -44,6 +44,7 @@
 	<!--   <xsl:attribute name="alink">#0000FF</xsl:attribute> -->
 	</xsl:template>
 
+
 	<!-- Add some copyright and standard-bragging stuff to every page. -->
 	<xsl:template name="copyright.bar">
 		<xsl:param name="pdffile" select="'moo'" />

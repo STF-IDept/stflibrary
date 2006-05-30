@@ -83,12 +83,24 @@
 			<title>Mission Modules</title>
 			<para>Although the Trafalgar's main purpose is military operations, the designers felt that they could not account for every contingency in a single design, nor did they have the room to do so.  As the ship was not expected to be out of contact with Starfleet that frequently, it was decided that a basic mission module system was the best way to increase the flexibility of the design without increasing its size.  Each module is intended to supplement the vessel's existing systems with specialized equipment for a given type of mission.  Although the extra seams where the module and ship meet are not as strong as the rest of the ship, the module is recessed a half-meter into its enclosure and the edges are then covered by retractable locking mechanisms.  The net loss in physical integrity under extreme stress was found to be less than 5%, and in a location unlikely to receive regular fire, and was therefore deemed acceptable.</para>
 			<para>A bay for swappable mission modules is located at the fore end of Deck Eight, just above the main deflector.  It extends roughly 3/5 of the length of the deck.  It is not large enough to include a notable amount of habitable space, but does allow for dedicated equipment modules that can be exchanged at your friendly neighborhood starbase to suit a particular mission.  Currently produced modules include:</para>
-			<simplelist>
-				<member role="Torpedo Storage Module">The default module, the TSM provides additional storage space for an extra 50 torpedoes above and beyond the standard complement.  Hardpoints connect the storage compartment into the torpedo loading system.</member>
-				<member role="Tactical Sensor Enhancement">Additional sensor equipment, specifically calibrated for tracking of Threat vessels at great distances.  Although not useful for scientific study or mapping, it does extend the effective range of long-range sensors by nearly 30%.  Short-range targeting resolution is also increased by 15%.  Later models include an integrated Emissions Tracking System<xref linkend="ets"/>, which allows for very limited tracking of improperly calibrated cloaking systems.  It does not provide sufficient resolution to acquire a weapons lock.</member>
-				<member role="Heavy Combat Module">The HCM includes an additional torpedo launcher in the center, mounted horizontally so that the reactant injectors are placed on either side of it.  The compact design allows room for two forward-facing Type-VIII pulse phaser cannons to be placed on either side of the torpedo launcher.  An included fusion reactor provides power for the phaser banks while storage space at the aft of the module provides storage for up to 25 photon or quantum torpedoes.  These are standard torpedoes with full 360-degree tracking and targeting systems.</member>
-				<member role="Minesweeper Module">The MM contains storage and control circuitry for twenty Class A mines.  Each mine utilizes a photon torpedo casing equipped with maneuvering thrusters and a phased fusion reactor powering four rotating retractable turrets.  Turrets are located two dorsal, two ventral, fore and aft, and each has a single Type-V pulse phaser emitter.  When the launch command is given, the computer-controlled sequence launches mines in pairs, which then activate an onboard computer to maneuver the mine to its designated location.  Once all mines are deployed, the arm code is sent via a cross-encrypted 1024 qubit signal, unique to each vessel, and the turrets extend.  A disarm code and a recall code, also uniquely encrypted for each vessel, can be used to take down the field.  An Ident Friend or Foe (IFF) system monitors transponder codes sent by any ship within range.  If the code does not match a valid Federation transponder code, it is considered a target.  The transponder code list can be edited only prior to launch.  Each mine is programmed so that should a target come within 500 meters the maneuvering thrusters will propel the mine towards the target and the fusion core will overload and detonate.</member>
-			</simplelist>
+			<variablelist>
+				<varlistentry>
+					<term>Torpedo Storage Module</term>
+					<listitem><para>The default module, the TSM provides additional storage space for an extra 50 torpedoes above and beyond the standard complement.  Hardpoints connect the storage compartment into the torpedo loading system.</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Tactical Sensor Enhancement</term>
+					<listitem><para>Additional sensor equipment, specifically calibrated for tracking of Threat vessels at great distances.  Although not useful for scientific study or mapping, it does extend the effective range of long-range sensors by nearly 30%.  Short-range targeting resolution is also increased by 15%.  Later models include an integrated <link linkend="ets">Emissions Tracking System</link>, which allows for very limited tracking of improperly calibrated cloaking systems.  It does not provide sufficient resolution to acquire a weapons lock.</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Heavy Combat Module</term>
+					<listitem><para>The HCM includes an additional torpedo launcher in the center, mounted horizontally so that the reactant injectors are placed on either side of it.  The compact design allows room for two forward-facing Type-VIII pulse phaser cannons to be placed on either side of the torpedo launcher.  An included fusion reactor provides power for the phaser banks while storage space at the aft of the module provides storage for up to 25 photon or quantum torpedoes.  These are standard torpedoes with full 360-degree tracking and targeting systems.</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Minesweeper Module</term>
+					<listitem><para>The MM contains storage and control circuitry for twenty Class A mines.  Each mine utilizes a photon torpedo casing equipped with maneuvering thrusters and a phased fusion reactor powering four rotating retractable turrets.  Turrets are located two dorsal, two ventral, fore and aft, and each has a single Type-V pulse phaser emitter.  When the launch command is given, the computer-controlled sequence launches mines in pairs, which then activate an onboard computer to maneuver the mine to its designated location.  Once all mines are deployed, the arm code is sent via a cross-encrypted 1024 qubit signal, unique to each vessel, and the turrets extend.  A disarm code and a recall code, also uniquely encrypted for each vessel, can be used to take down the field.  An Ident Friend or Foe (IFF) system monitors transponder codes sent by any ship within range.  If the code does not match a valid Federation transponder code, it is considered a target.  The transponder code list can be edited only prior to launch.  Each mine is programmed so that should a target come within 500 meters the maneuvering thrusters will propel the mine towards the target and the fusion core will overload and detonate.</para></listitem>
+				</varlistentry>
+			</variablelist>
 		</sect2>
 	</sect1>
 	<sect1>
@@ -217,12 +229,24 @@
 		<title>Technical Specifications</title>
 		<sect2>
 			<title>Dimensions and Structure</title>
-			<simplelist>
-				<member role="Length">380.1 meters</member>
-				<member role="Beam (Width)">155.4 meters</member>
-				<member role="Height">62.8 meters</member>
-				<member role="Decks">14</member>
-			</simplelist>
+			<variablelist>
+				<varlistentry>
+					<term>Length</term>
+					<listitem><para>380.1 meters</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Beam (Width)</term>
+					<listitem><para>155.4 meters</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Height</term>
+					<listitem><para>62.8 meters</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Decks</term>
+					<listitem><para>14</para></listitem>
+				</varlistentry>
+			</variablelist>
 		</sect2>
 		<sect2>
 			<title>Crew Complement</title>
