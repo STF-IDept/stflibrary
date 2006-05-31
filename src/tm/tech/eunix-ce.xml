@@ -1,6 +1,3 @@
-<!-- <!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN"
-                    "http://www.oasis-open.org/docbook/xml/4.0/docbookx.dtd"> -->
-<?xml-stylesheet type="text/xsl" href="techmanual.xslt"?>
 <article class="techreport" id="eunix-ce">
 	<title>EUNIX-Core Element</title>
 	<titleabbrev>EUNIX-CE</titleabbrev>

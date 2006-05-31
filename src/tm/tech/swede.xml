@@ -1,8 +1,3 @@
-<!--<?xml version="1.0" ?>
-<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN"
-                    "http://www.oasis-open.org/docbook/xml/4.0/docbookx.dtd"
-                    []> -->
-<?xml-stylesheet type="text/xsl" href="techmanual.xslt"?>
 <article class="techreport" id="swede">
 	<title id="tech-SWEDE">Self-recording, Well-programmed, Emergency Doctor Entity EMH Plugin</title>
 	<titleabbrev>SWEDE</titleabbrev>

@@ -176,3 +176,8 @@ div.blockquote table,
 span.quote {
 font-style: italic;
 }
+
+/* Product name is what we're using for ship names. */
+.productname {
+font-style: italic;
+}

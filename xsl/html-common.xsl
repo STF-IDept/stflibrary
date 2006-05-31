@@ -43,7 +43,19 @@
 	<!--   <xsl:attribute name="vlink">#840084</xsl:attribute> -->
 	<!--   <xsl:attribute name="alink">#0000FF</xsl:attribute> -->
 	</xsl:template>
+	
+	<!-- We want simplelists to render as <ul> not tables, the way god intended. -->
+	<xsl:template match="simplelist">
+	  <xsl:call-template name="anchor"/>
+	  <ul class="simplelist">
+	  	<xsl:apply-templates />
+	  </ul>
+	</xsl:template>
 
+	<xsl:template match="member">
+	  <xsl:call-template name="anchor"/>
+	  <li><xsl:apply-templates/></li>
+	</xsl:template>
 
 	<!-- Add some copyright and standard-bragging stuff to every page. -->
 	<xsl:template name="copyright.bar">
