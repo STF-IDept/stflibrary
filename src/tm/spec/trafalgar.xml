@@ -56,11 +56,20 @@
 		<para>With the decision to mothball the older Chernobyl-class, intended to fill the same role but a total failure in the field, the project became that much more important.  Following the Klingon Civil War one year later, Starfleet pushed the project into Priority One status, and by mid-2368 the specifications were ready.  Those specifications were approved in late 2368 and construction on the new hulls began early the next year. At about the same time as the loss of the Enterprise-D in late 2371, the U.S.S. Trafalgar (NX-84708) underwent preliminary testing and was finally proclaimed space-worthy two days after the Klingon invasion of Cardassia in early 2372.</para>
 		<sect2>
 			<title>Cross-Reference:  Chernobyl-class</title>
-			<simplelist>
-				<member role="Vessel Type">Light Destroyer</member>
-				<member role="Design Approved">1 April 2356</member>
-				<member role="Ships Approved">USS Chernobyl, USS Three Mile Island, USS Hiroshima, USS Nagasaki, USS Bikini Atoll, USS Alamogordo, USS Enewetak, USS Pokhran, USS Novaya Zemlya, USS Marshall Islands, USS Ford Pinto</member>
-			</simplelist>
+			<variablelist>
+				<varlistentry>
+					<term>Vessel Type</term>
+					<listitem><para>Light Destroyer</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Design Approved</term>
+					<listitem><para>1 April 2356</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Ships Approved</term>
+					<listitem><para>USS Chernobyl, USS Three Mile Island, USS Hiroshima, USS Nagasaki, USS Bikini Atoll, USS Alamogordo, USS Enewetak, USS Pokhran, USS Novaya Zemlya, USS Marshall Islands, USS Ford Pinto</para></listitem>
+				</varlistentry>
+			</variablelist>
 			<para>The 13-deck Chernobyl-class was intended to supplement larger craft in military maneuvers, as well as engage in tactical scouting and patrol missions.</para>
 			<para>For unknown reasons, however, the entire line seems to have been cursed.  All constructed Chernobyl-class vessels were lost or destroyed with all hands within three years of leaving spacedock.  Finally, after the USS Pokhran exploded as it was leaving the assembly lines at the Churlsan Han Fleet Yards, Starfleet Command terminated the series.</para>
 		</sect2>
@@ -249,59 +258,133 @@
 		</sect2>
 		<sect2>
 			<title>Crew Complement</title>
-			<simplelist>
-				<member role="Officers and Crew">100</member>
-				<member role="Visiting Personnel">10</member>
-				<member role="Maximum Evacuation Limit">200</member>
-			</simplelist>
+			<variablelist>
+				<varlistentry>
+					<term>Officers and Crew</term>
+					<listitem><para>100</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Visiting Personnel</term>
+					<listitem><para>10</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Maximum Evacuation Limit</term>
+					<listitem><para>200</para></listitem>
+				</varlistentry>
+			</variablelist>
 		</sect2>
 		<sect2>
 			<title>Computer Systems</title>
-			<simplelist>
-				<member role="Core">Federation Micro Devices DC-8 isolinear data array</member>
-				<member role="Operating System">General Operations Russian-Based Interface (GORBI) Artificial Intelligence system, provided by Nyetscape Communications</member>
-				<member role="User Interface">GORBI ROMANOV</member>
-			</simplelist>
+			<variablelist>
+				<varlistentry>
+					<term>Core</term>
+					<listitem><para>Federation Micro Devices DC-8 isolinear data array</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Operating System</term>
+					<listitem><para>General Operations Russian-Based Interface (GORBI) Artificial Intelligence system, provided by Nyetscape Communications</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>User Interface</term>
+					<listitem><para>GORBI ROMANOV</para></listitem>
+				</varlistentry>
+			</variablelist>
 		</sect2>
 		<sect2>
 			<title>Warp Systems</title>
-			<simplelist>
-				<member role="Power Plant">One 1500+ cochrane M/ARA core feeding two nacelles</member>
-				<member role="Cruising Velocity">Warp 6</member>
-				<member role="Maximum Sustainable Velocity">Warp 8.6</member>
-				<member role="Maximum Velocity">Warp 9.8 (12 hours)</member>
-			</simplelist>
+			<variablelist>
+				<varlistentry>
+					<term>Power Plant</term>
+					<listitem><para>One 1500+ cochrane M/ARA core feeding two nacelles</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Crusing Velocity</term>
+					<listitem><para>Warp 6</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Maximum Sustainable Velocity</term>
+					<listitem><para>Warp 8.6</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Maximum Velocity</term>
+					<listitem><para>Warp 9.8 (12 hours)</para></listitem>
+				</varlistentry>
+			</variablelist>
 		</sect2>
 		<sect2>
 			<title>Impulse Systems</title>
-			<simplelist>
-				<member role="Full Impulse">0.30c</member>
-				<member role="Accellerate">2.7 seconds</member>
-				<member role="Decellerate">3.2 seconds</member>
-			</simplelist>
+			<variablelist>
+				<varlistentry>
+					<term>Full Impulse</term>
+					<listitem><para>0.30c</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Accellerate</term>
+					<listitem><para>2.7 seconds</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Decellerate</term>
+					<listitem><para>3.2 seconds</para></listitem>
+				</varlistentry>
+			</variablelist>
 		</sect2>
 		<sect2>
 			<title>Defensive Systems</title>
-			<simplelist>
-				<member role="Shield Maximum Graviton Load (Continuous)">1865 MegaWatts</member>
-				<member role="Shield Maximum Energy Dissipation Rate">3.5x10^4 kilowatts</member>
-			</simplelist>
+			<variablelist>
+				<varlistentry>
+					<term>Shield Maximum Graviton Load (Continuous)</term>
+					<listitem><para>1865 MegaWatts</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Shield Maximum Energy Dissipation Rate</term>
+					<listitem><para>3.5x10^4 kilowatts</para></listitem>
+				</varlistentry>
+			</variablelist>
 		</sect2>
 		<sect2>
 			<title>Offensive Systems</title>
-			<simplelist role="Torpedoes">
-				<member role="Torpedo Tubes">3</member>
-				<member role="Standard Payload (total)">125 photon torpedoes</member>
-			</simplelist>
-			<simplelist role="Phasers">
-				<member>6 Type-IX Phaser Strips</member>
-				<member>8 Type-VIII Phaser Strips</member>
-				<member>1 5-emitter Type-VIII pulse phaser cannon battery</member>
-			</simplelist>
-			<simplelist role="Turret Defense Systems">
-				<member role="Number of turrets">3 turrets</member>
-				<member role="Armaments">dumb-fire torpedoes and pulse phaser systems</member>
-			</simplelist>
+			<variablelist>
+				<varlistentry>
+					<term>Torpedos</term>
+					<listitem>
+						<variablelist>
+							<varlistentry>
+								<term>Torpedo Tubes</term>
+								<listitem><para>3</para></listitem>
+							</varlistentry>
+							<varlistentry>
+								<term>Standard Payload (total)</term>
+								<listitem><para>125 photon torpedoes</para></listitem>
+							</varlistentry>
+						</variablelist>
+					</listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Phasers</term>
+					<listitem>
+						<itemizedlist>
+							<listitem><para>6 Type-IX Phaser Strips</para></listitem>
+							<listitem><para>8 Type-VIII Phaser Strips</para></listitem>
+							<listitem><para>1 5-emitter Type-VIII pulse phaser cannon battery</para></listitem>
+						</itemizedlist>
+					</listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Turret Defense System</term>
+					<listitem>
+						<variablelist>
+							<varlistentry>
+								<term>Number of turrets</term>
+								<listitem><para>3 turrets</para></listitem>
+							</varlistentry>
+							<varlistentry>
+								<term>Armaments</term>
+								<listitem><para>dumb-fire torpedoes and pulse phaser systems</para></listitem>
+							</varlistentry>
+						</variablelist>
+					</listitem>
+				</varlistentry>
+			</variablelist>
 		</sect2>
 	</sect1>
 	<sect1>
