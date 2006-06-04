@@ -41,115 +41,115 @@
 			</revision>
 		</revhistory>
 	</articleinfo>
-	<sect1>
+	<section>
 		<title>History and Mission Overview</title>
 		<epigraph>
 			<attribution>CREDIT</attribution>
 			<para>QUOTE</para>
 		</epigraph>
 		<para/>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Structure and Construction</title>
 		<epigraph>
 			<attribution>CREDIT</attribution>
 			<para>QUOTE</para>
 		</epigraph>
 		<para/>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Science and Remote Sensing Systems</title>
 		<epigraph>
 			<attribution>CREDIT</attribution>
 			<para>QUOTE</para>
 		</epigraph>
 		<para/>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Warp Propulsion Systems</title>
 		<epigraph>
 			<attribution>CREDIT</attribution>
 			<para>QUOTE</para>
 		</epigraph>
 		<para/>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Impulse Propulsion Systems</title>
 		<epigraph>
 			<attribution>CREDIT</attribution>
 			<para>QUOTE</para>
 		</epigraph>
 		<para/>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Tactical Systems</title>
 		<epigraph>
 			<attribution>CREDIT</attribution>
 			<para>QUOTE</para>
 		</epigraph>
-		<sect2>
+		<section>
 			<title>Defensive Shields</title>
 			<para/>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Phaser Systems</title>
 			<para/>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Torpedo Systems</title>
 			<para/>
-		</sect2>
-	</sect1>
-	<sect1>
+		</section>
+	</section>
+	<section>
 		<title>Command and Support Systems</title>
 		<epigraph>
 			<attribution>CREDIT</attribution>
 			<para>QUOTE</para>
 		</epigraph>
 		<para/>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Utility Systems</title>
 		<epigraph>
 			<attribution>CREDIT</attribution>
 			<para>QUOTE</para>
 		</epigraph>
-		<sect2>
+		<section>
 			<title>Cargo Bays</title>
 			<para/>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Tractor Beam Systems</title>
 			<para/>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Transporter Systems</title>
 			<para/>
-		</sect2>
-	</sect1>
-	<sect1>
+		</section>
+	</section>
+	<section>
 		<title>Crew Support Systems</title>
 		<epigraph>
 			<attribution>CREDIT</attribution>
 			<para>QUOTE</para>
 		</epigraph>
 		<para/>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Auxiliary Spacecraft Systems</title>
 		<epigraph>
 			<attribution>CREDIT</attribution>
 			<para>QUOTE</para>
 		</epigraph>
 		<para/>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Technical Specifications</title>
 		<epigraph>
 			<attribution>CREDIT</attribution>
 			<para>QUOTE</para>
 		</epigraph>
-		<sect2>
+		<section>
 			<title>Dimensions and Structure</title>
 			<simplelist>
 				<member role="Length">XX meters</member>
@@ -157,16 +157,16 @@
 				<member role="Height">XX meters</member>
 				<member role="Decks">XX</member>
 			</simplelist>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Crew Complement</title>
 			<simplelist>
 				<member role="Officers and Crew">XX</member>
 				<member role="Visiting Personnel">XX</member>
 				<member role="Maximum Evacuation Limit">XX</member>
 			</simplelist>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Computer Systems</title>
 			<simplelist>
 				<member role="Core">Bio-neural data core</member>
@@ -174,8 +174,8 @@
 				<member role="Operating System">Starfleet Library Computer Access and Retrieval System (LCARS)</member>
 				<member role="User Interface">MAJEL</member>
 			</simplelist>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Warp Systems</title>
 			<simplelist>
 				<member role="Power Plant">One 1500+ cochrane M/ARA cores feeding two nacelles</member>
@@ -183,23 +183,23 @@
 				<member role="Maximum Sustainable Velocity">Warp XX</member>
 				<member role="Maximum Velocity">Warp XX (12 hours)</member>
 			</simplelist>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Impulse Systems</title>
 			<simplelist>
 				<member role="Full Impulse">XXc</member>
 				<member role="Accellerate">XX seconds</member>
 				<member role="Decellerate">XX seconds</member>
 			</simplelist>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Defensive Systems</title>
 			<simplelist>
 				<member role="Shield Maximum Graviton Load (Continuous)">XX MegaWatts</member>
 				<member role="Shield Maximum Energy Dissipation Rate">XX kilowatts</member>
 			</simplelist>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Offensive Systems</title>
 			<simplelist role="Torpedoes">
 				<member role="Torpedo Tubes">XX</member>
@@ -211,28 +211,28 @@
 			<!-- <simplelist role="Other Systems">
 					<member>XX</member>
 			</simplelist> -->
-		</sect2>
-	</sect1>
-	<sect1>
+		</section>
+	</section>
+	<section>
 		<title>Deck Layout</title>
 		<epigraph>
 			<attribution>CREDIT</attribution>
 			<para>QUOTE</para>
 		</epigraph>
-		<sect2 role="Deck">
+		<section role="Deck">
 			<title>Deck 1</title>
 			<simplelist>
 				<member>XXX</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 2</title>
 			<simplelist>
 				<member>XXX</member>
 			</simplelist>
-		</sect2>
-	</sect1>
-	<sect1>
+		</section>
+	</section>
+	<section>
 		<title>Ships of the Class</title>
 		<epigraph>
 			<attribution>CREDIT</attribution>
@@ -244,16 +244,16 @@
 				<productnumber>REGISTRYNUMBER</productnumber>
 			</member>
 		</simplelist>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Conclusion</title>
 		<epigraph>
 			<attribution>CREDIT</attribution>
 			<para>QUOTE</para>
 		</epigraph>
 		<para/>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Illustrations</title>
 		<epigraph>
 			<attribution>CREDIT</attribution>
@@ -283,5 +283,5 @@
 				<para>XX</para>
 			</caption>
 		</mediaobject>
-	</sect1>
+	</section>
 </article>

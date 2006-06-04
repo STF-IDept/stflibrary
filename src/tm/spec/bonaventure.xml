@@ -35,7 +35,7 @@
 			</revision>
 		</revhistory>
 	</articleinfo>
-	<sect1>
+	<section>
 		<title>History and Mission Overview</title>
 		<epigraph>
 			<attribution>--Michael Collins, Astronaut, Gemini-10 and Apollo-11 </attribution>
@@ -47,8 +47,8 @@
 		<para>The beginning of the NW-Warp-4 project brought fresh minds with new ideas to the drafting boards. After several abortive attempts and false starts, the NW-Program design team was finally able to put their theories to the test. On October 20, 2147, test pilot Lt. Quinton "Zip" Pepper climbed into the NW-Alpha prototype "Glamorous Belle", and successfully achieved the then incredible speed of TOS-Warp-4.06. Three weeks later, he topped this feat on an endurance trial when he circum navigated the solar system 10 full laps while holding at an average speed of TOS-Warp-4.008. The total time of this record setting flight was an amazing 4 hours, 2 minutes, and 59 seconds. For this achievement, Lt. Pepper along with the entire NW Design Team was awarded the Bendix-Cochrane trophy.</para>
 		<para>After several more speed trials, the NW Design Team received the go ahead to design an engine for a much larger, more capable class of starship. The more massive engine would be mated to an old DY-900 series interstellar freighter. Although it didn't break any speed records the retrofitted freighter did make the round trip from Sol to Proxima Centauri and back in 73 days, proving once and for all the soundness of the design.</para>
 		<para>Even as the freighter was being retrofitted with the larger, more powerful NW Class warp drive, a new class of starship was already under construction to be mated with the new drive once it received its certification. Thus the Bonaventure Class Frigate was born. It was to become the first starship designed and built from the keel up for speeds in excess of TOS-Warp-4.</para>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Structure and Construction</title>
 		<epigraph>
 			<attribution>--Alan Shepherd, Astronaut, Mercury (Friendship-7), and Apollo-14</attribution>
@@ -58,8 +58,8 @@
 		<para>The Bonaventure class was to be one of the first ships designed from the keel up for TOS-Warp-4 space travel. The original contract called for an average of 14 months for each of the six planned Bonaventure Class starships to be built, with a planned three year cycle between equipment upgrades. Even though this ship was to have every technical advantage available at the time, standardized, off the shelf, equipment was to be used wherever possible. One of the new technologies was the hull polarization system which offered an increase in overall structural integrity. Another innovation was the protein re-sequencer system. When integrated into the ship's life support and waste disposal system, it increased the length of time a ship could stay on station before it needed re-supply of perishable cargo.</para>
 		<para>As was the standard practice of the day, the superstructure and hull plating were comprised of tempered titanium, with an average hull thickness of 20.0 cm. Hyper compressed nickel-steal alloys were also used as a lightweight radiation/ micrometeorite shielding between bulkheads. The saucer main hull is comprised of four decks, with an average height of 3.75 meters per deck.</para>
 		<para>During the Bonaventure's maiden patrol, several advancements in aerospace technologies were made available for mass production. New phased energy weapons with greater range and power settings replaced the venerable plasma cannons, transport beam technology had reached a level of proficiency where it could be certified for both cargo and personnel, Upon completion of its first 3 year mission, the Bonaventure entered dry dock on 23 November, 2152 for maintenance and the new system upgrades. The remainder of the Bonaventure's sister ships were constructed with the new and improved systems already in place.</para>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Science and Remote Sensing Systems</title>
 		<epigraph>
 			<attribution>--Edwin Hubble, Astronomer, originator of the Big Bang theory</attribution>
@@ -69,8 +69,8 @@
 		<para>The Bonaventure Class ships are also equipped with the Cybercorp PAL-9000 computer with the latest in isograted circuit technology. The PAL-9000 is actually comprised of four integrated computer cores. This redundant quadracore design is capable of maintaining the ship's imperative systems such as propulsion, navigation, and life support even if three of the four subcores are deactivated. Even so, with only one operational core, other systems such as communications, hull polarization, and weapons will have to be operated at reduced levels unless balanced against the computative needs for the remaining systems as the situation dictates. The first PAL-9000 core is located forward on A-Deck, the second is located port side B-Deck, the third is located starboard C-Deck, and the fourth is located aft D-Deck. This was to minimize the risk of a total computer failure if the ship should become damaged or incapacitated.</para>
 		<para>The PAL-9000 is managed by Macrohard Computer Operating System (MCOS), volume 3.1.</para>
 
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Warp Propulsion Systems</title>
 		<epigraph>
 			<attribution>--Robert Goddard, Physicist, pioneering founding father of modern Rocket Science</attribution>
@@ -78,97 +78,97 @@
 		</epigraph>
 		<para>As stated above, the two warp nacelles are mounted on delta shaped wings above and aft the saucer section. This arrangement better balanced the ship's center of mass for sublight maneuvering performance. The warp core is mounted horizontally parallel to the centerline of the ship's keel. Although plagued with cost over runs and technological set backs, the warp core installed in the Bonaventure exceeded its original design specifications of TOS-Warp-4. During speed trials, it was found that the Bonaventure was capable of a maximum velocity of TOS-Warp-4.5 for twelve hours. The maximum sustainable speed is TOS-Warp-4.0, and the cruising speed is rated at TOS-Warp-3.5 respectively. The Bonaventure's warp core has a power rating of 92 cochranes.</para>
 		<para>In an emergency situation, the warp nacelles can be jettisoned from the saucer section via a series of explosive bolts running the length of the nacelle mounts.</para>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Impulse Propulsion Systems</title>
 		<epigraph>
 			<attribution>--Neil Armstrong, Astronaut, Gemini-8, and Apollo-11</attribution>
 			<para>"That's one small step for man, one giant leap for mankind."</para>
 		</epigraph>
 		<para>The Bonaventure Class mounts two powerful supercharged impulse motors. Together they are capable of propelling the ship at 0.16c during normal operations, and a tactical speed of 0.18c during combat operations. These speeds are halved should one of the impulse motors be deactivated or damaged during sub-light spaceflight.</para>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Tactical Systems</title>
 		<epigraph>
 			<attribution>--George Washington</attribution>
 			<para>"To be prepared for War is one of the most effectual means of preserving peace."</para>
 		</epigraph>
-		<sect2>
+		<section>
 			<title>Hull Polarization System</title>
 			<para>The Bonaventure Class is equipped with the latest in energy field technology. A reflective thermo coat of superconductive paint is applied to the ship's hull. When the polarization field is activated, an electromagnetic current is passed through fiber filaments imbedded in the ship's super structure, encompassing the ship's outer hull plating. This electromagnetic field "polarizes" the titanium of the ship's hull, giving it a 130% increase in over all hull integrity with a maximum field energy dissipation rate of 3.3 x 10^4 kW.</para>
 			<para>Although the polarization field increases the strength of the hull and dissipates potentially damaging kinetic and particle energy along the entire hull surface, it does not make the hull impervious to damage. For every action, there is an equal and opposite reaction. As the polarized field absorbs damage caused by either physical contact or particle energy blasts, the fiber filaments imbedded with in the hull corrode: The greater the damage being absorbed, the greater the loss of field integrity. Once there is a catastrophic loss in field integrity in a given area, the ship's hull will receive the full brunt of the damage being inflicted.</para>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Phased Energy Cannon</title>
 			<para>The Bonaventure Class is currently outfitted with the latest Phased Energy cannon. There are a total of three cannons, each with a 120 degree arc in both azimuth and elevation. These are located in the above-forward-port, above-forward-starboard, and bellow-aft locations. Each of the three phased energy cannons are comprised of a single emitter mounted within a rotating gimbal, and is powered by its own fusion power pack. Each power pack is capable of operating a single phased energy cannon for a continuous beam of 60 seconds with out recharging, with a full recharge cycle lasting approximately four hours. In times of crises, energy from the warp core or the impulse motors can be shunted into the phased energy cannon system for no longer then ten minutes before the ocular crystal inside the cannon's emitter disintegrates.</para>
 			<para>This first generation Phased Energy Cannon is rated to operate at maximum beam energy of 0.6 MW, with a maximum effective range of 35,000km.</para>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Spatial Torpedo Weapon System</title>
 			<para>The Bonaventure Class Starships are equipped with a total of three torpedo launchers. The two forward firing torpedo launchers are located on C-Deck inside the ship's Armory, which is equipped with 20 Mk-XIV spatial torpedoes, 5 probes, and 5 unequipped torpedo casings. A third launcher is mounted aft on C-Deck, and is equipped with 10 Mk-XIV spatial torpedoes. Torpedoes may be transferred between the fore and aft torpedo launchers via a small access tunnel running fore and aft underneath the deck plating.</para>
 			<para>The Mk-XIV spatial torpedo is comprised of a guidance system, a payload section, and a micro impulse motor. The guidance system has four subsystems: The guidance computer, a magnetic field receptor, an optical scanner, and a subspace receiver. The torpedo can either be remotely guided from the ship's targeting sensors, or it could be self guiding, targeting an object's optically identified image, the target's electromagnetic field, or by the target's subspace signature. The payload section can be outfitted to carry a small payload, several different types of sensor packages, or a tricobalt warhead. When tied into the guidance system, the tricobalt warhead can be triggered with a contact fuse, a proximity fuse, a timed fuse, or remotely detonated as the situation dictates. The torpedo is rated with a maximum speed of 0.45c, and a range of 150,000km.</para>
-		</sect2>
-	</sect1>
-	<sect1>
+		</section>
+	</section>
+	<section>
 		<title>Command and Support Systems</title>
 		<epigraph>
 			<attribution>--Finagle's Law</attribution>
 			<para>"Any home port the ship makes will be somebody else's, not mine."</para>
 		</epigraph>
-		<sect2>
+		<section>
 			<title>Armory</title>
 			<para>As stated above, the ship's Armory houses the torpedo launching and maintenance systems. It is also used as the store room for the usual assortment of 5 plasma rifles, 10 plasma pistols, 15 of the new phase-pistols, a case of 20 concussion grenades, a case of 20 shaped charges, and a case of 20 Anastazine gas grenades. The ship's Armory is located in the forward most section of C-Deck.</para>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Science Lab</title>
 			<para>The Sciences Lab is a generically outfitted laboratory capable of handling astrophysical, geological, chemical, or biological observation. It is located on C-Deck. A small atmospheric chamber is often used to duplicate specific atmospheric conditions such as H, K, L, M, N, or N(2) environments for xeno-biological experimentation.</para>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Bridge</title>
 			<para>The Bridge is located in the center of A-Deck of the saucer section. It is comprised of an Engineering duty station, a communications duty station, a science duty station, a tactical duty station, and a helm/navigation duty station. The "Con" is located at the center of the room, and is slightly elevated so that the ship's CO can swivel around and observe his Bridge crew as needed.</para>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Engineering</title>
 			<para>The ship's Engineering section is actually two adjoining yet separate compartments, the first is the actual Engine Room, and the second is the Maintenance Room. The Engine Room is located in the aft most section of C and D-Decks, and houses the horizontally mounted warp core, along with controls and linkages to all the ship's major and minor functions such as life support, warp and impulse propulsion, hull polarization, and life support, weapons, sensors, and power generation systems. Two small one man elevators operate on either side of the room, giving crewmembers access to the catwalks leading to and around the various ships' mechanical systems.</para>
 			<para>The Maintenance Room is located on C-Deck and is directly adjacent to the Engine Room. It is basically a small compartment outfitted with the various tools and machinery needed to maintain and repair the ship's systems.</para>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Ready Room</title>
 			<para>The Ready Room is located adjacent to the Bridge on A-Deck. The Ready Room is outfitted as a small, private office for the ship's captain. Usually, it is equipped with a work station, equipment locker, and one or two privately obtained furnishings. What is unique about the Ready Room is its designed utility. There is a collapsable couch that folds out from one wall, along with a collapsible "dinner set" made up of a table and four chairs. This "dinner set" is usually only used for the Captain's Mess, or for special occasions when the Captain has to entertain visiting VIPs.</para>
-		</sect2>
+		</section>
 
-		<sect2>
+		<section>
 			<title>Situation Room</title>
 			<para>The Situation Room is located directly aft of the Bridge on A-Deck. It is composed of five regularly sized visual wall displays, and one large central island cabinet display mounted in the center of the deck. Under normal conditions, this room is primarily used as a navigational aid and for detailed scientific analysis of astronomical interstellar phenomena. If the needs of the mission dictates, the room is used as a "Situation" room in which the command staff can discuss and analyze their current situation, and how best to proceed with the mission at hand.</para>
-		</sect2>
-	</sect1>
-	<sect1>
+		</section>
+	</section>
+	<section>
 		<title>Utility Systems</title>
 		<epigraph>
 			<attribution>--Latin Proverb</attribution>
 			<para>"If the wind will not serve, take to the oars."</para>
 		</epigraph>
-		<sect2>
+		<section>
 			<title>Cargo Bays</title>
 			<para>There are three cargo pays, located in the forward, port, and starboard sections of D-Deck. Each cargo hold is compartmentalized, each compartment having its own set of environmental controls. This design gives the ship the capability of storing perishable cargo with in the proper level of temperature and oxygenated atmosphere.</para>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Docking Airlocks</title>
 			<para>There are two universal docking airlocks, both on C-Deck, one on the port side, and one on the starboard side of the saucer section respectively. Each has a retractable gantry, and may be configured to attach to a variety of hatch sizes and configurations.</para>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Elevator Systems</title>
 			<para>There are a total of three four-man elevators, all running vertically through the ship's main saucer section. Elevator-1 is in the center of the saucer and services Decks-A through D. Elevator-2 is in the forward portside quarter of the saucer and services Decks-B through D. And Evelator-3 is located in the aft starboard quarter of the saucer and also services Decks-B through D respectively.</para>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Magnetic Grappling System</title>
 			<para>The Bonaventure Class Starship is equipped with four dual grapple launchers. These launchers are located in a recessed bay within the ship's outer hull. When activated, the dual grapple launcher telescopes from its bay so that it can better target the object to be grappled. The grapples themselves form an electromagnetic bond with the target object, and the titanium alloy cables can be manipulated to position the object as needed after it has been grappled. One grapple is located above and aft of the saucer, one is located near the shuttlebay, one is located above forward of the port side, and the last is above forward starboard side. The range of the grappling tethers are 1.5km.</para>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Transporter Systems</title>
 			<para>The ship is equipped with a single transporter pad, located on D-Deck adjacent to both the Decontamination Chamber and Shuttlebay. It is specifically authorized to handle general teleportation of cargo and inanimate objects. Under extreme circumstances, it can be manipulated to transport living organisms such as a Humanoid. No more then three crewmembers may be transported at any given time, and then only during emergency situations. Current sensory and computer technology is incapable of accurate and safe transportation of living organisms under anything but ideal conditions. Any attempt to transport a living organism during hazardous conditions may be fraught with side effects such as distortion or melding of objects or life forms during transportation. The range of the transporter system is 3,000km.</para>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Utility Pod Bay</title>
 			<para>The Utility Pod Bay was designed with mission flexibility in mind, allowing for the ship to be easily equipped with a variety of subsystems as the situation dictates. In all, there are a total of six Utility Pod Bays. Three are located on B-Deck, and cover the above port, forward, and starboard quarters. Three more are located on C-Deck, and cover the bellow forward port, forward starboard, and aft quarters respectively. The Utility Pod Bay is basically an internal chamber recessed with in the hull that houses a retractable Utility Arm. The arm is outfitted with a gimbaled twin hard point equipment mount. The hard points have both power and data flow receptors so that mission specific equipment pods can be easily "plugged" into the hard point with minimal effort. Maintenance and the replacement/refit of equipment pods can easily be done from inside the ship while the arm is in its fully retracted "rest" position. When in use, the outer doors of the Pod Bay open, and the Utility Arm extends outward revealing the attached Equipment Pods. The equipment can then be rotated around to "target" a given area or point in space as needed. If the replacement equipment pod is already on hand, the time to perform a complete swap out is approximately 15 minutes per pod being replaced. A storage locker is located near each Utility Pod Bay, capable of housing the usual complement of four Equipment Pods.</para>
 			<para>The Equipment Pods may include (yet not limited to) one of the following:</para>
@@ -178,40 +178,40 @@
 				<member role="Auxiliary Phased Energy Cannon">Again, this is of a similar design, with the same range and power settings as that of the Phased Energy Cannon already listed above. The only difference is this weapon pod lacks a power generator of its own. Thus it will have to draw its energy directly from the ship's warp or impulse systems.</member>
 			</simplelist>
 			<para>It should be noted that the retractable arm of the Utility Pod Bay is not protected by the ship's hull polarization system while the doors are opened and the arm is in use. Thus the arm and any pod it is equipped with are highly vulnerable to weapons damage or local spatial conditions. It should also be remembered that any pod that needs to be constructed or heavily modified for a specific non-standard use will greatly increase the swap out/refit time from several hours to possibly several days, that is, if the resources and tools needed for the retrofit are on hand.</para>
-		</sect2>
-	</sect1>
-	<sect1>
+		</section>
+	</section>
+	<section>
 		<title>Crew Support Systems</title>
 		<epigraph>
 			<attribution>--Horace</attribution>
 			<para>"Surely oak and threefold brass surrounded his heart who first trusted a frail vessel to the merciless ocean."</para>
 		</epigraph>
-		<sect2>
+		<section>
 			<title>Crew Quarters</title>
 			<para>Enlisted and Junior Officers are billeted in pairs, sharing a small cabin consisting of, two bunks, two work stations, and two small closets. In addition to the two standard bunks, there are provisions for three retractable cots which could be stacked and mounted against a free wall. Though this arrangement is only used as the situation dictates. For every two crew cabins, there is a single shared Head. The Head is nothing more then a small standard heated water shower with a toilet and a sink that fold in and out from the bulkhead.</para>
 			<para>Senior Officers and visiting VIPs fair marginally better in that they do not have to share their quarters or bathing facilities with another crew member. Each Senior Officer/ VIP cabin is designed with the same interior volume as that of the crew quarters. Inside, there is a single bed, closet, and work station. In addition, each state room has an attached, private Head of similar design and lay out as that of the crew quarters. Because of space utilization concerns, there are only two cabins specifically assigned as VIP staterooms. As stated above, the Senior Officer/ VIP state rooms have provisions for the instillation of three additional retractable cots which can be stacked and mounted against a free wall.</para>
 			<para>All of the ship's sleeping quarters are located on B-Deck, with the Captain's Cabin in the aft most section, or "Fantail" of the saucer.</para>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Crew Recreational Facilities</title>
 			<para>There is a single Mess Hall located in the forward most quarter of B-Deck. The Mess Hall is a dual purpose room. When not in use for meals, it is often used as a sort of recreation room. Under usual conditions, there is a movie shown on the large display screen twice a week for the crew's enjoyment, although programming is subject to Captain's discretion. Also located in the Mess Hall is a well stocked and fully equipped game locker. Stocked inside is a wide range of portable table top games for the crew to use at their leisure. The locker may be stocked with such games as three dimensional chess, and Fizbit.</para>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Galley</title>
 			<para>Located adjacent to the Ship's Lounge, near the center of B-Deck is the ship's Galley. The Ship's Galley is the "kitchen" on board the ship. It is comprised of four combination conventional/microwave ovens, four stoves, three sinks, a food locker, and a protein re-sequencer. Perishable food stuffs for the Galley are stored in three separate fully compartmentalized pantries: One is a freezer, the second a refrigerator, and the third is used for bulk non-perishable items and is equipped with only the most basic climate controls.</para>
 			<para>The Galley is also equipped with the latest in protein re-sequencing technology. The protein re-sequencer recycles biological waste materials into simple protein and sucrose compounds resembling meat/ dairy/ vegetable byproducts such as ground beef, fish or poultry, cheeses, fruit juices and preserves. Although highly efficient, the re-sequencer is incapable of creating food stuffs with a complex layered formation as found in a turkey leg (with fat, bone and skin attached to the meat), or the fibrous consistency of fresh fruits and vegetables. Also, there tends to be a slight after taste, clearly identifying that the food has been "recycled". Only the most able of cooks are capable of reducing or camouflaging the after taste of the re-sequenced protein.</para>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Medical Facilities</title>
 			<para>The ship's Sickbay is located on C-Deck, in the very center of the saucer section, and is the most highly protected section in the entire ship. The ship's Sickbay is a large room housing three examination/recovery/surgical beds, surgical instrumentation, and a diagnostic bio scanner. The bio scanner is equipped with micro-scanners, a diagnostic computer, and a slide-out examination bed. A patient is slid inside the chamber of the bio scanner so that the attending physician can perform a highly detailed scan of the patient's physical condition. The ship's Sickbay is also outfitted with a full assortment of medicine and medicine synthesizing equipment.</para>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Decontamination Chamber</title>
 			<para>The ship's Decontamination Chamber is located adjacent to both the Shuttlebay and Transporter Pad on D-Deck. It's positioned near the turbolift and transporter pad for easy access for crew members returning to the ship from an alien environment, either by shuttle pod, or by transporter. When a landing party returns to the ship, they are automatically scanned for alien bacterial or viral contamination. If a contamination is found, the landing party inhabits the decontamination chamber until the ship's Medical Officer gives the all clear.</para>
-		</sect2>
+		</section>
 
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Auxiliary Spacecraft Systems</title>
 		<epigraph>
 			<attribution>--Lord Byron</attribution>
@@ -219,18 +219,18 @@
 		</epigraph>
 			<para>Locate in D-Deck is the ship's Shuttlebay. It is equipped with a dual launcher magnetic grapple, and two robotic retrieval arms. The NE-Class is capable of handling the usual load out of two standard shuttlepods with storage space for a third. The shuttlebay only has minor repair facilities for the shuttlepods. Should a shuttlepod be lost or severely damaged, the shuttlepod will have to be repaired or replaced when the ship returns to a starbase for repairs.</para>
 			<para>During launch and retrieval operation, the shuttlebay is sealed off, and the atmosphere is removed so that the shuttlepods may be launched into or retrieved from the vacuum of space.</para>
-			<sect2>
+			<section>
 				<title>Shuttlepods</title>
 				<para>The standard Starfleet shuttlepod is the work horse of the fleet. The titanium hull is streamlined and has small delta wings on either side for atmospheric re-entry and flight. The shuttle pod uses reaction thrusters for atmospheric propulsion and maneuverability in space. A single impulse motor provides its primary source of propulsion while in spaceflight. Maximum speed for the shuttlepod is .10c in spaceflight and 4000 km/h in atmospheric flight. The shuttlepod can carry a crew of 6 with enough life support for 24 hours. As a precaution, each shuttle pod is equipped with a single plasma cannon. The plasma cannon have a range of 10km, and maximum beam energy of 300kw.</para>
-			</sect2>
-	</sect1>
-	<sect1>
+			</section>
+	</section>
+	<section>
 		<title>Technical Specifications</title>
 		<epigraph>
 			<attribution>--Captain Cook, 18th century English Explorer, discoverer of the Hawaiian Islands</attribution>
 			<para>"I had the ambition to not only go farther than man had gone before, but to go as far as it was possible to go."</para>
 		</epigraph>
-		<sect2>
+		<section>
 			<title>Dimensions and Structure</title>
 			<simplelist>
 				<member role="Length">172.5 meters</member>
@@ -238,8 +238,8 @@
 				<member role="Height">33.8 meters</member>
 				<member role="Decks">4</member>
 			</simplelist>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Crew Complement</title>
 			<simplelist>
 				<member role="Officers and Crew">55</member>
@@ -251,15 +251,15 @@
 				<member role="Visiting Personnel">8</member>
 				<member role="Maximum Evacuation Limit">130</member>
 			</simplelist>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Computer Systems</title>
 			<simplelist>
 				<member role="Core">PAL-9000 isograted circuit Quadracore</member>
 				<member role="Operating System">Macrohard Computer Operating System (MCOS), volume 7.1</member>
 			</simplelist>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Warp Systems</title>
 			<simplelist>
 				<member role="Power Plant">One 92 cochrane M/ARA core feeding two nacelles</member>
@@ -267,23 +267,23 @@
 				<member role="Maximum Sustainable Velocity">TOS-Warp 4</member>
 				<member role="Maximum Velocity">TOS-Warp 4.5 (12 hours)</member>
 			</simplelist>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Impulse Systems</title>
 			<simplelist>
 				<member role="Full Impulse">0.18c</member>
 				<member role="Accellerate">45 seconds</member>
 				<member role="Decellerate">65 seconds</member>
 			</simplelist>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Defensive Systems</title>
 			<simplelist>
 				<member role="Maximum Increase in Hull Integrity">130%</member>
 				<member role="Polarization Field Maximum Energy Dissipation Rate">3.3 x 10^4 kilowatts</member>
 			</simplelist>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Offensive Systems</title>
 			<simplelist role="Torpedoes">
 				<member role="Torpedo Tubes">2</member>
@@ -292,11 +292,11 @@
 			<simplelist role="Phased Energy Beams">
 				<member>3 Phaser Emitters</member>
 			</simplelist>
-		</sect2>
-	</sect1>
-	<sect1>
+		</section>
+	</section>
+	<section>
 		<title>Deck Layout</title>
-		<sect2 role="Deck">
+		<section role="Deck">
 			<title>A Deck</title>
 			<simplelist>
 				<member>Bridge</member>
@@ -304,8 +304,8 @@
 				<member>PAL-9000 computer core - A</member>
 				<member>Situation Room</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>B-Deck</title>
 			<simplelist>
 				<member>CO's quarters</member>
@@ -319,8 +319,8 @@
 				<member>Utility Pod Bay-2 (forward)</member>
 				<member>Utility Pod Bay-3 (starboard)</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>C-Deck</title>
 			<simplelist>
 				<member>Armory (two forward firing torpedo launchers)</member>
@@ -335,8 +335,8 @@
 				<member>Utility Pod Bay-5 (aft)</member>
 				<member>Utility Pod Bay-6 (forward-port)</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>D-Deck</title>
 			<simplelist>
 				<member>Auxiliary Life Support</member>
@@ -348,9 +348,9 @@
 				<member>Shuttlebay</member>
 				<member>Transporter Pad</member>
 			</simplelist>
-		</sect2>
-	</sect1>
-	<sect1>
+		</section>
+	</section>
+	<section>
 		<title>Ships of the Class</title>
 		<epigraph>
 			<attribution>CREDIT</attribution>
@@ -382,16 +382,16 @@
 				<productnumber>06</productnumber>
 			</member>
 		</simplelist>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Conclusion</title>
 		<epigraph>
 			<attribution>--Wernher von Braun</attribution>
 			<para>"There is just one thing I can promise you about the outer-space program: your tax dollar will go farther."</para>
 		</epigraph>
 		<para>The Bonaventure Class starships are fast proving their worth, gaining the nickname "Greyhounds" by her crews for their combination of speed, endurance, and durability. Although their mission is one of peaceful exploration, they are equipped with sufficient firepower to defend the ever expanding Terran space frontier.</para>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Illustrations</title>
 		<para>These other visual representations of the Bonaventure are available.</para>
 		<mediaobject>
@@ -440,5 +440,5 @@
 				<para>Profile views of the Bonaventure</para>
 			</caption>
 		</mediaobject>
-	</sect1>
+	</section>
 </article>

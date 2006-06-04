@@ -49,14 +49,14 @@
 			</revision>
 		</revhistory>
 	</articleinfo>
-	<sect1>
+	<section>
 		<title>History and Mission Overview</title>
 		<para>Though more up-to-date than its larger cousin, the Galaxy class, the Nebula  class was found to be significantly lacking. With the new ships of the line, as well as the new threats facing the Federation, a class that fulfilled the same mission parameters as the original Nebula class but was brought up to current standards of performance was required. At the same time, with a score of Nebula class vessels in the fleet quickly approaching obsolescence, the brass of Starfleet Engineering sought to bring the fleet up to date without heavy expenditures that might cut into their paychecks.</para>
 		<para>Who answered the call? Abraxas Shipworks, of course! A team of ASW engineers set about 'borrowing' parts from other Starfleet projects with which to modify a victim ship, the USS Phoenix. They broke out the sledgehammers, arc welders, and coffee pots, and set about stretching the Nebula class like a heretic in AD 1500's Spain. Almost all major systems were overhauled, and for once, probably the first and last time, they were under budget.</para>
 		<para>So they decided to celebrate by ruining that record and adding on experimental technologies which destroyed many systems and Nameless Ensigns. Through this borrowing and experimentation, the development team managed to turn out one of the most technologically advanced ship classes yet constructed, only going three times the planned budget for development. So far, the Phoenix project has been a resounding success, and has been given its own class, the Phoenix class.
 Of course, like an Intel processor, no sooner is it created than it's obsolete. Thus, ASW went back into the guts of the Phoenix class ready to rip it apart like a slow runner in Pomplona. Out of this came the Phoenix Mk.2, an upgrade of the upgrade of the Nebula class.</para>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Structure and Construction</title>
 		<para>The Phoenix class's secondary hull is significantly longer and wider than the Nebula class's original hull. The saucer has also been elongated by ten meters. This allowed a 35% increase in internal space. This increase is primarily applied to increase cargo and scientific systems spaces, though increases in crew space and computer processing space are also allowed by this.</para>
 		<para>The stardrive section's Variable Field Geometry warp nacelles are held on articulated wings, jointed at their connection to the stardrive hull and at the mid point. When not in warp flight, the wings hold the nacelles close to the body of the ship for protection. When in warp flight these wings extend to the maximum width of the saucer. The nacelles can yaw and slide along the lateral axis to allow for shaping of the subspace field to reduce impact on the subspace fabric, as well as reduce Zero Point Field drag (for more information on Zero Point Field drag, see the Colin Wyers's Essay on Warp Fields), account for mass center shifting due to mission module attachment, and protect and accommodate for major structural damage.</para>
@@ -80,42 +80,42 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 			<member role="Carrier Module">Houses six extra fighters or shuttles. Runabouts occupy half again as much space as the fighters or shuttles.</member>
 			<member role="Science">These cover all aspects of the scientific field from stellar cartography to terraforming. They include extra sensors, labs, data processing and data storage systems, equipment storage and replication systems, extra energy systems, and mission officers.</member>
 		</simplelist>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Science and Remote Sensing Systems</title>
 		<para>Augmenting the Nebula class sensor systems, the Phoenix class has two more rings on the saucer section, at the dorsal and ventral mid-points. These provide more clarity for medium to long-range passive sensing, as well as access to a wider spectrum of the standard EM and subspace frequencies. On either side of the deflector dish, two directional scanners double the forward scanning range of the original Nebula. For exploration purposes, the fighters of the Phoenix class can be modified into medium-range explorers.</para>
 		<para>All weapons on these fighters are replaced by sensors, and engines are augmented for increased range and speed.</para>
 		<para>Stellar cartography incorporates holographic imaging to project in three dimensions the stellar surroundings . Also included in the science complex are a half dozen modular labs which can be adjusted to accommodate specific purposes as needed. </para>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Warp Propulsion Systems</title>
 		<para>Primary power is provided by the MARA located in the stardrive section. Auxiliary power is provided by fusion generators located throughout the vessel. Emergency power is stored in batteries clustered throughout the ship capable of supplying seventy-two hours of power for necessary systems.</para>
 		<para>Warp propulsion is provided by a 1500+ cochrane warp drive system powered by the MARA and projected through Variable Field Geometry nacelles.</para>
 		<para>The MARA and fusion reaction cores include cryogenic heat sinks to keep core wear and tear to a minimum, and to provide more useful energy for the EPS.</para>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Impulse Propulsion Systems</title>
 		<para>Two standard impulse engines, borrowed from the Galaxy class, are located on each side of the spinal mission module stalk on the secondary hull. Two more are located on each side of saucer section. The space-time driver coils have been upgraded for slight increases in efficiency to allow .03c faster impulse travel. The vectored exhaust fields are modified to extend slightly beyond the exhaust port, so that exhaust can be vectored in a cone of 80 degrees from the centerline, increasing maneuverability</para>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Tactical Systems</title>
 		<para>The basic shield system is swiped from the Trinitron class's two-level system. Protection of key points, such as the bridge, engineering, and warp nacelles, is aided by cryogenic cooling systems, a.k.a. heat sinks, which help dissipate EM energy from beam and explosive weapons away from key points in the hull and absorb it (through the vaporization of the super-cooled liquids within the heat sinks), keeping damage localized within the perimeter of heat sinks around the weapons impact.</para>
 		<para>The ASW engineers reduced the number of phaser emplacements on the Phoenix class in favor of an extra torpedo launcher, as the torpedo launcher is seen as a more effective weapon, for its power, usefulness at warp velocities, ability to launch sensor probes, and the flexibility introduced by new torpedo warhead developments.</para>
 		<para>The Phoenix class is equipped to fire any torpedo that fits in a standard launcher, including quantum torpedoes, photon torpedoes, variable warhead torpedoes, and EMP torpedoes. The EMP torpedo uses a nuclear reaction to create an electromagnetic pulse in close proximity to the target ship to disable its electrical and electroplasmic systems. Standard compliment for the Phoenix is 10 quantum torpedoes, 5 EMP torpedoes, 5 variable warhead torpedoes, and 30 photon torpedoes. </para>
 		<para>Included in the defensive systems is the Phalanx system of eight small turrets. Each turret includes a type IV-pulse phaser emitter and mini-torpedo launcher (from the Icarus project) for targeting and damaging or destroying opponent fighter craft and projectiles. The mini-torp warhead can be programmed for proximity or timed detonation to provide a flak effect with a higher chance of destroying or diverting enemy torpedoes. They are located dorsal and ventral on the fore, starboard, and port edges of the saucer, and the aft end of the stardrive section. These defensive turrets serve a secondary purpose in path-finding through asteroid fields. </para>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Secondary and Utility Systems</title>
 		<para>The Phoenix class, unlike the Nebula class, has a detachable saucer section, for separation under emergency conditions. Eighteen docking latches provide the necessary physical connections between the major load-bearing members of both vehicles. The active side of the latches is located on the forward dorsal surface of the Secondary Hull. The passive apertures for the latches are set into the aft ventral surface of the Saucer Module. In the event of saucer separation, the designers at ASW, ex-Starfleet Engineers themselves and eager to deliver power into the hands of Engineers, designed the engineering section to serve as the control center for the secondary hull by including control panels in engineering which can be adapted to flight, weapons, communications, and sensor control. The saucer section is equipped with landing skids, integrated into the lower hull and retracted beneath hull panels during normal flight. In case of emergency separation, explosive charges are included in the docking clamps, shaped in such a way that their detonation will disintegrate the docking clamps with little collateral structural damage, cutting the time for emergency saucer separation protocol to the time needed for crew transfer and saucer acceleration.</para>
 		<para>The Phoenix class includes nanites and larger robots to conduct repairs in environments that would be extremely hazardous to human health. These automata are either remote controlled by engineers in the engineering section or are preprogrammed with instructions in basic logic circuitry.</para>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Crew Support Systems</title>
 		<para>In cases of emergencies such as ship destruction, ship evacuation and site-to-site transport protocols, including transport triage with specific destinations, come pre-programmed into the computer, to beam all onboard the ship to safe sections, whether they be lifeboats or the detachable saucer section or some similarly pre-determined locale. Emergency transport can also be initiated and controlled manually from the bridge, engineering, or any transporter room. Transport is handled by five primary transporters, eight cargo transporters, and six emergency transporters. The primary transporters can transport six people every 90 second cycle. Emergency protocol triggers an automatic reconfiguration of the cargo transporters, after which they can transport two people every 90 second cycle. Emergency transporters can transport twenty-two people every 90 second cycle. This allows for a Phoenix class at maximum evacuation limit (10,200 passengers and 475 crew) to be evacuated in approximately an hour. A standard crew compliment and full passenger compliment, totaling 1975 personnel, can be evacuated in approximately eighteen minutes. Site-to-site transport halves the capacity, doubling these numbers.</para>
 		<para>Eight-man lifeboats are located on each deck for evacuation purposes.</para>
 		<para>The designers provide for a medical complex large enough to handle as many patients as the Galaxy class sickbay, but also to serve as a chemical and biological analysis center for exploration. Included in this system is the wildly popular EMH mark II. Also included in the medical complex is a genetics lab for the cataloguing and processing of new specimens. Specimens can be replicated, grown, analyzed, and stored as needed.</para>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Auxiliary Spacecraft Systems</title>
 		<para>On deck 36, located behind the warp core ejection mechanism, an auxiliary hangar (to supplement the main hangar on the saucer) has been attached. This hangar holds six fighters and their munitions.</para>
 		<para>Flight Operations are handled by the Chief Flight Officer (CFO), generally treated as another department head. Six engineering officers are dedicated to the maintenance of the fighters.</para>
@@ -123,10 +123,10 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 		<para>The fighters are intended for use as an extension of the Phoenix class. They can be used in wartime, obviously, but also they can be outfitted with sensors to reconnoiter and explore without diverting the entire vessel. </para>
 		<para>The fighter bay can be converted to hold three runabouts with a minimum of alteration.</para>
 		<para>The shuttle compliment for the Phoenix class is 5 type 9A cargo shuttles, 5 type 9 personnel shuttles, 3 type 10 special purpose shuttles, and 10 two-person shuttlepods for EV repairs and similar activities. These are distributed between the main shuttlebay on the rear of the saucer and two auxiliary shuttlebays on the secondary hull.</para>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Technical Specifications</title>
-		<sect2>
+		<section>
 			<title>Dimensions and Structure</title>
 			<simplelist>
 				<member role="Length">490.5 meters</member>
@@ -134,24 +134,24 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<member role="Height">145 meters</member>
 				<member role="Decks">36</member>
 			</simplelist>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Crew Complement</title>
 			<simplelist>
 				<member role="Officers and Crew">475</member>
 				<member role="Visiting Personnel">1500</member>
 				<member role="Maximum Evacuation Limit">10,200</member>
 			</simplelist>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Computer Systems</title>
 			<simplelist>
 				<member role="Core">EUNIX decentralized/redundant core system</member>
 				<member role="Operating System">Starfleet Library Computer Access and Retrieval System (LCARS)</member>
 				<member role="User Interface">MAJEL</member>
 			</simplelist>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Warp Systems</title>
 			<simplelist>
 				<member role="Power Plant">One 1500+ cochrane M/ARA cores feeding two nacelles</member>
@@ -159,23 +159,23 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<member role="Maximum Sustainable Velocity">Warp 9.3</member>
 				<member role="Maximum Velocity">Warp 9.97 (12 hours)</member>
 			</simplelist>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Impulse Systems</title>
 			<simplelist>
 				<member role="Full Impulse">0.28c</member>
 				<member role="Accellerate">3.8 seconds</member>
 				<member role="Decellerate">4.5 seconds</member>
 			</simplelist>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Defensive Systems</title>
 			<simplelist>
 				<member role="Shield Maximum Graviton Load (Continuous)">2320  MegaWatts</member>
 				<member role="Shield Maximum Energy Dissipation Rate">6.9x10^5 kilowatts</member>
 			</simplelist>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Offensive Systems</title>
 			<simplelist role="Torpedoes">
 				<member role="Torpedo Tubes">3</member>
@@ -186,35 +186,35 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<member>1 Type-X Pulse Phaser</member>
 				<member>8 Phalanx phaser/slug turrets</member>
 			</simplelist>
-		</sect2>
-	</sect1>
-	<sect1>
+		</section>
+	</section>
+	<section>
 		<title>Deck Layout</title>
-		<sect2 role="Deck">
+		<section role="Deck">
 			<title>Deck 1</title>
 			<simplelist>
 				<member>Observation lounge</member>
 				<member>Bridge</member>
 				<member>Captain’s ready room</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 2</title>
 			<simplelist>
 				<member>Transporter room 1</member>
 				<member>Senior officer’s quarters</member>
 				<member>Main shuttlebay</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 3</title>
 			<simplelist>
 				<member>Shuttle systems programs</member>
 				<member>Viewing balcony</member>
 				<member>Junior officer’s quarters</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 4</title>
 			<simplelist>
 				<member>Junior officer’s quarters</member>
@@ -222,8 +222,8 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<member>Cargo bay</member>
 				<member>Cargo transporters</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 5</title>
 			<simplelist>
 				<member>Captain’s quarters</member>
@@ -234,8 +234,8 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<member>Cargo bay</member>
 				<member>Cargo transporters</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 6</title>
 			<simplelist>
 				<member>Crew quarters</member>
@@ -243,8 +243,8 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<member>Arboretum</member>
 				<member>Banquet/conference room</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 7</title>
 			<simplelist>
 				<member>Crew quarters</member>
@@ -254,8 +254,8 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<member>Weapons storage</member>
 				<member>Auxiliary sensor array 1</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 8</title>
 			<simplelist>
 				<member>Crew quarters</member>
@@ -264,24 +264,24 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<member>Airlock</member>
 				<member>phaser array 2</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 9</title>
 			<simplelist>
 				<member>Guest quarters</member>
 				<member>Main lounge (Phoenix Pub)</member>
 				<member>Saucer impulse engines</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 10</title>
 			<simplelist>
 				<member>Guest quarters</member>
 				<member>Reactor and sensor maintenance</member>
 				<member>Holodeck 1</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 11</title>
 			<simplelist>
 				<member>Guest quarters</member>
@@ -293,8 +293,8 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<member>Primary sensor array</member>
 				<member>sensor maintenance</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 12</title>
 			<simplelist>
 				<member>Guest quarters</member>
@@ -311,8 +311,8 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<member>Torpedo storage</member>
 				<member>Torpedo launcher</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 13</title>
 			<simplelist>
 				<member>Guest quarters</member>
@@ -321,8 +321,8 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<member>EVA access</member>
 				<member>Holodecks 3 and 4</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 14</title>
 			<simplelist>
 				<member>Guest quarters</member>
@@ -332,8 +332,8 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<member>Phaser array 3</member>
 				<member>Transporter room 4</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 15</title>
 			<simplelist>
 				<member>Guest quarters</member>
@@ -342,8 +342,8 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<member>Landing skids</member>
 				<member>Mission module access</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 16</title>
 			<simplelist>
 				<member>Captain's yacht</member>
@@ -352,8 +352,8 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<member>Torpedo storage</member>
 				<member>Mission module access</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 17</title>
 			<simplelist>
 				<member>Guest Quarters</member>
@@ -361,8 +361,8 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<member>Mission module access</member>
 				<member>Main impulse engines</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 18</title>
 			<simplelist>
 				<member>Guest quarters</member>
@@ -371,8 +371,8 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<member>Deflector dish</member>
 				<member>Main impulse engines</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 19</title>
 			<simplelist>
 				<member>Guest quarters</member>
@@ -380,8 +380,8 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<member>Mission module access</member>
 				<member>Deflector dish</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 20</title>
 			<simplelist>
 				<member>Guest quarters</member>
@@ -391,8 +391,8 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<member>Deflector dish</member>
 				<member>Directional sensors</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 21</title>
 			<simplelist>
 				<member>Guest quarters</member>
@@ -403,8 +403,8 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<member>Deflector dish</member>
 				<member>Directional sensors</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 22</title>
 			<simplelist>
 				<member>Guest quarters</member>
@@ -413,8 +413,8 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<member>Deflector dish</member>
 				<member>Directional sensors</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 23</title>
 			<simplelist>
 				<member>Guest quarters</member>
@@ -425,8 +425,8 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<member>Cargo transporters</member>
 				<member>Directional sensors</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 24</title>
 			<simplelist>
 				<member>Guest quarters</member>
@@ -437,8 +437,8 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<member>Nacelle wing access</member>
 				<member>transporter room 5</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 25</title>
 			<simplelist>
 				<member>Guest quarters</member>
@@ -449,8 +449,8 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<member>Deflector dish</member>
 				<member>Nacelle wing access</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 26</title>
 			<simplelist>
 				<member>Guest quarters</member>
@@ -459,8 +459,8 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<member>Mission module access</member>
 				<member>Nacelle wing access</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 27</title>
 			<simplelist>
 				<member>Guest quarters</member>
@@ -469,8 +469,8 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<member>Deflector dish</member>
 				<member>Nacelle wing access</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 28</title>
 			<simplelist>
 				<member>Guest quarters</member>
@@ -480,8 +480,8 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<member>Shuttlebay 3</member>
 				<member>Nacelle wing access</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 29</title>
 			<simplelist>
 				<member>Guest quarters</member>
@@ -491,8 +491,8 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<member>Cargo bay</member>
 				<member>Cargo transporters</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 30</title>
 			<simplelist>
 				<member>Guest quarters</member>
@@ -501,8 +501,8 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<member>Stardrive sensor array</member>
 				<member>Deflector dish</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 31</title>
 			<simplelist>
 				<member>Cargo bay</member>
@@ -511,8 +511,8 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<member>Torpedo storage warp core</member>
 				<member>Deflector dish</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 32</title>
 			<simplelist>
 				<member>Utility replicators</member>
@@ -521,8 +521,8 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<member>Disneyland-Phoenix</member>
 				<member>Aft replicator mess</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 33</title>
 			<simplelist>
 				<member>Utility replicators</member>
@@ -531,8 +531,8 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<member>Cargo bay</member>
 				<member>Cargo transporters</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 34</title>
 			<simplelist>
 				<member>Utility replicators</member>
@@ -541,8 +541,8 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<member>Cargo bay</member>
 				<member>Cargo transporters</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 35</title>
 			<simplelist>
 				<member>Warp core ejection systems</member>
@@ -550,17 +550,17 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<member>Airlock</member>
 				<member>Phaser array 4</member>
 			</simplelist>
-		</sect2>
-		<sect2 role="Deck">
+		</section>
+		<section role="Deck">
 			<title>Deck 36</title>
 			<simplelist>
 				<member>Fighter bay</member>
 				<member>CFO's office</member>
 				<member>Warp core ejection systems</member>
 			</simplelist>
-		</sect2>
-	</sect1>
-	<sect1>
+		</section>
+	</section>
+	<section>
 		<title>Ships of the Class</title>
 		<simplelist role="ShipList">
 			<member role="PC">
@@ -640,12 +640,12 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<productnumber>65441</productnumber>
 			</member>
 		</simplelist>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Conclusion</title>
 		<para>The Phoenix exists as a jack-of-all-trades, not able to do all of them at once, or all of them as well as specifically designed craft, but able to serve the variety of mission roles required by Starfleet.</para>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Illustrations</title>
 		<para>These other visual representations of the Phoenix are available.</para>
 		<mediaobject>
@@ -671,5 +671,5 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 				<para>Phoenix-class Profile</para>
 			</caption>
 		</mediaobject>
-	</sect1>
+	</section>
 </article>

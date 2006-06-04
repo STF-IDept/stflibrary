@@ -35,7 +35,7 @@
 			</revision>
 		</revhistory>
 	</articleinfo>
-	<sect1>
+	<section>
 		<title>History and Mission Overview</title>
 		<epigraph>
 			<attribution>--Dr. Ian Malcolm</attribution>
@@ -52,8 +52,8 @@
 			<member>Massed attacks against large targets</member>
 			<member>Air support for ground troops</member>
 		</simplelist>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Structure and Construction</title>
 		<epigraph>
 			<attribution>--John Hammond</attribution>
@@ -62,8 +62,8 @@
 		<para>The Compsognathus is built from standard tritanium and duranium alloys. It's dimensions measure 9.81m x 5.96m x 3.67m.</para>
 		<para>From above, the nose of the craft is flat, extending into long curves reaching 6m along the length of the craft. The remaining length is straight lines, with two 'wings' extending from this surface.</para>
 		<para>From the front, the main body of the craft is a mirrored shape, with a flat surface turning into a curved side. The 'wings' are located halfway up the craft.</para>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Locations</title>
 		<epigraph>
 			<attribution>--Robert Muldoon</attribution>
@@ -73,8 +73,8 @@
 		<para>The Cockpit is found in the one third of the way along the front of the shuttle, from the nose. The pilot sits in a small compartment, with the craft's controls directly in front. Status displays are on the left, sensor data to the right. A view screen inside the cockpit's cover gives the pilot visual information about the space around him/her, should the pilot desire it.</para>
 		<para>Environmental systems, communications systems and a microfusion generator are attached to the Cockpit, within the craft.</para>
 		<para>The phaser armament is located beneath the cockpit, in the belly of the craft. Micro-torpedo launchers are found within the wings.</para>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Science and Remote Sensing Systems</title>
 		<epigraph>
 			<attribution>--Dr. Alan Grant</attribution>
@@ -82,8 +82,8 @@
 		</epigraph>
 		<para>The Compsognathus uses a computer core similar to the type-X shuttlecraft. This comprises of 5 polled processor segments, with two back up bio-neural gel pack based processors should the main unit be damaged or suffer a failure for other reasons.</para>
 		<para>Like the engines, the sensor packages on the Compsognathus are scaled down versions of starship sensors. These are combined with an <link linkend="ets">Emissions Tracking System</link>.  Cloak Detection is a possibility for the Compsognathus via the ETS, although the craft has no means by which it can de-cloak a threat vessel.</para>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Impulse Propulsion Systems</title>
 		<epigraph>
 			<attribution>--Dr. Ian Malcom</attribution>
@@ -92,8 +92,8 @@
 		<para>The Compsognathus interceptor has no Warp Propulsion System, so it is dependant on a carrier craft to transport it to and from different theatres of operation.</para>
 		<para>Impulse propulsion is based around a sub-scaled version of standard starship Impulse Propulsion Systems. This is coupled with shuttlecraft Reaction Control System (RCS) packages taken from Type-VI shuttlecraft to give a high level of manoeuvrability. The Compsognathus has no problem keeping up with other fighters during combat.</para>
 		<para>The maximum sustained speed for the Compsognathus is 0.35c, where c is the speed of light.</para>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Tactical Systems</title>
 		<epigraph>
 			<attribution>--Robert Muldoon</attribution>
@@ -102,8 +102,8 @@
 		<para>The basic defensive systems of the Compsognathus Class mirror those used by most shuttlecraft with regards to shields and signal jamming devices.</para>
 		<para>In addition, the Compsognathus was fitted with 1cm of Ablative armour for added protection in combat.</para>
 		<para>The two 'wings' each contain a micro-torpedo launcher, each with 30 micro-torpedoes. These are intended to be used along side the phaser armament of the Interceptor. The Phaser armament can be either two standard Type-V Phaser emitters or two Type-V Pulse Phaser cannon. These weapons are interchangeable between missions.</para>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Crew Support Systems</title>
 		<epigraph>
 			<attribution>--Dr. Alan Grant</attribution>
@@ -112,28 +112,28 @@
 		<para>The Compsognathus Class includes standard RF and subspace communications equipment. It also has an encoded-channel system designed to allow pilots within a squadron or wing to co-ordinate efforts.</para>
 		<para>A small atmospheric recycling system is installed behind the cockpit to allow prolonged survival. Should this fail, the compressed air tanks contain enough breathable atmosphere for 8 hrs. Because of the differences between races, each craft must have the environmental systems tailored to the pilot's requirements.</para>
 		<para>In an emergency, the Cockpit is designed to separate and act as a lifeboat. Communications systems act as a distress signal/homing beacon. Environmental systems are attached to the Cockpit, which also includes survival rations, to help ensure pilot survival.</para>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Technical Specifications</title>
 		<epigraph>
 			<attribution>--Dr. Alan Grant</attribution>
 			<para>"How fast do they move?"</para>
 		</epigraph>
-		<sect2>
+		<section>
 			<title>Dimensions and Structure</title>
 			<simplelist>
 				<member role="Length">9.81 meters</member>
 				<member role="Beam (Width)">5.96 meters</member>
 				<member role="Height">3.67 meters</member>
 			</simplelist>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Crew Complement</title>
 			<simplelist>
 				<member role="Pilot">1</member>
 			</simplelist>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Computer Systems</title>
 			<simplelist>
 				<member role="Core">Bio-neural data core</member>
@@ -141,23 +141,23 @@
 				<member role="Operating System">Starfleet Library Computer Access and Retrieval System (LCARS)</member>
 				<member role="User Interface">MAJEL</member>
 			</simplelist>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Impulse Systems</title>
 			<simplelist>
 				<member role="Full Impulse">0.35c</member>
 				<member role="Accellerate">10 seconds</member>
 				<member role="Decellerate">15 seconds</member>
 			</simplelist>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Defensive Systems</title>
 			<simplelist>
 				<member role="Shield Maximum Graviton Load (Continuous)">27 MegaWatts</member>
 				<member role="Shield Maximum Energy Dissipation Rate">790 kilowatts</member>
 			</simplelist>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Offensive Systems</title>
 			<simplelist role="Micro-Torpedoes">
 				<member role="Torpedo Tubes">2</member>
@@ -169,14 +169,14 @@
 			<!-- <simplelist role="Other Systems">
 					<member>XX</member>
 			</simplelist> -->
-		</sect2>
-	</sect1>
-	<sect1>
+		</section>
+	</section>
+	<section>
 		<title>Conclusion</title>
 		<epigraph>
 			<attribution>--Dr. Alan Grant</attribution>
 			<para>"After careful consideration, I've decided not to endorse your park."</para>
 		</epigraph>
 		<para>The Compsognathus Class Interceptor has now gone into mass production, serving as a support fighter to the heavier classes such as the Icarus, providing protection against enemy fighters and smaller ships.</para>
-	</sect1>
+	</section>
 </article>

@@ -35,7 +35,7 @@
 			</revision>
 		</revhistory>
 	</articleinfo>
-	<sect1>
+	<section>
 		<title>History and Mission Overview</title>
 		<epigraph>
 			<attribution>--General Hallo</attribution>
@@ -50,8 +50,8 @@
 			<member>Transport of cargo and personnel</member>
 			<member>Emergency tactical missions</member>
 		</simplelist>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Structure and Construction</title>
 		<epigraph>
 			<attribution>--John Hammond</attribution>
@@ -62,66 +62,66 @@
 		<para>The interior of the craft is built around a central corridor, which connects to the key areas of the ship.</para>
 		<para>Access hatches are mounted to the front (Port and starboard of the deflector array) dorsal, and aft.  Four landing gear, located at 45, 135, 225 and 315 degrees, allow the Liberty-class to land on any surface that will support the weight of the craft.</para>
 		<para>The Liberty-class is constructed from tritanium and duranium alloys, with transparent aluminium use for the view ports.  Avalon used Transporter Welding when making Liberty-class vessels, although some Ship Yards do not.</para>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Science and Remote Sensing Systems</title>
 		<epigraph>
 			<attribution>--Wheeljack</attribution>
 			<para>"Fascinating."</para>
 		</epigraph>
-		<sect2>
+		<section>
 			<title>Sensor systems</title>
 			<para>The Liberty-class Runabout has sensor units located throughout the main hull, with a good number in a forward mount behind the deflector array.  High-resolution scanning range is 0.8 light-years; low resolution is 3.6 light years.</para>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Computer Systems</title>
 			<para>The Liberty-class has two computer cores.  Both are comprised of 8 processing units utilising isolinear chips with a single bio-neural gel pack attached to each core for enhanced processing speed.</para>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Scientific probes</title>
 			<para>The Liberty-class carries 10 micro-probes as standard, and can carry more if necessary at the expense of its micro-torpedo payload.</para>
-		</sect2>
-	</sect1>
-	<sect1>
+		</section>
+	</section>
+	<section>
 		<title>Warp Propulsion Systems</title>
 		<epigraph>
 			<attribution>--Agent K</attribution>
 			<para>"Why do rats desert a sinking ship?"</para>
 		</epigraph>
 		<para>The Liberty-class Runabout is fitted with a warp core rated at 300 Cochranes.  This allows a Cruising Velocity of Warp 3, a Maximum Sustainable Velocity of Warp 4, and a Maximum Velocity of Warp 4.5</para>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Impulse Propulsion Systems</title>
 		<epigraph>
 			<attribution>--Agent J</attribution>
 			<para>"It used to come with a Black dude but he kept getting pulled over."</para>
 		</epigraph>
 		<para>Two sub-scaled impulse units provide sub-light propulsion and primary power generation for the Liberty-class.  It can reach a speed of 0.24c, which it can accelerate to from 0 in 12 seconds.  Slowing from full impulse to 0 takes 20 seconds.</para>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Tactical Systems</title>
 		<epigraph>
 			<attribution>--Unicron</attribution>
 			<para>"You underestimate me, Galvatron."</para>
 		</epigraph>
-		<sect2>
+		<section>
 			<title>Defensive Shields</title>
 			<para>The Maximum Gravitational Load of the Liberty-class Runabout's shielding is 150 MW.  The shield has a Maximum Energy Dissipation Rate of 2.23 X 10^3.</para>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Metaphasic Shields</title>
 			<para>The Liberty-class is fitted with a metaphasic shield to protect it from natural phenomena while on scientific missions.</para>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Phaser Systems</title>
 			<para>The Liberty-class is fitted with 6 type-V beam phaser strips, each consisting of 5 emitters.  These are located forward-dorsal, forward-ventral, aft-dorsal, aft-ventral, port and starboard, to provide maximum protection.  Energy output of these phasers is 0.2 MW</para>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Torpedo Systems</title>
 			<para>There are two micro-torpedo launchers on the Liberty-class; one mounted forward, one mounted aft.  Both have 15 micro-torpedoes.  The forward launcher also launches micro-probes.</para>
-		</sect2>
-	</sect1>
-	<sect1>
+		</section>
+	</section>
+	<section>
 		<title>Command and Support Systems</title>
 		<epigraph>
 			<attribution>--Ultra Magnus</attribution>
@@ -129,23 +129,23 @@
 		</epigraph>
 		<para>The "Bridge" of the Liberty-class is located at the front of the craft.  Conn and Ops are at the front, with science to port and engineering to starboard.  Any of these can double as Tactical in combat.  Although intended for 4 people to crew the craft, it is possible for as few as 1 to fly the Liberty-class if needed.</para>
 		<para>There is a small, general use science lab found in the port compartment behind the Bridge.</para>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Utility Systems</title>
 		<epigraph>
 			<attribution>--Rollbar</attribution>
 			<para>"So we're not even sure they work?"</para>
 		</epigraph>
-		<sect2>
+		<section>
 			<title>Tractor Beam Systems</title>
 			<para>The Tractor beam has a range of 7,500km, dependent on the speed and mass of the object being tractored.</para>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Transporter Systems</title>
 			<para>A transporter pad is located to the aft, which can transport 4 people up to 10,000km.</para>
-		</sect2>
-	</sect1>
-	<sect1>
+		</section>
+	</section>
+	<section>
 		<title>Crew Support Systems</title>
 		<epigraph>
 			<attribution>--Anonymous Worm Guy</attribution>
@@ -154,14 +154,14 @@
 		<para>A small "Sickbay" area is located starboard, opposite the science lab.  This is composed of a single bio-bed and basic medical supplies, plus Med-kits for field use.</para>
 		<para> A "bunk room" contains 3 wall-mounted beds for the crew to use.  An additional 3 beds can be added, but space will be cramped.</para>
 		<para>There is also a dining table and replicator.  This area can also double as a briefing area.</para>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Technical Specifications</title>
 		<epigraph>
 			<attribution>--Rollbar</attribution>
 			<para>"Might have been nice to know that ahead of time."</para>
 		</epigraph>
-		<sect2>
+		<section>
 			<title>Dimensions and Structure</title>
 			<simplelist>
 				<member role="Length">23.44 meters</member>
@@ -169,23 +169,23 @@
 				<member role="Height">5.56 meters</member>
 				<member role="Decks">1</member>
 			</simplelist>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Crew Complement</title>
 			<simplelist>
 				<member role="Officers and Crew">1-4</member>
 				<member role="Maximum Evacuation Limit">30</member>
 			</simplelist>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Computer Systems</title>
 			<simplelist>
 				<member role="Core">2 Isolinear Chip Data Cores</member>
 				<member role="Operating System">Starfleet Library Computer Access and Retrieval System (LCARS)</member>
 				<member role="User Interface">MAJEL</member>
 			</simplelist>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Warp Systems</title>
 			<simplelist>
 				<member role="Power Plant">One 300 cochrane M/ARA cores feeding two nacelles</member>
@@ -193,23 +193,23 @@
 				<member role="Maximum Sustainable Velocity">Warp 4</member>
 				<member role="Maximum Velocity">Warp 4.5 (12 hours)</member>
 			</simplelist>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Impulse Systems</title>
 			<simplelist>
 				<member role="Full Impulse">0.24c</member>
 				<member role="Accellerate">12 seconds</member>
 				<member role="Decellerate">20 seconds</member>
 			</simplelist>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Defensive Systems</title>
 			<simplelist>
 				<member role="Shield Maximum Graviton Load (Continuous)">150 MegaWatts</member>
 				<member role="Shield Maximum Energy Dissipation Rate">2.23x10^3 kilowatts</member>
 			</simplelist>
-		</sect2>
-		<sect2>
+		</section>
+		<section>
 			<title>Offensive Systems</title>
 			<simplelist role="Torpedoes">
 				<member role="Micro-Torpedo Tubes">2</member>
@@ -218,9 +218,9 @@
 			<simplelist role="Phasers">
 				<member>6 Type-V Phaser Strips</member>
 			</simplelist>
-		</sect2>
-	</sect1>
-	<sect1>
+		</section>
+	</section>
+	<section>
 		<title>Ships of the Class</title>
 		<epigraph>
 			<attribution>--Rodimus Prime</attribution>
@@ -252,13 +252,13 @@
 				<productnumber>99306</productnumber>
 			</member>
 		</simplelist>
-	</sect1>
-	<sect1>
+	</section>
+	<section>
 		<title>Conclusion</title>
 		<epigraph>
 			<attribution>--Scythe-Meister</attribution>
 			<para>"You cannot imagine"</para>
 		</epigraph>
 		<para>The Liberty-class is a general purpose Runabout, designed to serve as a compliment to the larger ships of Starfleet.  While it lacks the modular design of the highly successful Danube, it compensates with lower maintenance requirements associated with only having to deal with a single craft.</para>
-	</sect1>
+	</section>
 </article>
