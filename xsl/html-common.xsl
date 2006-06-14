@@ -47,14 +47,21 @@
 	<!-- We want simplelists to render as <ul> not tables, the way god intended. -->
 	<xsl:template match="simplelist">
 	  <xsl:call-template name="anchor"/>
-	  <ul class="simplelist">
+	  <ul>
+	  	<xsl:attribute name="class">
+			<xsl:value-of select="@role" /><xsl:text> </xsl:text><xsl:value-of select="name(.)" />
+		</xsl:attribute>
 	  	<xsl:apply-templates />
 	  </ul>
 	</xsl:template>
 
 	<xsl:template match="member">
-	  <xsl:call-template name="anchor"/>
-	  <li><xsl:apply-templates/></li>
+	  <li class="{name(.)}">
+		<xsl:attribute name="class">
+			<xsl:value-of select="@role" /><xsl:text> </xsl:text><xsl:value-of select="name(.)" />
+		</xsl:attribute>
+		<xsl:apply-templates />
+	  </li>
 	</xsl:template>
 
 	<!-- Add some copyright and standard-bragging stuff to every page. -->

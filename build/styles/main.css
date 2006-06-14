@@ -128,27 +128,30 @@ text-align: right;
 div.pdflink {
 text-align: center;
 }
-/*
+
 div.variablelist dl {
 }
 
 div.variablelist dt {
 margin-left: 0px;
 padding-left: 0px;
-float: left;
-text-align: right;
+/*float: left;*/
+
 width: 5em;
 color: #dfb833;
 font-weight: bold;
 margin-right: 1em;
-}
 
-div.variablelist dt::after {
+white-space: nowrap;
+}
+/*
+div.variablelist dt span.term::after {
 content: ":";
 }
-
+*/
 div.variablelist dd {
-}*/
+/*float: left;*/
+}
 
 div.variablelist dt {
 color: #dfb833;
@@ -156,13 +159,16 @@ font-weight: bold;
 margin-right: 0px;
 }
 
-div.variablelist dd p {
-margin: 0.3em;
-/* border: 1px solid white; */
+div.variablelist p.title,
+div.itemizedlist p.title {
+color: White;
+font-size: 14pt;
 }
 
-div.variablelist dt::after {
-content: ":";
+div.variablelist dd p {
+/*margin: 0.3em;*/
+display: inline;
+
 }
 
 
@@ -181,3 +187,42 @@ font-style: italic;
 .productname {
 font-style: italic;
 }
+
+div.authorgroup-wrapper {
+float: left;
+margin-right: 2em;
+margin-bottom: 0.5em;
+}
+
+
+p.authorgroup-title {
+font-size: 14pt;
+color: White;
+border-bottom: 2px dotted #dfb833;
+}
+
+div.authorgroup-wrapper h3.author {
+margin: 0em;
+padding: 0em;
+}
+
+div.revhistory {
+clear: both;
+}
+
+div.toc {
+clear: both;
+}
+
+li.PC {
+font-weight: bold;
+}
+
+li.NPC {
+color: blue;
+}
+
+span.NPC-marker {
+font-style: italic;
+}
+

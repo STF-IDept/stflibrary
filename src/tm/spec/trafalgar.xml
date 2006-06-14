@@ -7,7 +7,7 @@
 				<surname>Garfield</surname>
 			</author>
 		</authorgroup>
-		<authorgroup role="Primary">
+		<authorgroup role="Primary Designers">
 			<author>
 				<firstname>Mike</firstname>
 				<surname>Ballway</surname>
@@ -17,7 +17,7 @@
 				<surname>Garfield</surname>
 			</author>
 		</authorgroup>
-		<authorgroup role="Original">
+		<authorgroup role="Original Designers">
 			<author>
 				<firstname>Mike</firstname>
 				<surname>Ballway</surname>
@@ -235,9 +235,8 @@
 	</section>
 	<section>
 		<title>Technical Specifications</title>
-		<section>
-			<title>Dimensions and Structure</title>
 			<variablelist>
+				<title>Dimensions and Structure</title>
 				<varlistentry>
 					<term>Length</term>
 					<listitem><para>380.1 meters</para></listitem>
@@ -255,10 +254,8 @@
 					<listitem><para>14</para></listitem>
 				</varlistentry>
 			</variablelist>
-		</section>
-		<section>
-			<title>Crew Complement</title>
 			<variablelist>
+				<title>Crew Complement</title>
 				<varlistentry>
 					<term>Officers and Crew</term>
 					<listitem><para>100</para></listitem>
@@ -272,10 +269,8 @@
 					<listitem><para>200</para></listitem>
 				</varlistentry>
 			</variablelist>
-		</section>
-		<section>
-			<title>Computer Systems</title>
 			<variablelist>
+				<title>Computer Systems</title>
 				<varlistentry>
 					<term>Core</term>
 					<listitem><para>Federation Micro Devices DC-8 isolinear data array</para></listitem>
@@ -289,10 +284,8 @@
 					<listitem><para>GORBI ROMANOV</para></listitem>
 				</varlistentry>
 			</variablelist>
-		</section>
-		<section>
-			<title>Warp Systems</title>
 			<variablelist>
+				<title>Warp Systems</title>
 				<varlistentry>
 					<term>Power Plant</term>
 					<listitem><para>One 1500+ cochrane M/ARA core feeding two nacelles</para></listitem>
@@ -310,10 +303,8 @@
 					<listitem><para>Warp 9.8 (12 hours)</para></listitem>
 				</varlistentry>
 			</variablelist>
-		</section>
-		<section>
-			<title>Impulse Systems</title>
 			<variablelist>
+				<title>Impulse Systems</title>
 				<varlistentry>
 					<term>Full Impulse</term>
 					<listitem><para>0.30c</para></listitem>
@@ -327,10 +318,8 @@
 					<listitem><para>3.2 seconds</para></listitem>
 				</varlistentry>
 			</variablelist>
-		</section>
-		<section>
-			<title>Defensive Systems</title>
 			<variablelist>
+				<title>Defensive Systems</title>
 				<varlistentry>
 					<term>Shield Maximum Graviton Load (Continuous)</term>
 					<listitem><para>1865 MegaWatts</para></listitem>
@@ -340,44 +329,49 @@
 					<listitem><para>3.5x10^4 kilowatts</para></listitem>
 				</varlistentry>
 			</variablelist>
-		</section>
-		<section>
-			<title>Offensive Systems</title>
-			<section>
-				<title>Torpedoes</title>
-				<variablelist>
-					<varlistentry>
-						<term>Torpedo Tubes</term>
-						<listitem><para>3</para></listitem>
-					</varlistentry>
-					<varlistentry>
-						<term>Standard Payload (total)</term>
-						<listitem><para>125 photon torpedoes</para></listitem>
-					</varlistentry>
-				</variablelist>
-			</section>
-			<section>
-				<title>Phasers</title>
-				<simplelist>
-					<member>6 Type-IX Phaser Strips</member>
-					<member>8 Type-VIII Phaser Strips</member>
-					<member>1 5-emitter Type-VIII pulse phaser cannon battery</member>
-				</simplelist>
-			</section>
-			<section>
-				<title>Turret Defense System</title>
-				<variablelist>
-					<varlistentry>
-						<term>Number of turrets</term>
-						<listitem><para>3 turrets</para></listitem>
-					</varlistentry>
-					<varlistentry>
-						<term>Armaments</term>
-						<listitem><para>dumb-fire torpedoes and pulse phaser systems</para></listitem>
-					</varlistentry>
-				</variablelist>
-			</section>
-		</section>
+			<variablelist>
+				<title>Offensive Systems</title>
+				<varlistentry>
+					<term>Torpedoes</term>
+					<listitem>
+						<variablelist>
+							<varlistentry>
+								<term>Torpedo Tubes</term>
+								<listitem><para>3</para></listitem>
+							</varlistentry>
+							<varlistentry>
+								<term>Standard Payload (total)</term>
+								<listitem><para>125 photon torpedoes</para></listitem>
+							</varlistentry>
+						</variablelist>
+					</listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Phasers</term>
+					<listitem>
+						<itemizedlist>
+							<listitem><para>6 Type-IX Phaser Strips</para></listitem>
+							<listitem><para>8 Type-VIII Phaser Strips</para></listitem>
+							<listitem><para>1 5-emitter Type-VIII pulse phaser cannon battery</para></listitem>
+						</itemizedlist>
+					</listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Turret Defense System</term>
+					<listitem>
+						<variablelist>
+							<varlistentry>
+								<term>Number of turrets</term>
+								<listitem><para>3 turrets</para></listitem>
+							</varlistentry>
+							<varlistentry>
+								<term>Armaments</term>
+								<listitem><para>dumb-fire torpedoes and pulse phaser systems</para></listitem>
+							</varlistentry>
+						</variablelist>
+					</listitem>
+				</varlistentry>
+		</variablelist>
 	</section>
 	<section>
 		<title>Deck Layout</title>
