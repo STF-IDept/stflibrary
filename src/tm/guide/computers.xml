@@ -2,19 +2,7 @@
 	<title>Starship Computers</title>
 	<subtitle>Symetric Multi-Processing to the Nth Power</subtitle>
 	<articleinfo>
-		<authorgroup role="Maintainer">
-			<author>
-				<firstname>Larry</firstname>
-				<surname>Garfield</surname>
-			</author>
-		</authorgroup>
-		<authorgroup role="Primary">
-			<author>
-				<firstname>Larry</firstname>
-				<surname>Garfield</surname>
-			</author>
-		</authorgroup>
-		<authorgroup role="Original">
+		<authorgroup>
 			<author>
 				<firstname>Larry</firstname>
 				<surname>Garfield</surname>

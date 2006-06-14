@@ -2,27 +2,7 @@
 	<title>The ED Ship Classification System</title>
 	<subtitle>The Milwaukee Plan, a product of the County Stadium Compromise</subtitle>
 	<articleinfo>
-		<authorgroup role="Maintainer">
-			<author>
-				<firstname>Larry</firstname>
-				<surname>Garfield</surname>
-			</author>
-		</authorgroup>
-		<authorgroup role="Primary">
-			<author>
-				<firstname>Larry</firstname>
-				<surname>Garfield</surname>
-			</author>
-			<author>
-				<firstname>Israel</firstname>
-				<surname>Harris</surname>
-			</author>
-			<author>
-				<firstname>Randy</firstname>
-				<surname>McCullick</surname>
-			</author>
-		</authorgroup>
-		<authorgroup role="Original">
+		<authorgroup>
 			<author>
 				<firstname>Larry</firstname>
 				<surname>Garfield</surname>
