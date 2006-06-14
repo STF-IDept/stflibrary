@@ -14,6 +14,10 @@
 	<!-- Pretty-print the output. -->
 	<xsl:param name="chunker.output.indent" select="'yes'" />
 
+	<!-- Specify the necessary DocType to make IE behave like a browser instead of a pile of crap. -->
+	<xsl:param name="chunker.output.doctype-public" select="'-//W3C//DTD XHTML 1.0 Strict//EN'" />
+	<xsl:param name="chunker.output.doctype-system" select="'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'" />
+
 	<!-- Don't make each sect1 its own file, only chapters/articles. -->
 	<xsl:param name="chunk.section.depth" select="0" />
 
@@ -31,7 +35,7 @@
 	<!-- Get rid of the silly period after honorifics. -->
 	<xsl:param name="punct.honorific" /> <!-- set it to empty string, select="" didn't work -->
 
-<!-- 	<xsl:param name="img.src.path" select="'images/'" /> -->
+	<xsl:param name="img.src.path" select="''" />
 
 	<!-- Any custom templates we need go here. -->
 
@@ -91,6 +95,5 @@
 			</div> -->
 		</div>
 	</xsl:template>
-
 
 </xsl:stylesheet>

@@ -65,11 +65,20 @@
 	<section>
 		<title>Mission Profile</title>
 		<para>All ships are either Primary Vessels, or Support Vessels (See Below). All Primary Vessels have one of three (3) Primary Missions:</para>
-		<simplelist>
-			<member role="Science">Study in depth cool stuff that someone else found; conduct experiments; study natural and artificial phenomenon.</member>
-			<member role="Exploration">Find new cool stuff; chart out new areas of space; seak out new life and new civilizations; To Boldly Go Where No Man Has Gone Before; Command; Diplomatic escort; Diplomatic conduct; Patrol; and various and sundry other general purpose stuff.</member>
-			<member role="Combat">Blow stuff up; Keep stuff from being blown up; Patrol to keep out other people who may want to blow stuff up; Help other ships blow stuff up; Protect other ships that are trying to blow stuff up.</member>
-		</simplelist>
+		<variablelist>
+			<varlistentry>
+				<term>Science</term>
+				<listitem><para>Study in depth cool stuff that someone else found; conduct experiments; study natural and artificial phenomenon.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Exploration</term>
+				<listitem><para>Find new cool stuff; chart out new areas of space; seak out new life and new civilizations; To Boldly Go Where No Man Has Gone Before; Command; Diplomatic escort; Diplomatic conduct; Patrol; and various and sundry other general purpose stuff.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Combat</term>
+				<listitem><para>Blow stuff up; Keep stuff from being blown up; Patrol to keep out other people who may want to blow stuff up; Help other ships blow stuff up; Protect other ships that are trying to blow stuff up.</para></listitem>
+			</varlistentry>
+		</variablelist>
 		<para>Support Vessels have the Primary Mission of assisting other ships in fulfilling their Primary Mission.</para>
 	</section>
 	<section>
@@ -95,22 +104,50 @@
 			<member>The McCoy-class is a Small ship, designed primarily for missions within the existing Federation sphere. It is of the Medical Variant. It is therefore a "Medical Frigate."</member>
 		</simplelist>
 		<para>Variant names are determined at design time by the designer and Engineering Department. No explicit limit is imposed upon the number of vessels within a Category, provided that they be sufficently unique to warrant separate Variants. A ship lacking a Variant is considered to be of the Variant "Medium." The currently active list of Variants words contains:</para>
-		<simplelist>
-			<member role="Light">Containing less armaments, defensive and offensive, than benchmark.</member>
-			<member role="Medium">Default benchmark for a given Category.</member>
-			<member role="Heavy">Containing more armaments, defensive and offensive, than benchmark.</member>
-			<member role="Tactical">Designed for stronger strategic and military operations than benchmark.</member>
-			<member role="Medical">Designed with Extended and enhanced facilities for medical, medicinal, and treatment purposes.</member>
-		</simplelist>
+		<variablelist>
+			<varlistentry>
+				<term>Light</term>
+				<listitem><para>Containing less armaments, defensive and offensive, than benchmark.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Medium</term>
+				<listitem><para>Default benchmark for a given Category.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Heavy</term>
+				<listitem><para>Containing more armaments, defensive and offensive, than benchmark.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Tactical</term>
+				<listitem><para>Designed for stronger strategic and military operations than benchmark.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Medical</term>
+				<listitem><para>Designed with Extended and enhanced facilities for medical, medicinal, and treatment purposes.</para></listitem>
+			</varlistentry>
+		</variablelist>
 	</section>
 	<section>
 		<title>Support Vessels</title>
 		<para>Support Vessels are any vessels whose Primary Mission is to assist other Primary Vessels in fulfilling their Primary Mission. Under normal circumstances they do not operate independently of other craft, either of the same class or other classes. (In the STF context, these are typically NPC vessels.) Support Vessels are defined by their Category. The Category of a Support Vessel is determined at design time by the designer and Engineering Department. Possible Categories of Support Vessels include:</para>
-		<simplelist>
-			<member role="Small">Shuttles, Fighters, Travel Pods, small one man craft</member>
-			<member role="Medium">Runabouts, Scouts, Escorts, medium sized ships and Small Capitol ships that don't fit in the above chart.</member>
-			<member role="Large">Freighter, Tug/Transport, Carrier, Large Capitol Ships that don't fit in the above chart.</member>
-		</simplelist>
+		<variablelist>
+			<varlistentry>
+				<term>Small</term>
+				<listitem><para>Shuttles, Fighters, Travel Pods, small one man craft</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Medium</term>
+				<listitem><para>Runabouts, Scouts, Escorts, medium sized ships and Small Capitol ships that don't fit in the above chart.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term></term>
+				<listitem><para></para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Large</term>
+				<listitem><para>Freighter, Tug/Transport, Carrier, Large Capitol Ships that don't fit in the above chart.</para></listitem>
+			</varlistentry>
+		</variablelist>
 		<para>This list is not intended to be exhaustive.</para>
 	</section>
 	<section>

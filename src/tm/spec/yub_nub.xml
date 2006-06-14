@@ -411,7 +411,7 @@ For offensive strategy, Starfleet learned from the tactics used during the Crag 
 						<surname>Garfield</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/yub_nub-top-thumb.png" format="PNG"/>
+				<imagedata fileref="images/tm/yub_nub-top-thumb.png" format="PNG"/>
 			</imageobject>
 			<imageobject role="full">
 				<objectinfo>
@@ -420,7 +420,7 @@ For offensive strategy, Starfleet learned from the tactics used during the Crag 
 						<surname>Garfield</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/yub_nub-top.png" format="PNG"/>
+				<imagedata fileref="images/tm/yub_nub-top.png" format="PNG"/>
 			</imageobject>
 			<caption>
 				<para>Yub nub Top View</para>
@@ -434,7 +434,7 @@ For offensive strategy, Starfleet learned from the tactics used during the Crag 
 						<surname>Garfield</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/yub_nub-deck1-thumb.png" format="PNG"/>
+				<imagedata fileref="images/tm/yub_nub-deck1-thumb.png" format="PNG"/>
 			</imageobject>
 			<imageobject role="full">
 				<objectinfo>
@@ -443,7 +443,7 @@ For offensive strategy, Starfleet learned from the tactics used during the Crag 
 						<surname>Garfield</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/yub_nub-deck1.png" format="PNG"/>
+				<imagedata fileref="images/tm/yub_nub-deck1.png" format="PNG"/>
 			</imageobject>
 			<caption>
 				<para>Yub nub Deck 1</para>
@@ -457,7 +457,7 @@ For offensive strategy, Starfleet learned from the tactics used during the Crag 
 						<surname>Garfield</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/yub_nub-deck2-thumb.png" format="PNG"/>
+				<imagedata fileref="images/tm/yub_nub-deck2-thumb.png" format="PNG"/>
 			</imageobject>
 			<imageobject role="full">
 				<objectinfo>
@@ -466,7 +466,7 @@ For offensive strategy, Starfleet learned from the tactics used during the Crag 
 						<surname>Garfield</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/yub_nub-deck2.png" format="PNG"/>
+				<imagedata fileref="images/tm/yub_nub-deck2.png" format="PNG"/>
 			</imageobject>
 			<caption>
 				<para>Yub nub Deck 2</para>
@@ -480,7 +480,7 @@ For offensive strategy, Starfleet learned from the tactics used during the Crag 
 						<surname>Garfield</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/yub_nub-deck3-thumb.png" format="PNG"/>
+				<imagedata fileref="images/tm/yub_nub-deck3-thumb.png" format="PNG"/>
 			</imageobject>
 			<imageobject role="full">
 				<objectinfo>
@@ -489,7 +489,7 @@ For offensive strategy, Starfleet learned from the tactics used during the Crag 
 						<surname>Garfield</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/yub_nub-deck3.png" format="PNG"/>
+				<imagedata fileref="images/tm/yub_nub-deck3.png" format="PNG"/>
 			</imageobject>
 			<caption>
 				<para>Yub nub Deck 3</para>
