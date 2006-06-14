@@ -45,7 +45,7 @@
 	<section>
 		<title>History and Mission Overview</title>
 		<epigraph>
-			<attribution>--Starfleet Accounting</attribution>
+			<attribution>Starfleet Accounting</attribution>
 			<para>"To boldy save money by reusing someone else's ships."</para>
 		</epigraph>
 		<para>Late in 2373, the Romulan Empire contacted the Federation for assistance against a new enemy. This enemy struck quickly, without warning, and in large numbers. This enemy was the Crag, the most dangerous enemy the Federation had faced since the Dominion War. During the course of the Crag War, Starfleet forces drove the Crag from world after world, but suffered heavy losses in the process. </para>
@@ -73,7 +73,7 @@ For offensive strategy, Starfleet learned from the tactics used during the Crag 
 	<section>
 		<title>Structure and Construction</title>
 		<epigraph>
-			<attribution>--Engineering Cadet Jingle</attribution>
+			<attribution>Engineering Cadet Jingle</attribution>
 			<para>"The nacelle pylon is connected to the body.  The body is connected to the main bridge.  The main bridge is connected to the enemy weapons."</para>
 		</epigraph>
 		<para>The Yub nub consists of a single elongated body, three decks tall, tapered slightly to a rounded end fore.  Two fixed warp nacelle pylons extend from rear amidships in a curve downwards, ending in the two nacelles themselves.  The nacelles are roughly 1/2 meter below the main body, and reinforced on the bottom, such that they serve as extra landing skids in addition to the four landing struts that extend out of the bottom of Deck 3.  The Yub nub is capable of repeated takeoff and landing from planetary surfaces with gravitational forces up to 1.9g.  The vessel's dorsal is equipped with the main weapons/sensor array, which houses both the long-range sensors and the projectile tubes for the charged anti-matter magnetic projectile system.</para>
@@ -83,7 +83,7 @@ For offensive strategy, Starfleet learned from the tactics used during the Crag 
 	<section>
 		<title>Science and Remote Sensing Systems</title>
 		<epigraph>
-			<attribution>--Yub nub computer system, alpha release</attribution>
+			<attribution>Yub nub computer system, alpha release</attribution>
 			<para>"Unable to comply. EWOK is a registered trademark of LucasFilm, Ltd."</para>
 		</epigraph>
 		<section>
@@ -103,7 +103,7 @@ For offensive strategy, Starfleet learned from the tactics used during the Crag 
 	<section>
 		<title>Warp Propulsion Systems</title>
 		<epigraph>
-			<attribution>--ED Mantra</attribution>
+			<attribution>ED Mantra</attribution>
 			<para>"Faster! Faster! Faster!"</para>
 		</epigraph>
 		<para>The Furry-class was technologically inferior to standard Starfleet ships of its time in most respects, but one place where that was not the case was its warp propulsion system.  Utilizing eight matter and antimatter injector nozzles at each end of the horizontally mounted warp core in combination with reinforced magnetic generators in the Magnetic Constrictor Segments, the core was able to achieve a reaction efficiency not thought possible on a ship of its size.  In addition, Overlord technology included drastically improved matter-to-antimatter conversion systems, which allowed the ship to remain independent for longer periods as well as provide sufficient fuel for the warp system and the AMT.  The converter is configured to remain active almost constantly.</para>
@@ -112,7 +112,7 @@ For offensive strategy, Starfleet learned from the tactics used during the Crag 
 	<section>
 		<title>Impulse Propulsion Systems</title>
 		<epigraph>
-			<attribution>--The Roadrunner</attribution>
+			<attribution>The Roadrunner</attribution>
 			<para>"You can't kill what you can't catch."</para>
 		</epigraph>
 		<para>The Yub nub's impulse system was left mostly unchanged from the original Furry design. It consists of a single, wide fusion-powered impulse engine in the aft of the ship, capable of achieving a maximum velocity of 0.32c.</para>
@@ -121,7 +121,7 @@ For offensive strategy, Starfleet learned from the tactics used during the Crag 
 	<section>
 		<title>Tactical Systems</title>
 		<epigraph>
-			<attribution>--Ulysses S. Grant</attribution>
+			<attribution>Ulysses S. Grant</attribution>
 			<para>"He who shoots last laughs best."</para>
 		</epigraph>
 		<section>
@@ -143,7 +143,7 @@ For offensive strategy, Starfleet learned from the tactics used during the Crag 
 	<section>
 		<title>Command and Support Systems</title>
 		<epigraph>
-			<attribution>--The Brain</attribution>
+			<attribution>The Brain</attribution>
 			<para>"Pinky, If you touch the gravity controls again, I shall have to hurt you."</para>
 		</epigraph>
 		<section>
@@ -154,7 +154,7 @@ For offensive strategy, Starfleet learned from the tactics used during the Crag 
 	<section>
 		<title>Utility Systems</title>
 		<epigraph>
-			<attribution>--Ensign Pinky</attribution>
+			<attribution>Ensign Pinky</attribution>
 			<para>"I think so, Brain, but how much wood would a woodchuck transport if a woodchuck could transport wood?"</para>
 		</epigraph>
 		<section>
@@ -173,7 +173,7 @@ For offensive strategy, Starfleet learned from the tactics used during the Crag 
 	<section>
 		<title>Crew Support Systems</title>
 		<epigraph>
-			<attribution>--Communist Baseball</attribution>
+			<attribution>Communist Baseball</attribution>
 			<para>"Strike, Strike, Strike!"</para>
 		</epigraph>
 		<section>
@@ -210,7 +210,7 @@ For offensive strategy, Starfleet learned from the tactics used during the Crag 
 	<section>
 		<title>Technical Specifications</title>
 		<epigraph>
-			<attribution>--Yub nub Pilot's Manual</attribution>
+			<attribution>Yub nub Pilot's Manual</attribution>
 			<para>"Keep at room temperature, do not operate after consuming synthahol."</para>
 		</epigraph>
 		<section>
@@ -276,7 +276,7 @@ For offensive strategy, Starfleet learned from the tactics used during the Crag 
 	<section>
 		<title>Deck Layout</title>
 		<epigraph>
-			<attribution>--Thesus</attribution>
+			<attribution>Thesus</attribution>
 			<para>"Oops!  Silly me.  I had the map upside down."</para>
 		</epigraph>
 		<section role="Deck">
@@ -313,7 +313,7 @@ For offensive strategy, Starfleet learned from the tactics used during the Crag 
 	<section>
 		<title>Ships of the Class</title>
 		<epigraph>
-			<attribution>--Larry Garfield, Designer</attribution>
+			<attribution>Larry Garfield, Designer</attribution>
 			<para>"OK, how many of you get the jokes here?"</para>
 		</epigraph>
 		<para>The refit process was performed at the Arbuckle Ship Yards at Zeta Maxtor III.  Arbuckle Ship Yards Chief Oscar D. I. Edwards oversaw the operation.</para>
@@ -395,7 +395,7 @@ For offensive strategy, Starfleet learned from the tactics used during the Crag 
 	<section>
 		<title>Conclusion</title>
 		<epigraph>
-			<attribution>--Debian</attribution>
+			<attribution>Debian</attribution>
 			<para>"apt-get install Yub_nub"</para>
 		</epigraph>
 		<para>Though originally a ship of war, the upgraded Furry-class ships proved to be capable of peacetime operation as well.  It served as both an offensive ship, a defensive ship to protect stationary installations, escort vessel, patrol, scout, and distance exploration.  Although some medical personnel were concerned that a crew of only six would lead to psychological difficulties, none of the crews of the first six Yub nub vessels complained about the close quarters.  The first Yub nub in service was the USS Glowah in the Fourth Fleet, although others were later added to both the Fourth Fleet and the rest of Starfleet.  Standing in stark contrast to the larger, better powered, up-to-date Starfleet ships-of-the-line such as the Sovereign-class and the Trafalgar-class, the Yub nub proved that it wasn't the size of the ship that mattered, it was how fast it could move.</para>
@@ -404,15 +404,6 @@ For offensive strategy, Starfleet learned from the tactics used during the Crag 
 		<title>Illustrations</title>
 		<para>These other visual representations of the Yub nub are available.</para>
 		<mediaobject>
-			<imageobject role="thumbnail">
-				<objectinfo>
-					<author>
-						<firstname>Larry</firstname>
-						<surname>Garfield</surname>
-					</author>
-				</objectinfo>
-				<imagedata fileref="images/tm/yub_nub-top-thumb.png" format="PNG"/>
-			</imageobject>
 			<imageobject role="full">
 				<objectinfo>
 					<author>
@@ -422,11 +413,6 @@ For offensive strategy, Starfleet learned from the tactics used during the Crag 
 				</objectinfo>
 				<imagedata fileref="images/tm/yub_nub-top.png" format="PNG"/>
 			</imageobject>
-			<caption>
-				<para>Yub nub Top View</para>
-			</caption>
-		</mediaobject>
-		<mediaobject>
 			<imageobject role="thumbnail">
 				<objectinfo>
 					<author>
@@ -434,8 +420,13 @@ For offensive strategy, Starfleet learned from the tactics used during the Crag 
 						<surname>Garfield</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/tm/yub_nub-deck1-thumb.png" format="PNG"/>
+				<imagedata fileref="images/tm/yub_nub-top-thumb.png" format="PNG"/>
 			</imageobject>
+			<caption>
+				<para>Yub nub Top View</para>
+			</caption>
+		</mediaobject>
+		<mediaobject>
 			<imageobject role="full">
 				<objectinfo>
 					<author>
@@ -445,11 +436,6 @@ For offensive strategy, Starfleet learned from the tactics used during the Crag 
 				</objectinfo>
 				<imagedata fileref="images/tm/yub_nub-deck1.png" format="PNG"/>
 			</imageobject>
-			<caption>
-				<para>Yub nub Deck 1</para>
-			</caption>
-		</mediaobject>
-		<mediaobject>
 			<imageobject role="thumbnail">
 				<objectinfo>
 					<author>
@@ -457,8 +443,13 @@ For offensive strategy, Starfleet learned from the tactics used during the Crag 
 						<surname>Garfield</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/tm/yub_nub-deck2-thumb.png" format="PNG"/>
+				<imagedata fileref="images/tm/yub_nub-deck1-thumb.png" format="PNG"/>
 			</imageobject>
+			<caption>
+				<para>Yub nub Deck 1</para>
+			</caption>
+		</mediaobject>
+		<mediaobject>
 			<imageobject role="full">
 				<objectinfo>
 					<author>
@@ -468,11 +459,6 @@ For offensive strategy, Starfleet learned from the tactics used during the Crag 
 				</objectinfo>
 				<imagedata fileref="images/tm/yub_nub-deck2.png" format="PNG"/>
 			</imageobject>
-			<caption>
-				<para>Yub nub Deck 2</para>
-			</caption>
-		</mediaobject>
-		<mediaobject>
 			<imageobject role="thumbnail">
 				<objectinfo>
 					<author>
@@ -480,8 +466,13 @@ For offensive strategy, Starfleet learned from the tactics used during the Crag 
 						<surname>Garfield</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/tm/yub_nub-deck3-thumb.png" format="PNG"/>
+				<imagedata fileref="images/tm/yub_nub-deck2-thumb.png" format="PNG"/>
 			</imageobject>
+			<caption>
+				<para>Yub nub Deck 2</para>
+			</caption>
+		</mediaobject>
+		<mediaobject>
 			<imageobject role="full">
 				<objectinfo>
 					<author>
@@ -490,6 +481,15 @@ For offensive strategy, Starfleet learned from the tactics used during the Crag 
 					</author>
 				</objectinfo>
 				<imagedata fileref="images/tm/yub_nub-deck3.png" format="PNG"/>
+			</imageobject>
+			<imageobject role="thumbnail">
+				<objectinfo>
+					<author>
+						<firstname>Larry</firstname>
+						<surname>Garfield</surname>
+					</author>
+				</objectinfo>
+				<imagedata fileref="images/tm/yub_nub-deck3-thumb.png" format="PNG"/>
 			</imageobject>
 			<caption>
 				<para>Yub nub Deck 3</para>

@@ -38,7 +38,7 @@
 	<section>
 		<title>History and Mission Overview</title>
 		<epigraph>
-			<attribution>--Dr. Ian Malcolm</attribution>
+			<attribution>Dr. Ian Malcolm</attribution>
 			<para>"God I hate being right all the time."</para>
 		</epigraph>
 		<para>Following heavy losses to Cardassian fighters and Jem'Hadar Attack Ships during the early stages of the Dominion War, Star Fleet decided to develop a new fighter to act as a counter-measure against small enemy vessels. The project utilised the technology used to develop the USS Defiant and the Type-X shuttlecraft to produce an advanced interceptor capable of taking on enemy fighter craft.</para>
@@ -56,7 +56,7 @@
 	<section>
 		<title>Structure and Construction</title>
 		<epigraph>
-			<attribution>--John Hammond</attribution>
+			<attribution>John Hammond</attribution>
 			<para>"We've taken every precaution."</para>
 		</epigraph>
 		<para>The Compsognathus is built from standard tritanium and duranium alloys. It's dimensions measure 9.81m x 5.96m x 3.67m.</para>
@@ -66,7 +66,7 @@
 	<section>
 		<title>Locations</title>
 		<epigraph>
-			<attribution>--Robert Muldoon</attribution>
+			<attribution>Robert Muldoon</attribution>
 			<para>"Clever girl."</para>
 		</epigraph>
 		<para>Sensory units are found to the front of the ship.</para>
@@ -77,7 +77,7 @@
 	<section>
 		<title>Science and Remote Sensing Systems</title>
 		<epigraph>
-			<attribution>--Dr. Alan Grant</attribution>
+			<attribution>Dr. Alan Grant</attribution>
 			<para>"You've bred raptors?"</para>
 		</epigraph>
 		<para>The Compsognathus uses a computer core similar to the type-X shuttlecraft. This comprises of 5 polled processor segments, with two back up bio-neural gel pack based processors should the main unit be damaged or suffer a failure for other reasons.</para>
@@ -86,7 +86,7 @@
 	<section>
 		<title>Impulse Propulsion Systems</title>
 		<epigraph>
-			<attribution>--Dr. Ian Malcom</attribution>
+			<attribution>Dr. Ian Malcom</attribution>
 			<para>"Go go go go go go GO!"</para>
 		</epigraph>
 		<para>The Compsognathus interceptor has no Warp Propulsion System, so it is dependant on a carrier craft to transport it to and from different theatres of operation.</para>
@@ -96,7 +96,7 @@
 	<section>
 		<title>Tactical Systems</title>
 		<epigraph>
-			<attribution>--Robert Muldoon</attribution>
+			<attribution>Robert Muldoon</attribution>
 			<para>"They should all be destroyed!"</para>
 		</epigraph>
 		<para>The basic defensive systems of the Compsognathus Class mirror those used by most shuttlecraft with regards to shields and signal jamming devices.</para>
@@ -106,7 +106,7 @@
 	<section>
 		<title>Crew Support Systems</title>
 		<epigraph>
-			<attribution>--Dr. Alan Grant</attribution>
+			<attribution>Dr. Alan Grant</attribution>
 			<para>"Call the mainland. Tell them to send a chopper."</para>
 		</epigraph>
 		<para>The Compsognathus Class includes standard RF and subspace communications equipment. It also has an encoded-channel system designed to allow pilots within a squadron or wing to co-ordinate efforts.</para>
@@ -116,7 +116,7 @@
 	<section>
 		<title>Technical Specifications</title>
 		<epigraph>
-			<attribution>--Dr. Alan Grant</attribution>
+			<attribution>Dr. Alan Grant</attribution>
 			<para>"How fast do they move?"</para>
 		</epigraph>
 		<section>
@@ -174,7 +174,7 @@
 	<section>
 		<title>Conclusion</title>
 		<epigraph>
-			<attribution>--Dr. Alan Grant</attribution>
+			<attribution>Dr. Alan Grant</attribution>
 			<para>"After careful consideration, I've decided not to endorse your park."</para>
 		</epigraph>
 		<para>The Compsognathus Class Interceptor has now gone into mass production, serving as a support fighter to the heavier classes such as the Icarus, providing protection against enemy fighters and smaller ships.</para>

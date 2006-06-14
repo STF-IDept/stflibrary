@@ -48,7 +48,7 @@
 	<section>
 		<title>History and Mission Overview</title>
 		<epigraph>
-			<attribution>--Han Solo</attribution>
+			<attribution>Han Solo</attribution>
 			<para>"I've got a bad feeling about this."</para>
 		</epigraph>
 		<para>The Viking-Class project originally began in January of 2365.  The project was handed to the Tau Ceti Secundus Propulsion Research Station and Shipyard for development.  Before the project could be completed, the Dominion war broke out and the project was put on the back shelf.</para>
@@ -66,7 +66,7 @@
 	<section>
 		<title>Structure and Construction</title>
 		<epigraph>
-			<attribution>--Luke Skywalker</attribution>
+			<attribution>Luke Skywalker</attribution>
 			<para>"I've got a bad feeling about this."</para>
 		</epigraph>
 		<para>The Viking Class's Saucer section is a wide oval, and as with most new vessel designs, is attached directly to the secondary hull.  The secondary hull is very similar to that of the Galaxy or Nebula Class in shape.  The front of the secondary hull is in line with the center of the saucer section and extends back beyond the rear of the saucer section by roughly half the length of the saucer.  The Nacelle pylons extend from the spine of the secondary hull just underneath the rear edge of the saucer making a 110-degree V with the point toward the prow.  The pylons themselves are flat horizontally and turn up at the end at 90 degrees where they connect to the nacelles, which are roughly one deck higher than the centerline of the saucer.</para>
@@ -75,7 +75,7 @@
 	<section>
 		<title>Science and Remote Sensing Systems</title>
 		<epigraph>
-			<attribution>--Princess Leia Organa</attribution>
+			<attribution>Princess Leia Organa</attribution>
 			<para>"I've got a bad feeling about this."</para>
 		</epigraph>
 		<para>The Viking class carries a type IX sensor suite.  Sensors are arrayed behind the main deflector and in lateral clusters along the secondary hull for optimal resolution at close ranges.  Maximum scanning range at low resolution for the main sensor package is 18 light-years, with a maximum high-resolution range of 6 light years.  There is also a ring of short range/high resolution scanners around the upper side leading edge of the saucer section.   It was reasoned in the design stage that a ship of this size whose primary mission was exploration rated the addition of such an advanced sensor package.</para>
@@ -92,7 +92,7 @@
 	<section>
 		<title>Impulse Propulsion Systems</title>
 		<epigraph>
-			<attribution>--Obi Won Kenobi</attribution>
+			<attribution>Obi Won Kenobi</attribution>
 			<para>"I've got a bad feeling about this."</para>
 		</epigraph>
 		<para>Impulse Propulsion is provided by two engines mounted on the rear edge of the saucer section, in line with the outside edges of the secondary hull.  Relativistic time dilation and fuel consumption rates restrict the vessel to a top speed of .25c.  The engines themselves are based on the reliable designs that graced the Galaxy-Class and most other vessels for the last 15 years.</para>
@@ -100,7 +100,7 @@
 	<section>
 		<title>Tactical Systems</title>
 		<epigraph>
-			<attribution>--Lando Calrissian</attribution>
+			<attribution>Lando Calrissian</attribution>
 			<para>"I've got a bad feeling about this."</para>
 		</epigraph>
 		<section>
@@ -126,7 +126,7 @@
 	<section>
 		<title>Command and Support Systems</title>
 		<epigraph>
-			<attribution>--Admiral Ackbar</attribution>
+			<attribution>Admiral Ackbar</attribution>
 			<para>"I've got a bad feeling about this."</para>
 		</epigraph>
 		<section>
@@ -157,7 +157,7 @@
 	<section>
 		<title>Utility Systems</title>
 		<epigraph>
-			<attribution>--Wedge Antilles</attribution>
+			<attribution>Wedge Antilles</attribution>
 			<para>"I've got a bad feeling about this."</para>
 		</epigraph>
 		<section>
@@ -176,7 +176,7 @@
 	<section>
 		<title>Crew Support Systems</title>
 		<epigraph>
-			<attribution>--The first person George Lucas told his idea for Jar Jar Binks to</attribution>
+			<attribution>The first person George Lucas told his idea for Jar Jar Binks to</attribution>
 			<para>"I've got a bad feeling about this."</para>
 		</epigraph>
 		<section>
@@ -200,7 +200,7 @@
 	<section>
 		<title>Auxiliary Spacecraft Systems</title>
 		<epigraph>
-			<attribution>--Qui Gon Jin</attribution>
+			<attribution>Qui Gon Jin</attribution>
 			<para>"I've got a bad feeling about this."</para>
 		</epigraph>
 		<para>The Viking-class has one main shuttlebay located on the underside of the secondary hull opening to the aft.  The bay holds 10 shuttlecraft.  The normal complement includes 10 type 12 personnel shuttles.  The bay itself is two decks deep to facilitate landing maneuvers.  The control bay is on the upper level and looks down over the bay from the rear.</para>
@@ -209,7 +209,7 @@
 	<section>
 		<title>Technical Specifications</title>
 		<epigraph>
-			<attribution>--Annakin Skywalker</attribution>
+			<attribution>Annakin Skywalker</attribution>
 			<para>"I've got a bad feeling about this."</para>
 		</epigraph>
 		<section>
@@ -275,7 +275,7 @@
 	<section>
 		<title>Deck Layout</title>
 		<epigraph>
-			<attribution>--Padme Amidala</attribution>
+			<attribution>Padme Amidala</attribution>
 			<para>"I've got a bad feeling about this."</para>
 		</epigraph>
 		<section role="Deck">
@@ -573,7 +573,7 @@
 	<section>
 		<title>Ships of the Class</title>
 		<epigraph>
-			<attribution>--Yoda</attribution>
+			<attribution>Yoda</attribution>
 			<para>"Bad feeling about this I have."</para>
 		</epigraph>
 		<para>Viking-class ships are named after heroes and gods of Norse mythology.</para>
@@ -631,7 +631,7 @@
 	<section>
 		<title>Conclusion</title>
 		<epigraph>
-			<attribution>--Chewbacca</attribution>
+			<attribution>Chewbacca</attribution>
 			<para>"Roaaaraar!" (I've got a bad feeling about this.)</para>
 		</epigraph>
 		<para>The Viking class are large exploration vessels designed to be as self-sufficient as possible.  They are versatile, powerful ships meant for long missions in deep space.  They have the scientific capabilities to carry out Star Fleets primary goals of exploration and discovery and the armament to deal with the threats that face vessels carrying out those missions.</para>

@@ -38,7 +38,7 @@
 	<section>
 		<title>History and Mission Overview</title>
 		<epigraph>
-			<attribution>--General Hallo</attribution>
+			<attribution>General Hallo</attribution>
 			<para>"Some wounds just won't stay closed."</para>
 		</epigraph>
 		<para>After several years of service, Star Fleet decided that a new runabout was needed to compliment the existing Danube-class.  Step forward Avalon Ship Yards, a busy group of designers who had proved themselves a valuable tool for Starfleet with their previous designs.</para>
@@ -54,7 +54,7 @@
 	<section>
 		<title>Structure and Construction</title>
 		<epigraph>
-			<attribution>--John Hammond</attribution>
+			<attribution>John Hammond</attribution>
 			<para>"We spared no expense"</para>
 		</epigraph>
 		<para>The designers at Avalon "borrowed" from recent Star Fleet designs when designing the hull of the Liberty-class.  The main hull looks like a scaled down version of the saucer section of the Nova-class, included the "cut-away" section at the front, which on the Liberty-class houses the deflector array.</para>
@@ -66,7 +66,7 @@
 	<section>
 		<title>Science and Remote Sensing Systems</title>
 		<epigraph>
-			<attribution>--Wheeljack</attribution>
+			<attribution>Wheeljack</attribution>
 			<para>"Fascinating."</para>
 		</epigraph>
 		<section>
@@ -85,7 +85,7 @@
 	<section>
 		<title>Warp Propulsion Systems</title>
 		<epigraph>
-			<attribution>--Agent K</attribution>
+			<attribution>Agent K</attribution>
 			<para>"Why do rats desert a sinking ship?"</para>
 		</epigraph>
 		<para>The Liberty-class Runabout is fitted with a warp core rated at 300 Cochranes.  This allows a Cruising Velocity of Warp 3, a Maximum Sustainable Velocity of Warp 4, and a Maximum Velocity of Warp 4.5</para>
@@ -93,7 +93,7 @@
 	<section>
 		<title>Impulse Propulsion Systems</title>
 		<epigraph>
-			<attribution>--Agent J</attribution>
+			<attribution>Agent J</attribution>
 			<para>"It used to come with a Black dude but he kept getting pulled over."</para>
 		</epigraph>
 		<para>Two sub-scaled impulse units provide sub-light propulsion and primary power generation for the Liberty-class.  It can reach a speed of 0.24c, which it can accelerate to from 0 in 12 seconds.  Slowing from full impulse to 0 takes 20 seconds.</para>
@@ -101,7 +101,7 @@
 	<section>
 		<title>Tactical Systems</title>
 		<epigraph>
-			<attribution>--Unicron</attribution>
+			<attribution>Unicron</attribution>
 			<para>"You underestimate me, Galvatron."</para>
 		</epigraph>
 		<section>
@@ -124,7 +124,7 @@
 	<section>
 		<title>Command and Support Systems</title>
 		<epigraph>
-			<attribution>--Ultra Magnus</attribution>
+			<attribution>Ultra Magnus</attribution>
 			<para>"But Prime, I'm just a soldier."</para>
 		</epigraph>
 		<para>The "Bridge" of the Liberty-class is located at the front of the craft.  Conn and Ops are at the front, with science to port and engineering to starboard.  Any of these can double as Tactical in combat.  Although intended for 4 people to crew the craft, it is possible for as few as 1 to fly the Liberty-class if needed.</para>
@@ -133,7 +133,7 @@
 	<section>
 		<title>Utility Systems</title>
 		<epigraph>
-			<attribution>--Rollbar</attribution>
+			<attribution>Rollbar</attribution>
 			<para>"So we're not even sure they work?"</para>
 		</epigraph>
 		<section>
@@ -148,7 +148,7 @@
 	<section>
 		<title>Crew Support Systems</title>
 		<epigraph>
-			<attribution>--Anonymous Worm Guy</attribution>
+			<attribution>Anonymous Worm Guy</attribution>
 			<para>"Want some coffee?"</para>
 		</epigraph>
 		<para>A small "Sickbay" area is located starboard, opposite the science lab.  This is composed of a single bio-bed and basic medical supplies, plus Med-kits for field use.</para>
@@ -158,7 +158,7 @@
 	<section>
 		<title>Technical Specifications</title>
 		<epigraph>
-			<attribution>--Rollbar</attribution>
+			<attribution>Rollbar</attribution>
 			<para>"Might have been nice to know that ahead of time."</para>
 		</epigraph>
 		<section>
@@ -223,7 +223,7 @@
 	<section>
 		<title>Ships of the Class</title>
 		<epigraph>
-			<attribution>--Rodimus Prime</attribution>
+			<attribution>Rodimus Prime</attribution>
 			<para>"Autobots, transform and roll out"</para>
 		</epigraph>
 		<simplelist role="ShipList">
@@ -256,7 +256,7 @@
 	<section>
 		<title>Conclusion</title>
 		<epigraph>
-			<attribution>--Scythe-Meister</attribution>
+			<attribution>Scythe-Meister</attribution>
 			<para>"You cannot imagine"</para>
 		</epigraph>
 		<para>The Liberty-class is a general purpose Runabout, designed to serve as a compliment to the larger ships of Starfleet.  While it lacks the modular design of the highly successful Danube, it compensates with lower maintenance requirements associated with only having to deal with a single craft.</para>

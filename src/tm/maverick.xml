@@ -45,7 +45,7 @@
 	<section>
 		<title>History and Mission Overview</title>
 		<epigraph>
-			<attribution>--Lando Calrissian</attribution>
+			<attribution>Lando Calrissian</attribution>
 			<para>"Yeah, you're probably right."</para>
 		</epigraph>
 		<para>Combat ships throughout history have been made for various odd jobs. Many projects have risen and fallen to make these ships possible. One of the companies that gave birth to a combat ship was Knight Drive Yards (KDY). Their project had strange beginnings. It was code named Project Maverick, Design Number 688-I.</para>
@@ -58,7 +58,7 @@
 	<section>
 		<title>Structure and Construction</title>
 		<epigraph>
-			<attribution>--Lando Calrissian</attribution>
+			<attribution>Lando Calrissian</attribution>
 			<para>"They'd probably think nobody would be that stupid."</para>
 		</epigraph>
 		<para>The Maverick has a new hull design altogether. The Maverick is made of a duranium/tritanium double hull and a titanium superstructure. The entire Maverick is comprised of 32 decks. These 32 decks consist of a 23-deck dish and a 29-deck main hull. Of the decks of the dish, 19 are also combined with the upper decks of the hull. The dish is ovular, and the impulse drives are at the rear of it. It resembles the Sovereign class dish, but shares no real parts with it. To specify even more, decks 1 through 4 are on the saucer only, decks 5 through 23 are on both parts of the ship, and decks 24 through 32 are only part of the main hull.</para>
@@ -67,7 +67,7 @@
 	<section>
 		<title>Science and Remote Sensing Systems</title>
 		<epigraph>
-			<attribution>--Lando Calrissian</attribution>
+			<attribution>Lando Calrissian</attribution>
 			<para>"Lucky for us, we are that stupid."</para>
 		</epigraph>
 		<section>
@@ -82,7 +82,7 @@
 	<section>
 		<title>Warp Propulsion Systems</title>
 		<epigraph>
-			<attribution>--Luke Skywalker</attribution>
+			<attribution>Luke Skywalker</attribution>
 			<para>"Can she go fast?"</para>
 		</epigraph>
 		<para>The Maverick's Warp Propulsion System is comprised of one KDY Mk 10 Warp Core feeding two nacelles. The Maverick can go at a maximum speed of Warp 9.405 for 12 hours. This may not be fast, considering the speed of some other ships, but since it's a large warship, speed isn't really that much of an issue unless it's trying to retreat. The Maverick is only capable of sustaining a maximum speed of Warp 8, but the same rule for speed applies. It has a cruising speed of Warp 6. It has an output of 1,500+ cochranes.</para>
@@ -91,7 +91,7 @@
 	<section>
 		<title>Impulse Propulsion Systems</title>
 		<epigraph>
-			<attribution>--Han Solo</attribution>
+			<attribution>Han Solo</attribution>
 			<para>"It's the ship that made the Kessel run in twelve parsecs."</para>
 		</epigraph>
 		<para>The impulse propulsion system is made of two KDY Space Quester Impulse Engines, powering 2 KDY IHOP (Impulse High OutPut) impulse units, located on decks 9, 10, and 11. These impulse engines are a standard design, which KDY uses on most of its ships. They can propel the ship at 0.25c. While this is fast for regular Starfleet standards, the Maverick still doesn't maneuver well. The Maverick's impulse engines can go to full impulse in 18 seconds and go to full stop in 36 seconds. They are positioned at the back of the dish area, which is a standard location. Most KDY clients request these engines, and so the Yards decided that they would be ideal for the Maverick.</para>
@@ -99,7 +99,7 @@
 	<section>
 		<title>Tactical Systems</title>
 		<epigraph>
-			<attribution>--Dash Rendar</attribution>
+			<attribution>Dash Rendar</attribution>
 			<para>"I've got to be hitting it."</para>
 		</epigraph>
 		<section>
@@ -118,7 +118,7 @@
 	<section>
 		<title>Command and Support Systems</title>
 		<epigraph>
-			<attribution>--C-3PO</attribution>
+			<attribution>C-3PO</attribution>
 			<para>"Artoo Detoo, where are you?"</para>
 		</epigraph>
 		<section>
@@ -165,7 +165,7 @@
 	<section>
 		<title>Utility Systems</title>
 		<epigraph>
-			<attribution>--Corran Horn</attribution>
+			<attribution>Corran Horn</attribution>
 			<para>"How many Correllians does it take to change a lightbulb?"</para>
 		</epigraph>
 		<section>
@@ -185,7 +185,7 @@ The tractor beam emitters are located on decks 8 and 25, and each are placed on 
 	<section>
 		<title>Crew Support Systems</title>
 		<epigraph>
-			<attribution>--Corran Horn</attribution>
+			<attribution>Corran Horn</attribution>
 			<para>"None! The lights are out so that they can cheat at sabbac!"</para>
 		</epigraph>
 		<section>
@@ -212,7 +212,7 @@ The tractor beam emitters are located on decks 8 and 25, and each are placed on 
 	<section>
 		<title>Auxiliary Spacecraft Systems</title>
 		<epigraph>
-			<attribution>--Mara Jade</attribution>
+			<attribution>Mara Jade</attribution>
 			<para>"He took my ship!"</para>
 		</epigraph>
 		<para>The Main Shuttle Bay is positioned on Decks 11 and 12. It can accommodate 7 shuttle pods or 4 shuttles. The shuttle bay has side-by-side doors so that two shuttlepods or shuttles can be launched at a time. The Maverick is usually given the compliment of shuttles so that it can transport more personnel in a single craft.</para>
@@ -221,7 +221,7 @@ The tractor beam emitters are located on decks 8 and 25, and each are placed on 
 	<section>
 		<title>Technical Specifications</title>
 		<epigraph>
-			<attribution>--Darth Vader</attribution>
+			<attribution>Darth Vader</attribution>
 			<para>"Don't be too proud of this technological terror you've constructed.  The ability to destroy a planet is insignificant compared to the power of the Force."</para>
 		</epigraph>
 		<section>
@@ -287,7 +287,7 @@ The tractor beam emitters are located on decks 8 and 25, and each are placed on 
 	<section>
 		<title>Deck Layout</title>
 		<epigraph>
-			<attribution>--Corran Horn</attribution>
+			<attribution>Corran Horn</attribution>
 			<para>"Use ion cannons only."</para>
 		</epigraph>
 		<section role="Deck">
@@ -545,7 +545,7 @@ The tractor beam emitters are located on decks 8 and 25, and each are placed on 
 	<section>
 		<title>Ships of the Class</title>
 		<epigraph>
-			<attribution>--Corran Horn</attribution>
+			<attribution>Corran Horn</attribution>
 			<para>"We'll give the Invidious a chance to escape."</para>
 		</epigraph>
 		<para>All these names are related to words for some sort of non-conformist, or some sort of uprising.</para>
@@ -593,7 +593,7 @@ The tractor beam emitters are located on decks 8 and 25, and each are placed on 
 	<section>
 		<title>Conclusion</title>
 		<epigraph>
-			<attribution>--Lando Calrissian</attribution>
+			<attribution>Lando Calrissian</attribution>
 			<para>"Fools 'em every time."</para>
 		</epigraph>
 		<para>The Maverick is designed to be a front line ship, capable of surviving multiple combat engagements in a row. It is very powerful, but not unreasonable to construct. It can take a hit, and still survive. Unless considerably outnumbered or faced with superior technology, it should be able to win a battle or escape to fight again another day.</para>
@@ -787,15 +787,6 @@ The tractor beam emitters are located on decks 8 and 25, and each are placed on 
 			</caption>
 		</mediaobject>
 		<mediaobject>
-			<imageobject role="thumbnail">
-				<objectinfo>
-		Bret			<author>
-						<firstname>Larry</firstname>
-						<surname>Garfield</surname>
-					</author>
-				</objectinfo>
-				<imagedata fileref="images/maverick-side-thumb.jpg" format="JPG"/>
-			</imageobject>
 			<imageobject role="full">
 				<objectinfo>
 					<author>
@@ -804,6 +795,15 @@ The tractor beam emitters are located on decks 8 and 25, and each are placed on 
 					</author>
 				</objectinfo>
 				<imagedata fileref="images/maverick-side.jpg" format="JPG"/>
+			</imageobject>
+			<imageobject role="thumbnail">
+				<objectinfo>
+					<author>
+						<firstname>Larry</firstname>
+						<surname>Garfield</surname>
+					</author>
+				</objectinfo>
+				<imagedata fileref="images/maverick-side-thumb.jpg" format="JPG"/>
 			</imageobject>
 			<caption>
 				<para>Side View</para>

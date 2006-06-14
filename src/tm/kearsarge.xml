@@ -544,15 +544,6 @@
 			</caption>
 		</mediaobject>
 		<mediaobject>
-			<imageobject role="thumbnail">
-				<objectinfo>
-					<author>
-						<firstname>Larry</firstname>
-						<surname>Garfield</surname>
-					</author>
-				</objectinfo>
-				<imagedata fileref="images/kearsarge-bottom-thumb.jpg" format="JPG"/>
-			</imageobject>
 			<imageobject role="full">
 				<objectinfo>
 					<author>
@@ -561,6 +552,15 @@
 					</author>
 				</objectinfo>
 				<imagedata fileref="images/kearsarge-bottom.jpg" format="JPG"/>
+			</imageobject>
+			<imageobject role="thumbnail">
+				<objectinfo>
+					<author>
+						<firstname>Larry</firstname>
+						<surname>Garfield</surname>
+					</author>
+				</objectinfo>
+				<imagedata fileref="images/kearsarge-bottom-thumb.jpg" format="JPG"/>
 			</imageobject>
 			<caption>
 				<para>Kearsarge, Bottom View</para>

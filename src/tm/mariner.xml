@@ -38,7 +38,7 @@
 	<section>
 		<title>History and Mission Overview</title>
 		<epigraph>
-			<attribution>--Hamlet, Act-III, Scene-I</attribution>
+			<attribution>Hamlet, Act-III, Scene-I</attribution>
 			<para>"To be, or not to be: that is the question."</para>
 		</epigraph>
 		<para>As the Federation entered a new, yet tentative age of peace with the Klingons in the years that followed the Khitomer Accord, Star Fleet began to reassess the condition, inventory, and mission profile of its fleet.  Before that time, older designs such had been relegated to boarder patrol and training duties while newer, more capable designs slowly took over the role of deep space exploration.  As promised in the Khitomer Accord, Star Fleet began demilitarizing and dismantling the outpost network along the Klingon Neutral Zone, while at the same time reducing the size of its combat fleet.  Thus many ships of the old guard literally found themselves decommissioned over night.  Ironically, this practice created an even greater need for new ship construction.</para>
@@ -47,7 +47,7 @@
 	<section>
 		<title>Structure and Construction</title>
 		<epigraph>
-			<attribution>--Henry IV, Part-2, Act-III, Scene-I</attribution>
+			<attribution>Henry IV, Part-2, Act-III, Scene-I</attribution>
 			<para>"To the wet sea-boy in an hour so rude:  With all appliances and means to boot."</para>
 		</epigraph>
 		<para>In appearance, the Mariner is of a standard configuration.  The saucer section is attached to the secondary hull via a front dorsal neck mounting, while the twin warp nacelles are fitted to the aft section of the secondary hull via upward turned pylons.</para>
@@ -57,7 +57,7 @@
 	<section>
 		<title>Science and Remote Sensing Systems</title>
 		<epigraph>
-			<attribution>--Hamlet, Act-V, Scene-1</attribution>
+			<attribution>Hamlet, Act-V, Scene-1</attribution>
 			<para>"Alas, poor Yorick, I knew him well!  A fellow of infinite jest, of most excellent fancy..."</para>
 		</epigraph>
 		<para>Along the hull of the ship are located a total of 135 sensors used for navigational, remote sensing, scientific, and tactical acquisition data collection. The sensory suite is designed for both active and passive data collection. In normal space flight operations, both methods are automatically employed simultaneously, though they can be reconfigured as active or passive only. Active sensory grids are echo collection devices that transmit a pulse signal, usually radio, optical, infrared, or subspace, and then interpret the rebounded signal in forms of cohesive data.  Passive sensory grids "listen" for physical and subspace signals that are given off by either a natural or artificial object.</para>
@@ -71,7 +71,7 @@
 	<section>
 		<title>Warp Propulsion Systems</title>
 		<epigraph>
-			<attribution>--The Tempest, Epilogue</attribution>
+			<attribution>The Tempest, Epilogue</attribution>
 			<para>"Gentle breath of yours my sails must fill, or else my project fails."</para>
 		</epigraph>
 		<para>The Mariner utilizes a Class-VII warp core. It is similar to, but 25% smaller then the core designed for the Excelsior Class. To save space, the core is mounted horizontally along the centerline of the ship's Z-axis running for to aft with in the secondary hull.  The ejection protocols happen with in a 3 second time interval because of the sequences of explosive separation and ejection.  During a warp core breach, the core is ejected through a service hatch directly aft from the Mariner's secondary hull.  The warp core for the Mariner is rated at 900 cochranes with a max velocity of TOS-Warp-9.6 for 12 hours, a max sustainable velocity of TOS-Warp-8.5, and a cruising speed of TOS-Warp-5.5.</para>
@@ -80,7 +80,7 @@
 	<section>
 		<title>Impulse Propulsion Systems</title>
 		<epigraph>
-			<attribution>--Richard III, Act-V, Scene-IV</attribution>
+			<attribution>Richard III, Act-V, Scene-IV</attribution>
 			<para>"A horse!  A horse!  My kingdom for a horse!"</para>
 		</epigraph>
 		<para>The dual vent impulse drive is mounted directly aft of, and attached to the saucer section.  The impulse drive is designed to propel the ship up to and including 0.25c, with an acceleration rate from zero to 0.25c of 29 seconds, and a deceleration rate from 0.25c to zero in 57 seconds.</para>
@@ -89,7 +89,7 @@
 	<section>
 		<title>Tactical Systems</title>
 		<epigraph>
-			<attribution>--Hamlet, Act-III, Scene-I</attribution>
+			<attribution>Hamlet, Act-III, Scene-I</attribution>
 			<para>"Whether 'tis nobler in the mind to suffer the slings and arrows of outrageous fortune or to take arms against a sea of troubles..."</para>
 		</epigraph>
 		<section>
@@ -112,7 +112,7 @@
 	<section>
 		<title>Command and Support Systems</title>
 		<epigraph>
-			<attribution>--Henry V, Act-III, Scene-I</attribution>
+			<attribution>Henry V, Act-III, Scene-I</attribution>
 			<para>"I see you stand like greyhounds in the slips, straining upon the start.  The game's afoot!   Follow your spirit...."</para>
 		</epigraph>
 		<section>
@@ -164,7 +164,7 @@
 	<section>
 		<title>Crew Support Systems</title>
 		<epigraph>
-			<attribution>--Hamlet, Act-II, Scene-II</attribution>
+			<attribution>Hamlet, Act-II, Scene-II</attribution>
 			<para>"Oh God, I could be bounded in a nut-shell, and count myself a king of infinite space..."</para>
 		</epigraph>
 		<section>
@@ -194,7 +194,7 @@
 	<section>
 		<title>Auxiliary Spacecraft Systems</title>
 		<epigraph>
-			<attribution>--Hamlet, Act-I, Scene-V</attribution>
+			<attribution>Hamlet, Act-I, Scene-V</attribution>
 			<para>"There are more things in heaven and earth, Horatio, than are dreamt of in your philosophy."</para>
 		</epigraph>
 		<para>As stated before, the shuttlecraft landing bay is located aft of the secondary hull. The launch bay is comprised of a double set of doors as a safe guard against mechanical failure or damage suffered from combat. The Mariner's Shuttlebay is large enough to handle the maintenance and offloading requirements for a standard complement of five shuttle craft. The bay is capable of launching two shuttle craft at a time. During normal operations, as the double bay doors are opened, a level-4 force field is erected to keep the shuttlebay's atmosphere inside the ship while allowing for the safe launch or retrieval of shuttlecraft.</para>
@@ -472,7 +472,7 @@
 	<section>
 		<title>Conclusion</title>
 		<epigraph>
-			<attribution>--All's Well that Ends Well, Act-V, Scene-III</attribution>
+			<attribution>All's Well that Ends Well, Act-V, Scene-III</attribution>
 			<para>"All yet seems well; and if it end so meet, the bitter past, more welcome is the sweet."</para>
 		</epigraph>
 		<para>It is hoped that with the expanding frontiers of space, the Mariner class ships will lead the way, discovering what surprises may lay in store for that great "Undiscovered Country", the future.</para>
@@ -481,15 +481,6 @@
 		<title>Illustrations</title>
 		<para>These other visual representations of the Mariner are available.</para>
 		<mediaobject>
-			<imageobject role="thumbnail">
-				<objectinfo>
-					<author>
-						<firstname>Larry</firstname>
-						<surname>Garfield</surname>
-					</author>
-				</objectinfo>
-				<imagedata fileref="images/mariner-side-thumb.png" format="PNG"/>
-			</imageobject>
 			<imageobject role="full">
 				<objectinfo>
 					<author>
@@ -497,22 +488,22 @@
 						<surname>Godfrey</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/mariner-side.png" format="PNG"/>
+				<imagedata fileref="images/tm/mariner-side.png" format="PNG"/>
+			</imageobject>
+			<imageobject role="thumbnail">
+				<objectinfo>
+					<author>
+						<firstname>Larry</firstname>
+						<surname>Garfield</surname>
+					</author>
+				</objectinfo>
+				<imagedata fileref="images/tm/mariner-side-thumb.png" format="PNG"/>
 			</imageobject>
 			<caption>
 				<para>Mariner, Side View</para>
 			</caption>
 		</mediaobject>
 		<mediaobject>
-			<imageobject role="thumbnail">
-				<objectinfo>
-					<author>
-						<firstname>Larry</firstname>
-						<surname>Garfield</surname>
-					</author>
-				</objectinfo>
-				<imagedata fileref="images/mariner-front-thumb.jpg" format="JPG"/>
-			</imageobject>
 			<imageobject role="full">
 				<objectinfo>
 					<author>
@@ -520,22 +511,22 @@
 						<surname>Godfrey</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/mariner-front.jpg" format="JPG"/>
+				<imagedata fileref="images/tm/mariner-front.jpg" format="JPG"/>
+			</imageobject>
+			<imageobject role="thumbnail">
+				<objectinfo>
+					<author>
+						<firstname>Larry</firstname>
+						<surname>Garfield</surname>
+					</author>
+				</objectinfo>
+				<imagedata fileref="images/tm/mariner-front-thumb.jpg" format="JPG"/>
 			</imageobject>
 			<caption>
 				<para>Mariner, Front View</para>
 			</caption>
 		</mediaobject>
 		<mediaobject>
-			<imageobject role="thumbnail">
-				<objectinfo>
-					<author>
-						<firstname>Larry</firstname>
-						<surname>Garfield</surname>
-					</author>
-				</objectinfo>
-				<imagedata fileref="images/mariner-aft-thumb.jpg" format="JPG"/>
-			</imageobject>
 			<imageobject role="full">
 				<objectinfo>
 					<author>
@@ -543,22 +534,22 @@
 						<surname>Godfrey</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/mariner-aft.jpg" format="JPG"/>
+				<imagedata fileref="images/tm/mariner-aft.jpg" format="JPG"/>
+			</imageobject>
+			<imageobject role="thumbnail">
+				<objectinfo>
+					<author>
+						<firstname>Larry</firstname>
+						<surname>Garfield</surname>
+					</author>
+				</objectinfo>
+				<imagedata fileref="images/tm/mariner-aft-thumb.jpg" format="JPG"/>
 			</imageobject>
 			<caption>
 				<para>Mariner, Aft View</para>
 			</caption>
 		</mediaobject>
 		<mediaobject>
-			<imageobject role="thumbnail">
-				<objectinfo>
-					<author>
-						<firstname>Larry</firstname>
-						<surname>Garfield</surname>
-					</author>
-				</objectinfo>
-				<imagedata fileref="images/mariner-bottom-thumb.jpg" format="JPG"/>
-			</imageobject>
 			<imageobject role="full">
 				<objectinfo>
 					<author>
@@ -566,7 +557,16 @@
 						<surname>Godfrey</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/mariner-bottom.jpg" format="JPG"/>
+				<imagedata fileref="images/tm/mariner-bottom.jpg" format="JPG"/>
+			</imageobject>
+			<imageobject role="thumbnail">
+				<objectinfo>
+					<author>
+						<firstname>Larry</firstname>
+						<surname>Garfield</surname>
+					</author>
+				</objectinfo>
+				<imagedata fileref="images/tm/mariner-bottom-thumb.jpg" format="JPG"/>
 			</imageobject>
 			<caption>
 				<para>Mariner, Bottom View</para>

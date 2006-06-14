@@ -370,15 +370,6 @@
 		<title>Illustrations</title>
 		<para>These other visual representations of the Avenger are available.</para>
 		<mediaobject>
-			<imageobject role="thumbnail">
-				<objectinfo>
-					<author>
-						<firstname>Larry</firstname>
-						<surname>Garfield</surname>
-					</author>
-				</objectinfo>
-				<imagedata fileref="images/avenger-profile-thumb.png" format="PNG"/>
-			</imageobject>
 			<imageobject role="full">
 				<objectinfo>
 					<author>
@@ -388,11 +379,6 @@
 				</objectinfo>
 				<imagedata fileref="images/avenger-profile.png" format="PNG"/>
 			</imageobject>
-			<caption>
-				<para>Profile View</para>
-			</caption>
-		</mediaobject>
-		<mediaobject>
 			<imageobject role="thumbnail">
 				<objectinfo>
 					<author>
@@ -400,8 +386,13 @@
 						<surname>Garfield</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/avenger-cutaway-thumb.png" format="PNG"/>
+				<imagedata fileref="images/avenger-profile-thumb.png" format="PNG"/>
 			</imageobject>
+			<caption>
+				<para>Profile View</para>
+			</caption>
+		</mediaobject>
+		<mediaobject>
 			<imageobject role="full">
 				<objectinfo>
 					<author>
@@ -411,11 +402,6 @@
 				</objectinfo>
 				<imagedata fileref="images/avenger-cutaway.png" format="PNG"/>
 			</imageobject>
-			<caption>
-				<para>Cutaway View</para>
-			</caption>
-		</mediaobject>
-		<mediaobject>
 			<imageobject role="thumbnail">
 				<objectinfo>
 					<author>
@@ -423,8 +409,13 @@
 						<surname>Garfield</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/avenger-earth-thumb.png" format="PNG"/>
+				<imagedata fileref="images/avenger-cutaway-thumb.png" format="PNG"/>
 			</imageobject>
+			<caption>
+				<para>Cutaway View</para>
+			</caption>
+		</mediaobject>
+		<mediaobject>
 			<imageobject role="full">
 				<objectinfo>
 					<author>
@@ -433,6 +424,15 @@
 					</author>
 				</objectinfo>
 				<imagedata fileref="images/avenger-earth.jpg" format="JPG"/>
+			</imageobject>
+			<imageobject role="thumbnail">
+				<objectinfo>
+					<author>
+						<firstname>Larry</firstname>
+						<surname>Garfield</surname>
+					</author>
+				</objectinfo>
+				<imagedata fileref="images/avenger-earth-thumb.png" format="PNG"/>
 			</imageobject>
 			<caption>
 				<para>Avenger near Earth</para>

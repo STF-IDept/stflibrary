@@ -649,15 +649,6 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 		<title>Illustrations</title>
 		<para>These other visual representations of the Phoenix are available.</para>
 		<mediaobject>
-			<imageobject role="thumbnail">
-				<objectinfo>
-					<author>
-						<firstname>Larry</firstname>
-						<surname>Garfield</surname>
-					</author>
-				</objectinfo>
-				<imagedata fileref="images/phoenix-side-thumb.png" format="PNG"/>
-			</imageobject>
 			<imageobject role="full">
 				<objectinfo>
 					<author>
@@ -666,6 +657,15 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 					</author>
 				</objectinfo>
 				<imagedata fileref="images/phoenix-side.png" format="PNG"/>
+			</imageobject>
+			<imageobject role="thumbnail">
+				<objectinfo>
+					<author>
+						<firstname>Larry</firstname>
+						<surname>Garfield</surname>
+					</author>
+				</objectinfo>
+				<imagedata fileref="images/phoenix-side-thumb.png" format="PNG"/>
 			</imageobject>
 			<caption>
 				<para>Phoenix-class Profile</para>
