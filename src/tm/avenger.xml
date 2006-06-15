@@ -205,89 +205,152 @@
 	<section>
 		<title>Auxiliary Spacecraft Systems</title>
 		<para>The Avenger is only equipped with two shuttlecraft, each operating out of a separate landing bay.  Each landing bay also serves as a service bay for the shuttlecraft or the various sensor equipment onboard.  Shuttlecraft up to ten meters in length and six meters in width can be supported from the landing bays.  Below is a list of small-craft that could be employed on Avenger class starships.  Only those craft meeting the size restrictions of the Avenger's landing bay are listed. Small-craft exceeding these restrictions are not listed, even if they could be carried externally beneath the hull.</para>
-		<simplelist role="Shuttlecraft">
-			<member>Type 1 shuttle</member>
-			<member>Type 3 shuttle</member>
-			<member>Type 6 shuttle</member>
-			<member>Type 7 shuttle</member>
-			<member>Type 8 shuttle</member>
-			<member>Type 9 shuttle</member>
-			<member>Type 10 shuttle</member>
-			<member>Armadillo shuttle</member>
-		</simplelist>
-		<simplelist role="Shuttlepods">
-			<member>Type 15 shuttlepod</member>
-			<member>Type 15A shuttlepod</member>
-			<member>Type 16 shuttlepod</member>
-			<member>Type 18 shuttlepod</member>
-		</simplelist>
-		<simplelist role="Fighter craft">
-			<member>Compsognathus interceptor</member>
-		</simplelist>
+		<itemizedlist>
+			<title>Shuttlecraft</title>
+			<listitem><para>Type 1 shuttle</para></listitem>
+			<listitem><para>Type 3 shuttle</para></listitem>
+			<listitem><para>Type 6 shuttle</para></listitem>
+			<listitem><para>Type 7 shuttle</para></listitem>
+			<listitem><para>Type 8 shuttle</para></listitem>
+			<listitem><para>Type 9 shuttle</para></listitem>
+			<listitem><para>Type 10 shuttle</para></listitem>
+			<listitem><para>Armadillo shuttle</para></listitem>
+		</itemizedlist>
+		<itemizedlist>
+			<title>Shuttlepods</title>
+			<listitem><para>Type 15 shuttlepod</para></listitem>
+			<listitem><para>Type 15A shuttlepod</para></listitem>
+			<listitem><para>Type 16 shuttlepod</para></listitem>
+			<listitem><para>Type 18 shuttlepod</para></listitem>
+		</itemizedlist>
+		<itemizedlist>
+			<title>Fighter craft</title>
+			<listitem><para>Compsognathus interceptor</para></listitem>
+		</itemizedlist>
 		<para>The Avenger is equipped with a generic docking collar at airlock 5, located on the ventral hull of the ship.  The docking clamps can be used to carry small craft at speeds up to warp 6, providing the docked vessel does not exceed the size of a runabout.  This allows the Avenger to carry additional equipment and engage in forced boarding operations.  The Avenger can also dock with larger vessels for high warp flight, provided both vessels are equipped with docking ports and their engines are slaved together.</para>
 	</section>
 	<section>
 		<title>Technical Specifications</title>
-		<section>
+		<variablelist>
 			<title>Dimensions and Structure</title>
-			<simplelist>
-				<member role="Length">180.2 meters</member>
-				<member role="Beam (Width)">140.6 meters</member>
-				<member role="Height">38.0 meters</member>
-				<member role="Decks">6</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Length</term>
+				<listitem><para>180.2 meters</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Beam (Width)</term>
+				<listitem><para>140.6 meters</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Height</term>
+				<listitem><para>38.0 meters</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Decks</term>
+				<listitem><para>6</para></listitem>
+			</varlistentry>						
+		</variablelist>
+		<variablelist>
 			<title>Crew Complement</title>
-			<simplelist>
-				<member role="Officers and Crew">55</member>
-				<member role="Visiting Personnel">8</member>
-				<member role="Maximum Evacuation Limit">140</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Officers and Crew</term>
+				<listitem><para>55</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Visiting Personnel</term>
+				<listitem><para>8</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Maximum Evacuation Limit</term>
+				<listitem><para>140</para></listitem>
+			</varlistentry>			
+		</variablelist>
+		<variablelist>
 			<title>Computer Systems</title>
-			<simplelist>
-				<member role="Core">M-8B Type III AICS</member>
-				<member role="Operating System">Starfleet Library Computer Access and Retrieval System (LCARS)</member>
-				<member role="User Interface">MAJEL</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Core</term>
+				<listitem><para>M-8B Type III AICS</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Operating System</term>
+				<listitem><para>Starfleet Library Computer Access and Retrieval System (LCARS)</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>User Interface</term>
+				<listitem><para>MAJEL</para></listitem>
+			</varlistentry>			
+		</variablelist>
+		<variablelist>
 			<title>Warp Systems</title>
-			<simplelist>
-				<member role="Power Plant">One 1500+ cochrane M/ARA cores feeding two nacelles</member>
-				<member role="Cruising Velocity">Warp 5.5</member>
-				<member role="Maximum Sustainable Velocity">Warp 7.2</member>
-				<member role="Maximum Velocity">Warp 9.8 (12 hours)</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Power Plant</term>
+				<listitem><para>One 1500+ cochrane M/ARA cores feeding two nacelles</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Cruising Velocity</term>
+				<listitem><para>Warp 5.5</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Maximum Sustainable Velocity</term>
+				<listitem><para>Warp 7.2</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Maximum Velocity</term>
+				<listitem><para>Warp 9.8 (12 hours)</para></listitem>
+			</varlistentry>						
+		</variablelist>
+		<variablelist>
 			<title>Impulse Systems</title>
-			<simplelist>
-				<member role="Full Impulse">0.30c</member>
-				<member role="Accellerate">3.254 seconds</member>
-				<member role="Decellerate">6.671 seconds</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Full Impulse</term>
+				<listitem><para>0.30c</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Accellerate</term>
+				<listitem><para>3.254 seconds</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Decellerate</term>
+				<listitem><para>6.671 seconds</para></listitem>
+			</varlistentry>			
+		</variablelist>
+		<variablelist>
 			<title>Defensive Systems</title>
-			<simplelist>
-				<member role="Shield Maximum Graviton Load (Continuous)">1344 MegaWatts</member>
-				<member role="Shield Maximum Energy Dissipation Rate">3.7x10^5 kilowatts</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Shield Maximum Graviton Load (Continuous)</term>
+				<listitem><para>1344 MegaWatts</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Shield Maximum Energy Dissipation Rate</term>
+				<listitem><para>3.7x10^5 kilowatts</para></listitem>
+			</varlistentry>
+		</variablelist>	
+		<variablelist>
 			<title>Offensive Systems</title>
-			<simplelist role="Torpedoes">
-				<member role="Torpedo Tubes">2</member>
-				<member role="Standard Payload (total)">50 torpedoes</member>
-			</simplelist>
-			<simplelist role="Phasers">
-				<member>2 Type-VII Phaser Strips</member>
-				<member>4 Type-VIII Pulse Phaser Cannons</member>
-			</simplelist>
-		</section>
+			<varlistentry>
+				<term>Torpedoes</term>
+				<listitem>
+					<variablelist>
+						<varlistentry>
+							<term>Torpedo Tubes</term>
+							<listitem><para>2</para></listitem>
+						</varlistentry>
+						<varlistentry>
+							<term>Standard Payload (total)</term>
+							<listitem><para>50 torpedoes</para></listitem>
+						</varlistentry>
+					</variablelist>						
+				</listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Phasers</term>
+				<listitem>
+					<itemizedlist>
+						<listitem><para>2 Type-VII Phaser Strips</para></listitem>
+						<listitem><para>4 Type-VIII Pulse Phaser Cannons</para></listitem>						
+				</listitem>
+			</varlistentry>
+		</variablelist>
 	</section>
 	<section>
 		<title>Deck Layout</title>
@@ -377,7 +440,7 @@
 						<surname>Kurz</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/avenger-profile.png" format="PNG"/>
+				<imagedata fileref="images/tm/avenger-profile.png" format="PNG"/>
 			</imageobject>
 			<imageobject role="thumbnail">
 				<objectinfo>
@@ -386,7 +449,7 @@
 						<surname>Garfield</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/avenger-profile-thumb.png" format="PNG"/>
+				<imagedata fileref="images/tm/avenger-profile-thumb.png" format="PNG"/>
 			</imageobject>
 			<caption>
 				<para>Profile View</para>
@@ -400,7 +463,7 @@
 						<surname>Kurz</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/avenger-cutaway.png" format="PNG"/>
+				<imagedata fileref="images/tm/avenger-cutaway.png" format="PNG"/>
 			</imageobject>
 			<imageobject role="thumbnail">
 				<objectinfo>
@@ -409,7 +472,7 @@
 						<surname>Garfield</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/avenger-cutaway-thumb.png" format="PNG"/>
+				<imagedata fileref="images/tm/avenger-cutaway-thumb.png" format="PNG"/>
 			</imageobject>
 			<caption>
 				<para>Cutaway View</para>
@@ -423,7 +486,7 @@
 						<surname>Kurz</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/avenger-earth.jpg" format="JPG"/>
+				<imagedata fileref="images/tm/avenger-earth.jpg" format="JPG"/>
 			</imageobject>
 			<imageobject role="thumbnail">
 				<objectinfo>
@@ -432,7 +495,7 @@
 						<surname>Garfield</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/avenger-earth-thumb.png" format="PNG"/>
+				<imagedata fileref="images/tm/avenger-earth-thumb.png" format="PNG"/>
 			</imageobject>
 			<caption>
 				<para>Avenger near Earth</para>
