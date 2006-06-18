@@ -201,71 +201,147 @@
 	</section>
 	<section>
 		<title>Technical Specifications</title>
-		<section>
+		<variablelist>
 			<title>Dimensions and Structure</title>
-			<simplelist>
-				<member role="Length">350 meters</member>
-				<member role="Beam (Width)">137 meters</member>
-				<member role="Height">60.2 meters</member>
-				<member role="Decks">14</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Length</term>
+				<listitem><para>350 meters</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Beam (Width)</term>
+				<listitem><para>137 meters</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Height</term>
+				<listitem><para>60.2 meters</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Decks</term>
+				<listitem><para>14</para></listitem>
+			</varlistentry>
+		</variablelist>			
+		<variablelist>
 			<title>Crew Complement</title>
-			<simplelist>
-				<member role="Officers and Crew">375</member>
-				<member role="Command">25</member>
-				<member role="Engineering">75</member>
-				<member role="Medical">15</member>
-				<member role="Science">200</member>
-				<member role="Security">60</member>
-				<member role="Visiting Personnel">60</member>
-				<member role="Maximum Evacuation Limit">2000</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Officers and Crew</term>
+				<listitem><para>375</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Command</term>
+				<listitem><para>25</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Engineering</term>
+				<listitem><para>75</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Medical</term>
+				<listitem><para>15</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Science</term>
+				<listitem><para>200</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Security</term>
+				<listitem><para>60</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Visiting Personnel</term>
+				<listitem><para>60</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Maximum Evacuation Limit</term>
+				<listitem><para>2000</para></listitem>
+			</varlistentry>
+		</variablelist>
+		<variablelist>
 			<title>Computer Systems</title>
-			<simplelist>
-				<member role="Core">M6 Duotronic core x1, M2 Duotronic core x1</member>
-				<member role="Operating System">Windows 1.0</member>
-				<member role="User Interface">MAJEL 1.0</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Core</term>
+				<listitem><para>M6 Duotronic core x1, M2 Duotronic core x1</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Operating System</term>
+				<listitem><para>Windows 1.0</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>User Interface</term>
+				<listitem><para>MAJEL 1.0</para></listitem>
+			</varlistentry>
+		</variablelist>	
+		<variablelist>
 			<title>Warp Systems</title>
-			<simplelist>
-				<member role="Power Plant">One 900 cochrane M/ARA cores feeding two nacelles</member>
-				<member role="Cruising Velocity">TOS-Warp 5.5</member>
-				<member role="Maximum Sustainable Velocity">TOS-Warp 8.5</member>
-				<member role="Maximum Velocity">TOS-Warp 9.6 (12 hours)</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Power Plant</term>
+				<listitem><para>One 900 cochrane M/ARA cores feeding two nacelles</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Crusing Velocity</term>
+				<listitem><para>TOS-Warp 5.5</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Maximum Sustainable Velocity</term>
+				<listitem><para>TOS-Warp 8.5</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Maximum Velocity</term>
+				<listitem><para>TOS-Warp 9.6 (12 hours)</para></listitem>
+			</varlistentry>
+		</variablelist>
+		<variablelist>
 			<title>Impulse Systems</title>
-			<simplelist>
-				<member role="Full Impulse">0.25c</member>
-				<member role="Accellerate">29 seconds</member>
-				<member role="Decellerate">57 seconds</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Full Impulse</term>
+				<listitem><para>0.25c</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Accellerate</term>
+				<listitem><para>29 seconds</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Decellerate</term>
+				<listitem><para>57 seconds</para></listitem>
+			</varlistentry>
+		</variablelist>	
+		<variablelist>
 			<title>Defensive Systems</title>
-			<simplelist>
-				<member role="Shield Maximum Graviton Load (Continuous)">2016 MegaWatts</member>
-				<member role="Shield Maximum Energy Dissipation Rate">2.0x10^5 kilowatts</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Shield Maximum Graviton Load (Continuous)</term>
+				<listitem><para>2016 MegaWatts</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Shield Maximum Energy Dissipation Rate</term>
+				<listitem><para>2.0x10^5 kilowatts</para></listitem>
+			</varlistentry>
+		</variablelist>	
+		<variablelist>
 			<title>Offensive Systems</title>
-			<simplelist role="Torpedoes">
-				<member role="Torpedo Tubes">3</member>
-				<member role="Standard Payload (total)">150 photon torpedoes plus 25 scientific probes and 25 unequipped casings</member>
-			</simplelist>
-			<simplelist role="Phasers">
-				<member>6 Type-VIII Phaser Emitters in 3 banks of 2</member>
-				<member>6 Type-VII phaser emitters mounted in 3 banks of 2.</member>
-			</simplelist>
-		</section>
+			<varlistentry>
+				<term>Torpedoes</term>
+				<listitem>
+					<variablelist>
+						<varlistentry>
+							<term>Torpedo Tubes</term>
+							<listitem><para>3</para></listitem>
+						</varlistentry>
+						<varlistentry>
+							<term>Standard Payload (total)</term>
+							<listitem><para>150 photon torpedoes plus 25 scientific probes and 25 unequipped casings</para></listitem>
+						</varlistentry>
+					</variablelist>
+				</listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Phasers</term>
+				<listitem>
+					<itemizedlist>
+						<listitem><para>6 Type-VIII Phaser Emitters in 3 banks of 2</para></listitem>
+						<listitem><para>6 Type-VII phaser emitters mounted in 3 banks of 2.</para></listitem>
+					</itemizedlist>
+				</listitem>
+			</varlistentry>
+		</variablelist>
 	</section>
 	<section>
 		<title>Deck Layout</title>

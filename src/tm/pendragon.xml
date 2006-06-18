@@ -70,7 +70,7 @@
 			<para>"She can rebuild you. She has the technology."</para>
 		</epigraph>
 		<para>The Pendragon, despite being a combat vessel, resembles the more common exploration cruiser except for the fact it is heavily armed. The saucer section itself is circular, with the engineering hull blending out of it. Fixed off each side of the engineering hull there is a set of warp nacelle pylons.</para>
-		<para>The Pendragon utilizes a series of interlocking tritanium/duranium truss frames for its space frame construction. Instead of gamma wave welding, the Pendragon Project ship and all ships of its class used <link linkend="transporterwelding">Transporter Welding</link> to create stronger joints compared to traditional construction methods.</para>
+		<para>The Pendragon utilizes a series of interlocking tritanium/duranium truss frames for its space frame construction. Instead of gamma wave welding, the Pendragon Project ship and all ships of its class used <link linkend="tech/transporterwelding">Transporter Welding</link> to create stronger joints compared to traditional construction methods.</para>
 		<para>Furthermore, the Pendragon's hull is completely covered with 8 cm of enhanced Tritanium armour. This armour can easily resist fire from type 8 phasers in most areas where there is enough structural backing to support the armour. This is further reinforced with an additional 4-cm layer of ablative armour covering allowing an evenly distributed level of protection along most of the hull.</para>
 		<para>These ablative inserts can be found on areas including,</para>
 		<simplelist>
@@ -112,7 +112,7 @@
 		<section>
 			<title>Sensory Systems</title>
 			<para>The Pendragon is equipped with standard sensor packages. Some of these are behind the main deflector, while others are placed in sensor pallet arrays. They can be upgraded through time as deemed necessary. Sensor are attached to shock protective mountings, and protected by articulated hull plating. The only time a sensor is fully exposed is when running deep in-depth scans. In addition, the Pendragon is equipped with Emissions Tracking System units for improved targeting during combat.</para>
-			<para>The Pendragon carries a selection of scientific probes, which can be restocked at any star base, or built in its <link linkend="machineshop">Machine Shop</link>.</para>
+			<para>The Pendragon carries a selection of scientific probes, which can be restocked at any star base, or built in its <link linkend="tech/machineshop">Machine Shop</link>.</para>
 		</section>
 		<section>
 			<title>Holographic Crew Members</title>
@@ -125,12 +125,24 @@
 			<attribution>Agent K</attribution>
 			<para>"Push the little red button."</para>
 		</epigraph>
-		<simplelist>
-			<member role="Warp Core">1500 Cochrane Warp Core</member>
-			<member role="Max. Sustainable Warp">9.3</member>
-			<member role="Emergency Warp">9.7 (12 hours)</member>
-			<member role="Cruising Speed">warp 6.0</member>
-		</simplelist>
+		<variablelist>
+			<varlistentry>
+				<term>Warp Core</term>
+				<listitem><para>1500 Cochrane Warp Core</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Max. Sustainable Warp</term>
+				<listitem><para>9.3</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Emergency Warp</term>
+				<listitem><para>9.7 (12 hours)</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Cruising Speed</term>
+				<listitem><para>Warp 6.0</para></listitem>
+			</varlistentry>
+		</variablelist>
 		<para>The Warp Propulsion System (WPS) of the Pendragon-Class Battlecruiser consists of three major components: the Matter/Anti-Matter reaction assembly, the power transfer conduits, and the two warp engine nacelles. Specifications sent to Avalon called for the Pendragon to be able to maintain a normal cruise speed of Warp 6.0 until fuel exhaustion, a maximum cruise of Warp 9.3, and an emergency warp speed of Warp 9.7 sustainable for 12 hours To achieve this the ship uses warp nacelles designed to prevent the subspace distortion effect present in old warp propulsion systems.</para>
 		<para>The Pendragon has 30 standard anti-matter storage tanks, allowing a Pendragon-Class Battlecruiser an operational life of approximately five to seven years before fuel exhaustion. Deuterium tanks are located in the star drive hull, and can be access for refuelling via aperture. The tanks hold a sufficient amount of deuterium to allow for a five-year mission life under normal operational conditions.</para>
 	</section>
@@ -152,10 +164,16 @@
 		<section>
 			<title>Shield Systems</title>
 			<para>The shields of the Pendragon were made slightly tighter than usual in order to save as much power as possible. In addition, the Pendragon is equipped with a series of back-up shield emitters designed to protect the Bridge, deflector array, warp nacelles and weapon systems. These only provide protection to these locations, not to the entire ship. These shields are only activated should the main shields fail.</para>
-			<simplelist>
-				<member role="Maximum Gravitational Load">2700 megawatts</member>
-				<member role="Maximum Energy Dissipation Rate">7.9 x 10^5 kilowatts</member>
-			</simplelist>
+			<variablelist>
+				<varlistentry>
+					<term>Maximum Gravitational Load</term>
+					<listitem><para>2700 megawatts</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Maximum Energy Dissipation Rate</term>
+					<listitem><para>7.9 x 10^5 kilowatts</para></listitem>
+				</varlistentry>
+			</variablelist>
 		</section>
 		<section>
 			<title>Phaser Systems</title>
@@ -220,7 +238,7 @@
 		</section>
 		<section>
 			<title>Machine Shop</title>
-			<para>The Pendragon is equipped with a <link linkend="machineshop">Machine Shop</link> area so to prolong its ability to stay in the field. This area equipped with the basic versions of the latest tools deemed necessary by star fleet to keep the Pendragon parts in top condition due to normal wear and tear.</para>
+			<para>The Pendragon is equipped with a <link linkend="tech/machineshop">Machine Shop</link> area so to prolong its ability to stay in the field. This area equipped with the basic versions of the latest tools deemed necessary by star fleet to keep the Pendragon parts in top condition due to normal wear and tear.</para>
 		</section>
 	</section>
 	<section>
@@ -295,72 +313,154 @@
 			<attribution>Daniel Osbourne</attribution>
 			<para>"Actually, it explains a lot."</para>
 		</epigraph>
-		<section>
+		<variablelist>
 			<title>Dimensions and Structure</title>
-			<simplelist>
-				<member role="Length">499.09 meters</member>
-				<member role="Beam (Width)">212.72 meters</member>
-				<member role="Height">96.95 meters</member>
-				<member role="Decks">20</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Length</term>
+				<listitem><para>499.09 meters</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Beam (Width)</term>
+				<listitem><para>212.72 meters</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Height</term>
+				<listitem><para>96.95 meters</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Decks</term>
+				<listitem><para>20</para></listitem>
+			</varlistentry>
+		</variablelist>			
+		<variablelist>
 			<title>Crew Complement</title>
-			<simplelist>
-				<member role="Officers and Crew">600</member>
-				<member role="Command">5%</member>
-				<member role="Engineering">30%</member>
-				<member role="Intelligence">5% (not present on every ship of the class)</member>
-				<member role="Medical">25%</member>
-				<member role="Science">5%</member>
-				<member role="Security">25% (30% if no Intelligence officers)</member>
-				<member role="Tactical">5%</member>
-				<member role="Visiting Personnel">100</member>
-				<member role="Maximum Evacuation Limit">1200</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Officers and Crew</term>
+				<listitem><para>600</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Command</term>
+				<listitem><para>5%</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Engineering</term>
+				<listitem><para>30%</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Intelligence</term>
+				<listitem><para>5% (not present on every ship of the class)</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Medical</term>
+				<listitem><para>25%</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Science</term>
+				<listitem><para>5%</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Security</term>
+				<listitem><para>25% (30% if no Intelligence officers)</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Tactical</term>
+				<listitem><para>5%</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Visiting Personnel</term>
+				<listitem><para>100</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Maximum Evacuation Limit</term>
+				<listitem><para>1200</para></listitem>
+			</varlistentry>
+		</variablelist>
+		<variablelist>
 			<title>Computer Systems</title>
-			<simplelist>
-				<member role="Core">Isolinear Rod Computer Core x3</member>
-				<member role="Operating System">Starfleet Library Computer Access and Retrieval System (LCARS)</member>
-				<member role="User Interface">MAJEL</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Core</term>
+				<listitem><para>Isolinear Rod Computer Core x3</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Operating System</term>
+				<listitem><para>Starfleet Library Computer Access and Retrieval System (LCARS)</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>User Interface</term>
+				<listitem><para>MAJEL</para></listitem>
+			</varlistentry>
+		</variablelist>	
+		<variablelist>
 			<title>Warp Systems</title>
-			<simplelist>
-				<member role="Power Plant">One 1500+ cochrane M/ARA core feeding two nacelles</member>
-				<member role="Cruising Velocity">Warp 6.0</member>
-				<member role="Maximum Sustainable Velocity">Warp 9.3</member>
-				<member role="Maximum Velocity">Warp 9.7 (12 hours)</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Power Plant</term>
+				<listitem><para>One 1500+ cochrane M/ARA core feeding two nacelles</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Crusing Velocity</term>
+				<listitem><para>Warp 6.0</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Maximum Sustainable Velocity</term>
+				<listitem><para>Warp 9.3</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Maximum Velocity</term>
+				<listitem><para>Warp 9.7 (12 hours)</para></listitem>
+			</varlistentry>
+		</variablelist>
+		<variablelist>
 			<title>Impulse Systems</title>
-			<simplelist>
-				<member role="Full Impulse">0.27c</member>
-				<member role="Accellerate">13 seconds</member>
-				<member role="Decellerate">26 seconds</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Full Impulse</term>
+				<listitem><para>0.27c</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Accellerate</term>
+				<listitem><para>13 seconds</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Decellerate</term>
+				<listitem><para>26 seconds</para></listitem>
+			</varlistentry>
+		</variablelist>
+		<variablelist>
 			<title>Defensive Systems</title>
-			<simplelist>
-				<member role="Shield Maximum Graviton Load (Continuous)">2700 MegaWatts</member>
-				<member role="Shield Maximum Energy Dissipation Rate">7.9 x 10^5 kilowatts</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Shield Maximum Graviton Load (Continuous)</term>
+				<listitem><para>2700 MegaWatts</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Shield Maximum Energy Dissipation Rate</term>
+				<listitem><para>7.9 x 10^5 kilowatts</para></listitem>
+			</varlistentry>
+		</variablelist>
+		<variablelist>
 			<title>Offensive Systems</title>
-			<simplelist role="Torpedoes">
-				<member role="Torpedo Tubes">4</member>
-				<member role="Standard Payload (total)">500 photon torpedoes; 100 Quantum Torpedoes; 100 Probes</member>
-			</simplelist>
-			<simplelist role="Phasers">
-				<member>8 Type-X Phaser Strips</member>
-			</simplelist>
-		</section>
+			<varlistentry>
+				<term>Torpedoes</term>
+				<listitem>
+					<variablelist>
+						<varlistentry>
+							<term>Torpedo Tubes</term>
+							<listitem><para>4</para></listitem>
+						</varlistentry>
+						<varlistentry>
+							<term>Standard Payload (total)</term>
+							<listitem><para>500 photon torpedoes; 100 Quantum Torpedoes; 100 Probes</para></listitem>
+						</varlistentry>
+					</variablelist>
+				</listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Phasers</term>
+				<listitem>
+					<itemizedlist>
+						<listitem><para>8 Type-X Phaser Strips</para></listitem>
+					</itemizedlist>
+				</listitem>
+			</varlistentry>
+		</variablelist>
 	</section>
 	<section>
 		<title>Deck Layout</title>

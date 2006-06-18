@@ -62,20 +62,39 @@
 		<para>The Monolith is constructed at the Arbuckle Ship Yards in the Zeta Maxtor system, Fleet Four.</para>
 		<para>The Monolith supports external expansion modules, each of which is also cylindrical.  A single module can be connected to hardpoints on the aft face of the vessel, and additional modules can be connected to the aft of a given module, creating a "freight train" appearance.</para>
 		<para>Each module can range from additional cargo space to repair bays for starship components to troop transports.  Internal configuration is alterable by means of sliding and retractable bulkheads inside each module, including retractable deck plating in cargo modules.  Modules contain fusion reactors to power life support systems and minimal thrusters for docking and station-keeping, however, impulse and warp propulsion is provided by the Monolith itself.  A maximum of two modules can be attached to a given ship at a time, due to warp field geometry restrictions.</para>
-		<simplelist role="Module Specifications">
-			<member role="Length">175.31 meters</member>
-			<member role="Beam">200.91 meters</member>
-			<member role="Height">43.12 meters</member>
-			<member role="Decks">9</member>
-			<member role="Crew">N/A</member>
-			<member role="Emergency Population">3000</member>
-		</simplelist>
+		<variablelist>
+			<title>Module Specifications</title>
+			<varlistentry>
+				<term>Length</term>
+				<listitem><para>175.31 meters</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Beam</term>
+				<listitem><para>200.91 meters</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Height</term>
+				<listitem><para>43.12 meters</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Decks</term>
+				<listitem><para>9</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Crew</term>
+				<listitem><para>N/A</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Emergency Population</term>
+				<listitem><para>3000</para></listitem>
+			</varlistentry>
+		</variablelist>
 	</section>
 	<section>
 		<title>Science and Remote Sensing Systems</title>
 		<section>
 			<title>Computer Systems</title>
-			<para>A full starship-grade computer system seemed like a waste to the design team.  Instead, they forewent the traditional LCARS system and opted instead for a freighter-specific computer system developed by Starfleet partner Nyetscape Communications.  The system, <link linkend="bigrig">Basic I/O Grunt - Regimented Information Grouper (BIG RIG)</link>, was built around a conventional isolinear core ODN network, and was optimized for logistical and material management, and suffices as a solid, work-horse system.</para>
+			<para>A full starship-grade computer system seemed like a waste to the design team.  Instead, they forewent the traditional LCARS system and opted instead for a freighter-specific computer system developed by Starfleet partner Nyetscape Communications.  The system, <link linkend="tech/bigrig">Basic I/O Grunt - Regimented Information Grouper (BIG RIG)</link>, was built around a conventional isolinear core ODN network, and was optimized for logistical and material management, and suffices as a solid, work-horse system.</para>
 		</section>
 		<section>
 			<title>Sensory Systems</title>
@@ -144,64 +163,122 @@
 	</section>
 	<section>
 		<title>Technical Specifications</title>
-		<section>
+		<variablelist>
 			<title>Dimensions and Structure</title>
-			<simplelist>
-				<member role="Length">300.34 meters</member>
-				<member role="Beam (Width)">225.63 meters</member>
-				<member role="Height">61.45 meters</member>
-				<member role="Decks">13</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Length</term>
+				<listitem><para>300.34 meters</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Beam (Width)</term>
+				<listitem><para>225.63 meters</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Height</term>
+				<listitem><para>61.45 meters</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Decks</term>
+				<listitem><para>13</para></listitem>
+			</varlistentry>
+		</variablelist>		
+		<variablelist>
 			<title>Crew Complement</title>
-			<simplelist>
-				<member role="Officers and Crew">20</member>
-				<member role="Maximum Evacuation Limit">5000</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Officers and Crew</term>
+				<listitem><para>20</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Maximum Evacuation Limit</term>
+				<listitem><para>5000</para></listitem>
+			</varlistentry>
+		</variablelist>
+		<variablelist>
 			<title>Computer Systems</title>
-			<simplelist>
-				<member role="Core">Federation Micro Designs DC-4 isolinear data arra</member>
-				<member role="Operating System">Basic I/O Grunt - Regimented Information Grouper (BIG RIG), designed by Nyetscape Communications.</member>
-				<member role="User Interface">MAJEL</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Core</term>
+				<listitem><para>Federation Micro Designs DC-4 isolinear data arra</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Operating System</term>
+				<listitem><para>Basic I/O Grunt - Regimented Information Grouper (BIG RIG), designed by Nyetscape Communications.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>User Interface</term>
+				<listitem><para>MAJEL</para></listitem>
+			</varlistentry>
+		</variablelist>	
+		<variablelist>
 			<title>Warp Systems</title>
-			<simplelist>
-				<member role="Power Plant">One 900+ cochrane M/ARA core feeding two nacelles</member>
-				<member role="Cruising Velocity">Warp 5</member>
-				<member role="Maximum Sustainable Velocity">Warp 6</member>
-				<member role="Maximum Velocity">Warp 7.2 (12 hours)</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Power Plant</term>
+				<listitem><para>One 900+ cochrane M/ARA core feeding two nacelles</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Crusing Velocity</term>
+				<listitem><para>Warp 5</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Maximum Sustainable Velocity</term>
+				<listitem><para>Warp 6</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Maximum Velocity</term>
+				<listitem><para>Warp 7.2 (12 hours)</para></listitem>
+			</varlistentry>
+		</variablelist>
+		<variablelist>
 			<title>Impulse Systems</title>
-			<simplelist>
-				<member role="Full Impulse">0.24c</member>
-				<member role="Accellerate">19 seconds</member>
-				<member role="Decellerate">22 seconds</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Full Impulse</term>
+				<listitem><para>0.24c</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Accellerate</term>
+				<listitem><para>19 seconds</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Decellerate</term>
+				<listitem><para>22 seconds</para></listitem>
+			</varlistentry>
+		</variablelist>
+		<variablelist>
 			<title>Defensive Systems</title>
-			<simplelist>
-				<member role="Shield Maximum Graviton Load (Continuous)">1253 MegaWatts</member>
-				<member role="Shield Maximum Energy Dissipation Rate">3.7x10^5 kilowatts</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Shield Maximum Graviton Load (Continuous)</term>
+				<listitem><para>1253 MegaWatts</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Shield Maximum Energy Dissipation Rate</term>
+				<listitem><para>3.7x10^5 kilowatts</para></listitem>
+			</varlistentry>
+		</variablelist>
+		<variablelist>
 			<title>Offensive Systems</title>
-			<simplelist role="Torpedoes">
-				<member role="Torpedo Tubes">1</member>
-				<member role="Standard Payload (total)">25 photon torpedoes</member>
-			</simplelist>
-			<simplelist role="Phasers">
-				<member>4 Type-VII Phaser Strips</member>
-			</simplelist>
-		</section>
+			<varlistentry>
+				<term>Torpedoes</term>
+				<listitem>
+					<variablelist>
+						<varlistentry>
+							<term>Torpedo Tubes</term>
+							<listitem><para>1</para></listitem>
+						</varlistentry>
+						<varlistentry>
+							<term>Standard Payload (total)</term>
+							<listitem><para>25 photon torpedoes</para></listitem>
+						</varlistentry>
+					</variablelist>
+				</listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Phasers</term>
+				<listitem>
+					<itemizedlist>
+						<listitem><para>4 Type-VII Phaser Strips</para></listitem>
+					</itemizedlist>
+				</listitem>
+			</varlistentry>
+		</variablelist>
 	</section>
 	<section>
 		<title>Deck Layout</title>

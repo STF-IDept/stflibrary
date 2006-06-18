@@ -213,65 +213,126 @@ For offensive strategy, Starfleet learned from the tactics used during the Crag 
 			<attribution>Yub nub Pilot's Manual</attribution>
 			<para>"Keep at room temperature, do not operate after consuming synthahol."</para>
 		</epigraph>
-		<section>
+		<variablelist>
 			<title>Dimensions and Structure</title>
-			<simplelist>
-				<member role="Length">16.4 meters</member>
-				<member role="Beam (Width)">13.2 meters</member>
-				<member role="Height">11.8 meters</member>
-				<member role="Decks">3</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Length</term>
+				<listitem><para>16.4 meters</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Beam (Width)</term>
+				<listitem><para>13.2 meters</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Height</term>
+				<listitem><para>11.8 meters</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Decks</term>
+				<listitem><para>3</para></listitem>
+			</varlistentry>
+		</variablelist>				
+		<variablelist>
 			<title>Crew Complement</title>
-			<simplelist>
-				<member role="Officers and Crew">6</member>
-				<member role="Maximum Evacuation Limit">30</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Officers and Crew</term>
+				<listitem><para>6</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Maximum Evacuation Limit</term>
+				<listitem><para>30</para></listitem>
+			</varlistentry>
+		</variablelist>
+		<variablelist>
 			<title>Computer Systems</title>
-			<simplelist>
-				<member role="Core">1 DC-3 Federation Micro Designs isolinear array computer</member>
-				<member role="Operating System">Enhanced Waveform Object Kernel (EWOK), provided by Nyetscape Communications</member>
-				<member role="User Interface">MAJEL</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Core</term>
+				<listitem><para>1 DC-3 Federation Micro Designs isolinear array computer</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Operating System</term>
+				<listitem><para>Enhanced Waveform Object Kernel (EWOK), provided by Nyetscape Communications</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>User Interface</term>
+				<listitem><para>MAJEL</para></listitem>
+			</varlistentry>
+		</variablelist>	
+		<variablelist>
 			<title>Warp Systems</title>
-			<simplelist>
-				<member role="Power Plant">One 1500+ cochrane M/ARA cores feeding two nacelles</member>
-				<member role="Cruising Velocity">Warp 5</member>
-				<member role="Maximum Sustainable Velocity">Warp 8.7</member>
-				<member role="Maximum Velocity">Warp 9.4 (12 hours)</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Power Plant</term>
+				<listitem><para>One 1500+ cochrane M/ARA cores feeding two nacelles</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Crusing Velocity</term>
+				<listitem><para>Warp 5</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Maximum Sustainable Velocity</term>
+				<listitem><para>Warp 8.7</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Maximum Velocity</term>
+				<listitem><para>Warp 9.4 (12 hours)</para></listitem>
+			</varlistentry>
+		</variablelist>
+		<variablelist>
 			<title>Impulse Systems</title>
-			<simplelist>
-				<member role="Full Impulse">0.32c</member>
-				<member role="Accellerate">2.9 seconds</member>
-				<member role="Decellerate">5.9 seconds</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Full Impulse</term>
+				<listitem><para>0.32c</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Accellerate</term>
+				<listitem><para>2.9 seconds</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Decellerate</term>
+				<listitem><para>5.9 seconds</para></listitem>
+			</varlistentry>
+		</variablelist>
+		<variablelist>
 			<title>Defensive Systems</title>
-			<simplelist>
-				<member role="Shield Maximum Graviton Load (Continuous)">451 MegaWatts</member>
-				<member role="Shield Maximum Energy Dissipation Rate">9.3x10^2 kilowatts</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Shield Maximum Graviton Load (Continuous)</term>
+				<listitem><para>451 MegaWatts</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Shield Maximum Energy Dissipation Rate</term>
+				<listitem><para>9.3x10^2 kilowatts</para></listitem>
+			</varlistentry>
+		</variablelist>
+		<variablelist>
 			<title>Offensive Systems</title>
-			<simplelist role="Phasers">
-				<member>4 Type-VIII Phaser Strips</member>
-			</simplelist>
-			<simplelist role="Antimatter Torpedo System">
-				<member role="Forward Torpedo Tubes">3</member>
-				<member role="Aft Torpedo Tubes">1</member>
-				<member role="Magnetic Constrictor Payload (total)">500 magnetic constrictors</member>
-			</simplelist>
-		</section>
+			<varlistentry>
+				<term>Phasers</term>
+				<listitem>
+					<itemizedlist>
+						<listitem><para>4 Type-VIII Phaser Strips</para></listitem>
+					</itemizedlist>
+				</listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Antimatter Torpedo System</term>
+				<listitem>
+					<variablelist>
+						<varlistentry>
+							<term>Forward Torpedo Tubes</term>
+							<listitem><para>3</para></listitem>
+						</varlistentry>
+						<varlistentry>
+							<term>Aft Torpedo Tubes</term>
+							<listitem><para>1</para></listitem>
+						</varlistentry>
+						<varlistentry>
+							<term>Magnetic Constrictor Payload (total)</term>
+							<listitem><para>500 magnetic constrictors</para></listitem>
+						</varlistentry>
+					</variablelist>
+				</listitem>
+			</varlistentry>			
+		</variablelist>
 	</section>
 	<section>
 		<title>Deck Layout</title>

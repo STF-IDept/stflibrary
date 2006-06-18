@@ -111,7 +111,7 @@
 							<surname>Garfield</surname>
 						</author>
 					</objectinfo>
-					<imagedata fileref="images/discovery-bridge-thumb.jpg" format="JPG"/>
+					<imagedata fileref="images/tm/discovery-bridge-thumb.jpg" format="JPG"/>
 				</imageobject>
 				<imageobject role="full">
 					<objectinfo>
@@ -120,7 +120,7 @@
 							<surname>Stockhausen</surname>
 						</author>
 					</objectinfo>
-					<imagedata fileref="images/discovery-bridge.jpg" format="JPG"/>
+					<imagedata fileref="images/tm/discovery-bridge.jpg" format="JPG"/>
 				</imageobject>
 				<caption>
 					<para>Bridge</para>
@@ -134,7 +134,7 @@
 							<surname>Garfield</surname>
 						</author>
 					</objectinfo>
-					<imagedata fileref="images/discovery-viewscreen-thumb.jpg" format="JPG"/>
+					<imagedata fileref="images/tm/discovery-viewscreen-thumb.jpg" format="JPG"/>
 				</imageobject>
 				<imageobject role="full">
 					<objectinfo>
@@ -143,7 +143,7 @@
 							<surname>Stockhausen</surname>
 						</author>
 					</objectinfo>
-					<imagedata fileref="images/discovery-viewscreen.jpg" format="JPG"/>
+					<imagedata fileref="images/tm/discovery-viewscreen.jpg" format="JPG"/>
 				</imageobject>
 				<caption>
 					<para>Viewscreen</para>
@@ -203,69 +203,130 @@
 	</section>
 	<section>
 		<title>Technical Specifications</title>
-		<section>
-			<title>Dimensions and Structure</title>
-			<simplelist>
-				<member role="Length">415 meters</member>
-				<member role="Beam (Width)">163 meters</member>
-				<member role="Height">58.5 meters</member>
-				<member role="Decks">13</member>
-			</simplelist>
-		</section>
-		<section>
-			<title>Crew Complement</title>
-			<simplelist>
-				<member role="Officers and Crew">141</member>
-				<member role="Visiting Personnel">500</member>
-				<member role="Maximum Evacuation Limit">950</member>
-			</simplelist>
-		</section>
-		<section>
-			<title>Computer Systems</title>
-			<simplelist>
-				<member role="Core">Bio-neural data core</member>
-				<member role="Chipset">N/A</member>
-				<member role="Operating System">Starfleet Library Computer Access and Retrieval System (LCARS)</member>
-				<member role="User Interface">MAJEL</member>
-			</simplelist>
-		</section>
-		<section>
-			<title>Warp Systems</title>
-			<simplelist>
-				<member role="Power Plant">Two 1500+ cochrane M/ARA cores feeding four nacelles</member>
-				<member role="Cruising Velocity">Warp 7.25</member>
-				<member role="Maximum Sustainable Velocity">Warp 8.6</member>
-				<member role="Maximum Velocity">Warp 9.8 (12 hours)</member>
-			</simplelist>
-		</section>
-		<section>
-			<title>Impulse Systems</title>
-			<simplelist>
-				<member role="Full Impulse">0.27c</member>
-				<member role="Accellerate">5.13 seconds</member>
-				<member role="Decellerate">5.85 seconds</member>
-			</simplelist>
-		</section>
-		<section>
-			<title>Defensive Systems</title>
-			<simplelist>
-				<member role="Shield Maximum Graviton Load (Continuous)">895 MegaWatts</member>
-				<member role="Shield Maximum Energy Dissipation Rate">2.43x10^5 kilowatts</member>
-			</simplelist>
-		</section>
-		<section>
-			<title>Offensive Systems</title>
-			<simplelist role="Torpedoes">
-				<member role="Torpedo Tubes">4</member>
-				<member role="Standard Payload (total)">200 photon torpedoes</member>
-			</simplelist>
-			<simplelist role="Phasers">
-				<member>8 Type-X Phaser Strips</member>
-			</simplelist>
-			<!-- <simplelist role="Other Systems">
-					<member>XX</member>
-			</simplelist> -->
-		</section>
+			<variablelist>
+				<title>Dimensions and Structure</title>
+				<varlistentry>
+					<term>Length</term>
+					<listitem><para>415 meters</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Beam (Width)</term>
+					<listitem><para>163 meters</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Height</term>
+					<listitem><para>58.5 meters</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Decks</term>
+					<listitem><para>13</para></listitem>
+				</varlistentry>
+			</variablelist>
+			<variablelist>
+				<title>Crew Complement</title>
+				<varlistentry>
+					<term>Officers and Crew</term>
+					<listitem><para>141</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Visiting Personnel</term>
+					<listitem><para>500</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Maximum Evacuation Limit</term>
+					<listitem><para>950</para></listitem>
+				</varlistentry>
+			</variablelist>	
+			<variablelist>
+				<title>Computer Systems</title>
+				<varlistentry>
+					<term>Core</term>
+					<listitem><para>Bio-neural data core</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Chipset</term>
+					<listitem><para>N/A</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Operating System</term>
+					<listitem><para>Starfleet Library Computer Access and Retrieval System (LCARS)</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>User Interface</term>
+					<listitem><para>MAJEL</para></listitem>
+				</varlistentry>
+			</variablelist>	
+			<variablelist>
+				<title>Warp Systems</title>
+				<varlistentry>
+					<term>Power Plant</term>
+					<listitem><para>Two 1500+ cochrane M/ARA cores feeding four nacelles</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Crusing Velocity</term>
+					<listitem><para>Warp 7.25</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Maximum Sustainable Velocity</term>
+					<listitem><para>Warp 8.6</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Maximum Velocity</term>
+					<listitem><para>Warp 9.8 (12 hours)</para></listitem>
+				</varlistentry>
+			</variablelist>
+			<variablelist>
+				<title>Impulse Systems</title>
+				<varlistentry>
+					<term>Full Impulse</term>
+					<listitem><para>0.27c</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Accellerate</term>
+					<listitem><para>5.13 seconds</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Decellerate</term>
+					<listitem><para>5.85 seconds</para></listitem>
+				</varlistentry>
+			</variablelist>
+			<variablelist>
+				<title>Defensive Systems</title>
+				<varlistentry>
+					<term>Shield Maximum Graviton Load (Continuous)</term>
+					<listitem><para>895 MegaWatts</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Shield Maximum Energy Dissipation Rate</term>
+					<listitem><para>2.43x10^5 kilowatts</para></listitem>
+				</varlistentry>
+			</variablelist>
+			<variablelist>
+				<title>Offensive Systems</title>
+				<varlistentry>
+					<term>Torpedoes</term>
+					<listitem>
+						<variablelist>
+							<varlistentry>
+								<term>Torpedo Tubes</term>
+								<listitem><para>4</para></listitem>
+							</varlistentry>
+							<varlistentry>
+								<term>Standard Payload (total)</term>
+								<listitem><para>200 photon torpedoes</para></listitem>
+							</varlistentry>
+						</variablelist>
+					</listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Phasers</term>
+					<listitem>
+						<itemizedlist>
+							<listitem><para>8 Type-X Phaser Strips</para></listitem>
+						</itemizedlist>
+					</listitem>
+				</varlistentry>
+			</variablelist>
 	</section>
 	<section>
 		<title>Deck Layout</title>

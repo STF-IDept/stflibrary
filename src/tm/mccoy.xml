@@ -192,72 +192,151 @@
 		<epigraph>
 			<para>"In every house where I come I will enter only for the good of my patients, keeping myself from all intentional ill-doing and all seduction, and especially from the pleasures of love with women or with men, be they free or slaves."</para>
 		</epigraph>
-		<section>
+		<variablelist>
 			<title>Dimensions and Structure</title>
-			<simplelist>
-				<member role="Length">365.3 meters</member>
-				<member role="Beam (Width)">224.9 meters</member>
-				<member role="Height">46 meters</member>
-				<member role="Decks">10</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Length</term>
+				<listitem><para>365.3 meters</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Beam (Width)</term>
+				<listitem><para>224.9 meters</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Height</term>
+				<listitem><para>46 meters</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Decks</term>
+				<listitem><para>10</para></listitem>
+			</varlistentry>
+		</variablelist>			
+		<variablelist>
 			<title>Crew Complement</title>
-			<simplelist>
-				<member role="Officers and Crew">40</member>
-				<member role="Command">5</member>
-				<member role="Engineering">5</member>
-				<member role="Medical">14</member>
-				<member role="Science">8</member>
-				<member role="Security">7</member>
-				<member role="Visiting Personnel">100</member>
-				<member role="Maximum Evacuation Limit">500</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Officers and Crew</term>
+				<listitem><para>40</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Command</term>
+				<listitem><para>5</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Engineering</term>
+				<listitem><para>5</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Medical</term>
+				<listitem><para>14</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Science</term>
+				<listitem><para>8</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Security</term>
+				<listitem><para>7</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Visiting Personnel</term>
+				<listitem><para>100</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Maximum Evacuation Limit</term>
+				<listitem><para>500</para></listitem>
+			</varlistentry>
+		</variablelist>
+		<variablelist>
 			<title>Computer Systems</title>
-			<simplelist>
-				<member role="Core">1 DC-8 Federation Micro Designs Isolinear core</member>
-				<member role="Auxiliary Processing">24 bio-neural gel packs located in sickbay facilities</member>
-				<member role="Operating System">Linnux, provided by Nyetscape Communications</member>
-				<member role="User Interface">Standard MAJEL interface system</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Core</term>
+				<listitem><para>1 DC-8 Federation Micro Designs Isolinear core</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Auxiliary Processing</term>
+				<listitem><para>24 bio-neural gel packs located in sickbay facilities</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Operating System</term>
+				<listitem><para>Linnux, provided by Nyetscape Communications</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>User Interface</term>
+				<listitem><para>Standard MAJEL interface system</para></listitem>
+			</varlistentry>
+		</variablelist>	
+		<variablelist>
 			<title>Warp Systems</title>
-			<simplelist>
-				<member role="Power Plant">One 1500+ cochrane M/ARA core feeding two variable-geometry nacelles</member>
-				<member role="Cruising Velocity">Warp 6</member>
-				<member role="Maximum Sustainable Velocity">Warp 8.5</member>
-				<member role="Maximum Velocity">Warp 9.7 (12 hours)</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Power Plant</term>
+				<listitem><para>One 1500+ cochrane M/ARA cores feeding two variable-geometry nacelles</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Crusing Velocity</term>
+				<listitem><para>Warp 6</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Maximum Sustainable Velocity</term>
+				<listitem><para>Warp 8.5</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Maximum Velocity</term>
+				<listitem><para>Warp 9.7 (12 hours)</para></listitem>
+			</varlistentry>
+		</variablelist>
+		<variablelist>
 			<title>Impulse Systems</title>
-			<simplelist>
-				<member role="Full Impulse">0.27c</member>
-				<member role="Accellerate">4.2 seconds</member>
-				<member role="Decellerate">5.8 seconds</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Full Impulse</term>
+				<listitem><para>0.27c</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Accellerate</term>
+				<listitem><para>4.2 seconds</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Decellerate</term>
+				<listitem><para>5.8 seconds</para></listitem>
+			</varlistentry>
+		</variablelist>
+		<variablelist>
 			<title>Defensive Systems</title>
-			<simplelist>
-				<member role="Shield Maximum Graviton Load (Continuous)">2034 MegaWatts</member>
-				<member role="Shield Maximum Energy Dissipation Rate">4.2x10^4 kilowatts</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Shield Maximum Graviton Load (Continuous)</term>
+				<listitem><para>2034 MegaWatts</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Shield Maximum Energy Dissipation Rate</term>
+				<listitem><para>4.2x10^4 kilowatts</para></listitem>
+			</varlistentry>
+		</variablelist>
+		<variablelist>
 			<title>Offensive Systems</title>
-			<simplelist role="Torpedoes">
-				<member role="Torpedo Tubes">2</member>
-				<member role="Standard Payload (total)">30 photon torpedoes</member>
-			</simplelist>
-			<simplelist role="Phasers">
-				<member>4 Type-X Phaser Strips</member>
-				<member>2 Type-IX Phaser Arrays</member>
-			</simplelist>
-		</section>
+			<varlistentry>
+				<term>Torpedoes</term>
+				<listitem>
+					<variablelist>
+						<varlistentry>
+							<term>Torpedo Tubes</term>
+							<listitem><para>2</para></listitem>
+						</varlistentry>
+						<varlistentry>
+							<term>Standard Payload (total)</term>
+							<listitem><para>30 photon torpedoes</para></listitem>
+						</varlistentry>
+					</variablelist>
+				</listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Phasers</term>
+				<listitem>
+					<itemizedlist>
+						<listitem><para>4 Type-X Phaser Strips</para></listitem>
+						<listitem><para>2 Type-IX Phaser Arrays</para></listitem>
+					</itemizedlist>
+				</listitem>
+			</varlistentry>
+		</variablelist>
 	</section>
 	<section>
 		<title>Deck Layout</title>

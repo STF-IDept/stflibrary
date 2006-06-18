@@ -49,13 +49,28 @@
 		<para>The first prototype of this design, the USS Darwin, was constructed at the Larimda Me Prototype Yards, of the Starbase 117 complex, in the Beta Priori Starsystem.  It was be immediately placed into active service for testing, while the construction of the next four vessels awaited.  After construction began on this first "batch", the semi-completed vessels were pressed into service as part of a task force to apprehend the thief of a transwarp-capable runabout, USS Pursuit.  After the conclusion of this action, the remaining 37 vessels in the contract were produced over the course of two and a half years.   While its battle skills are fairly questionable, it still is more than a match for most problems that would be encountered, and its mere existance will allow the more powerful designs to be freed from the more mundane exploration and survey missions.</para>
 		<para>Beginning on Stardate 01020.5, the Mark II upgrade project was initiated.  This upgrade included a readjustment to the phaser arrays to compensate for observed phaser "shadows," a removal of the demonstratedly useless pulse-phaser mount above the nacelles, an increase in effective vessel range of 4%, and a significant upgrade of the Holographic and Computer systems.  These upgrades are expected to be rapidly completed, and make the Darwin a more well-rounded vessel for general mission.</para>
 		<para>Standard Mission Profiles for the Darwin include:</para>
-		<simplelist>
-			<member role="General Exploration Craft">The Darwin makes an ideal scout, because of its high speed, powerful general purpose scanners, and small size.  While more in-depth research ought to be carried out by an Andromeda, Columbus, or Athens, the Darwin, with its sheer numbers, and relative expendability, will often be the first UFP vessel assigned to any research or exploration area.</member>
-			<member role="First Response Vessel">The Darwin's speed and distibution make it likely to be one of the first ships to respond to disasters within and outside of the UFP.  For this reason, the design includes slightly more medical and engineering personnel than would normally be assigned to a ship of this size, and several holographic systems as well that allow the ship to 'donate' more of its personnel to external duties than otherwise possible.</member>
-			<member role="Military Scout">In times of warfare, the Darwin makes up for its relative lack of armament with its speed.  It makes an fairly good reconnaissance vessel, able to handle quick flybys, and report on enemy status and strength with a high degree of accuracy.  It can also be used as a troop transport, and a field hospital ship, because of its high speed.  There are, of course, other ships that can handle certain aspects better than a Darwin, however.</member>
-			<member role="Urgent Cargo Carrier">In ancient times, the most urgent of cargo was sent by the fastest available transport, whether that was by runner, horse, sailboat, or jet.  Field Commanders have long known that the most important part of warfare is maintaining secure supply lines.  While the Darwin is not very effective in slaying ones enemies, and makes a fairly poor convoy escort, it would be very effective when used as a cargoship on its own.  The old adage 'you can't kill what you can't catch' applies strongly in this context.  When it absolutely, positively, has to be there yesterday (and it's not too large), the Darwin will probably quickly become the ship of choice, at least until Transwarp-capable vessels of sufficient size are able to be constructed.</member>
-			<member role="Scientific Research">Although the Mark II upgrade of the Darwin was completed with a slight decrease to the overall scientific mission, to make a more well-rounded vessel, the Darwin remains a highly capable vessel for the general mission of Starfleet, exploration and discovery.</member>
-		</simplelist>
+		<variablelist>
+			<varlistentry>
+				<term>General Exploration Craft</term>
+				<listitem><para>The Darwin makes an ideal scout, because of its high speed, powerful general purpose scanners, and small size.  While more in-depth research ought to be carried out by an Andromeda, Columbus, or Athens, the Darwin, with its sheer numbers, and relative expendability, will often be the first UFP vessel assigned to any research or exploration area.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>First Response Vessel</term>
+				<listitem><para>The Darwin's speed and distibution make it likely to be one of the first ships to respond to disasters within and outside of the UFP.  For this reason, the design includes slightly more medical and engineering personnel than would normally be assigned to a ship of this size, and several holographic systems as well that allow the ship to 'donate' more of its personnel to external duties than otherwise possible.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Military Scout</term>
+				<listitem><para>In times of warfare, the Darwin makes up for its relative lack of armament with its speed.  It makes an fairly good reconnaissance vessel, able to handle quick flybys, and report on enemy status and strength with a high degree of accuracy.  It can also be used as a troop transport, and a field hospital ship, because of its high speed.  There are, of course, other ships that can handle certain aspects better than a Darwin, however.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Urgent Cargo Carrier</term>
+				<listitem><para>In ancient times, the most urgent of cargo was sent by the fastest available transport, whether that was by runner, horse, sailboat, or jet.  Field Commanders have long known that the most important part of warfare is maintaining secure supply lines.  While the Darwin is not very effective in slaying ones enemies, and makes a fairly poor convoy escort, it would be very effective when used as a cargoship on its own.  The old adage 'you can't kill what you can't catch' applies strongly in this context.  When it absolutely, positively, has to be there yesterday (and it's not too large), the Darwin will probably quickly become the ship of choice, at least until Transwarp-capable vessels of sufficient size are able to be constructed.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Scientific Research</term>
+				<listitem><para>Although the Mark II upgrade of the Darwin was completed with a slight decrease to the overall scientific mission, to make a more well-rounded vessel, the Darwin remains a highly capable vessel for the general mission of Starfleet, exploration and discovery.</para></listitem>
+			</varlistentry>
+		</variablelist>
 	</section>
 	<section>
 		<title>Structure and Construction</title>
@@ -168,72 +183,151 @@ The Darwin carries a load of twenty-five standard probes, which are launched via
 	</section>
 	<section>
 		<title>Technical Specifications</title>
-		<section>
-			<title>Dimensions and Structure</title>
-			<simplelist>
-				<member role="Length">198.62 meters</member>
-				<member role="Beam (Width)">102.27 meters</member>
-				<member role="Height">52.06 meters</member>
-				<member role="Decks">12</member>
-			</simplelist>
-		</section>
-		<section>
-			<title>Crew Complement</title>
-			<simplelist>
-				<member role="Officers and Crew">120</member>
-				<member role="Command">9</member>
-				<member role="Engineering">28</member>
-				<member role="Medical">16</member>
-				<member role="Science">38</member>
-				<member role="Security">29</member>
-				<member role="Visiting Personnel">90</member>
-				<member role="Maximum Evacuation Limit">850</member>
-			</simplelist>
-		</section>
-		<section>
-			<title>Computer Systems</title>
-			<simplelist>
-				<member role="Primary Core">Isolinear-Bioneural Hybrid  x 1</member>
-				<member role="Secondary Core">Isolinear ODN 17Q  x 1</member>
-				<member role="Operating System">Starfleet Library Computer Access and Retreval System (LCARS)</member>
-				<member role="User Interface">MAJEL</member>
-			</simplelist>
-		</section>
-		<section>
-			<title>Warp Systems</title>
-			<simplelist>
-				<member role="Power Plant">One 1500+ cochrane M/ARA cores feeding two nacelles</member>
-				<member role="Cruising Velocity">Warp 6</member>
-				<member role="Maximum Sustainable Velocity">Warp 9.3</member>
-				<member role="Maximum Velocity">Warp 9.903 (12 hours)</member>
-			</simplelist>
-		</section>
-		<section>
-			<title>Impulse Systems</title>
-			<simplelist>
-				<member role="Full Impulse">0.287c</member>
-				<member role="Accellerate">6.35 seconds</member>
-				<member role="Decellerate">6.98 seconds</member>
-			</simplelist>
-		</section>
-		<section>
-			<title>Defensive Systems</title>
-			<simplelist>
-				<member role="Shield Maximum Graviton Load (Continuous)">1077 MegaWatts</member>
-				<member role="Shield Maximum Energy Dissipation Rate">3.2x10^4 kilowatts</member>
-			</simplelist>
-		</section>
-		<section>
-			<title>Offensive Systems</title>
-			<simplelist role="Torpedoes">
-				<member role="Torpedo Tubes">2</member>
-				<member role="Standard Payload (total)">75 photon torpedoes, 10 quantum torpedoes</member>
-			</simplelist>
-			<simplelist role="Phasers">
-				<member>5 Type-IX Phaser Strips</member>
-			</simplelist>
-		</section>
-	</section>
+			<variablelist>
+				<title>Dimensions and Structure</title>
+				<varlistentry>
+					<term>Length</term>
+					<listitem><para>198.62 meters</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Beam (Width)</term>
+					<listitem><para>102.27 meters</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Height</term>
+					<listitem><para>52.06 meters</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Decks</term>
+					<listitem><para>12</para></listitem>
+				</varlistentry>
+			</variablelist>
+			<variablelist>
+				<title>Crew Complement</title>
+				<varlistentry>
+					<term>Officers and Crew</term>
+					<listitem><para>120</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Command</term>
+					<listitem><para>9</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Engineering</term>
+					<listitem><para>28</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Medical</term>
+					<listitem><para>16</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Science</term>
+					<listitem><para>38</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Security</term>
+					<listitem><para>29</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Visiting Personnel</term>
+					<listitem><para>90</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Maximum Evacuation Limit</term>
+					<listitem><para>850</para></listitem>
+				</varlistentry>
+			</variablelist>
+			<variablelist>
+				<title>Computer Systems</title>
+				<varlistentry>
+					<term>Primary Core</term>
+					<listitem><para>Isolinear-Bioneural Hybrid  x 1</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Secondary Core</term>
+					<listitem><para>Isolinear ODN 17Q  x 1</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Operating System</term>
+					<listitem><para>Starfleet Library Computer Access and Retreval System (LCARS)</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>User Interface</term>
+					<listitem><para>MAJEL</para></listitem>
+				</varlistentry>
+			</variablelist>
+			<variablelist>
+				<title>Warp Systems</title>
+				<varlistentry>
+					<term>Power Plant</term>
+					<listitem><para>One 1500+ cochrane M/ARA core feeding two nacelles</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Crusing Velocity</term>
+					<listitem><para>Warp 6</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Maximum Sustainable Velocity</term>
+					<listitem><para>Warp 9.3</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Maximum Velocity</term>
+					<listitem><para>Warp 9.903 (12 hours)</para></listitem>
+				</varlistentry>
+			</variablelist>
+			<variablelist>
+				<title>Impulse Systems</title>
+				<varlistentry>
+					<term>Full Impulse</term>
+					<listitem><para>0.287c</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Accellerate</term>
+					<listitem><para>6.35 seconds</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Decellerate</term>
+					<listitem><para>6.98 seconds</para></listitem>
+				</varlistentry>
+			</variablelist>
+			<variablelist>
+				<title>Defensive Systems</title>
+				<varlistentry>
+					<term>Shield Maximum Graviton Load (Continuous)</term>
+					<listitem><para>1077 MegaWatts</para></listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Shield Maximum Energy Dissipation Rate</term>
+					<listitem><para>3.2x10^4 kilowatts</para></listitem>
+				</varlistentry>
+			</variablelist>
+			<variablelist>
+				<title>Offensive Systems</title>
+				<varlistentry>
+					<term>Torpedoes</term>
+					<listitem>
+						<variablelist>
+							<varlistentry>
+								<term>Torpedo Tubes</term>
+								<listitem><para>2</para></listitem>
+							</varlistentry>
+							<varlistentry>
+								<term>Standard Payload (total)</term>
+								<listitem><para>75 photon torpedoes, 10 quantum torpedoes</para></listitem>
+							</varlistentry>
+						</variablelist>
+					</listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Phasers</term>
+					<listitem>
+						<itemizedlist>
+							<listitem><para>5 Type-IX Phaser Strips</para></listitem>
+						</itemizedlist>
+					</listitem>
+				</varlistentry>
+		</variablelist>
+	</section>	
 	<section>
 		<title>Deck Layout</title>
 		<section role="Deck">

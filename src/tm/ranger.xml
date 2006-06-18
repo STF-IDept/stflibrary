@@ -142,68 +142,128 @@
 	</section>
 	<section>
 		<title>Technical Specifications</title>
-		<section>
+		<variablelist>
 			<title>Dimensions and Structure</title>
-			<simplelist>
-				<member role="Length">20.3 meters</member>
-				<member role="Beam (Wingspan)">14 meters</member>
-				<member role="Height">4 meters</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Length</term>
+				<listitem><para>20.3 meters</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Beam (Width)</term>
+				<listitem><para>14 meters</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Height</term>
+				<listitem><para>4 meters</para></listitem>
+			</varlistentry>
+		</variablelist>				
+		<variablelist>
 			<title>Crew Complement</title>
-			<simplelist>
-				<member role="Officers and Crew">3</member>
-				<member role="Pilot">1</member>
-				<member role="Weapons Officer">1</member>
-				<member role="Flight Engineer">1</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Officers and Crew</term>
+				<listitem><para>3</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Pilot</term>
+				<listitem><para>1</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Weapons Officer</term>
+				<listitem><para>1</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Flight Engineer</term>
+				<listitem><para>1</para></listitem>
+			</varlistentry>
+		</variablelist>
+		<variablelist>
 			<title>Computer Systems</title>
-			<simplelist>
-				<member role="Core">Isolinear data core</member>
-				<member role="Chipset">N/A</member>
-				<member role="Operating System">Star Fleet Strategic and Tactical Operations System, 4th edition.
-(STOS 4.0)</member>
-				<member role="User Interface">MAJEL</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Core</term>
+				<listitem><para>Isolinear data core</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Chipset</term>
+				<listitem><para>N/A</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Operating System</term>
+				<listitem><para>Star Fleet Strategic and Tactical Operations System, 4th edition. (STOS 4.0)</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>User Interface</term>
+				<listitem><para>MAJEL</para></listitem>
+			</varlistentry>
+		</variablelist>	
+		<variablelist>
 			<title>Warp Systems</title>
-			<simplelist>
-				<member role="Power Plant">One 500 conchrane warp core feeding 2 nacelles</member>
-				<member role="Cruising Velocity">Warp 5.5</member>
-				<member role="Maximum Sustainable Velocity">Warp 6</member>
-				<member role="Maximum Velocity">Warp 6.5 (12 hours)</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Power Plant</term>
+				<listitem><para>One 500 cochrane core feeding two nacelles</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Crusing Velocity</term>
+				<listitem><para>Warp 5.5</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Maximum Sustainable Velocity</term>
+				<listitem><para>Warp 6</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Maximum Velocity</term>
+				<listitem><para>Warp 6.5 (12 hours)</para></listitem>
+			</varlistentry>
+		</variablelist>
+		<variablelist>
 			<title>Impulse Systems</title>
-			<simplelist>
-				<member role="Full Impulse">0.28c</member>
-				<member role="Emergency Impulse">0.35c</member>
-				<member role="Accellerate">4.3 seconds</member>
-				<member role="Decellerate">8.6 seconds</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Full Impulse</term>
+				<listitem><para>0.28c</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Emergency Impulse</term>
+				<listitem><para>0.35c</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Accellerate</term>
+				<listitem><para>4.3 seconds</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Decellerate</term>
+				<listitem><para>8.6 seconds</para></listitem>
+			</varlistentry>
+		</variablelist>
+		<variablelist>
 			<title>Defensive Systems</title>
-			<simplelist>
-				<member role="Shield Maximum Graviton Load (Continuous)">240.0 MegaWatts</member>
-				<member role="Shield Maximum Energy Dissipation Rate">3.65 x 10^4 kilowatts</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Shield Maximum Graviton Load (Continuous)</term>
+				<listitem><para>240.0 MegaWatts</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Shield Maximum Energy Dissipation Rate</term>
+				<listitem><para>3.65 x 10^4 kilowatts</para></listitem>
+			</varlistentry>
+		</variablelist>
+		<variablelist>
 			<title>Offensive Systems</title>
-			<simplelist role="Phasers">
-				<member>1 Type-V Phaser Emitter mounted above aft on the main fuselage</member>
-			</simplelist>
-			<simplelist role="Other Systems">
-				<member>4 Type-5 Tetryon Cannons located in nose forward of the cockpit</member>
-				<member>2 Wing tip mounted weapons pods, each capable of launching 30 minitorpedos, OR one Mark-IV Photon torpedo</member>
-			</simplelist>
-		</section>
+			<varlistentry>
+				<term>Phasers</term>
+				<listitem>
+					<itemizedlist>
+						<listitem><para>1 Type-V Phaser Emitter mounted above aft on the main fuselage</para></listitem>
+					</itemizedlist>
+				</listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Other Systems</term>
+				<listitem>
+					<itemizedlist>
+						<listitem><para>4 Type-5 Tetryon Cannons located in nose forward of the cockpit</para></listitem>
+						<listitem><para>2 Wing tip mounted weapons pods, each capable of launching 30 minitorpedos, OR one Mark-IV Photon torpedo</para></listitem>
+					</itemizedlist>
+				</listitem>
+			</varlistentry>
+		</variablelist>
 	</section>
 	<section>
 		<title>Conclusion</title>

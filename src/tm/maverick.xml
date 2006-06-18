@@ -224,65 +224,126 @@ The tractor beam emitters are located on decks 8 and 25, and each are placed on 
 			<attribution>Darth Vader</attribution>
 			<para>"Don't be too proud of this technological terror you've constructed.  The ability to destroy a planet is insignificant compared to the power of the Force."</para>
 		</epigraph>
-		<section>
+		<variablelist>
 			<title>Dimensions and Structure</title>
-			<simplelist>
-				<member role="Length">587.45 meters</member>
-				<member role="Beam (Width)">320.28 meters</member>
-				<member role="Height">146.23 meters</member>
-				<member role="Decks">32</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Length</term>
+				<listitem><para>587.45 meters</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Beam (Width)</term>
+				<listitem><para>320.28 meters</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Height</term>
+				<listitem><para>146.23 meters</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Decks</term>
+				<listitem><para>32</para></listitem>
+			</varlistentry>
+		</variablelist>				
+		<variablelist>
 			<title>Crew Complement</title>
-			<simplelist>
-				<member role="Officers and Crew">850</member>
-				<member role="Visiting Personnel">43</member>
-				<member role="Maximum Evacuation Limit">12,300</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Officers and Crew</term>
+				<listitem><para>850</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Visiting Personnel</term>
+				<listitem><para>43</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Maximum Evacuation Limit</term>
+				<listitem><para>12,300</para></listitem>
+			</varlistentry>
+		</variablelist>
+		<variablelist>
 			<title>Computer Systems</title>
-			<simplelist>
-				<member role="Core">KDY Isolinear Chip Core x3</member>
-				<member role="Operating System">Starfleet Library Computer Access and Retrieval System (LCARS)</member>
-				<member role="User Interface">MAJEL</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Core</term>
+				<listitem><para>KDY Isolinear Chip Core x3</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Operating System</term>
+				<listitem><para>Starfleet Library Computer Access and Retrieval System (LCARS)</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>User Interface</term>
+				<listitem><para>MAJEL</para></listitem>
+			</varlistentry>
+		</variablelist>	
+		<variablelist>
 			<title>Warp Systems</title>
-			<simplelist>
-				<member role="Power Plant">One 1500+ cochrane KDY Mark 10 M/ARA core feeding two nacelles</member>
-				<member role="Cruising Velocity">Warp 6</member>
-				<member role="Maximum Sustainable Velocity">Warp 8.0</member>
-				<member role="Maximum Velocity">Warp 9.405 (12 hours)</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Power Plant</term>
+				<listitem><para>One 1500+ cochrane KDY Mark 10 M/ARA core feeding two nacelles</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Crusing Velocity</term>
+				<listitem><para>Warp 6</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Maximum Sustainable Velocity</term>
+				<listitem><para>Warp 8.0</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Maximum Velocity</term>
+				<listitem><para>Warp 9.405 (12 hours)</para></listitem>
+			</varlistentry>
+		</variablelist>
+		<variablelist>
 			<title>Impulse Systems</title>
-			<simplelist>
-				<member role="Full Impulse">0.25c</member>
-				<member role="Accellerate">18 seconds</member>
-				<member role="Decellerate">36 seconds</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Full Impulse</term>
+				<listitem><para>0.25c</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Accellerate</term>
+				<listitem><para>18 seconds</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Decellerate</term>
+				<listitem><para>36 seconds</para></listitem>
+			</varlistentry>
+		</variablelist>
+		<variablelist>
 			<title>Defensive Systems</title>
-			<simplelist>
-				<member role="Shield Maximum Graviton Load (Continuous)">3150 MegaWatts</member>
-				<member role="Shield Maximum Energy Dissipation Rate">8.6x10^5 kilowatts</member>
-			</simplelist>
-		</section>
-		<section>
+			<varlistentry>
+				<term>Shield Maximum Graviton Load (Continuous)</term>
+				<listitem><para>3150 MegaWatts</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Shield Maximum Energy Dissipation Rate</term>
+				<listitem><para>806x10^5 kilowatts</para></listitem>
+			</varlistentry>
+		</variablelist>
+		<variablelist>
 			<title>Offensive Systems</title>
-			<simplelist role="Torpedoes">
-				<member role="Torpedo Tubes">6</member>
-				<member role="Standard Payload (total)">600 photon torpedoes</member>
-			</simplelist>
-			<simplelist role="Phasers">
-				<member>13 Type-X Phaser Strips</member>
-			</simplelist>
-		</section>
+			<varlistentry>
+				<term>Torpedoes</term>
+				<listitem>
+					<variablelist>
+						<varlistentry>
+							<term>Torpedo Tubes</term>
+							<listitem><para>6</para></listitem>
+						</varlistentry>
+						<varlistentry>
+							<term>Standard Payload (total)</term>
+							<listitem><para>600 photon torpedoes</para></listitem>
+						</varlistentry>
+					</variablelist>
+				</listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Phasers</term>
+				<listitem>
+					<itemizedlist>
+						<listitem><para>13 Type-X Phaser Strips</para></listitem>
+					</itemizedlist>
+				</listitem>
+			</varlistentry>
+		</variablelist>
 	</section>
 	<section>
 		<title>Deck Layout</title>
@@ -610,7 +671,7 @@ The tractor beam emitters are located on decks 8 and 25, and each are placed on 
 						<surname>Garfield</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/maverick-aft-thumb.jpg" format="JPG"/>
+				<imagedata fileref="images/tm/maverick-aft-thumb.jpg" format="JPG"/>
 			</imageobject>
 			<imageobject role="full">
 				<objectinfo>
@@ -619,7 +680,7 @@ The tractor beam emitters are located on decks 8 and 25, and each are placed on 
 						<surname>Stockhausen</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/maverick-aft.jpg" format="JPG"/>
+				<imagedata fileref="images/tm/maverick-aft.jpg" format="JPG"/>
 			</imageobject>
 			<caption>
 				<para>Aft View</para>
@@ -633,7 +694,7 @@ The tractor beam emitters are located on decks 8 and 25, and each are placed on 
 						<surname>Garfield</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/maverick-bottom-thumb.jpg" format="JPG"/>
+				<imagedata fileref="images/tm/maverick-bottom-thumb.jpg" format="JPG"/>
 			</imageobject>
 			<imageobject role="full">
 				<objectinfo>
@@ -642,7 +703,7 @@ The tractor beam emitters are located on decks 8 and 25, and each are placed on 
 						<surname>Stockhausen</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/maverick-bottom.jpg" format="JPG"/>
+				<imagedata fileref="images/tm/maverick-bottom.jpg" format="JPG"/>
 			</imageobject>
 			<caption>
 				<para>Ventral View</para>
@@ -656,7 +717,7 @@ The tractor beam emitters are located on decks 8 and 25, and each are placed on 
 						<surname>Garfield</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/maverick-bottom2-thumb.jpg" format="JPG"/>
+				<imagedata fileref="images/tm/maverick-bottom2-thumb.jpg" format="JPG"/>
 			</imageobject>
 			<imageobject role="full">
 				<objectinfo>
@@ -665,7 +726,7 @@ The tractor beam emitters are located on decks 8 and 25, and each are placed on 
 						<surname>Stockhausen</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/maverick-bottom2.jpg" format="JPG"/>
+				<imagedata fileref="images/tm/maverick-bottom2.jpg" format="JPG"/>
 			</imageobject>
 			<caption>
 				<para>Ventral View</para>
@@ -679,7 +740,7 @@ The tractor beam emitters are located on decks 8 and 25, and each are placed on 
 						<surname>Garfield</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/maverick-front-thumb.jpg" format="JPG"/>
+				<imagedata fileref="images/tm/maverick-front-thumb.jpg" format="JPG"/>
 			</imageobject>
 			Bret<imageobject role="full">
 				<objectinfo>
@@ -688,7 +749,7 @@ The tractor beam emitters are located on decks 8 and 25, and each are placed on 
 						<surname>Stockhausen</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/maverick-front.jpg" format="JPG"/>
+				<imagedata fileref="images/tm/maverick-front.jpg" format="JPG"/>
 			</imageobject>
 			<caption>
 				<para>Forward View</para>
@@ -702,7 +763,7 @@ The tractor beam emitters are located on decks 8 and 25, and each are placed on 
 						<surname>Garfield</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/maverick-front2-thumb.jpg" format="JPG"/>
+				<imagedata fileref="images/tm/maverick-front2-thumb.jpg" format="JPG"/>
 			</imageobject>
 			<imageobject role="full">
 				<objectinfo>
@@ -711,7 +772,7 @@ The tractor beam emitters are located on decks 8 and 25, and each are placed on 
 						<surname>Stockhausen</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/maverick-front2.jpg" format="JPG"/>
+				<imagedata fileref="images/tm/maverick-front2.jpg" format="JPG"/>
 			</imageobject>
 			<caption>
 				<para>Forward View</para>
@@ -725,7 +786,7 @@ The tractor beam emitters are located on decks 8 and 25, and each are placed on 
 						<surname>Garfield</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/maverick-nebula-thumb.jpg" format="JPG"/>
+				<imagedata fileref="images/tm/maverick-nebula-thumb.jpg" format="JPG"/>
 			</imageobject>
 			<imageobject role="full">
 				<objectinfo>
@@ -734,7 +795,7 @@ The tractor beam emitters are located on decks 8 and 25, and each are placed on 
 						<surname>Stockhausen</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/maverick-nebula.jpg" format="JPG"/>
+				<imagedata fileref="images/tm/maverick-nebula.jpg" format="JPG"/>
 			</imageobject>
 			<caption>
 				<para>Maverick against a Nebula</para>
@@ -748,7 +809,7 @@ The tractor beam emitters are located on decks 8 and 25, and each are placed on 
 						<surname>Garfield</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/maverick-shipyards-thumb.jpg" format="JPG"/>
+				<imagedata fileref="images/tm/maverick-shipyards-thumb.jpg" format="JPG"/>
 			</imageobject>
 			<imageobject role="full">
 				<objectinfo>
@@ -757,7 +818,7 @@ The tractor beam emitters are located on decks 8 and 25, and each are placed on 
 						<surname>Stockhausen</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/maverick-shipyards.jpg" format="JPG"/>
+				<imagedata fileref="images/tm/maverick-shipyards.jpg" format="JPG"/>
 			</imageobject>
 			<caption>
 				<para>Maverick in Shipyards</para>
@@ -771,7 +832,7 @@ The tractor beam emitters are located on decks 8 and 25, and each are placed on 
 						<surname>Garfield</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/maverick-shipyards-aft-thumb.jpg" format="JPG"/>
+				<imagedata fileref="images/tm/maverick-shipyards-aft-thumb.jpg" format="JPG"/>
 			</imageobject>
 			<imageobject role="full">
 				<objectinfo>
@@ -780,7 +841,7 @@ The tractor beam emitters are located on decks 8 and 25, and each are placed on 
 						<surname>Stockhausen</surname>
 					</author>
 				</objectinfo>
-			Bret	<imagedata fileref="images/maverick-shipyards-aft.jpg" format="JPG"/>
+			Bret	<imagedata fileref="images/tm/maverick-shipyards-aft.jpg" format="JPG"/>
 			</imageobject>
 			<caption>
 				<para>Maverick in Shipyards, Aft View</para>
@@ -794,7 +855,7 @@ The tractor beam emitters are located on decks 8 and 25, and each are placed on 
 						<surname>Stockhausen</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/maverick-side.jpg" format="JPG"/>
+				<imagedata fileref="images/tm/maverick-side.jpg" format="JPG"/>
 			</imageobject>
 			<imageobject role="thumbnail">
 				<objectinfo>
@@ -803,7 +864,7 @@ The tractor beam emitters are located on decks 8 and 25, and each are placed on 
 						<surname>Garfield</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/maverick-side-thumb.jpg" format="JPG"/>
+				<imagedata fileref="images/tm/maverick-side-thumb.jpg" format="JPG"/>
 			</imageobject>
 			<caption>
 				<para>Side View</para>
