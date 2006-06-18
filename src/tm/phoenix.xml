@@ -66,55 +66,55 @@ Of course, like an Intel processor, no sooner is it created than it's obsolete. 
 		<para>Mission modules fall into three main categories:</para>
 		<variablelist>
 			<varlistentry>
-				<term>Standard Combat Module</term
+				<term>Standard Combat Module</term>
 				<listitem><para>Provides two extra torpedo tubes, an extra phaser bank, and extra fusion generators to power the additional systems and provide redundancy for the inherent backup systems.</para></listitem>
 			</varlistentry>
 			<varlistentry>
-				<term>Ground-Assault Module</term
+				<term>Ground-Assault Module</term>
 				<listitem><para>This module is 100m L * 50m W * 20m H. This provides room for two hundred Marines and their ground-assault vehicles. It is an armored box with landing and maneuvering thrusters, shields, and an ability to undock from the Phoenix outside of a starbase for ship-to-surface landings.</para></listitem>
 			</varlistentry>
 			<varlistentry>
-				<term>Command and Communication Module</term
+				<term>Command and Communication Module</term>
 				<listitem><para>Provides a large scale communications network and data processing systems, allowing the Phoenix class ship to become a control platform for a fleet of up to twenty ships during combat operations. Adds a large war room, data processing rooms, and extra intelligence and analysis personnel.</para></listitem>
 			</varlistentry>
 			<varlistentry>
-				<term>Covert Operations Module</term
+				<term>Covert Operations Module</term>
 				<listitem><para>Includes a cloak generator and listening devices modeled after the Independence class (not in production due to treaty limitations).</para></listitem>
 			</varlistentry>
 			<varlistentry>
-				<term>Electronic Monitoring Module</term
+				<term>Electronic Monitoring Module</term>
 				<listitem><para>Provides transmission processing and decoding systems for monitoring battlefield or similar transmissions. Also includes communications jamming capabilities.</para></listitem>
 			</varlistentry>
 			<varlistentry>
-				<term>Personnel Transport Module</term
+				<term>Personnel Transport Module</term>
 				<listitem><para>Holds twelve decks of guest quarters, expanding the Phoenix's capacity by five hundred.</para></listitem>
 			</varlistentry>
 			<varlistentry>
-				<term>Colonization Module</term
+				<term>Colonization Module</term>
 				<listitem><para>Carries one thousand colonists (in close quarters) to begin a settlement along with their supplies and equipment.</para></listitem>
 			</varlistentry>
 			<varlistentry>
-				<term>Medical Module</term
+				<term>Medical Module</term>
 				<listitem><para>Provides enough room and processing ability for the Phoenix class to serve as a field hospital in combat, epidemic, or natural disaster scenarios.</para></listitem>
 			</varlistentry>
 			<varlistentry>
-				<term>Prisoner Transport Module</term
+				<term>Prisoner Transport Module</term>
 				<listitem><para>Houses a prisoner-guard ratio of one to two for prisoner transfer missions of up to 200 prisoners.</para></listitem>
 			</varlistentry>
 			<varlistentry>
-				<term>Marine Module</term
+				<term>Marine Module</term>
 				<listitem><para>Carries 1000 marines in a barracks-style setup.</para></listitem>
 			</varlistentry>
 			<varlistentry>
-				<term>Cargo Module</term
+				<term>Cargo Module</term>
 				<listitem><para>Increases cargo space of ship five fold.</para></listitem>
 			</varlistentry>
 			<varlistentry>
-				<term>Carrier Module</term
+				<term>Carrier Module</term>
 				<listitem><para>Houses six extra fighters or shuttles. Runabouts occupy half again as much space as the fighters or shuttles.</para></listitem>
 			</varlistentry>
 			<varlistentry>
-				<term>Science</term
+				<term>Science</term>
 				<listitem><para>These cover all aspects of the scientific field from stellar cartography to terraforming. They include extra sensors, labs, data processing and data storage systems, equipment storage and replication systems, extra energy systems, and mission officers.</para></listitem>
 			</varlistentry>
 		</variablelist>
