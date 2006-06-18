@@ -575,7 +575,7 @@
 						<surname>Stockhausen</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/discovery-asimova.jpg" format="JPG"/>
+				<imagedata fileref="images/tm/discovery-asimova.jpg" format="JPG"/>
 			</imageobject>
 			<imageobject role="thumbnail">
 				<objectinfo>
@@ -584,7 +584,7 @@
 						<surname>Garfield</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/discovery-asimova-thumb.jpg" format="JPG"/>
+				<imagedata fileref="images/tm/discovery-asimova-thumb.jpg" format="JPG"/>
 			</imageobject>
 			<caption>
 				<para>USS Asimov-A</para>

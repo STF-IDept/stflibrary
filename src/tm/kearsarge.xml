@@ -528,15 +528,6 @@
 		<title>Illustrations</title>
 		<para>These other visual representations of the Kearsarge are available.</para>
 		<mediaobject>
-			<imageobject role="thumbnail">
-				<objectinfo>
-					<author>
-						<firstname>Larry</firstname>
-						<surname>Garfield</surname>
-					</author>
-				</objectinfo>
-				<imagedata fileref="images/tm/kearsarge-top-thumb.jpg" format="JPG"/>
-			</imageobject>
 			<imageobject role="full">
 				<objectinfo>
 					<author>
@@ -546,11 +537,6 @@
 				</objectinfo>
 				<imagedata fileref="images/tm/kearsarge-top.jpg" format="JPG"/>
 			</imageobject>
-			<caption>
-				<para>Kearsarge, Top View</para>
-			</caption>
-		</mediaobject>
-		<mediaobject>
 			<imageobject role="thumbnail">
 				<objectinfo>
 					<author>
@@ -558,8 +544,13 @@
 						<surname>Garfield</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/tm/kearsarge-side-thumb.png" format="PNG"/>
+				<imagedata fileref="images/tm/kearsarge-top-thumb.jpg" format="JPG"/>
 			</imageobject>
+			<caption>
+				<para>Kearsarge, Top View</para>
+			</caption>
+		</mediaobject>
+		<mediaobject>
 			<imageobject role="full">
 				<objectinfo>
 					<author>
@@ -569,11 +560,6 @@
 				</objectinfo>
 				<imagedata fileref="images/tm/kearsarge-side.png" format="PNG"/>
 			</imageobject>
-			<caption>
-				<para>Kearsarge, Side View</para>
-			</caption>
-		</mediaobject>
-		<mediaobject>
 			<imageobject role="thumbnail">
 				<objectinfo>
 					<author>
@@ -581,8 +567,13 @@
 						<surname>Garfield</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/tm/kearsarge-aft-thumb.jpg" format="JPG"/>
+				<imagedata fileref="images/tm/kearsarge-side-thumb.png" format="PNG"/>
 			</imageobject>
+			<caption>
+				<para>Kearsarge, Side View</para>
+			</caption>
+		</mediaobject>
+		<mediaobject>
 			<imageobject role="full">
 				<objectinfo>
 					<author>
@@ -592,11 +583,6 @@
 				</objectinfo>
 				<imagedata fileref="images/tm/kearsarge-aft.jpg" format="JPG"/>
 			</imageobject>
-			<caption>
-				<para>Kearsarge, Aft</para>
-			</caption>
-		</mediaobject>
-		<mediaobject>
 			<imageobject role="thumbnail">
 				<objectinfo>
 					<author>
@@ -604,8 +590,13 @@
 						<surname>Garfield</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/tm/kearsarge-top-thumb.jpg" format="JPG"/>
+				<imagedata fileref="images/tm/kearsarge-aft-thumb.jpg" format="JPG"/>
 			</imageobject>
+			<caption>
+				<para>Kearsarge, Aft</para>
+			</caption>
+		</mediaobject>
+		<mediaobject>
 			<imageobject role="full">
 				<objectinfo>
 					<author>
@@ -614,6 +605,15 @@
 					</author>
 				</objectinfo>
 				<imagedata fileref="images/tm/kearsarge-top.jpg" format="JPG"/>
+			</imageobject>
+			<imageobject role="thumbnail">
+				<objectinfo>
+					<author>
+						<firstname>Larry</firstname>
+						<surname>Garfield</surname>
+					</author>
+				</objectinfo>
+				<imagedata fileref="images/tm/kearsarge-top-thumb.jpg" format="JPG"/>
 			</imageobject>
 			<caption>
 				<para>Kearsarge, Top View</para>

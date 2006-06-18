@@ -43,7 +43,7 @@
 	</part>
 	<part id="spec-historical">
 		<title>Ship Specifications (Historical)</title>
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="bonaventure.xml" />
+<!--		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="bonaventure.xml" />-->
 		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="mariner.xml" />
 	</part>
 	<part id="tech">
