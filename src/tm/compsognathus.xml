@@ -81,7 +81,7 @@
 			<para>"You've bred raptors?"</para>
 		</epigraph>
 		<para>The Compsognathus uses a computer core similar to the type-X shuttlecraft. This comprises of 5 polled processor segments, with two back up bio-neural gel pack based processors should the main unit be damaged or suffer a failure for other reasons.</para>
-		<para>Like the engines, the sensor packages on the Compsognathus are scaled down versions of starship sensors. These are combined with an <link linkend="tech/ets">Emissions Tracking System</link>.  Cloak Detection is a possibility for the Compsognathus via the ETS, although the craft has no means by which it can de-cloak a threat vessel.</para>
+		<para>Like the engines, the sensor packages on the Compsognathus are scaled down versions of starship sensors. These are combined with an <link linkend="ets">Emissions Tracking System</link>.  Cloak Detection is a possibility for the Compsognathus via the ETS, although the craft has no means by which it can de-cloak a threat vessel.</para>
 	</section>
 	<section>
 		<title>Impulse Propulsion Systems</title>

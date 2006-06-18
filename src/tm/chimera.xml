@@ -66,7 +66,7 @@
 		<para>Like most modern Federation starships, the Chimera is split into two sections, the Saucer and the Engineering Hull.  As has become common practice with recent designs, the two sections are connected directly.  From above, the Saucer is a broad kite shape, with heavily rounded points.  The Bridge sits on top of the expanded deck 02, which extends along the dorsal surface of the Engineering hull, forming a backbone ridge.  The Saucer's dorsal surface is domed, while the ventral surface is almost flat, with the noticeable exception of the Captain's Yacht's Hanger doors.</para>
 		<para>The Engineering hull has a thin, elliptical shape, and emerges from the aft and ventral Saucer surfaces.  Part of the dorsal aft section is removed to make space for the shuttle bay doors, and part of the ventral bow section is absent to accommodate the deflector array.  Unusually, there is no concave surface in the ventral aft section.</para>
 		<para>The Warp Nacelles are attached by pylons to the port/starboard dorsal surfaces of the Engineering hull.  However, unlike the majority of starship designs, the pylons are curved downward, so that the nacelles are level with the ship's keel in a manner not dissimilar from the Nebula-class.  The nacelles are cuboids, wider than they are tall, and extend past the aft edge of the Engineering hull. </para>
-		<para>As part of Star Fleet's rebuilding program, intended to replace the ships lost in the war, the Chimera-class is constructed using <link linkend="tech/transporterwelding">Transporter Welding</link> to cut construction time. It is built from tritanium and duranium, as is the case with most Federation starships. The Chimera-class does not support mission modules.</para>
+		<para>As part of Star Fleet's rebuilding program, intended to replace the ships lost in the war, the Chimera-class is constructed using <link linkend="transporterwelding">Transporter Welding</link> to cut construction time. It is built from tritanium and duranium, as is the case with most Federation starships. The Chimera-class does not support mission modules.</para>
 	</section>
 	<section>
 		<title>Science and Remote Sensing Systems</title>
@@ -261,7 +261,6 @@
 			<attribution>Morpheus</attribution>
 			<para>"How do you define 'real'?"</para>
 		</epigraph>
-		<section>
 		<variablelist>
 			<title>Dimensions and Structure</title>
 			<varlistentry>
