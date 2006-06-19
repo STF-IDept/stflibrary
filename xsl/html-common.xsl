@@ -72,7 +72,7 @@
 	<xsl:template name="copyright.bar">
 		<xsl:param name="pdffile" select="'moo'" />
 		<div class="user-footer-content">
-			<div id="copyright">&#x00A9; 2005 star-fleet.com and its members</div>
+			<div id="copyright">&#x00A9; 2005-2006 star-fleet.com and its members</div>
 			<div class="brag-buttons">
 				<a href="http://www.w3.org/TR/html4/"><img src="../images/button-html.png" alt="Valid HTML 4.01 Transitional" /></a>
 				<xsl:text>&#160;</xsl:text>

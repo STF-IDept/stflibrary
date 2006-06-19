@@ -13,7 +13,7 @@
 				<surname>Johnson</surname>
 			</author>
 		</authorgroup>
-		<authorgroup role="Secondary Designers">
+		<authorgroup role="Contributing Designers">
 			<author>
 				<firstname>Israel</firstname>
 				<surname>Harris</surname>
@@ -373,13 +373,13 @@
 		<section>
 			<title>Holographic Crewmembers</title>
 			<para>The outpost also carries a holographic crewmember. There is a copy of the EMH Mark IV in the Outposts computer core. The EMH have complete access to critical parts of the Outpost that immediate medical attention might be required:</para>
-			<itemizedlist>
-				<listitem><para>Infirmary</para></listitem>
-				<listitem><para>Operations</para></listitem>
-				<listitem><para>Auxiliary Operations</para></listitem>
-				<listitem><para>Holodecks</para></listitem>
-				<listitem><para>VIP Quarters (can only be transferred here by Command Level Officers only)</para></listitem>
-			</itemizedlist>
+			<simplelist>
+				<member>Infirmary</member>
+				<member>Operations</member>
+				<member>Auxiliary Operations</member>
+				<member>Holodecks</member>
+				<member>VIP Quarters (can only be transferred here by Command Level Officers only)</member>
+			</simplelist>
 			<para>Emergency Medical Kits are provided at each of these locations for the use of medical staff, and the EMH.</para>
 		</section>
 		<section>
@@ -545,7 +545,7 @@
 			</varlistentry>
 			<varlistentry>
 				<term>Decks</term>
-				<listitem><para>59 (5 meters per deck)</para></listitem>
+				<listitem><para>59</para></listitem>
 			</varlistentry>
 		</variablelist>
 		<variablelist>
@@ -604,7 +604,7 @@
 		<variablelist>
 			<title>Offensive Systems</title>
 			<varlistentry>
-				<term>Main Column, Dorsal Section, Offensive Systems</term>
+				<term>Main Column, Dorsal Section</term>
 				<listitem>
 					<itemizedlist>
 						<listitem><para>Type X Phasers</para></listitem>
@@ -612,7 +612,7 @@
 				</listitem>
 			</varlistentry>
 			<varlistentry>
-				<term>Inner Docking Ring, Dorsal Section, Offensive Systems</term>
+				<term>Inner Docking Ring, Dorsal Section</term>
 				<listitem>
 					<itemizedlist>
 						<listitem><para>Type IX Phasers</para></listitem>
@@ -621,7 +621,7 @@
 				</listitem>
 			</varlistentry>
 			<varlistentry>
-				<term>Outer Docking Ring, Dorsal and Ventral Sections, Offensive Systems</term>
+				<term>Outer Docking Ring, Dorsal and Ventral Sections</term>
 				<listitem>
 					<itemizedlist>
 						<listitem><para>Type IX Phasers</para></listitem>
@@ -630,7 +630,7 @@
 				</listitem>
 			</varlistentry>
 			<varlistentry>
-				<term>Main Column, Ventral Section, Offensive Systems</term>
+				<term>Main Column, Ventral Section</term>
 				<listitem>
 					<itemizedlist>
 						<listitem><para>Type IX Phasers</para></listitem>
@@ -639,7 +639,7 @@
 				</listitem>
 			</varlistentry>
 			<varlistentry>
-				<term>Power Core Section, Offensive Systems</term>
+				<term>Power Core Section</term>
 				<listitem>
 					<itemizedlist>
 						<listitem><para>Type X phasers</para></listitem>
@@ -835,18 +835,6 @@
 		</section>
 	</section>
 	<section>
-		<title>Ships of the Class</title>
-		<epigraph>
-			<attribution>Admiral William Noyce</attribution>
-			<para>Not as a warship, but as a peacekeeper.</para>
-		</epigraph>
-		<simplelist role="ShipList">
-			<member role="PC">
-				<productname>Outpost 45</productname>
-			</member>
-		</simplelist>
-	</section>
-	<section>
 		<title>Conclusion</title>
 		<epigraph>
 			<attribution>Blade</attribution>
@@ -856,5 +844,52 @@
 	</section>
 	<section>
 		<title>Illustrations</title>
+		<para>These other visual representations of the Kearsarge are available.</para>
+		<mediaobject>
+			<imageobject role="full">
+				<objectinfo>
+					<author>
+						<firstname>Shalon</firstname>
+						<surname>Hurlbert</surname>
+					</author>
+				</objectinfo>
+				<imagedata fileref="images/tm/viking-top.png" format="PNG"/>
+			</imageobject>
+			<imageobject role="thumbnail">
+				<objectinfo>
+					<author>
+						<firstname>Larry</firstname>
+						<surname>Garfield</surname>
+					</author>
+				</objectinfo>
+				<imagedata fileref="images/tm/viking-top-thumb.png" format="PNG"/>
+			</imageobject>
+			<caption>
+				<para>Viking, Top View</para>
+			</caption>
+		</mediaobject>
+		<mediaobject>
+			<imageobject role="full">
+				<objectinfo>
+					<author>
+						<firstname>Shalon</firstname>
+						<surname>Hurlbert</surname>
+					</author>
+				</objectinfo>
+				<imagedata fileref="images/tm/viking-side.png" format="PNG"/>
+			</imageobject>
+			<imageobject role="thumbnail">
+				<objectinfo>
+					<author>
+						<firstname>Larry</firstname>
+						<surname>Garfield</surname>
+					</author>
+				</objectinfo>
+				<imagedata fileref="images/tm/viking-side-thumb.png" format="PNG"/>
+			</imageobject>
+			<caption>
+				<para>Viking, Side View</para>
+			</caption>
+		</mediaobject>
 	</section>	
 </article>

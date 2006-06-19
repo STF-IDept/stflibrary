@@ -22,7 +22,6 @@
 		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="maverick.xml" />
 		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="mccoy.xml" />
 		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="nimitz.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="outpost45.xml" />
 		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="pendragon.xml" />
 		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="phoenix.xml" />
 		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="trafalgar.xml" />
@@ -46,6 +45,10 @@
 		<title>Ship Specifications (Historical)</title>
 <!--		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="bonaventure.xml" />-->
 		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="mariner.xml" />
+	</part>
+	<part id="bases">
+		<title>Starbases and Installations</title>
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="outpost45.xml" />
 	</part>
 	<part id="tech">
 		<title>Ship-Based Technologies</title>
