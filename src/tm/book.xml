@@ -22,6 +22,7 @@
 		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="maverick.xml" />
 		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="mccoy.xml" />
 		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="nimitz.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="outpost45.xml" />
 		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="pendragon.xml" />
 		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="phoenix.xml" />
 		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="trafalgar.xml" />
