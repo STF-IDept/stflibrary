@@ -701,4 +701,54 @@
 		</epigraph>
 		<para>The Viking class are large exploration vessels designed to be as self-sufficient as possible.  They are versatile, powerful ships meant for long missions in deep space.  They have the scientific capabilities to carry out Star Fleets primary goals of exploration and discovery and the armament to deal with the threats that face vessels carrying out those missions.</para>
 	</section>
+	<section>
+		<title>Illustrations</title>
+		<para>These other visual representations of the Viking are available.</para>
+		<mediaobject>
+			<imageobject role="full">
+				<objectinfo>
+					<author>
+						<firstname>Shalon</firstname>
+						<surname>Hurlbert</surname>
+					</author>
+				</objectinfo>
+				<imagedata fileref="images/tm/viking-top.png" format="PNG"/>
+			</imageobject>
+			<imageobject role="thumbnail">
+				<objectinfo>
+					<author>
+						<firstname>Larry</firstname>
+						<surname>Garfield</surname>
+					</author>
+				</objectinfo>
+				<imagedata fileref="images/tm/viking-top-thumb.png" format="PNG"/>
+			</imageobject>
+			<caption>
+				<para>Viking, Top View</para>
+			</caption>
+		</mediaobject>
+		<mediaobject>
+			<imageobject role="full">
+				<objectinfo>
+					<author>
+						<firstname>Shalon</firstname>
+						<surname>Hurlbert</surname>
+					</author>
+				</objectinfo>
+				<imagedata fileref="images/tm/viking-side.png" format="PNG"/>
+			</imageobject>
+			<imageobject role="thumbnail">
+				<objectinfo>
+					<author>
+						<firstname>Larry</firstname>
+						<surname>Garfield</surname>
+					</author>
+				</objectinfo>
+				<imagedata fileref="images/tm/viking-side-thumb.png" format="PNG"/>
+			</imageobject>
+			<caption>
+				<para>Viking, Side View</para>
+			</caption>
+		</mediaobject>
+	</section>	
 </article>
