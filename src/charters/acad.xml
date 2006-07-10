@@ -5,13 +5,13 @@
 	<articleinfo>
 		<author role="President">
 			<honorific>President</honorific>
-			<firstname>Jack</firstname>
-			<surname>Dipper</surname>
+			<firstname>Jen</firstname>
+			<surname>Herr</surname>
 		</author>
 		<author role="ACmdt">
 			<honorific>Academy Commandant</honorific>
-			<firstname>Joe</firstname>
-			<surname>Fahey</surname>
+			<firstname>Jack</firstname>
+			<surname>Dipper</surname>
 		</author>
 		<revhistory>
 			<revision>
@@ -21,72 +21,112 @@
 					<para>Based on Edict <ulink url="http://www.star-fleet.com/prez/dipper.php#e22">Dipper #22</ulink></para>
 				</revdescription>
 			</revision>
+			<revision>
+				<revnumber>2</revnumber>
+				<date>6 July 2006</date>
+				<revdescription>
+					<para>Based on Edict <ulink url="http://www.star-fleet.com/prez/herr.php#e32">Dipper #32</ulink></para>
+				</revdescription>
+			</revision>
 		</revhistory>
 	</articleinfo>
-    <section>
-      <title>Supercedence of previous edicts</title>
-      <para>Edict Cramer #9 is hereby rescinded and superceded by this edict.</para>
-    </section>
-    <section>
-      <title>Establishment of the Academy Department</title>
-      <para>The Academy Department shall serve as a resource to the membership on matters relating to ongoing training and development in STF.</para>
-      <para>The daily activity of the Academy Department shall be overseen by the Academy Commandant, who shall be appointed by the President. The Academy Commandant is a cabinet position, and is equal in power to other departmental directors and Fleet Commanders.</para>
-      <para>The Vice Commandant shall be appointed by the Academy Commandant. The Vice Commandant answers directly to the Academy Commandant, and is responsible for departmental decisions in the event the Academy Commandant is not available. Additional responsibilities are at the discretion of the Academy Commandant.</para>
-      <para>The Academy Commandant and the Vice Commandant must have Academy experience, preferably as a current or previous XO or CNS on an Academy Ship, however, experience as a DH on an Academy Ship may be also be considered acceptable. Additionally, they must currently hold the member rank of Lieutenant Commander or above, and currently or previously have held an XO position or above on a mainstream ship. The Academy Commandant may delegate any of his duties enumerated in this Edict or any other responsibilities incumbent upon him as a result of another Edict to another named member of the Academy Department.</para>
-    </section>
-    <section>
-      <title>Establishment of Academy Courses</title>
-      <para>Starfleet Academy shall maintain a set of courses, which must at least include a course for Engineering, Gamemaster, Medical, Science, and Security. Additional courses are at the discretion of the Academy Commandant. These courses are on a voluntary basis and should a member pass one of these tests they will then be certified as qualified personnel and should be considered for a position as a DH (Department Head). Passing one of these courses does not guarantee a promotion to Lieutenant (Junior Grade) however. Promotion of someone who passes the test is left to CO of the mainstream ship's discretion.</para>
-    </section>
-    <section>
-      <title>Establishment of the Academy Fleet</title>
-      <para>A new Fleet is hereby established, under the name "Starfleet Academy". This Fleet shall house all Academy Training Vessels as well as the Academy administrative areas.</para>
-      <para>The Academy ships shall be staffed in a different way than standard ships within STF. The staffing of the Academy ships will include, in order of Chain of Command, with the first listed being the highest on the chain:</para>
-      <variablelist>
-        <varlistentry>
-          <term>XO (Executive Officer)</term>
-          <listitem><para>The XO is appointed by the President of STF, consulting with the Academy Commandant. The XO outranks the CO, on issues of ship administration. The XO is second in command in an RPG sense only. The XO, regardless of member rank, will always hold a rank of Commander on the training ships. Academy XO's must currently, or in the past, have held the position of XO or CO on a mainstream ship, or have held the position of CNS or XO on an Academy Ship.</para></listitem>
-        </varlistentry>
-        <varlistentry>
-          <term>CNS (Counselor)</term>
-          <listitem><para>The CNS is appointed by the XO, consulting with the Academy Commandant. The CNS is 2nd in command on issues of ship administration. The CNS is third in command in an RPG sense only. The CNS, regardless of member rank, will always hold a rank of Lieutenant Commander on the training ships. Academy CNS's must currently, or in the past, have held a DH position in the Academy, or failing that, be a DH on a "mainstream" ship, with positive comments from their Commanding Officer(s).</para></listitem>
-        </varlistentry>
-        <varlistentry>
-          <term>GM (Gamemaster)</term>
-          <listitem><para>The Gamemaster is appointed by the Academy Commandant, subject to the veto of the XO of the ship in question. The Gamemaster of an Academy ship must be an experienced GM preferably holding the classification of Full Gamemaster, however, GM's with a classification of "Junior Gamemaster" may be considered at the Academy Commandants discretion.</para></listitem>
-        </varlistentry>
-        <varlistentry>
-          <term>CO (Commanding Officer)</term>
-          <listitem><para>The CO is appointed by the Academy Commandant, consulting with the President. The CO must be an XO from somewhere in the fleet, for the purposes of assisting to train for a CO spot. The only exception to this rule is if there are no available XO's in the fleet that do not have a CO spot, or if there are no XO's that are willing to take part in the training program. In the case of the above exception, then the Academy Commandant, consulting with the President, may select someone who does not currently hold a XO spot, HOWEVER, this person must currently hold the member rank of Lieutenant Commander to be considered.</para></listitem>
-        </varlistentry>
-      </variablelist>
-      <para>If no one can be found who holds the rank of Lieutenant Commander that will participate in the program, then the rank will be decreased to Lieutenant, and so on, until someone willing to participate in the program can be found.</para>
-      <para>The "CO in training" will be granted the honorary rank of Captain, but this rank does not extend beyond the Academy, and the "CO in training"'s member rank will also not be extended this privilege.</para>
-      <para>Department Head spots (with the exception of Counselor), may be filled in one of two ways, at the discretion of the XO, notifying the Academy Commandant.</para>
-      <orderedlist>
-        <listitem><para>A Lieutenant Junior Grade "graduated" Cadet in that department.</para></listitem>
-        <listitem><para>A Lieutenant- grade experienced officer</para></listitem>
-      </orderedlist>
-      <para>Preference for filling Department Head positions goes to (option 1) a Lt. (Junior Grade) Graduated Cadet, however an exception may be made if all graduated Cadets were found DH positions on "mainstream" ships, or, if in the opinion of the XO and the Academy Commandant, the field of "graduated" Cadets are not strong enough to handle the responsibility of a DH role, and thus training incoming Cadets. In this instance, an experienced Lieutenant-grade DH from a "mainstream" ship can be used instead (option 2).</para>
-      <para>The Commandant is responsible for setting an AWOL/LOA policy in an "Academy Mandate". This policy should be maintained on an Academy page, and linked from the main Academy MOTD and the ship's MOTDs.</para>
-    </section>
-    <section>
-      <title>Academy service and graduation</title>
-      <para>Cadets who serve on the Academy ships shall hold the member rank of CADET. Additionally, Cadets who serve on the Academy ships are not eligible for rank promotion while they take part in their training. Also, due to the high demand for Academy spots, Cadets on the training vessels, (who have not graduated, or are not in the process of graduating) can only be transferred or offered a position on another ship with the consent of the Academy Commandant.</para>
-      <para>Furthermore, any cadet that leaves the academy training ship prematurely has to wait 120 days before they can be promoted to Lieutenant (Junior Grade). In the event that a Cadet should leave the Academy early, their name will be placed on a list maintained by the Academy, and an "Academy Commandant's Mandate" shall be placed in Command, letting CO's know that said Cadet left the Academy early, and stating the exact date that the Cadet is eligible for rank promotion.</para>
-      <para>Additionally, the Academy Commandant is responsible for contacting the CO of the ship that the Cadet went to when they originally left the Academy, and providing the CO with this information as well. Additionally, all CO's are requested to keep themselves familiar with this list in some cases, early graduation may be granted, ONLY at the discretion of the Academy Commandant, and based on his/her own judgment. In these cases, the Cadet will be granted all the rights and privileges of a proper graduation, and will not be restricted from promotion as in the case of a cadet leaving the program prematurely.</para>
-      <para>Should it be discovered that Command Staffs of mainstream ships are offering positions to Cadets before they graduate, the Academy Commandant has the right to remove that ship from the list of ships that receives Academy graduates either on a temporary or permanent basis, at the Academy Commandant's discretion. This matter will also be taken to the current President, and punishment shall be determined at the discretion of the President, which may include a verbal/written warning, temporary reduction of rank, reduction of rank until next promotion, or removal of command of a vessel (serious repetitive cases).</para>
-      <para>At the end of each mission, Cadets shall be graded on a pass/fail system by the Academy Staff and presented to the Academy Commandant for final approval. Cadets who pass will be promoted to the rank of Ensign, and positions will be found for them on "mainstream" ships, cadets who are determined to exceed basic promotion/graduation requirements may be asked to stay on board the academy ships in acting DH capacity for further training and promotion to Lt. (Junior Grade).</para>
-      <para>Should a Cadet receive unsatisfactory marks, they will be asked to remain in the Academy for another mission, on a DIFFERENT ship than their original Academy ship. Should the Cadet agree to remain for additional training they will once again be graded on a pass/fail system by the Academy Staff which will be presented to the Academy Commandant for final approval. Should the Cadet pass their second time around, they will be promoted to the rank of Ensign, and a position will be found for them on a "mainstream" ship. Should the cadet decide not to remain on the academy ship they will be placed on a mainstream ship with the rank of Ensign. It is suggested that they seek a mentor for further assistance and the CO and XO of the ship will be notified that they were placed without graduating the academy.</para>
-      <para>Should a Cadet receive unsatisfactory marks a second time, they will be asked to remain in the Academy for another mission, on a DIFFERENT ship than the previous ships they have served on. Should the Cadet agree to remain they will once again be graded on the same pass/fail system by the Academy Staff which will be presented to the Academy Commandant for final approval. Should the cadet pass their third time around, they will be promoted to the rank of Ensign, and a position will be found for them on a "mainstream" ship. Should the cadet decide not to remain on the academy ship they will be placed on a mainstream ship with the rank of Ensign. It is suggested that they seek a mentor for further assistance and the CO and XO of the ship will be notified that they were placed without graduating the academy.</para>
-      <para>Should a Cadet receive unsatisfactory marks for a third time, they will be placed as a new member on a "mainstream" ship (an Ensign, with all the rights and privileges that come with that rank). Should a CO receive an "Ensign" in this fashion, they are required to receive a letter from the Academy Commandant explaining this, so that the CO may pay special attention to this crew member, in order to help them out in any way possible.</para>
-      <para>Serving on any training ship is optional. New members may either join as an Ensign on a regular ship, or serve on the Training ship before going to the mainstream ships as an Ensign. Cadets who join the Academy program, thinking that it is mandatory, may approach the Academy Commandant and request to be placed on a "mainstream" ship, so long as they do so immediately upon finding out that the Academy is NOT mandatory. The Academy Commandant is required to give such requests due consideration. Upon the Academy Commandant's approval, the Cadet may be placed on a "mainstream" ship as an Ensign, with all the rights and privileges that a new member who is placed on a "mainstream" ship has.</para>
-      <para>An Academy mission lasts for 3 months (90 days). A mission shall be GMed by one GM, of Junior Gamemaster classification or higher. In the case that a GM shall go AWOL or be removed in mid-mission, the mission shall be continued without interruption by a qualified replacement, which may be the Academy Commandant, XO of the said ship, or CNS of the said ship, regardless of whether the said person holds the classification of Junior Gamemaster. A properly qualified GM should be found to fill the open GM spot within 2 weeks (14 days) of the spot opening.</para>
-      <para>Furthermore, it is the responsibility of the XO and GM of the academy ship, concurrently, to notify the Academy Commandant of the date which a new mission starts.</para>
-      <para>Whenever a DH spot on a "mainstream" ship opens up, and the CO of that ship has no qualified officer in that department on his ship to fill the hole on his own, the CO is requested, but not required, to contact the Academy Commandant to see if there are any cadets who are ready to graduate to fill said Department Head vacancy.</para>
-    </section>
-    <section>
-      <title>Disputes</title>
-      <para>Any dispute involving any member of the Academy shall be moderated by the Academy Commandant. Should any of the involved parties be the Academy Commandant, the dispute shall be moderated by the Vice Commandant. Should the dispute involve the Commandant and Vice Commandant, the dispute shall be moderated by the President.</para>
-    </section>
+  <section>
+  	<title>Supercedence of previous edicts</title>
+    <para>Edict Dipper #22 is hereby rescinded and superceded by this edict.</para>
+	</section>
+	<section>
+		<title>Establishment of the Academy Department</title>
+		<para>An Executive Department is hereby established under the name "Starfleet Academy".</para>
+		<para>Starfleet Academy shall serve as a resource to the membership on matters relating to ongoing training and development in STF.</para>
+		<para>The daily activity of Starfleet Academy shall be overseen by the Academy Commandant, who shall be appointed by the President. The Academy Commandant is a cabinet position, and is equal in power to other departmental directors and Fleet Commanders.</para>
+		<para>The Vice Commandant shall be appointed by the Academy Commandant. The Vice Commandant answers directly to the Academy Commandant, and is responsible for departmental decisions in the event the Academy Commandant is not available. Additional responsibilities are at the discretion of the Academy Commandant.</para>
+		<para>The Academy Commandant and the Vice Commandant must have had three months Academy experience (excluding time served as a cadet), preferably as a Commanding Officer or Executive Officer on an Academy Ship.</para>
+		<para>The Academy Commandant may delegate any of his duties enumerated in this Edict, or any other responsibilities incumbent upon him as a result of another Edict, to another named staff member of Starfleet Academy.</para>
+	</section>
+	<section>
+		<title>Establishment of Academy Courses</title>
+		<para>The Academy shall maintain a set of courses, which must at least include a course for Engineering, Gamemaster (in coordination with the Gamemaster Department), Medical, Science, and Security. Additional courses are at the discretion of the Academy Commandant. These courses are taken on a voluntary basis. Should a member pass one of the courses, greater consideration for a Department Head position should be granted. Passing one of the courses does not guarantee a promotion. </para>
+	</section>
+	<section>
+		<title>Establishment of the Academy Fleet</title>
+		<para>A new fleet is hereby established within Starfleet Academy. The Fleet will house all Academy Training Ships as well as the Academy administrative areas. The Academy Commandant and Vice Commandant will have the same powers as Fleet Commander and Assistant Fleet Commander respectively, unless otherwise defined by this edict. </para>
+		<para>The Academy Commandant is responsible for setting an AWOL/LOA policy in an Academy Mandate. This policy should be maintained on an Academy page, and linked from the main Academy MOTD and the Academy ships' MOTDs.</para>
+	</section>
+	<section>
+		<title>Academy Fleet Command Structure</title>
+		<variablelist>
+			<varlistentry>
+				<term>Commanding Officer (CO)</term>
+				<listitem><para>The CO is appointed by the President of STF, with the advice and consent of the Academy Commandant. The CO will have the powers and responsibilities of a mainstream CO, except that he cannot promote members of his crew. The character rank of the CO must be Captain. Academy CO's must have held the position of CO on a mainstream ship for a minimum of three months, and Academy experience is preferable.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Executive Officer (XO)</term>
+    		<listitem><para>The XO is appointed by the CO, with the advice and consent of the Academy Commandant. The XO will have the powers and responsibilities of a mainstream XO. The character rank of the XO must be Commander. Academy XO's must have held the position of XO on a mainstream ship for a minimum of three months, and Academy experience is preferable.</para></listitem>
+      </varlistentry>
+    	<varlistentry>
+    		<term>Counselor (CNS)</term>
+    		<listitem><para>The CNS is appointed by the CO, with the advice and consent of the Academy Commandant. The CNS will not have any administrative tasks, but will be required to assist Cadets with posting. The character rank of the CNS must be Lieutenant Commander. Academy CNS must have held the position of DH on either on a mainstream ship or an Academy ship for a minimum of three months.</para></listitem>
+    	</varlistentry>
+		</variablelist>
+		<para>A member can only hold a total of one CO, XO or CNS position in the Academy fleet, at a time.</para>
+		<variablelist>
+			<varlistentry>
+    		<term>Gamemaster (GM)</term>
+    		<listitem><para>The GM is appointed by the CO, with the advice and consent of the Academy Commandant. The Gamemaster of an Academy ship must be an experienced GM holding the classification of Full Gamemaster. If a Full Gamemaster, or higher, cannot be found, a Junior Gamemaster may be considered. Gamemaster Trainees may not be considered, under any circumstance. Should the GM be removed mid-mission, the mission is to be continued by the Command Staff, without interruption, and a replacement Gamemaster is to be found within two weeks.</para></listitem>
+    	</varlistentry>
+    </variablelist>
+    <para>An Academy mission lasts for three months; should a mission last for more than four months (120 days), the Gamemaster is to work with the CO and the XO in order to end the mission as soon as possible. Gamemasters are required to submit a mission plan to the Academy Commandant and Vice Commandant prior to the commencement of a mission.</para>
+    <variablelist>
+    	<varlistentry>
+    		<term>Department Heads (DHs)</term>
+    		<listitem>
+    			<para>Each standard department (Engineering, Medical, Science and Security) has one department head. A DH position may be filled in one of two ways, at the discretion of the CO, notifying the Academy Commandant.</para>
+    			<orderedlist>
+    				<listitem><para>A Lieutenant Junior Grade (Lt. (j.g.)) recently graduated Cadet in that department.</para></listitem>
+    				<listitem><para>A Lieutenant Grade (Lt.) experienced officer.</para></listitem>
+    			</orderedlist>
+    			<para>Preference for filling DH positions goes to a Lt (j.g.) graduated Cadet, however an exception may be made if, in the opinion of the CO and the Academy Commandant, the field of graduated Cadets are not strong enough to handle the responsibility of a DH role, and thus training incoming Cadets. In this instance, an experienced Lt DH from a mainstream ship can be used instead.</para>
+    		</listitem>
+    	</varlistentry>
+    	<varlistentry>
+    		<term>Cadets</term>
+    		<listitem><para>Each standard department (Engineering, Medical, Science and Security) can hold a maximum of three Cadets. Cadets who serve on the Academy ships shall hold the member rank of Cadet and are not eligible for rank promotion while they take part in their training. Due to the high demand for Academy spots, Cadets on the training vessels (who have not graduated, or are not in the process of graduating) can only be transferred or offered a position on another ship with the consent of the Academy Commandant.</para></listitem>
+    	</varlistentry>
+    </variablelist>
+    <para>With the exception of Cadet, all Academy ranks do not affect the player's member rank.</para>	
+	</section>
+	<section>
+    <title>Joining the Academy Fleet</title>
+    <para>New members may request to join an Academy Training Ships when joining STF. The Personnel Department is required to honour department choices, if possible, and allocate them evenly throughout the fleet. Should there be no spaces available in the chosen departments, the new member will be placed on a mainstream ship. The Academy Commandant is to be informed if a member was unable to be placed.</para>
+		<para>Current members on mainstream ships may also request to join the Academy. In this case, admission is dependent on the judgment of the member's Commanding Officers and Academy Commandant. They are to assess whether the member is struggling and whether he would benefit from Academy training. If a member does join the Academy in this manner, he must drop all of his mainstream ships. No member can be forced to join the Academy.</para>
+	</section>
+	<section>
+		<title>Departing from the Academy Fleet</title>
+		<para>There are four ways a Cadet can leave the Academy Fleet.</para>
+		<section>
+			<title>Graduation from the Academy</title>
+			<para>At the end of each mission, Cadets who have served an appropriate amount of time shall be graded on a pass/fail system by the Academy Staff and presented to the Academy Commandant for final approval. Cadets who pass will be promoted to the rank of Ensign, and positions will be found for them on mainstream ships. Cadets who have exceeded basic promotion/graduation requirements may be asked to stay on board the Academy ships as Lt (j.g.) Department Heads.</para>
+			<para>The Academy Commandant, in discussion with a Cadet's CO, may choose to graduate the Cadet prior to the end of the mission. In these cases, the Cadet will be granted all the rights and privileges of a regular end-of-mission graduation.</para>
+		</section>
+		<section>
+			<title>Failure to graduate and then requesting to depart the Academy, or failure to graduate on the third attempt</title>
+			<para>Should a Cadet fail to graduate, he will be asked to remain in the Academy for another mission, on a different ship than his original Academy ship. Should the Cadet agree to remain for additional training he will repeat the graduation process.</para>
+			<para>Should the Cadet decide not to remain on the Academy ship, or if he has failed to graduate on the third attempt, he will be found a position on a mainstream ship with the rank of Ensign, with no promotion restriction. It is suggested that he seeks a mentor for further assistance and the CO and XO of the ship will be notified that the Cadet did not graduate from the Academy.</para>
+		</section>
+		<section>
+			<title>Departure from the Academy prior to graduation</title>
+			<para>Cadets that request to leave the Academy prior to graduation are required to wait 120 days before they can be promoted from Ensign. In the event that a Cadet should leave the Academy early, his name will be placed on a list maintained by the Academy stating the exact date that the Cadet is eligible for rank promotion; this includes any Cadets that AWOL. All COs are requested to keep themselves familiar with this list. The Academy Commandant is responsible for contacting the CO of the ship that the Cadet went to when he originally left the Academy, and providing the CO with this information as well.</para>
+			<para>In the case of AWOL Cadets, should they return to STF, the Academy Commandant may allow them to re-enter the Academy training program on a case by case basis. There is no guarantee, however, that they will be placed in the same department or on the same ship.</para>
+			<para>Serving on any training ship is optional. Cadets who join the Academy program, thinking that it is mandatory, may approach the Academy Commandant and request to be transferred to a mainstream ship, provided they do so immediately upon finding out that the Academy is not mandatory. The Academy Commandant is required to give such requests due consideration. Upon the Academy Commandant's approval, the Cadet may be found a place on a mainstream ship as an Ensign, with all the rights and privileges that a new member, who is placed on a mainstream ship, has.</para>
+			<para>Any other reasons for early departure are to be reviewed by the Academy Commandant and Vice Commandant on a case by case basis.</para>
+		</section>
+		<section>
+	 		<title>Removal from the Academy by the Academy Commandant</title>
+			<para>The Academy Commandant, in discussion with a Cadet's CO, may remove a Cadet from the Academy program, and find a place for the Cadet on a mainstream ship at the rank of Ensign. The CO and XO of the mainstream ship will be notified of the circumstances surrounding the Cadet's removal. If deemed appropriate by the Academy Commandant, the President may also be informed.</para>
+		</section>
+	</section>
+	<section>
+		<title>Disputes</title>
+		<para>Any dispute involving the Academy shall be moderated by the Academy Commandant. Should any of the involved parties be the Academy Commandant, the dispute shall be moderated by the Vice Commandant. Should the dispute involve the Academy Commandant and Vice Commandant, the dispute shall be moderated by the President.</para>
+	</section>
 </article>

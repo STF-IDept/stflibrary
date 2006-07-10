@@ -6,15 +6,22 @@
 	<articleinfo>
 		<author role="President">
 			<honorific>President</honorific>
-			<firstname>Emme</firstname>
-			<surname>Rouse-Deane</surname>
+			<firstname>Jen</firstname>
+			<surname>Herr</surname>
 		</author>
 		<author role="Fleet Commander">
 			<honorific>Fleet Commander</honorific>
-			<firstname>Shalon</firstname>
-			<surname>Hurlbert</surname>
+			<firstname>Therle</firstname>
+			<surname>Dregansky</surname>
 		</author>
 		<revhistory>
+			<revision>
+				<revnumber>2</revnumber>
+				<date>6 July 2006</date>
+				<revdescription>
+					<para>Based on Edict <ulink url="http://www.star-fleet.com/prez/herr.php#e34">Herr #34</ulink></para>
+				</revdescription>
+			</revision>
 			<revision>
 				<revnumber>1</revnumber>
 				<date>23 June 2005</date>
@@ -24,50 +31,27 @@
 			</revision>
 		</revhistory>
 	</articleinfo>
-
-	<section>
-		<title>Overview</title>
-		<para>I hereby create a new alternative role playing area in Fleet 1 that is going to be solely an Enterprise Era Roleplaying ship. With it's alternative area status comes the stipulation that it is a second character only ship, and will not accept new members to STF.</para>
-		<para>The Bonaventure classed USS Bonaventure, NCC-01 is hereby commissioned in Fleet 1 and is deemed an Enterprise Era vessel. If for any reason she should change her class from an Enterprise Era spec, she must be decomissioned.</para>
-		<para>The USS Bonaventure will go into active service on the 1st November 2003, and will undergo a review in 90 days time ( around 1st February 2004) by the President, Fleet Commander and Commanding Officer in order to determine if the Bonaventure has proved to be successful under the following criteria:</para>
-		<itemizedlist>
-			<listitem><para>Has the Bonaventure established an active and healthy roleplaying environment?</para></listitem>
-			<listitem><para>Has the Bonaventure managed to establish herself as an Enterprise-era ship, adhering to all the limitations and strange habits of the era?</para></listitem>
-		</itemizedlist>
-		<para>If the Bonaventure is found to have covered these criteria successfully, she will be considered a permanent addition to the fleet, although may be decommissioned at a later date if she deviates from these criteria.</para>
-		<para>If the Bonaventure is found to have failed these criteria, she is to be decommissioned.</para>
-		<para>Captain Krystelle Bromilow is hereby appointed as Commanding Officer of the USS Bonaventure, NCC-01 in Fleet 1 and charged with making the Bonaventure ready for her start date of the 1st November.</para>
-		<para>There are a few other points to be made aware of:</para>
-	</section>
-
-	<section>
-		<title>Crew Race</title>
-		<para>The Bonaventure is to be a predominently Human crew due to the constraints of the time period. And that possibly no more than 2 alien be regulars on her crew at any given time. Those of alien origin will not possess a Star Fleet rank.</para>
-	</section>
-	<section>
-		<title>Crew structure</title>
-		<para>The Bonaventure will have a similar command structure to that of the USS Merrimack. Therefore the XO will hold the title of First Officer as well as be a DH on the ship. The departments should include the following:</para>
-		<itemizedlist>
-			<listitem><para>Engineering</para></listitem>
-			<listitem><para>Medical</para></listitem>
-			<listitem><para>Science</para></listitem>
-			<listitem><para>Security</para></listitem>
-		</itemizedlist>
-		<para>With the security DH having the title of Armory Officer, but subordinates being security officers.</para>
-		<para>Possible Swing Positions may include, but not be limited to the following:</para>
-		<itemizedlist>
-			<listitem><para>Technical Specialists (varied)</para></listitem>
-			<listitem><para>Scientific Specialists (varied)</para></listitem>
-			<listitem><para>Yeoman</para></listitem>
-			<listitem><para>Ship's Cook</para></listitem>
-			<listitem><para>Quartermaster</para></listitem>
-			<listitem><para>Communications Officer</para></listitem>
-			<listitem><para>Ambasador</para></listitem>
-		</itemizedlist>
-	</section>
-	<section>
-		<title>Sim requirements</title>
-		<para>To safeguard the ship from possible plot spoilers with the Enterprise Series, that GM's should limit contact with known canon species such as the Suliban, Klingons, and especially the Romulans. The ship should take a different course in the stars, exploring new regions that are little known or rarely traveled to.</para>
-		<para>Further, it is suggested that each sim be posted on the ship's MOTD with a given Star Date similar in format to those used in Enterprise (Ie: October 2nd, 2152, and NOT "Stardate 5210.2 as seen in TOS through Voyager). This would not only give a perspective on time for the crew, but continuity with events that occured during the Enterprise series</para>
-	</section>
+	<para>The SS Bonaventure NCC-01 is hereby recommissioned as an alternative role-playing area in Fleet 1. It is recommissioned as an Enterprise-Era, Bonaventure-II Class frigate. Its missions are expected to be predominantly exploration in nature and biased toward Enterprise-Era and canon historical issues and plotlines, and its crew staffing is expected to reflect the Enterprise-Era in posting, available races and tech utilization.</para>
+	<para>If for any reason it should change her class, it must be decommissioned.</para>
+	<para>The Bonaventure is already in active service and is hereby confirmed to be successful as an Enterprise-Era frigate. It will continue to be judged by the following criteria:</para>
+	<orderedlist>
+		<listitem><para>The Bonaventure must maintain an active and healthy roleplaying environment.</para></listitem>
+		<listitem><para>The Bonaventure must continue to function as an Enterprise-Era frigate.</para></listitem>
+	</orderedlist>
+	<para>As the Bonaventure is already an established RPG Area, it will not be required to pass a trial period. It will therefore remain a permanent addition to Fleet 1, but if at any time it deviates from the criteria set in this edict, it must be decommissioned.</para>
+	<para>The Bonaventure shall have a command structure similar to Enterprise-Era vessels, including all standard departments, rank structure, and chain of command. As such, RPG Ranks on the Bonaventure will count toward Member Rank the same as on Standard Ships, and CO and XO positions on the Bonaventure will count fully towards any limits in place.</para>
+	<para>There are changes to the names of the Department Heads as following:</para>
+	<orderedlist>
+		<listitem><para>Chief Security Officer = Armory Chief</para></listitem>
+		<listitem><para>Executive Officer = Executive Officer and Comm Officer</para></listitem>
+	</orderedlist>
+	<para>Additional Swing personnel will be possible at the CO's discretion, including but not limited to the following:</para>
+	<orderedlist>
+		<listitem><para>MACO (Marine Specialist)</para></listitem>
+		<listitem><para>Shuttle Pilot</para></listitem>
+		<listitem><para>Linguist</para></listitem>
+		<listitem><para>Recreation and Morale Officer</para></listitem>
+		<listitem><para>Master Mess Specialist Coordinator</para></listitem>
+	</orderedlist>
+	<para>The current CO and crew of the USS Bonaventure are retained in their current positions aboard the ship. The CO may be removed at some later date in accordance with the rules of the site, without penalty to the Bonaventure herself.</para>
 </article>
