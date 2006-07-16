@@ -6,7 +6,7 @@
 	<bookinfo>
 		<title>Minutes of Notable Command Discussions</title>
 		<corpauthor>Starfleet Command</corpauthor>
-		<date>8 March 2006</date>
+		<date>17 July 2006</date>
 	</bookinfo>
 	<part id="minutes-herr">
 		<partinfo>
@@ -15,5 +15,6 @@
 		</partinfo>
 		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="ircrpg.xml" />
 		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="alphaalliance.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="alphaalliancefollowup.xml" />
 	</part>
 </book>
