@@ -6,11 +6,13 @@
     <bookinfo>
 	    <title>STF Academy Textbook</title>
 	    <corpauthor>Starfleet Academy</corpauthor>
-	    <date>11 July 2006</date>
+	    <date>3 August 2006</date>
     </bookinfo>
 	
 	<!-- Each course is a separate Article -->
 	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="administrative.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="command-xo.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="command-dh.xml" />
 	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="counseling.xml" />
 	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="engineering.xml" />
 	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="gamemaster.xml" />
