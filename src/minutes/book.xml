@@ -6,12 +6,12 @@
 	<bookinfo>
 		<title>Minutes of Notable Command Discussions</title>
 		<corpauthor>Starfleet Command</corpauthor>
-		<date>17 July 2006</date>
+		<date>3 August 2006</date>
 	</bookinfo>
 	<part id="minutes-herr">
 		<partinfo>
 			<title>President Jen Herr</title>
-			<subtitle>1 December 2005 - Present</subtitle>
+			<subtitle>1 December 2005 - 31 July 2006</subtitle>
 		</partinfo>
 		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="ircrpg.xml" />
 		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="alphaalliance.xml" />

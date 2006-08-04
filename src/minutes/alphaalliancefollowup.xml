@@ -2,7 +2,7 @@
                     "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
 <article id="minutes-alphaalliancefollowup">
 	<title>Should STF form an alliance with Alpha Quadrant sim group? Follow-up.</title>
-	<subtitle>13 July 2006 to In Progress</subtitle>
+	<subtitle>13 July 2006 to 31 July 2006</subtitle>
 	<articleinfo>
 		<editor role="Assistant Librarian">
 			<honorific>Assistant Librarian</honorific>
@@ -16,6 +16,13 @@
 		</author>
 		<revhistory>
 			<revision>
+				<revnumber>2</revnumber>
+				<date>3 August 2006</date>
+				<revdescription>
+					<para>Updated with conclusion of discussion.</para>
+				</revdescription>
+			</revision>
+			<revision>
 				<revnumber>1</revnumber>
 				<date>16 July 2006</date>
 				<revdescription>
@@ -24,12 +31,10 @@
 			</revision>
 		</revhistory>
 	</articleinfo>
-
 	<section>
 		<title>Results</title>
-		<para>Discussion in progress.</para>
+		<para>Closed due to President Herr's term ending.</para>
 	</section>
-
 	<section>
 		<title>Participants</title>
 		<orderedlist>
@@ -125,6 +130,106 @@
 			<varlistentry>
 				<term>16. Edgar Cramer</term>
 				<listitem><para>Provided data to support a banner exchange between STF and Ajje Games.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>17. Therle Dregansky</term>
+				<listitem><para>Disagreed with data provided by Edgar Cramer.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>18. Edgar Cramer</term>
+				<listitem><para>Reiteration of banner exchange offer.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>19. Symon Silvester</term>
+				<listitem><para>Rebuttal to Therle Dregansky.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>20. Catt Bennett</term>
+				<listitem><para>Rebuttal to Therle Dregansky.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>21. Jack Dipper</term>
+				<listitem><para>Poses questions regarding the resources committed to the alliance, as well as the paperwork involved.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>22./23. Therle Dregansky</term>
+				<listitem><para>Rebuttal to Edgar Cramer, Symon Silvester.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>24./25./26./27. Symon Silvester and Therle Dregansky</term>
+				<listitem><para>Responses to one another about club loyalty.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>28. Jen Herr</term>
+				<listitem><para>Steers discussion back on track. No resources committed. Poses idea of open house.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>29. David Wonderly</term>
+				<listitem><para>Questions about obligations to promote clubs.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>30. Amanda Noon</term>
+				<listitem><para>Poses question about why a banner exchance turns into an alliance.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>31./32. Larry Garfield</term>
+				<listitem><para>Offers legal perspective on sharing of resources under STF's TOS. Poses question regarding the difference between a banner exchange, an alliance, and a webring.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>33./35./36. Jen Herr</term>
+				<listitem><para>Clarifies that this is just a formal friendship.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>34. Jen Herr</term>
+				<listitem><para>Provides document regarding alliance.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>37. Amanda Noon</term>
+				<listitem><para>Questions why a banner exchange needs such a document.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>38. Brandon Irvine</term>
+				<listitem><para>Asks for clarification regarding restrictions on RPGs that can be created in a club.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>39. Jen Herr</term>
+				<listitem><para>Clarifies that we just can't create a PBeM or IRC sim if there's already one in the alliance.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>40. Jen Herr</term>
+				<listitem><para>Responds that it's not a complex document for an alliance.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>41. Symon Silvester</term>
+				<listitem><para>Asks if restrictions will prohibit the alliance's expansion.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>42. Jen Herr</term>
+				<listitem><para>Responds that we're not just tied to this alliance.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>43. Amanda Noon</term>
+				<listitem><para>Asks what STF will gain from such a formal relationship.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>44. Robert Gulley</term>
+				<listitem><para>Agrees with the idea of an alliance, but disagrees with the terms set.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>45. Symon Silvester</term>
+				<listitem><para>Raises the question of how to administer many different little alliances.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>46. Jen Herr</term>
+				<listitem>
+					<epigraph>
+						<attribution>Jen Herr</attribution>
+						<para>I'd like to thank everyone that asked questions and gave input to this idea. It is my fault that we ran out of time for this discussion, but I do highly recommend to Sarah that we continue next month. I do in my heart believe this is a good idea and that we should persue it, but I do understand people's concerns and reservations.</para>
+						<para>Therefore, I am closing this discussion, and I highly recommend that Sarah reopens it and considers a trial period with this proposal. We need some friends out there, and there is nothing about this deal that could hurt us. :)</para>
+						<para>Thank you again to all who participated, your voices were heard.</para>
+						<para>Jen</para>
+					</epigraph>
+				</listitem>
 			</varlistentry>
 		</variablelist>
 	</section>
