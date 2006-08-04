@@ -11,6 +11,7 @@
 	
 	<!-- Each course is a separate Article -->
 	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="administrative.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="command-co.xml" />
 	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="command-xo.xml" />
 	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="command-dh.xml" />
 	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="counseling.xml" />
