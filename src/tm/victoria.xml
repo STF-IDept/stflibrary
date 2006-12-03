@@ -402,43 +402,43 @@
 		<simplelist role="ShipList">
 			<member role="PC">
 				<productname>USS Victoria</productname>
-				<productnumber>NCC-101000 [Class Ship]</productnumber>
+				<productnumber>101000 [Class Ship]</productnumber>
 			</member>
 			<member role="PC">
 				<productname>USS Ferdinand Magellan</productname>
-				<productnumber>NCC-101001</productnumber>
+				<productnumber>101001</productnumber>
 			</member>
 			<member role="PC">
 				<productname>USS Pigafetta</productname>
-				<productnumber>NCC-101002</productnumber>
+				<productnumber>101002</productnumber>
 			</member>
 			<member role="PC">
 				<productname>USS Trinidad</productname>
-				<productnumber>NCC-101003</productnumber>
+				<productnumber>101003</productnumber>
 			</member>
 			<member role="PC">
 				<productname>USS Juan Elcano</productname>
-				<productnumber>NCC-101004</productnumber>
+				<productnumber>101004</productnumber>
 			</member>
 			<member role="PC">
 				<productname>USS Enrique</productname>
-				<productnumber>NCC-101005</productnumber>
+				<productnumber>101005</productnumber>
 			</member>
 			<member role="PC">
 				<productname>USS Concepcion</productname>
-				<productnumber>NCC-101006</productnumber>
+				<productnumber>101006</productnumber>
 			</member>
 			<member role="PC">
 				<productname>USS Santiago</productname>
-				<productnumber>NCC-101007</productnumber>
+				<productnumber>101007</productnumber>
 			</member>
 			<member role="PC">
 				<productname>USS San Antonio</productname>
-				<productnumber>NCC-101008</productnumber>
+				<productnumber>101008</productnumber>
 			</member>
 			<member role="PC">
 				<productname>USS Mar Pacifico</productname>
-				<productnumber>NCC-101009</productnumber>
+				<productnumber>101009</productnumber>
 			</member>
 		</simplelist>
 	</section>
@@ -449,33 +449,52 @@
 	</section>
 	<section>
 		<title>Illustrations</title>
-		<epigraph>
-			<attribution>CREDIT</attribution>
-			<para>QUOTE</para>
-		</epigraph>
-		<para>These other visual representations of the XXXXX are available.</para>
+		<para>These other visual representations of the Viking are available.</para>
 		<mediaobject>
-			<imageobject role="thumbnail">
-				<objectinfo>
-					<author>
-						<firstname>FIRST</firstname>
-						<surname>LAST</surname>
-					</author>
-				</objectinfo>
-				<imagedata fileref="images/tm/XX-thumb.jpg" format="JPG"/>
-			</imageobject>
 			<imageobject role="full">
 				<objectinfo>
 					<author>
-						<firstname>FIRST</firstname>
-						<surname>LAST</surname>
+						<firstname>Lee</firstname>
+						<surname>Bridgeford</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/tm/XX.jpg" format="JPG"/>
+				<imagedata fileref="images/tm/victoria-outline.png" format="PNG"/>
+			</imageobject>
+			<imageobject role="thumbnail">
+				<objectinfo>
+					<author>
+						<firstname>Larry</firstname>
+						<surname>Garfield</surname>
+					</author>
+				</objectinfo>
+				<imagedata fileref="images/tm/victoria-outline-thumb.png" format="PNG"/>
 			</imageobject>
 			<caption>
-				<para>XX</para>
+				<para>Victoria, Outline</para>
 			</caption>
 		</mediaobject>
-	</section>
+		<mediaobject>
+			<imageobject role="full">
+				<objectinfo>
+					<author>
+						<firstname>Lee</firstname>
+						<surname>Bridgeford</surname>
+					</author>
+				</objectinfo>
+				<imagedata fileref="images/tm/victoria-bridge.png" format="PNG"/>
+			</imageobject>
+			<imageobject role="thumbnail">
+				<objectinfo>
+					<author>
+						<firstname>Larry</firstname>
+						<surname>Garfield</surname>
+					</author>
+				</objectinfo>
+				<imagedata fileref="images/tm/victoria-bridge-thumb.png" format="PNG"/>
+			</imageobject>
+			<caption>
+				<para>Victoria, Bridge</para>
+			</caption>
+		</mediaobject>
+	</section>	
 </article>
