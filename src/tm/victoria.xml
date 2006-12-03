@@ -1,0 +1,342 @@
+<article class="specification" id="victoria">
+	<title>Victoria-class</title>
+	<articleinfo>
+		<authorgroup role="Maintainer">
+			<author>
+				<firstname>Lee</firstname>
+				<surname>Bridgeford</surname>
+			</author>
+		</authorgroup>
+		<authorgroup role="Primary Designers">
+			<author>
+				<firstname>Lee</firstname>
+				<surname>Bridgeford</surname>
+			</author>
+		</authorgroup>
+		<authorgroup role="Original Designers">
+			<author>
+				<firstname>Lee</firstname>
+				<surname>Bridgeford</surname>
+			</author>
+		</authorgroup>
+		<keywordset>
+			<keyword role="service">PC</keyword>
+			<keyword role="category">Cruiser</keyword>
+			<keyword role="variant">Medium</keyword>
+			<keyword role="mark">I</keyword>
+		</keywordset>
+		<revhistory>
+			<revision>
+				<revnumber>1</revnumber>
+				<date>2 December 2006</date>
+				<revdescription>
+					<para>Approved by Engineering Director Larry Garfield</para>
+				</revdescription>
+			</revision>
+		</revhistory>
+	</articleinfo>
+	<section>
+		<title>History and Mission Overview</title>
+		<epigraph>
+			<attribution>CREDIT</attribution>
+			<para>QUOTE</para>
+		</epigraph>
+		<para/>
+	</section>
+	<section>
+		<title>Structure and Construction</title>
+		<epigraph>
+			<attribution>CREDIT</attribution>
+			<para>QUOTE</para>
+		</epigraph>
+		<para/>
+	</section>
+	<section>
+		<title>Science and Remote Sensing Systems</title>
+		<epigraph>
+			<attribution>CREDIT</attribution>
+			<para>QUOTE</para>
+		</epigraph>
+		<para/>
+	</section>
+	<section>
+		<title>Warp Propulsion Systems</title>
+		<epigraph>
+			<attribution>CREDIT</attribution>
+			<para>QUOTE</para>
+		</epigraph>
+		<para/>
+	</section>
+	<section>
+		<title>Impulse Propulsion Systems</title>
+		<epigraph>
+			<attribution>CREDIT</attribution>
+			<para>QUOTE</para>
+		</epigraph>
+		<para/>
+	</section>
+	<section>
+		<title>Tactical Systems</title>
+		<epigraph>
+			<attribution>CREDIT</attribution>
+			<para>QUOTE</para>
+		</epigraph>
+		<section>
+			<title>Defensive Shields</title>
+			<para/>
+		</section>
+		<section>
+			<title>Phaser Systems</title>
+			<para/>
+		</section>
+		<section>
+			<title>Torpedo Systems</title>
+			<para/>
+		</section>
+	</section>
+	<section>
+		<title>Command and Support Systems</title>
+		<epigraph>
+			<attribution>CREDIT</attribution>
+			<para>QUOTE</para>
+		</epigraph>
+		<para/>
+	</section>
+	<section>
+		<title>Utility Systems</title>
+		<epigraph>
+			<attribution>CREDIT</attribution>
+			<para>QUOTE</para>
+		</epigraph>
+		<section>
+			<title>Cargo Bays</title>
+			<para/>
+		</section>
+		<section>
+			<title>Tractor Beam Systems</title>
+			<para/>
+		</section>
+		<section>
+			<title>Transporter Systems</title>
+			<para/>
+		</section>
+	</section>
+	<section>
+		<title>Crew Support Systems</title>
+		<epigraph>
+			<attribution>CREDIT</attribution>
+			<para>QUOTE</para>
+		</epigraph>
+		<para/>
+	</section>
+	<section>
+		<title>Auxiliary Spacecraft Systems</title>
+		<epigraph>
+			<attribution>CREDIT</attribution>
+			<para>QUOTE</para>
+		</epigraph>
+		<para/>
+	</section>
+	<section>
+		<title>Technical Specifications</title>
+		<epigraph>
+			<attribution>CREDIT</attribution>
+			<para>QUOTE</para>
+		</epigraph>
+		<variablelist>
+			<title>Dimensions and Structure</title>		
+			<varlistentry>
+				<term>Length</term>
+				<listitem><para>XX meters</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Beam (Width)</term>
+				<listitem><para>XX meters</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Height</term>
+				<listitem><para>XX meters</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Decks</term>
+				<listitem><para>XX</para></listitem>
+			</varlistentry>
+		</variablelist>
+		<variablelist>
+			<title>Crew Complement</title>
+			<varlistentry>
+				<term>Officers and Crew</term>
+				<listitem><para>XX</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Visiting Personnel</term>
+				<listitem><para>XX</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Maximum Evacuation Limit</term>
+				<listitem><para>XX</para></listitem>
+			</varlistentry>
+		</variablelist>			
+		<variablelist>
+			<title>Computer Systems</title>
+			<varlistentry>
+				<term>Core</term>
+				<listitem><para>Bio-neural data core</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Chipset</term>
+				<listitem><para>N/A</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Operating System</term>
+				<listitem><para>Starfleet Library Computer Access and Retrieval System (LCARS)</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>User Interface</term>
+				<listitem><para>MAJEL</para></listitem>
+			</varlistentry>
+		</variablelist>				
+		<variablelist>
+			<title>Warp Systems</title>
+			<varlistentry>
+				<term>Power Plant</term>
+				<listitem><para>One 1500+ cochrane M/ARA cores feeding two nacelles</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Crusing Velocity</term>
+				<listitem><para>Warp XX</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Maximum Sustainable Velocity</term>
+				<listitem><para>Warp XX</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Maximum Velocity</term>
+				<listitem><para>Warp XX (12 hours)</para></listitem>
+			</varlistentry>
+		</variablelist>
+		<variablelist>
+			<title>Impulse Systems</title>
+			<varlistentry>
+				<term>Full Impulse</term>
+				<listitem><para>XXc</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Accellerate</term>
+				<listitem><para>XX seconds</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Decellerate</term>
+				<listitem><para>XX seconds</para></listitem>
+			</varlistentry>
+		</variablelist>
+		<variablelist>
+			<title>Defensive Systems</title>
+			<varlistentry>
+				<term>Shield Maximum Graviton Load (Continuous)</term>
+				<listitem><para>XX MegaWatts</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Shield Maximum Energy Dissipation Rate</term>
+				<listitem><para>XX kilowatts</para></listitem>
+			</varlistentry>
+		</variablelist>
+		<variablelist>
+			<title>Offensive Systems</title>
+			<varlistentry>
+				<term>Torpedoes</term>
+				<listitem>
+					<variablelist>
+						<varlistentry>
+							<term>Torpedo Tubes</term>
+							<listitem><para>XX</para></listitem>
+						</varlistentry>
+						<varlistentry>
+							<term>Standard Payload (total)</term>
+							<listitem><para>XX photon torpedoes</para></listitem>
+						</varlistentry>
+					</variablelist>
+				</listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Phasers</term>
+				<listitem>
+					<itemizedlist>
+						<listitem><para>X Type-X Phaser Strips</para></listitem>
+					</itemizedlist>
+				</listitem>
+			</varlistentry>
+		</variablelist>
+	</section>
+	<section>
+		<title>Deck Layout</title>
+		<epigraph>
+			<attribution>CREDIT</attribution>
+			<para>QUOTE</para>
+		</epigraph>
+		<section role="Deck">
+			<title>Deck 1</title>
+			<simplelist>
+				<member>XXX</member>
+			</simplelist>
+		</section>
+		<section role="Deck">
+			<title>Deck 2</title>
+			<simplelist>
+				<member>XXX</member>
+			</simplelist>
+		</section>
+	</section>
+	<section>
+		<title>Ships of the Class</title>
+		<epigraph>
+			<attribution>CREDIT</attribution>
+			<para>QUOTE</para>
+		</epigraph>
+		<simplelist role="ShipList">
+			<member role="PC">
+				<productname>SHIPNAME</productname>
+				<productnumber>REGISTRYNUMBER</productnumber>
+			</member>
+		</simplelist>
+	</section>
+	<section>
+		<title>Conclusion</title>
+		<epigraph>
+			<attribution>CREDIT</attribution>
+			<para>QUOTE</para>
+		</epigraph>
+		<para/>
+	</section>
+	<section>
+		<title>Illustrations</title>
+		<epigraph>
+			<attribution>CREDIT</attribution>
+			<para>QUOTE</para>
+		</epigraph>
+		<para>These other visual representations of the XXXXX are available.</para>
+		<mediaobject>
+			<imageobject role="thumbnail">
+				<objectinfo>
+					<author>
+						<firstname>FIRST</firstname>
+						<surname>LAST</surname>
+					</author>
+				</objectinfo>
+				<imagedata fileref="images/tm/XX-thumb.jpg" format="JPG"/>
+			</imageobject>
+			<imageobject role="full">
+				<objectinfo>
+					<author>
+						<firstname>FIRST</firstname>
+						<surname>LAST</surname>
+					</author>
+				</objectinfo>
+				<imagedata fileref="images/tm/XX.jpg" format="JPG"/>
+			</imageobject>
+			<caption>
+				<para>XX</para>
+			</caption>
+		</mediaobject>
+	</section>
+</article>
