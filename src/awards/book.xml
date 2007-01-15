@@ -1,0 +1,17 @@
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN"
+	"http://www.oasis-open.org/docbook/xml/4.0/docbookx.dtd">
+<book id="awards">
+    <?dbhtml dir="awards" filename="index.html" ?>
+	
+    <bookinfo>
+	    <title>The STF Awards</title>
+	    <corpauthor>Office of the President</corpauthor>
+	    <date>15 January 2007</date>
+    </bookinfo>
+	
+	<!-- Each course is a separate Article -->
+	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="charter.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="winners.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="july2006.xml" />
+	
+</book>
