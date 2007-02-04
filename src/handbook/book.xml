@@ -13,15 +13,15 @@
 	</bookinfo>
 
 	<!-- Include our chapter-level modules. -->
-	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="preface.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="start.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="navigation.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="ranks.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="chainofcommand.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="posting.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="promotions.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="trainingships.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="government.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="areasofinterest.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="preface.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="start.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="navigation.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="ranks.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="chainofcommand.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="posting.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="promotions.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="trainingships.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="government.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="areasofinterest.xml" />
 
 </book>

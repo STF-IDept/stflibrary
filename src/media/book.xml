@@ -19,15 +19,15 @@
   </bookinfo>
 
   <!-- Each publication is a separate chapter -->
-  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="snn.xml" />
-  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="aotw.xml" />
-  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="ivestfiya.xml" />
-  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="gin.xml" />
-  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="fnn.xml" />
-  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="pun.xml" />
-  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="twww.xml" />
-  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="rfstf.xml" />
-  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="starblog.xml" />
-  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="po.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="snn.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="aotw.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="ivestfiya.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="gin.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="fnn.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="pun.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="twww.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="rfstf.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="starblog.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="po.xml" />
 
 </book>

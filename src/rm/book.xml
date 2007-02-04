@@ -15,26 +15,26 @@
 			<subtitle>List of all known races and species used in STF</subtitle>
 		</partinfo>
 		<title>Species</title>
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/acamarian.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/bandi.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/benzite.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/breen.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/bynars.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/caitian.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/chameloid.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/cytherian.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/dilkian.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/eldaraane.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/etopian.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/ferengi.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/flarn.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/komunicaton.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/o.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/pakled.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/quasian.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/talosian.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/tholian.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="species/trill.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/acamarian.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/bandi.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/benzite.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/breen.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/bynars.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/caitian.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/chameloid.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/cytherian.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/dilkian.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/eldaraane.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/etopian.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/ferengi.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/flarn.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/komunicaton.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/o.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/pakled.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/quasian.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/talosian.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/tholian.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/trill.xml" />
 	</part>
 	<part id="locations">
 		<partinfo>
@@ -42,18 +42,18 @@
 			<subtitle>Collection of planets and places used in STF</subtitle>
 		</partinfo>
 		<title>Locations</title>
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="location/chairos_iv.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="location/etopos.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="location/galactic_barrier.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="location/khitomer.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="location/mars.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="location/obaine.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="location/pilton.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="location/quanta.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="location/quantas.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="location/qonos.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="location/risa.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="location/sisa_minor.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="location/chairos_iv.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="location/etopos.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="location/galactic_barrier.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="location/khitomer.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="location/mars.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="location/obaine.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="location/pilton.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="location/quanta.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="location/quantas.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="location/qonos.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="location/risa.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="location/sisa_minor.xml" />
 	</part>
 	<part id="powers">
 		<partinfo>
@@ -61,8 +61,8 @@
 			<subtitle>Collection of the various powers and influences.</subtitle>
 		</partinfo>
 		<title>Powers</title>
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="power/flarn.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="power/kton.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="power/flarn.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="power/kton.xml" />
 	</part>
 	<part id="misc">
 		<partinfo>
@@ -70,8 +70,8 @@
 			<subtitle>Various and sundry other items of interest</subtitle>
 		</partinfo>
 		<title>Miscellaneous</title>
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="misc/planets.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="misc/stars.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="misc/planets.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="misc/stars.xml" />
 	</part>
 	<part id="reference">
 		<partinfo>
@@ -79,8 +79,8 @@
 			<subtitle>Documentation about the STF Reference Manaul</subtitle>
 		</partinfo>
 		<title>RM References</title>
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="reference/entrytypes.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="reference/template-power.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="reference/template-species.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="reference/entrytypes.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="reference/template-power.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="reference/template-species.xml" />
 	</part>
 </book>

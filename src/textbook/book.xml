@@ -10,15 +10,15 @@
     </bookinfo>
 	
 	<!-- Each course is a separate Article -->
-	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="administrative.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="command-co.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="command-xo.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="command-dh.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="counseling.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="engineering.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="gamemaster.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="medical.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="science.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="security.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="administrative.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="command-co.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="command-xo.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="command-dh.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="counseling.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="engineering.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="gamemaster.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="medical.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="science.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="security.xml" />
 	
 </book>

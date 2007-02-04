@@ -10,8 +10,8 @@
     </bookinfo>
 	
 	<!-- Each course is a separate Article -->
-	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="charter.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="winners.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="july2006.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="charter.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="winners.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="july2006.xml" />
 	
 </book>
