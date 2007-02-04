@@ -447,10 +447,6 @@
 	</section>
 	<section>
 		<title>Ships of the Class</title>
-		<epigraph>
-			<attribution>CREDIT</attribution>
-			<para>QUOTE</para>
-		</epigraph>
 		<simplelist role="ShipList">
 			<member role="PC">
 				<productname>Bonaventure</productname>
@@ -497,7 +493,7 @@
 						<surname>Godfrey</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/tm/bonaventure-earth.jpg" format="JPG"/>
+				<imagedata fileref="images/tm/bonaventure-nebula.jpg" format="JPG"/>
 			</imageobject>
 			<imageobject role="thumbnail">
 				<objectinfo>
@@ -506,7 +502,7 @@
 						<surname>Garfield</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/tm/bonaventure-earth-thumb.jpg" format="JPG"/>
+				<imagedata fileref="images/tm/bonaventure-nebula-thumb.jpg" format="JPG"/>
 			</imageobject>
 			<caption>
 				<para>Bonaventure orbiting Earth</para>
@@ -520,7 +516,7 @@
 						<surname>Godfrey</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/tm/bonaventure-profile.jpg" format="JPG"/>
+				<imagedata fileref="images/tm/bonaventure-saturn.jpg" format="JPG"/>
 			</imageobject>
 			<imageobject role="thumbnail">
 				<objectinfo>
@@ -529,7 +525,7 @@
 						<surname>Garfield</surname>
 					</author>
 				</objectinfo>
-				<imagedata fileref="images/tm/bonaventure-profile-thumb.png" format="PNG"/>
+				<imagedata fileref="images/tm/bonaventure-saturn-thumb.jpg" format="JPG"/>
 			</imageobject>
 			<caption>
 				<para>Profile views of the Bonaventure</para>
