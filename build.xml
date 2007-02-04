@@ -104,9 +104,9 @@
 
   <target name="all" depends="html, pdf" />
 
-  <target name="html" depends="html.onefile, html.set, html.handbook, html.charters, html.faq, html.rm, html.textbook, html.minutes, html.media, html.tm, html.history" />
+  <target name="html" depends="html.onefile, html.set, html.handbook, html.charters, html.faq, html.rm, html.textbook, html.minutes, html.media, html.tm, html.awards, html.history" />
 
-  <target name="pdf" depends="pdf.onefile, pdf.handbook, pdf.charters, pdf.faq, pdf.rm, pdf.textbook, pdf.minutes, pdf.media, pdf.tm" />
+  <target name="pdf" depends="pdf.onefile, pdf.handbook, pdf.charters, pdf.faq, pdf.rm, pdf.textbook, pdf.minutes, pdf.media, pdf.tm, pdf.awards, pdf.history" />
 
   <target name="onefile" depends="html.onefile, pdf.onefile" />
 
@@ -505,7 +505,7 @@
         <arg line="base.dir=${build.dir}/" />
       </java>
     </target>
-
+    
     <target name="pdf.tm" depends="init">
       <echo>Building XSL-FO intermediate output.</echo>
       <java classname="${xslt.processor.class}" fork="yes" failonerror="true">
@@ -528,7 +528,46 @@
         <arg line="-pdf ${build.dir}/pdf/tm.pdf"/>
       </java>
     </target>
-	
+    
+    <target name="html.awards" depends="init, html.titlepage">
+      <java classname="${xslt.processor.class}" fork="yes" failonerror="true">
+        <classpath refid="xslt.processor.classpath" />
+        <jvmarg value="-Djavax.xml.parsers.DocumentBuilderFactory=org.apache.xerces.jaxp.DocumentBuilderFactoryImpl"/>
+        <jvmarg value="-Djavax.xml.parsers.SAXParserFactory=org.apache.xerces.jaxp.SAXParserFactoryImpl"/>
+        <jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
+        <arg line="-x ${resolving.reader.class}"/>
+        <arg line="-y ${resolving.reader.class}"/>
+        <arg line="-r ${catalog.resolver.class}"/>
+        <arg line="-u"/>
+        <arg line="${source.dir}/awards/book.xml"/>
+        <arg line="${xslHtmlTm}" />
+        <arg line="base.dir=${build.dir}/" />
+      </java>
+    </target>
+    
+    <target name="pdf.awards" depends="init">
+      <echo>Building XSL-FO intermediate output.</echo>
+      <java classname="${xslt.processor.class}" fork="yes" failonerror="true">
+        <classpath refid="xslt.processor.classpath" />
+        <jvmarg value="-Djavax.xml.parsers.DocumentBuilderFactory=org.apache.xerces.jaxp.DocumentBuilderFactoryImpl"/>
+        <jvmarg value="-Djavax.xml.parsers.SAXParserFactory=org.apache.xerces.jaxp.SAXParserFactoryImpl"/>
+        <jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
+        <arg line="-x ${resolving.reader.class}"/>
+        <arg line="-y ${resolving.reader.class}"/>
+        <arg line="-r ${catalog.resolver.class}"/>
+        <arg line="-u"/>
+        <arg line="-o ${fo.dir}/awards.fo"/>
+        <arg line="${source.dir}/awards/book.xml"/>
+        <arg line="${xslFoTm}" />
+      </java>
+      <echo>Creating RM PDF file</echo>
+      <java classname="${fo.processor.class}" failonerror="true">
+        <classpath refid="fo.processor.classpath" />
+        <arg line="-fo ${fo.dir}/tm.fo"/>
+        <arg line="-pdf ${build.dir}/pdf/tm.pdf"/>
+      </java>
+    </target>
+    
     <target name="html.history" depends="init, html.titlepage">
       <java classname="${xslt.processor.class}" fork="yes" failonerror="true">
         <classpath refid="xslt.processor.classpath" />
