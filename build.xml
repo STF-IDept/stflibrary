@@ -22,7 +22,7 @@
 	<!-- Classpath-related properties.  Set these to the location of the appropriate Jars. -->
 	<property name="saxon.jar" value="/usr/share/java/saxon.jar"/>
 	<property name="resolver.jar" value="/usr/share/java/resolver.jar"/>
-	<property name="xerces.jar" value="/usr/share/java/xercesImpl-nightly.jar"/> <!-- nightly build to fix the XInclude namespace bug. -->
+	<property name="xerces.jar" value="/usr/share/java/xercesImpl.jar"/> <!-- nightly build to fix the XInclude namespace bug. -->
 	<property name="xincluder.jar" value="/usr/share/java/xincluder.jar"/>
 	<property name="fop.jar" value="/usr/share/java/fop.jar"/>
 	<property name="batik.jar" value="/usr/share/java/batik.jar"/>
