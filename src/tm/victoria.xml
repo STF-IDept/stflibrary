@@ -401,43 +401,43 @@
 		<para>Ships were named for Ferdinand Magellan and his expedition circumnavigating the planet earth.  The class and it's class ship were both named for the primary and only surviving vessel used in that expedition.</para>
 		<simplelist role="ShipList">
 			<member role="PC">
-				<productname>USS Victoria</productname>
+				<productname>Victoria</productname>
 				<productnumber>101000 [Class Ship]</productnumber>
 			</member>
 			<member role="PC">
-				<productname>USS Ferdinand Magellan</productname>
+				<productname>Ferdinand Magellan</productname>
 				<productnumber>101001</productnumber>
 			</member>
 			<member role="PC">
-				<productname>USS Pigafetta</productname>
+				<productname>Pigafetta</productname>
 				<productnumber>101002</productnumber>
 			</member>
 			<member role="PC">
-				<productname>USS Trinidad</productname>
+				<productname>Trinidad</productname>
 				<productnumber>101003</productnumber>
 			</member>
 			<member role="PC">
-				<productname>USS Juan Elcano</productname>
+				<productname>Juan Elcano</productname>
 				<productnumber>101004</productnumber>
 			</member>
 			<member role="PC">
-				<productname>USS Enrique</productname>
+				<productname>Enrique</productname>
 				<productnumber>101005</productnumber>
 			</member>
 			<member role="PC">
-				<productname>USS Concepcion</productname>
+				<productname>Concepcion</productname>
 				<productnumber>101006</productnumber>
 			</member>
 			<member role="PC">
-				<productname>USS Santiago</productname>
+				<productname>Santiago</productname>
 				<productnumber>101007</productnumber>
 			</member>
 			<member role="PC">
-				<productname>USS San Antonio</productname>
+				<productname>San Antonio</productname>
 				<productnumber>101008</productnumber>
 			</member>
 			<member role="PC">
-				<productname>USS Mar Pacifico</productname>
+				<productname>Mar Pacifico</productname>
 				<productnumber>101009</productnumber>
 			</member>
 		</simplelist>
