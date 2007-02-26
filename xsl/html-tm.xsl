@@ -16,30 +16,55 @@
 
 	<!-- Any custom templates we need go here. -->
 	
-	<xsl:template match="simplelist[@role='ShipList']/member">
-	  <li class="{name(.)}">
-		<xsl:attribute name="class">
-			<xsl:value-of select="@role" /><xsl:text> </xsl:text><xsl:value-of select="name(.)" />
-		</xsl:attribute>
-		<xsl:apply-templates />
-		<xsl:if test="@role = 'NPC'">
-			<xsl:element name="span">
-				<xsl:attribute name="class">NPC-marker</xsl:attribute>
-				<xsl:text> (NPC)</xsl:text>
-			</xsl:element>
-		</xsl:if>
-		
-	  </li>
-	</xsl:template>
-	
-	
-	<xsl:template match="productnumber">
-	  <span class="{name(.)}">NCC-<xsl:apply-templates /></span>
-	</xsl:template>
-	
-	<xsl:template match="productname">
-	  <span class="{name(.)}">USS <xsl:apply-templates /></span>, 
-	</xsl:template>
+  <xsl:template match="simplelist[@role='ShipList']/member">
+    <li class="{name(.)}">
+    <xsl:attribute name="class">
+      <xsl:value-of select="@role" /><xsl:text> </xsl:text><xsl:value-of select="name(.)" />
+    </xsl:attribute>
+    <xsl:apply-templates />
+    <xsl:if test="@role = 'NPC'">
+      <xsl:element name="span">
+        <xsl:attribute name="class">NPC-marker</xsl:attribute>
+        <xsl:text> (NPC)</xsl:text>
+      </xsl:element>
+    </xsl:if>
+    
+    </li>
+  </xsl:template>
+  
+  
+  <xsl:template match="productnumber">
+    <span class="{name(.)}">NCC-<xsl:apply-templates /></span>
+  </xsl:template>
+  
+  <xsl:template match="productname">
+    <span class="{name(.)}">USS <xsl:apply-templates /></span>, 
+  </xsl:template>
+
+  <xsl:template match="simplelist[@role='ShipListEnt']/member">
+    <li class="{name(.)}">
+    <xsl:attribute name="class">
+      <xsl:value-of select="@role" /><xsl:text> </xsl:text><xsl:value-of select="name(.)" />
+    </xsl:attribute>
+    <xsl:apply-templates mode="Ent" />
+    <xsl:if test="@role = 'NPC'">
+      <xsl:element name="span">
+        <xsl:attribute name="class">NPC-marker</xsl:attribute>
+        <xsl:text> (NPC)</xsl:text>
+      </xsl:element>
+    </xsl:if>
+    
+    </li>
+  </xsl:template>
+  
+  
+  <xsl:template match="productnumber" mode="Ent">
+    <span class="{name(.)}">NC-<xsl:apply-templates /></span>
+  </xsl:template>
+  
+  <xsl:template match="productname" mode="Ent">
+    <span class="{name(.)}">SS <xsl:apply-templates /></span>, 
+  </xsl:template>
 
 	<xsl:template match="article//authorgroup" mode="article.titlepage.recto.auto.mode">
 		<div xsl:use-attribute-sets="article.titlepage.recto.style">

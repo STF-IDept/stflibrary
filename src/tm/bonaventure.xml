@@ -447,7 +447,7 @@
 	</section>
 	<section>
 		<title>Ships of the Class</title>
-		<simplelist role="ShipList">
+		<simplelist role="ShipListEnt">
 			<member role="PC">
 				<productname>Bonaventure</productname>
 				<productnumber>01</productnumber>
