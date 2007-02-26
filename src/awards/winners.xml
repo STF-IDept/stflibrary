@@ -10,6 +10,13 @@
 		</author>
 		<revhistory>
 			<revision>
+				<revnumber>2</revnumber>
+				<date>25 February 2007</date>
+				<revdescription>
+					<para>Updated with the January 2007 award winners.</para>
+				</revdescription>
+			</revision>
+			<revision>
 				<revnumber>1</revnumber>
 				<date>15 January 2007</date>
 				<revdescription>
@@ -21,6 +28,7 @@
 	<section>
 		<title>Best Department MOTD</title>
 		<itemizedlist>
+			<listitem><para><emphasis>January 2007</emphasis>: Starfleet Academy</para></listitem>
 			<listitem><para><emphasis>July 2006</emphasis>: Starfleet Academy</para></listitem>
 			<listitem><para><emphasis>July 2005</emphasis>: Starfleet Academy</para></listitem>
 		</itemizedlist>
@@ -28,6 +36,7 @@
 	<section>
 		<title>Best Ship, Base, or Planet MOTD</title>
 		<itemizedlist>
+			<listitem><para><emphasis>January 2007</emphasis>: Oed V (CO Symon Silvester)</para></listitem>
 			<listitem><para><emphasis>July 2006</emphasis>: USS Polaris (CO Julia K.)</para></listitem>
 			<listitem><para><emphasis>July 2005</emphasis>: USS Atlantis (CO Sarah Hemenway)</para></listitem>
 			<listitem><para><emphasis>December 2001</emphasis>: USS Polaris (CO Chris Healey)</para></listitem>
@@ -36,6 +45,7 @@
 	<section>
 		<title>Best Fleet MOTD</title>
 		<itemizedlist>
+			<listitem><para><emphasis>January 2007</emphasis>: Fifth Fleet (FComm Joe Fahey)</para></listitem>
 			<listitem><para><emphasis>July 2006</emphasis>: Seventh Fleet (FComm Jessica McClary)</para></listitem>
 			<listitem><para><emphasis>July 2005</emphasis>: Fourth Fleet (FComm Emma Rouse-Deane)</para></listitem>
 			<listitem><para><emphasis>December 2001</emphasis>: Seventh Fleet (FComm Nikolle Burchett)</para></listitem>
@@ -44,6 +54,7 @@
 	<section>
 		<title>Favorite Ship Class</title>
 		<itemizedlist>
+			<listitem><para><emphasis>January 2007</emphasis>: Discovery Class (Designed by Barret Vogtman)</para></listitem>		
 			<listitem><para><emphasis>July 2006</emphasis>: Discovery Class (Designer Barret Vogtman)</para></listitem>
 			<listitem><para><emphasis>July 2005</emphasis>: Discovery Class (Designer Barret Vogtman)</para></listitem>
 			<listitem><para><emphasis>December 2001</emphasis>: Andromeda Class (Designer Mark Wilson)</para></listitem>
@@ -52,6 +63,7 @@
 	<section>
 		<title>Best Mission by a Gamemaster</title>
 		<itemizedlist>
+			<listitem><para><emphasis>January 2007</emphasis>: Stuart Coll for "Paradise Lost" (USS Genesis)</para></listitem>		
 			<listitem><para><emphasis>July 2006</emphasis>: Stuart Coll for "Paradise Lost" (USS Genesis)</para></listitem>
 			<listitem><para><emphasis>July 2005</emphasis>: Jack Dipper for "Mirror Universe GMT Mission" (USS Asimov)</para></listitem>
 			<listitem><para><emphasis>December 2001</emphasis>: Deanne Ashton for "Utiluan Possession" (USS Ogawa)</para></listitem>
@@ -60,6 +72,7 @@
 	<section>
 		<title>Most Promising Newcomer</title>
 		<itemizedlist>
+			<listitem><para><emphasis>January 2007</emphasis>: Russell Watt</para></listitem>		
 			<listitem><para><emphasis>July 2006</emphasis>: Joel Diaz</para></listitem>
 			<listitem><para><emphasis>July 2005</emphasis>: Julia K.</para></listitem>
 			<listitem><para><emphasis>December 2001</emphasis>: Amanda Noon</para></listitem>
@@ -68,6 +81,7 @@
 	<section>
 		<title>Best Use of NEs</title>
 		<itemizedlist>
+			<listitem><para><emphasis>January 2007</emphasis>: Brian Olinski</para></listitem>		
 			<listitem><para><emphasis>July 2006</emphasis>: Emma Rouse-Deane</para></listitem>
 			<listitem><para><emphasis>July 2005</emphasis>: Emma Rouse-Deane</para></listitem>
 			<listitem><para><emphasis>December 2001</emphasis>: Shalon Hurlbert</para></listitem>
@@ -76,6 +90,7 @@
 	<section>
 		<title>Most Creative Poster</title>
 		<itemizedlist>
+			<listitem><para><emphasis>January 2007</emphasis>: Russell Watt</para></listitem>		
 			<listitem><para><emphasis>July 2006</emphasis>: Stuart Coll</para></listitem>
 			<listitem><para><emphasis>July 2005</emphasis>: Mike Seiler</para></listitem>
 			<listitem><para><emphasis>December 2001</emphasis>: Deanne Ashton</para></listitem>
@@ -84,6 +99,7 @@
 	<section>
 		<title>Best Alien Characterization</title>
 		<itemizedlist>
+			<listitem><para><emphasis>January 2007</emphasis>: Jason White as "Vaahl-Kor Raxx"</para></listitem>		
 			<listitem><para><emphasis>July 2006</emphasis>: Krystelle Bromilow as "Tariki"</para></listitem>
 			<listitem><para><emphasis>July 2005</emphasis>: Emma Rouse-Deane as "Kor'Esh"></para></listitem>
 			<listitem><para><emphasis>December 2001</emphasis>: Owen Townes</para></listitem>
@@ -92,6 +108,7 @@
 	<section>
 		<title>Wackiest Character</title>
 		<itemizedlist>
+			<listitem><para><emphasis>January 2007</emphasis>: Larry Garfield as "Monty the Python"</para></listitem>		
 			<listitem><para><emphasis>July 2006</emphasis>: Larry Garfield as "Monty the Python"</para></listitem>
 			<listitem><para><emphasis>July 2005</emphasis>: Larry Garfield as "Monty the Python"</para></listitem>
 		</itemizedlist>
@@ -99,6 +116,7 @@
 	<section>
 		<title>Best Romantic Couple</title>
 		<itemizedlist>
+			<listitem><para><emphasis>January 2007</emphasis>: Sage Brennan (played by D Grisham) and Toryn Jorel (played by Brian Olinski)</para></listitem>		
 			<listitem><para><emphasis>July 2005</emphasis>: Mirror T'Pel (played by Jen Herr) and Mirror Eyota Thwayya (played by Emma Rouse-Deane)</para></listitem>
 			<listitem><para><emphasis>December 2001</emphasis>: Toni McGonagall (played by Catherine Potterton) and Victoria Fontana (played by Tamzin Griffiths)</para></listitem>
 			<listitem><para><emphasis>December 2001</emphasis>: Indigo (played by Deanne Ashton) and Kavox (played by Mike Bourdaa)</para></listitem>
@@ -107,6 +125,8 @@
 	<section>
 		<title>Best Junior Officer: Engineering</title>
 		<itemizedlist>
+			<listitem><para><emphasis>January 2007</emphasis>: Matthew Rose</para></listitem>
+			<listitem><para><emphasis>January 2007</emphasis>: Shaughn Gorman</para></listitem>
 			<listitem><para><emphasis>July 2005</emphasis>: Rex Linnenkohl</para></listitem>
 			<listitem><para><emphasis>December 2001</emphasis>: Edward Hull</para></listitem>
 			<listitem><para><emphasis>December 2001</emphasis>: Ramona Stevens</para></listitem>
@@ -115,6 +135,7 @@
 	<section>
 		<title>Best Junior Officer: Medical</title>
 		<itemizedlist>
+			<listitem><para><emphasis>January 2007</emphasis>: Jody Romero</para></listitem>
 			<listitem><para><emphasis>July 2005</emphasis>: Catt Bennett</para></listitem>
 			<listitem><para><emphasis>December 2001</emphasis>: Emma Rouse-Deane</para></listitem>
 		</itemizedlist>
@@ -122,6 +143,7 @@
 	<section>
 		<title>Best Junior Officer: Science</title>
 		<itemizedlist>
+			<listitem><para><emphasis>January 2007</emphasis>: Jason Y. Lee</para></listitem>
 			<listitem><para><emphasis>July 2006</emphasis>: Stefan Hager</para></listitem>
 			<listitem><para><emphasis>July 2005</emphasis>: Mike Draper</para></listitem>
 			<listitem><para><emphasis>December 2001</emphasis>: Emily Stephenson</para></listitem>
@@ -130,6 +152,7 @@
 	<section>
 		<title>Best Junior Officer: Security</title>
 		<itemizedlist>
+			<listitem><para><emphasis>January 2007</emphasis>: Jim Hosick</para></listitem>		
 			<listitem><para><emphasis>July 2006</emphasis>: Cale Reilly</para></listitem>
 			<listitem><para><emphasis>July 2005</emphasis>: Mike Culver</para></listitem>
 		</itemizedlist>
@@ -137,6 +160,7 @@
 	<section>
 		<title>Best Swing</title>
 		<itemizedlist>
+			<listitem><para><emphasis>January 2007</emphasis>: Russell Watt</para></listitem>		
 			<listitem><para><emphasis>July 2006</emphasis>: Symon Silvester</para></listitem>
 			<listitem><para><emphasis>July 2005</emphasis>: Larry Garfield as "Chirpa" (PLO of Starbase 202)</para></listitem>
 		</itemizedlist>
@@ -144,6 +168,7 @@
 	<section>
 		<title>Best Counselor</title>
 		<itemizedlist>
+			<listitem><para><emphasis>January 2007</emphasis>: Sarah Hemenway</para></listitem>		
 			<listitem><para><emphasis>July 2006</emphasis>: Sarah Hemenway</para></listitem>
 			<listitem><para><emphasis>July 2005</emphasis>: Jen Herr</para></listitem>
 			<listitem><para><emphasis>December 2001</emphasis>: Amanda Noon</para></listitem>
@@ -152,6 +177,7 @@
 	<section>
 		<title>Best Department Head: Engineering</title>
 		<itemizedlist>
+			<listitem><para><emphasis>January 2007</emphasis>: Brandon Irvine</para></listitem>		
 			<listitem><para><emphasis>July 2006</emphasis>: Jen Herr</para></listitem>
 			<listitem><para><emphasis>July 2005</emphasis>: Jen Herr</para></listitem>
 			<listitem><para><emphasis>December 2001</emphasis>: Larry Garfield</para></listitem>
@@ -160,6 +186,7 @@
 	<section>
 		<title>Best Department Head: Medical</title>
 		<itemizedlist>
+			<listitem><para><emphasis>January 2007</emphasis>: Cale Reilly</para></listitem>		
 			<listitem><para><emphasis>July 2006</emphasis>: Janelle Kimber</para></listitem>
 			<listitem><para><emphasis>July 2005</emphasis>: Brandon Irvine</para></listitem>
 			<listitem><para><emphasis>July 2005</emphasis>: Janelle Kimber</para></listitem>
@@ -169,6 +196,7 @@
 	<section>
 		<title>Best Department Head: Science</title>
 		<itemizedlist>
+			<listitem><para><emphasis>January 2007</emphasis>: Daniel Lerner</para></listitem>		
 			<listitem><para><emphasis>July 2006</emphasis>: Jessica McClary</para></listitem>
 			<listitem><para><emphasis>July 2005</emphasis>: Jessica McClary</para></listitem>
 			<listitem><para><emphasis>December 2001</emphasis>: Scott Jones</para></listitem>
@@ -177,6 +205,7 @@
 	<section>
 		<title>Best Department Head: Security</title>
 		<itemizedlist>
+			<listitem><para><emphasis>January 2007</emphasis>: Anthony Martin</para></listitem>		
 			<listitem><para><emphasis>July 2006</emphasis>: Andrew Robinson</para></listitem>
 			<listitem><para><emphasis>July 2005</emphasis>: Emma Rouse-Deane</para></listitem>
 			<listitem><para><emphasis>December 2001</emphasis>: Mike Bourdaa</para></listitem>
@@ -185,6 +214,7 @@
 	<section>
 		<title>Best Gamemaster</title>
 		<itemizedlist>
+			<listitem><para><emphasis>January 2007</emphasis>: Symon Silvester</para></listitem>		
 			<listitem><para><emphasis>July 2006</emphasis>: Sarah Hemenway</para></listitem>
 			<listitem><para><emphasis>July 2006</emphasis>: Stuart Coll</para></listitem>
 			<listitem><para><emphasis>July 2006</emphasis>: Therle Dregansky</para></listitem>
@@ -195,6 +225,7 @@
 	<section>
 		<title>Best Executive Officer</title>
 		<itemizedlist>
+			<listitem><para><emphasis>January 2007</emphasis>: Symon Silvester</para></listitem>		
 			<listitem><para><emphasis>July 2006</emphasis>: Julia K.</para></listitem>
 			<listitem><para><emphasis>July 2005</emphasis>: Emma Rouse-Deane</para></listitem>
 			<listitem><para><emphasis>July 2005</emphasis>: Sarah Hemenway</para></listitem>
@@ -204,6 +235,7 @@
 	<section>
 		<title>Best Commanding Officer</title>
 		<itemizedlist>
+			<listitem><para><emphasis>January 2007</emphasis>: Sarah Hemenway</para></listitem>		
 			<listitem><para><emphasis>July 2006</emphasis>: Julia K.</para></listitem>
 			<listitem><para><emphasis>July 2005</emphasis>: Emma Rouse-Deane</para></listitem>
 			<listitem><para><emphasis>December 2001</emphasis>: Emma Rouse-Deane</para></listitem>
@@ -212,6 +244,7 @@
 	<section>
 		<title>Best Base or Planet</title>
 		<itemizedlist>
+			<listitem><para><emphasis>January 2007</emphasis>: Oed V (CO Symon Silvester)</para></listitem>		
 			<listitem><para><emphasis>July 2006</emphasis>: Oceanus III (FComm Jessica McClary)</para></listitem>
 			<listitem><para><emphasis>July 2006</emphasis>: Oed V (CO Symon Silvester)</para></listitem>
 			<listitem><para><emphasis>July 2005</emphasis>: Outpost 42 (CO Brandon Irvine)</para></listitem>
@@ -221,6 +254,7 @@
 	<section>
 		<title>Best Ship</title>
 		<itemizedlist>
+			<listitem><para><emphasis>January 2007</emphasis>: USS Atlantis (CO Sarah Hemenway)</para></listitem>		
 			<listitem><para><emphasis>July 2006</emphasis>: USS Polaris (CO Julia K.)</para></listitem>
 			<listitem><para><emphasis>July 2005</emphasis>: USS Endeavor (CO Alex Verdusco)</para></listitem>
 			<listitem><para><emphasis>December 2001</emphasis>: USS Ogawa (CO Colleen Steven)</para></listitem>
@@ -229,6 +263,7 @@
 	<section>
 		<title>Best Fleet</title>
 		<itemizedlist>
+			<listitem><para><emphasis>January 2007</emphasis>: Academy</para></listitem>		
 			<listitem><para><emphasis>July 2006</emphasis>: Seventh Fleet</para></listitem>
 			<listitem><para><emphasis>July 2005</emphasis>: Fourth Fleet</para></listitem>
 			<listitem><para><emphasis>December 2001</emphasis>: Fourth Fleet</para></listitem>
@@ -238,6 +273,8 @@
 		<title>Most Valuable Player</title>
 		<para>This is awarded to the person who you generally love to see on your roster, with the knowledge that it's going to be a great time having them on board. This is solely an award based on roleplaying.</para>
 		<itemizedlist>
+			<listitem><para><emphasis>January 2007</emphasis>: Russell Watt</para></listitem>
+			<listitem><para><emphasis>January 2007</emphasis>: Sarah Hemenway</para></listitem>					
 			<listitem><para><emphasis>July 2006</emphasis>: Therle Dregansky</para></listitem>
 			<listitem><para><emphasis>July 2005</emphasis>: Emma Rouse-Deane</para></listitem>
 			<listitem><para><emphasis>December 2001</emphasis>: Emma Rouse-Deane</para></listitem>
@@ -247,6 +284,7 @@
 		<title>Best STFer</title>
 		<para>This is an all around award that is awarded not only for roleplaying, but for services to the club in an OOC sense as well. The award winners below will be generally familiar to all, not only for the quality of their roleplaying, but have in one way or another made the whole STF experience better for all.</para>
 		<itemizedlist>
+			<listitem><para><emphasis>January 2007</emphasis>: Sarah Hemenway</para></listitem>		
 			<listitem><para><emphasis>July 2006</emphasis>: Emma Rouse-Deane</para></listitem>
 			<listitem><para><emphasis>July 2006</emphasis>: Sarah Hemenway</para></listitem>
 			<listitem><para><emphasis>July 2005</emphasis>: Emma Rouse-Deane</para></listitem>
