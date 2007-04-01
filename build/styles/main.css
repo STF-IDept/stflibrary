@@ -206,6 +206,10 @@ margin: 0em;
 padding: 0em;
 }
 
+div.group-wrapper {
+clear: both;
+}
+
 div.revhistory {
 clear: both;
 }

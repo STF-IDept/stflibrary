@@ -22,16 +22,16 @@
 
 	<part id="govtstructure">
 		<title>Government structure</title>
-		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="fleets.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="go.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="moo.xml" />
+    <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="membership.xml" />
+    <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="government.xml" />
+    <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="fleets.xml" />
 	</part>
 	<part id="departments">
 		<title>Executive Departments and Assistants</title>
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="acad.xml" />
+    <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="elections.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="coder.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="ed.xml" />
-    <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="legoe.xml" />
 		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="library.xml" />
 		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="gmd.xml" />
 		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="pd.xml" />

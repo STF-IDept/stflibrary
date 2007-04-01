@@ -36,6 +36,9 @@
   <xsl:apply-templates mode="article.titlepage.recto.auto.mode" select="articleinfo/corpauthor"/>
   <xsl:apply-templates mode="article.titlepage.recto.auto.mode" select="artheader/corpauthor"/>
   <xsl:apply-templates mode="article.titlepage.recto.auto.mode" select="info/corpauthor"/>
+  <xsl:apply-templates mode="article.titlepage.recto.auto.mode" select="articleinfo/keywordset"/>
+  <xsl:apply-templates mode="article.titlepage.recto.auto.mode" select="artheader/keywordset"/>
+  <xsl:apply-templates mode="article.titlepage.recto.auto.mode" select="info/keywordset"/>
   <xsl:apply-templates mode="article.titlepage.recto.auto.mode" select="articleinfo/authorgroup"/>
   <xsl:apply-templates mode="article.titlepage.recto.auto.mode" select="artheader/authorgroup"/>
   <xsl:apply-templates mode="article.titlepage.recto.auto.mode" select="info/authorgroup"/>
@@ -128,6 +131,12 @@
 </xsl:template>
 
 <xsl:template match="corpauthor" mode="article.titlepage.recto.auto.mode">
+<div xsl:use-attribute-sets="article.titlepage.recto.style">
+<xsl:apply-templates select="." mode="article.titlepage.recto.mode"/>
+</div>
+</xsl:template>
+
+<xsl:template match="keywordset" mode="article.titlepage.recto.auto.mode">
 <div xsl:use-attribute-sets="article.titlepage.recto.style">
 <xsl:apply-templates select="." mode="article.titlepage.recto.mode"/>
 </div>
