@@ -1,0 +1,78 @@
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
+                    "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<article id="charter-code">
+	<title>Legislative Edict Governing Official Elections</title>
+	<subtitle>"LEGOE"</subtitle>
+	<articleinfo>
+		<author role="President">
+			<honorific>President</honorific>
+			<firstname>Sarah</firstname>
+			<surname>Hemenway</surname>
+		</author>
+		<revhistory>
+			<revision>
+				<revnumber>1</revnumber>
+				<date>1 April 2007</date>
+				<revdescription>
+					<para>Based on Edict <ulink url="http://star-fleet.com/prez/hemenway.php#e16">Hemenway #16</ulink></para>
+				</revdescription>
+			</revision>
+		</revhistory>
+	</articleinfo>
+	<section>
+		<title>Supercedence of previous edicts</title>
+		<para>Edict Herr #28 is hereby rescinded and superceded by this Edict.</para>
+	</section>
+	<section>
+		<title>Establishment of the Election Season</title>
+		<para>Election Season is hereby established as the period of time starting with the announcement of an Election Coordinator and ending with the removal of the Election Area from public view. The Election Area is hereby established as an area of the WeBB set aside specifically for Election-related business and discussion.</para>
+	</section>
+	<section>
+		<title>Election Coordinator</title>
+		<para>The Election Coordinator is an Executive Assistant with complete powers over the Elections. However, their power is limited to the Elections only, and ceases to exist once the elections are over and all pending disputes are resolved.</para>
+		<para>The Election Coordinator may not delegate any tasks unless specific assistance or expertise is required. The Internet Director is required to provide the Election Coordinator with whatever access to the STF server and system resources are required in order to fulfill his responsibilities and provide assistance in using them as needed. Such resources may include, but are not limited to, server shell access, file upload access, IRC operator status, and member account information.</para>
+		<para>The Election Coordinator is tasked to see to the proper running and functioning of a democratic election process. In order to enforce this, the Election Coordinator is empowered to provide official warnings or reprimands, remove election related material from the STF server, remove voting privileges, remove posting privileges on the Election Area, and, in the most extreme cases, nullify or void a campaign ticket. Election matters may be taken to the President for further club-level punishment. All rulings by the Election Coordinator are final and are not subject to appeal.</para>
+		<para>The Election Coordinator is to be the impartial moderator of the Election and is therefore forbidden from running as a Presidential or Vice Presidential candidate, from nominating or seconding any candidate, from campaigning for any candidate, and from openly endorsing any candidate.</para>
+	</section>
+	<section>
+		<title>Procedure</title>
+		<section>
+			<title>Introduction</title>
+			<para>Elections will be held once every eight months. The President must name an Election Coordinator via Edict at least two weeks prior to the beginning of their eighth month in office. Once an Election Coordinator is named, the Internet Department will open the Election Area. The Election Coordinator must announce, in Command and on the Election Area, an Election Timetable at least one week prior to the commencement of said timetable, as well as any additional rules governing the Election. The Timetable will last a minimum of twenty-eight days and no more than thirty-four days. Both the Timetable and a link to any Election rules must remain posted on the Election Area MOTD. The Election Area will be deactivated no less than seven and no more than 14 days after the Election has concluded.</para>
+		</section>
+		<section>
+			<title>Nominations</title>
+			<para>Any Member can nominate another Member for the position of President. Another Member must then second the nomination. A prospective Presidential Candidate may not nominate or second their own ticket; however, a prospective Vice Presidential Candidate may do so. A Member can only nominate or second one individual; however, if that individual declines the nomination, the nominating Members are free to nominate another individual.</para>
+			<para>Once the nomination has been seconded, the Candidate must publically accept the nomination and declare a Vice Presidential Candidate in a post on the Election Area. The EC will then validate the ticket and the Candidate pair may begin compaigning. If the Candidate does not publically accept the nomination by the end of the nomination period, he will be disqualified.</para>
+		</section>
+		<section>
+			<title>Campaigns</title>
+			<para>Every person who posts on the Election Area is expected to keep their posts to the point, truthful, and within the bounds of common courtesy. Behavior such as, but not limited to, character attacks, inflammatory finger-pointing, trickery, and deception will not be tolerated and may lead to penalties at the Election Coordinator's discretion. (Example: "Candidate X is a horrible person..." will not be tolerated. However, "Candidate X has made several mistakes as QDir. They are..." will be tolerated within the bounds of common courtesy). Any additional campaign materials, including, but not limited to, candidate websites, are required to meet the same standards as Election Area posts. The Election Coordinator is responsible for reviewing posts and campaign materials on a regular basis and for ruling on questionable instances as they occur.</para>
+			<para>Campaigning on the WeBB may take place on the Election Area only. Any MOTD announcements implying support for or voicing opinions against any specific ticket are expressly forbidden. MOTD announcements of upcoming Election Season events and timetables are permissible provided that they do not contain support for any ticket. Violations of these rules will result in sanctions from the Election Coordinator, and immediate removal of the announcement by the Internet Department or the Election Coordinator.</para>
+			<para>Candidates may individually contact people to discuss the Election and to ask for their support. In the event that the person contacted does not wish to talk about the Election, the Candidate must refrain from discussing it with him. At no time will any unsolicited campaign material be sent to more than one person at a time. Should an individual not wish to be contacted regarding the election, he may request that the Election Coordinator place him on a publically accessible "do not contact" list. All members are required to abide by this list.</para>
+			<para>Discussion in the #star-fleet IRC channel is permissible as long as it does not imply support for or against a specific Candidate. (Example: "Have you read the election ship lately?" or "It sure is an interesting election" are permissible. However, "I can't believe Candidate X said that" or "Candidate Y sure had some good answers today" or "I think it's clear who's winning" are not permissible). IRC quit messages are permissible, but limited to the following format: Presidential Candidate/Vice Presidential Candidate - "Slogan Here".</para>
+			<para>Any violation of campaigning rules will be investigated by the Election Coordinator. The Election Coordinator must allow the accused Member the opportunity to adequately defend himself and respond to any accusation before levying a penalty. If it is found that a Member (Candidate or otherwise) did violate the campaigning rules, appropriate penalties will be given by the Election Coordinator as outlined in Section III. Campaigns may be held liable for actions of their supporters if it can be shown that the campaign was aware of the offending activity.</para>
+		</section>
+		<section>
+			<title>Voting</title>
+			<para>During the Voting period, campaigning continues. Voting is by secret ballot, utilizing a method decided upon by the Election Coordinator that allows for votes to be "locked" and has appropriate security. Every Member is eligible to vote once, except for the Election Coordinator, who does not vote unless needed as a method of tie-breaking. The Election Coordinator is empowered to determine whether there will be a primary vote and how tie-breaking votes will be handled, which must be included in the published Election Rules.</para>
+			<para>The winning Candidate is the one with a plurality of votes, i.e., the highest number of votes.</para>
+		</section>
+		<section>
+			<title>Results</title>
+			<para>The Election Coordinator is responsible for tallying all votes cast and announcing the results publicly. The new President will be installed on the first day of the new Presidential Term.</para>
+		</section>
+	</section>
+	<section>
+		<title>Irregularities</title>
+		<para>In the event that the procedure outlined in this Edict is not properly followed, the Election Coordinator may note an irregularity.</para>
+		<para>If in the judgement of the Election Coordinator the irregularity does not violate the integrity of the election process then he must state so publicly and provide reasoning.</para>
+		<para>If in the judgement of the Election Coordinator the procedure outlined in this Edict may be adjusted to account for the irregularity without violating the integrity of the election process, he must state so publicly and explain what temporary adjustments will be made and why.</para>
+		<para>If in the judgement of the Election Coordinator the irregularity does violate the integrity of the election process or render a fair and honest result impossible to determine, the Election Coordinator may declare a Irregular Election. A Irregular Election may only be declared in extreme circumstances, upon the advise and consent of the sitting President or senior-most member who is not a candidate in the election, and must include a detailed explanation of why it is impossible to recover from the irregularity.</para>
+		<para>If an Irregular Election is declared, the election is considered void. The Election Coordinator must immediately restart the election process with fresh nominations. The new election process will follow the same procedure as a normal election unless explicitly stated otherwise by the Election Coordinator. Should the new election process extend into what would be the new Presidential term, the sitting president will remain in office for the duration of the new election process until a new President is installed, and the new President's term will be shortened by the amount of overlap.</para>
+	</section>
+	<section>
+		<title>Conclusion</title>
+		<para>This edict may not be amended or replaced during an election season, except with the posted consent of the currently sitting President, Vice President, and Election Coordinator.</para>
+	</section>
+</article>

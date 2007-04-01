@@ -10,7 +10,7 @@
 			<firstname>Larry</firstname>
 			<surname>Garfield</surname>
 		</editor>
-		<date>8 October 2006</date>
+		<date>1 April 2007</date>
 		<abstract>
 			<title>About this book</title>
 			<para>STF Executive Departments and role playing areas (ships) are created by Presidential Edict.  These edicts serve as "charters" for a specific department or role playing area, and define that department's rules and code of condult, what authority a given department has, that role playing area's unique attributes (for Alternate Role-Playing Areas), and various other useful and important pieces of information.  Other edicts make clear certain aspects of STF's procedure and functioning in one clearly-defined place.</para>
@@ -22,13 +22,16 @@
 
 	<part id="govtstructure">
 		<title>Government structure</title>
-		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="depts.xml" />
 		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="fleets.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="go.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="moo.xml" />
 	</part>
 	<part id="departments">
 		<title>Executive Departments and Assistants</title>
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="acad.xml" />
+    <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="code.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="ed.xml" />
+    <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="legoe.xml" />
 		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="library.xml" />
 		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="gmd.xml" />
 		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="pd.xml" />
