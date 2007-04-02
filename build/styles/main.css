@@ -188,6 +188,11 @@ font-style: italic;
 font-style: italic;
 }
 
+div.group-wrapper {
+margin-left: auto;
+margin-right: auto;
+}
+
 div.authorgroup-wrapper {
 float: left;
 margin-right: 2em;
@@ -204,10 +209,6 @@ border-bottom: 2px dotted #dfb833;
 div.authorgroup-wrapper h3.author {
 margin: 0em;
 padding: 0em;
-}
-
-div.group-wrapper {
-clear: both;
 }
 
 div.revhistory {
@@ -230,3 +231,13 @@ span.NPC-marker {
 font-style: italic;
 }
 
+dl.classification dt {
+float: left;
+font-size: 14pt;
+color: White;
+border-bottom: 2px dotted #dfb833;
+}
+
+dl.classification dd {
+clear: both;
+}

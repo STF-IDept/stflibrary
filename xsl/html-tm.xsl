@@ -63,26 +63,21 @@
   </xsl:template>
 
 
-<xsl:template match="article//keywordset" mode="article.titlepage.recto.auto.mode">
-    <div class="group-wrapper">
-      <div xsl:use-attribute-sets="article.titlepage.recto.style">
-        <xsl:attribute name="class">authorgroup-wrapper</xsl:attribute>
-        <xsl:apply-templates select="keyword" mode="article.titlepage.recto.mode" />
-      </div>
-    </div>
-</xsl:template>
+  <xsl:template match="article//keywordset" mode="article.titlepage.recto.auto.mode">
+    <dl class="classification">
+      <xsl:apply-templates select="keyword" mode="article.titlepage.recto.mode" />
+    </dl>
+  </xsl:template>
 
-<xsl:template match="keywordset/keyword" mode="article.titlepage.recto.mode">
-  <div class="keyword">
+  <xsl:template match="keywordset/keyword" mode="article.titlepage.recto.mode">
     <xsl:if test="@role != ''">
-      <p class="authorgroup-title"><xsl:value-of select="@role" /></p>
+      <dt><xsl:value-of select="@role" /></dt>
+      <dd><xsl:apply-templates mode="article.titlepage.recto.mode"/></dd>
     </xsl:if>
-    <div class="authorgroup"><div class="author"><xsl:apply-templates mode="article.titlepage.recto.mode"/></div></div>
-  </div>
-</xsl:template>
+  </xsl:template>
 
 	<xsl:template match="article//authorgroup" mode="article.titlepage.recto.auto.mode">
-	  <div class="group-wrapper">
+    <div class="group-wrapper">
       <div xsl:use-attribute-sets="article.titlepage.recto.style">
 			  <xsl:attribute name="class">authorgroup-wrapper</xsl:attribute>
 			  <xsl:if test="@role != ''">
