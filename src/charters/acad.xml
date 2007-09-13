@@ -15,17 +15,17 @@
 		</author>
 		<revhistory>
 			<revision>
-				<revnumber>1</revnumber>
-				<date>20 September 2005</date>
-				<revdescription>
-					<para>Based on Edict <ulink url="http://www.star-fleet.com/prez/dipper.php#e22">Dipper #22</ulink></para>
-				</revdescription>
-			</revision>
-			<revision>
 				<revnumber>2</revnumber>
 				<date>6 July 2006</date>
 				<revdescription>
-					<para>Based on Edict <ulink url="http://www.star-fleet.com/prez/herr.php#e32">Herr #32</ulink></para>
+					<para>Based on Edict <ulink url="http://www.star-fleet.com/prez/edicts/herr/#e32">Herr #32</ulink></para>
+				</revdescription>
+			</revision>		
+			<revision>
+				<revnumber>1</revnumber>
+				<date>20 September 2005</date>
+				<revdescription>
+					<para>Based on Edict <ulink url="http://www.star-fleet.com/prez/edicts/dipper/#e22">Dipper #22</ulink></para>
 				</revdescription>
 			</revision>
 		</revhistory>

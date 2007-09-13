@@ -11,31 +11,38 @@
 		</author>
 		<revhistory>
 			<revision>
+				<revnumber>4</revnumber>
+				<date>15 April 2007</date>
+				<revdescription>
+					<para>Based on Edict <ulink url="http://www.star-fleet.com/prez/edicts/hemenway/#e39">Hemenway #39</ulink></para>
+				</revdescription>
+			</revision>
+			<revision>
 				<revnumber>3</revnumber>
 				<date>26 September 2006</date>
 				<revdescription>
-					<para>Based on Edict <ulink url="http://www.star-fleet.com/prez/hemenway.php#e10">Hemenway #10</ulink></para>
+					<para>Based on Edict <ulink url="http://www.star-fleet.com/prez/edicts/hemenway/#e10">Hemenway #10</ulink></para>
 				</revdescription>
 			</revision>
 			<revision>
 				<revnumber>2</revnumber>
 				<date>13 May 2006</date>
 				<revdescription>
-					<para>Based on Edict <ulink url="http://www.star-fleet.com/prez/herr.php#e22">Herr #22</ulink></para>
+					<para>Based on Edict <ulink url="http://www.star-fleet.com/prez/edicts/herr/#e22">Herr #22</ulink></para>
 				</revdescription>
 			</revision>
 			<revision>
 				<revnumber>1</revnumber>
 				<date>23 June 2005</date>
 				<revdescription>
-					<para>Based on Edict <ulink url="http://star-fleet.com/prez/garfield.php3#e22">Garfield #22</ulink></para>
+					<para>Based on Edict <ulink url="http://www.star-fleet.com/prez/edicts/garfield/#e22">Garfield #22</ulink></para>
 				</revdescription>
 			</revision>
 		</revhistory>
 	</articleinfo>
 	<section>
 		<title>Supercedence of previous edicts</title>
-		<para>Edict Herr #22 is hereby rescinded and superceded by this Edict.</para>
+		<para>Edict Hemenway #10 is hereby rescinded and superceded by this Edict.</para>
 	</section>
 	<section>
 		<title>Fleet structure and command</title>
@@ -51,7 +58,7 @@
 			<title>Fleet Commander</title>
 			<para>All Fleets are commanded by a Fleet Commander, appointed by the President. The Fleet Commander is considered a member of the Cabinet. The Fleet Commander is charged with seeing to the proper functioning of the Fleet under his command and the administration of related COs, XOs, and other Ship Administrators. The Fleet Commander is responsible for the outward image of the Fleet under his command, for reporting to the President and working with the President on matters of Fleet business, and other duties as specified in this and other Edicts.</para>
 			<para>Specifically, the Fleet Commander is responsible for ensuring that the Ships under his command are healthy and properly functioning role playing environments, that the internal and external pages under his jurisdiction are maintained, and that fleet reports which detail the current status of each ship under his or her command are submitted to the President. The President is responsible for dictating in policy how and when fleet reports should be submitted.</para>
-			<para>In the event that the positions of CO and XO on a ship both become vacant simltaneously, due to AWOL, eLOA, resignation, or other circumstances, the Fleet Commander may appoint an aCO and aXO. They must notify the President of such action and relay their recommendation on whether replacing the CO permanently is necessary or not.</para>
+			<para>In the event that the positions of CO and XO on a ship both become vacant simultaneously, due to AWOL, eLOA, resignation, or other circumstances, the Fleet Commander may appoint an aCO and aXO. They must notify the President of such action and relay their recommendation on whether replacing the CO permanently is necessary or not.</para>
 		</section>
 		<section>
 			<title>Assistant Fleet Commander</title>
@@ -59,7 +66,7 @@
 		</section>
 		<section>
 			<title>Restrictions</title>
-			<para>The Fleet Commander and Assistant Fleet Commander must be a current or former CO, or the equivalent of CO in an Alternate RPG Area, of the Fleet in question. Acting CO does not count. No individual may be the Fleet Commander or Assistant Fleet Commander of more than one Fleet at a time, nor may any individual be Fleet Commander of one Fleet and Assistant Fleet Commander of another Fleet at the same time. The President may not be the Fleet Commander or Assistant Fleet Commander of any Fleet. Acting holder of a position does not count towards these restrictions.</para>
+			<para>The Fleet Commander must be a current or former CO of the fleet in question, or a current or former XO in the fleet in question with CO experience. The Assistant Fleet Commander must be a current or former CO or XO of the fleet in question. Equivalent positions in an Alternate RPG Area may count equivalently. Acting CO or XO does not count.No individual may be the Fleet Commander or Assistant Fleet Commander of more than one Fleet at a time, nor may any individual be Fleet Commander of one Fleet and Assistant Fleet Commander of another Fleet at the same time. The President may not be the Fleet Commander or Assistant Fleet Commander of any Fleet. Acting holder of a position does not count towards these restrictions.</para>
 		</section>
 	</section>
 	<section>
