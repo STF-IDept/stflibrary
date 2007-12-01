@@ -23,6 +23,7 @@
 	</setinfo>
 
   <!-- Include each of the books in this set. -->
+
   <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="handbook/book.xml" />
   <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="awards/book.xml" />
   <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="charters/book.xml" />
