@@ -17,7 +17,7 @@
 	</group>
 
 	<!-- To resolve short stylesheet references -->
-	<group xml:base="/usr/share/xml/docbook/stylesheet/nwalsh/">
+	<group xml:base="./xsl/docbook/">
 		<uri name="docbook.xsl" uri="html/docbook.xsl" />
 		<uri name="chunk.xsl" uri="html/chunk.xsl" />
 		<uri name="onechunk.xsl" uri="html/onechunk.xsl" />
