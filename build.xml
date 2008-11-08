@@ -24,13 +24,13 @@
 	<property name="resolver.jar" value="/usr/share/java/resolver.jar"/> <!-- note this is a symlink to the real xml-commons-resolver-version.jar -->
 	<property name="xerces.jar" value="/usr/share/java/xerces.jar"/> 
 	<property name="xincluder.jar" value="/usr/share/java/xincluder.jar"/>
-	<property name="fop.jar" value="/usr/share/java/fop.jar"/>
+	<!--<property name="fop.jar" value="/usr/share/java/fop.jar"/>
 	<property name="batik.jar" value="/usr/share/java/batik.jar"/>
 	<property name="jai_core.jar" value="/usr/share/java/jai_core.jar"/>
 	<property name="jai_codec.jar" value="/usr/share/java/jai_codec.jar"/>
 	<property name="avalon-framework.jar" value="/usr/share/java/avalon-framework.jar"/>
 	<property name="xml-apis.jar" value="/usr/share/java/xml-apis.jar"/>
-	<property name="jimi.jar" value="/usr/share/java/JimiProClasses.jar"/>
+	<property name="jimi.jar" value="/usr/share/java/JimiProClasses.jar"/>-->
 
 	<!-- DocBook path properties.  Set these for your system. -->
 	<property name="docbookDTD" value="/usr/share/sgml/docbook/dtd/xml/4.3/docbookx.dtd"/>
@@ -182,7 +182,7 @@
 			<jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
 			<arg line="-x ${resolving.reader.class}"/>
 			<arg line="-y ${resolving.reader.class}"/>
-			<arg line="-r ${catalog.resolver.class}"/>
+			<!--<arg line="-r ${catalog.resolver.class}"/>-->
 			<arg line="-u"/>
 			<arg line="-o ${fo.dir}/library.fo"/>
 			<arg line="${source.dir}/set.xml"/>
@@ -205,7 +205,7 @@
 			<jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
 			<arg line="-x ${resolving.reader.class}"/>
 			<arg line="-y ${resolving.reader.class}"/>
-			<arg line="-r ${catalog.resolver.class}"/>
+			<!--<arg line="-r ${catalog.resolver.class}"/>-->
 			<arg line="-u"/>
 			<arg line="${source.dir}/set.xml"/>
 			<arg line="${xslHtmlSet}" />
@@ -221,7 +221,7 @@
 			<jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
 			<arg line="-x ${resolving.reader.class}"/>
 			<arg line="-y ${resolving.reader.class}"/>
-			<arg line="-r ${catalog.resolver.class}"/>
+			<!--<arg line="-r ${catalog.resolver.class}"/>-->
 			<arg line="-u"/>
 			<arg line="${source.dir}/handbook/book.xml"/>
 			<arg line="${xslHtmlHandbook}" />
@@ -238,7 +238,7 @@
 			<jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
 			<arg line="-x ${resolving.reader.class}"/>
 			<arg line="-y ${resolving.reader.class}"/>
-			<arg line="-r ${catalog.resolver.class}"/>
+			<!--<arg line="-r ${catalog.resolver.class}"/>-->
 			<arg line="-u"/>
 			<arg line="-o ${fo.dir}/handbook.fo"/>
 			<arg line="${source.dir}/handbook/book.xml"/>
@@ -260,7 +260,7 @@
 			<jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
 			<arg line="-x ${resolving.reader.class}"/>
 			<arg line="-y ${resolving.reader.class}"/>
-			<arg line="-r ${catalog.resolver.class}"/>
+			<!--<arg line="-r ${catalog.resolver.class}"/>-->
 			<arg line="-u"/>
 			<arg line="${source.dir}/charters/book.xml"/>
 			<arg line="${xslHtmlCharters}" />
@@ -277,7 +277,7 @@
 			<jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
 			<arg line="-x ${resolving.reader.class}"/>
 			<arg line="-y ${resolving.reader.class}"/>
-			<arg line="-r ${catalog.resolver.class}"/>
+			<!--<arg line="-r ${catalog.resolver.class}"/>-->
 			<arg line="-u"/>
 			<arg line="-o ${fo.dir}/charters.fo"/>
 			<arg line="${source.dir}/charters/book.xml"/>
@@ -300,7 +300,7 @@
 			<jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
 			<arg line="-x ${resolving.reader.class}"/>
 			<arg line="-y ${resolving.reader.class}"/>
-			<arg line="-r ${catalog.resolver.class}"/>
+			<!--<arg line="-r ${catalog.resolver.class}"/>-->
 			<arg line="-u"/>
 			<arg line="${source.dir}/faq/book.xml"/>
 			<arg line="${xslHtmlFaq}" />
@@ -317,7 +317,7 @@
 			<jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
 			<arg line="-x ${resolving.reader.class}"/>
 			<arg line="-y ${resolving.reader.class}"/>
-			<arg line="-r ${catalog.resolver.class}"/>
+			<!--<arg line="-r ${catalog.resolver.class}"/>-->
 			<arg line="-u"/>
 			<arg line="-o ${fo.dir}/faq.fo"/>
 			<arg line="${source.dir}/faq/book.xml"/>
@@ -340,7 +340,7 @@
 			<jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
 			<arg line="-x ${resolving.reader.class}"/>
 			<arg line="-y ${resolving.reader.class}"/>
-			<arg line="-r ${catalog.resolver.class}"/>
+			<!--<arg line="-r ${catalog.resolver.class}"/>-->
 			<arg line="-u"/>
 			<arg line="${source.dir}/rm/book.xml"/>
 			<arg line="${xslHtmlRm}" />
@@ -357,7 +357,7 @@
 			<jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
 			<arg line="-x ${resolving.reader.class}"/>
 			<arg line="-y ${resolving.reader.class}"/>
-			<arg line="-r ${catalog.resolver.class}"/>
+			<!--<arg line="-r ${catalog.resolver.class}"/>-->
 			<arg line="-u"/>
 			<arg line="-o ${fo.dir}/rm.fo"/>
 			<arg line="${source.dir}/rm/book.xml"/>
@@ -381,7 +381,7 @@
 			<jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
 			<arg line="-x ${resolving.reader.class}"/>
 			<arg line="-y ${resolving.reader.class}"/>
-			<arg line="-r ${catalog.resolver.class}"/>
+			<!--<arg line="-r ${catalog.resolver.class}"/>-->
 			<arg line="-u"/>
 			<arg line="${source.dir}/textbook/book.xml"/>
 			<arg line="${xslHtmlTextbook}" />
@@ -398,7 +398,7 @@
 			<jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
 			<arg line="-x ${resolving.reader.class}"/>
 			<arg line="-y ${resolving.reader.class}"/>
-			<arg line="-r ${catalog.resolver.class}"/>
+			<!--<arg line="-r ${catalog.resolver.class}"/>-->
 			<arg line="-u"/>
 			<arg line="-o ${fo.dir}/textbook.fo"/>
 			<arg line="${source.dir}/textbook/book.xml"/>
@@ -421,7 +421,7 @@
         <jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
         <arg line="-x ${resolving.reader.class}"/>
         <arg line="-y ${resolving.reader.class}"/>
-        <arg line="-r ${catalog.resolver.class}"/>
+        <!--<arg line="-r ${catalog.resolver.class}"/>-->
         <arg line="-u"/>
         <arg line="${source.dir}/minutes/book.xml"/>
         <arg line="${xslHtmlMinutes}" />
@@ -438,7 +438,7 @@
         <jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
         <arg line="-x ${resolving.reader.class}"/>
         <arg line="-y ${resolving.reader.class}"/>
-        <arg line="-r ${catalog.resolver.class}"/>
+        <!--<arg line="-r ${catalog.resolver.class}"/>-->
         <arg line="-u"/>
         <arg line="-o ${fo.dir}/minutes.fo"/>
         <arg line="${source.dir}/minutes/book.xml"/>
@@ -462,7 +462,7 @@
         <jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
         <arg line="-x ${resolving.reader.class}"/>
         <arg line="-y ${resolving.reader.class}"/>
-        <arg line="-r ${catalog.resolver.class}"/>
+        <!--<arg line="-r ${catalog.resolver.class}"/>-->
         <arg line="-u"/>
         <arg line="${source.dir}/media/book.xml"/>
         <arg line="${xslHtmlMedia}" />
@@ -479,7 +479,7 @@
         <jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
         <arg line="-x ${resolving.reader.class}"/>
         <arg line="-y ${resolving.reader.class}"/>
-        <arg line="-r ${catalog.resolver.class}"/>
+        <!--<arg line="-r ${catalog.resolver.class}"/>-->
         <arg line="-u"/>
         <arg line="-o ${fo.dir}/media.fo"/>
         <arg line="${source.dir}/media/book.xml"/>
@@ -528,7 +528,7 @@
         <jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
         <arg line="-x ${resolving.reader.class}"/>
         <arg line="-y ${resolving.reader.class}"/>
-        <arg line="-r ${catalog.resolver.class}"/>
+        <!--<arg line="-r ${catalog.resolver.class}"/>-->
         <arg line="-u"/>
         <arg line="-o ${fo.dir}/tm.fo"/>
         <arg line="${source.dir}/tm/book.xml"/>
@@ -550,7 +550,7 @@
         <jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
         <arg line="-x ${resolving.reader.class}"/>
         <arg line="-y ${resolving.reader.class}"/>
-        <arg line="-r ${catalog.resolver.class}"/>
+        <!--<arg line="-r ${catalog.resolver.class}"/>-->
         <arg line="-u"/>
         <arg line="${source.dir}/awards/book.xml"/>
         <arg line="${xslHtmlTm}" />
@@ -567,7 +567,7 @@
         <jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
         <arg line="-x ${resolving.reader.class}"/>
         <arg line="-y ${resolving.reader.class}"/>
-        <arg line="-r ${catalog.resolver.class}"/>
+        <!--<arg line="-r ${catalog.resolver.class}"/>-->
         <arg line="-u"/>
         <arg line="-o ${fo.dir}/awards.fo"/>
         <arg line="${source.dir}/awards/book.xml"/>
@@ -589,7 +589,7 @@
         <jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
         <arg line="-x ${resolving.reader.class}"/>
         <arg line="-y ${resolving.reader.class}"/>
-        <arg line="-r ${catalog.resolver.class}"/>
+        <!--<arg line="-r ${catalog.resolver.class}"/>-->
         <arg line="-u"/>
         <arg line="${source.dir}/history/book.xml"/>
         <arg line="${xslHtmlTm}" />
@@ -606,7 +606,7 @@
         <jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
         <arg line="-x ${resolving.reader.class}"/>
         <arg line="-y ${resolving.reader.class}"/>
-        <arg line="-r ${catalog.resolver.class}"/>
+        <!--<arg line="-r ${catalog.resolver.class}"/>-->
         <arg line="-u"/>
         <arg line="-o ${fo.dir}/history.fo"/>
         <arg line="${source.dir}/history/book.xml"/>
@@ -619,7 +619,16 @@
         <arg line="-pdf ${build.dir}/pdf/tm.pdf"/>
       </java>
     </target>
-	
+	<!--
+	<target name="resolve.tm" depends="init">
+		<echo>Resolving TM input file.</echo>
+		<java classname="${xi.resolver.class}" output="${resolved.dir}/tm.xml">
+			<classpath refid="xslt.processor.classpath" />
+			<arg line="${source.dir}/handbook/book.xml"/>
+		</java>
+		<echo>Done.</echo>
+	</target>
+-->
     <!--
 	<target name="resolve.set" depends="init">
 		<echo>Resolving unified input file.</echo>
