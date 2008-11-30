@@ -3,14 +3,19 @@
 	<description>Library generation</description>
 
 	<!--
-		 Required Debian packages:
+		 Required Debian/Ubuntu packages:
 		 docbook-xml
 		 docbook-xsl
 		 libsaxon-java
+		 libxalan2-java
+		 libxerces2-java
+		 libxml-commons-resolver1.1-java (Broken, not needed anymore?)
 		 ant
-		 fop
-		 libbatik-java
-		 libjaxp1.2-java
+		 
+		 // Only if using FOP.
+		 //fop
+		 //libbatik-java
+		 //libjaxp1.2-java
 
 		 Manually:
 		 xerces (nightly, since the last release is buggy)
@@ -23,7 +28,9 @@
 	<property name="saxon.jar" value="/usr/share/java/saxon.jar"/>
 	<property name="resolver.jar" value="/usr/share/java/resolver.jar"/> <!-- note this is a symlink to the real xml-commons-resolver-version.jar -->
 	<property name="xerces.jar" value="/usr/share/java/xerces.jar"/> 
-	<property name="xincluder.jar" value="/usr/share/java/xincluder.jar"/>
+	<!--<property name="xincluder.jar" value="/usr/share/java/xincluder.jar"/> -->
+	<!--<property name="xincluder.jar" value="/home/lgarfiel/Download/xincluder.jar"/> -->
+	<!--<property name="xom.jar" value="/usr/share/java/xom.jar"/>-->
 	<!--<property name="fop.jar" value="/usr/share/java/fop.jar"/>
 	<property name="batik.jar" value="/usr/share/java/batik.jar"/>
 	<property name="jai_core.jar" value="/usr/share/java/jai_core.jar"/>
@@ -68,7 +75,8 @@
 
 	<!-- Define the actual Java classes to use. -->
 	<property name="xslt.processor.class" value="com.icl.saxon.StyleSheet" />
-	<property name="xi.resolver.class" value="com.elharo.xml.xinclude.SAXXIncluder" />
+	<!--<property name="xi.resolver.class" value="com.elharo.xml.xinclude.SAXXIncluder" />-->
+	<property name="xi.resolver.class" value="com.icl.saxon.StyleSheet" />
 	<property name="catalog.resolver.class" value="org.apache.xml.resolver.tools.CatalogResolver" />
 	<property name="resolving.reader.class" value="org.apache.xml.resolver.tools.ResolvingXMLReader" />
 	<property name="fo.processor.class" value="org.apache.fop.apps.Fop" />
@@ -79,6 +87,7 @@
 		<pathelement path="${resolver.jar}" />
 		<pathelement path="${xerces.jar}" />
 		<pathelement path="${xincluder.jar}" />
+		<pathelement path="${xom.jar}" />
 		<pathelement path="."/> <!-- for CatalogManager.properties -->
 	</path>
 
@@ -92,6 +101,35 @@
 		<pathelement path="${xml-apis.jar}" />
 		<pathelement path="${jimi.jar}" />
 	</path>
+	
+	<!-- Macros, aka custom tasks, aka "subroutines" -->
+	 
+  <macrodef name="html-book">
+    <attribute name="book" default="NOT SET"/>
+    <attribute name="stylesheet" default="NOT SET"/>
+    <sequential>
+    	<!-- I can't seem to get the Xerces resolver to work, but PHP's is easy. -->
+      <exec executable="php">
+        <arg line="resolve.php" />
+        <arg line="@{book}" />
+      </exec>
+    	<!-- Now compile the book based on the resoved file. -->
+      <java classname="${xslt.processor.class}" fork="yes" failonerror="true">
+        <classpath refid="xslt.processor.classpath" />
+        <!-- <jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/> -->
+        <!-- -Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration -->
+        <arg line="-x ${resolving.reader.class}"/>
+        <arg line="-y ${resolving.reader.class}"/>
+        <arg line="-r ${catalog.resolver.class}"/>
+        <arg line="-u"/>
+        <!--<arg line="${source.dir}/tm/book.xml"/> -->
+        <arg line="${resolved.dir}/@{book}.xml"/>
+        <arg line="@{stylesheet}" />
+        <arg line="base.dir=${build.dir}/" />
+      </java>
+    </sequential>
+  </macrodef>
+
 
 	<!-- Our assorted build targets. -->
 
@@ -133,9 +171,9 @@
 	<target name="html.titlepage" depends="init">
 		<java classname="${xslt.processor.class}" fork="yes" failonerror="true">
 			<classpath refid="xslt.processor.classpath" />
-			<!--<jvmarg value="-Djavax.xml.parsers.DocumentBuilderFactory=org.apache.xerces.jaxp.DocumentBuilderFactoryImpl"/>
-			<jvmarg value="-Djavax.xml.parsers.SAXParserFactory=org.apache.xerces.jaxp.SAXParserFactoryImpl"/>
-			<jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>-->
+			<jvmarg value="-Djavax.xml.parsers.DocumentBuilderFactory=org.apache.xerces.jaxp.DocumentBuilderFactoryImpl"/>
+			<!-- <jvmarg value="-Djavax.xml.parsers.SAXParserFactory=org.apache.xerces.jaxp.SAXParserFactoryImpl"/> -->
+			<jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
 
 			<arg line="-x ${resolving.reader.class}"/>
 			<arg line="-y ${resolving.reader.class}"/>
@@ -493,32 +531,12 @@
       </java>
     </target>
 
-    <target name="html.tm" depends="init, html.titlepage, resolve.tm">
-      <java classname="${xslt.processor.class}" fork="yes" failonerror="true">
-        <classpath refid="xslt.processor.classpath" />
-        <jvmarg value="-Djavax.xml.parsers.DocumentBuilderFactory=org.apache.xerces.jaxp.DocumentBuilderFactoryImpl"/>
-        <jvmarg value="-Djavax.xml.parsers.SAXParserFactory=org.apache.xerces.jaxp.SAXParserFactoryImpl"/>
-        <jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/>
-        <arg line="-x ${resolving.reader.class}"/>
-        <arg line="-y ${resolving.reader.class}"/>
-        <arg line="-r ${catalog.resolver.class}"/>
-        <arg line="-u"/>
-        <arg line="${resolved.dir}/tm.xml"/>
-        <arg line="${xslHtmlTm}" />
-        <arg line="base.dir=${build.dir}/" />
-      </java>
+	
+    <target name="html.tm" depends="init, html.titlepage">
+    	<html-book book="tm" stylesheet="${xslHtmlTm}"/>
     </target>
-    
-  <target name="resolve.tm" depends="init">
-    <echo>Resolving TM input file.</echo>
-    <java classname="${xi.resolver.class}" output="${resolved.dir}/tm.xml">
-      <classpath refid="xslt.processor.classpath" />
-      <arg line="${source.dir}/handbook/book.xml"/>
-    </java>
-    <echo>Done.</echo>
-  </target>
 
-
+	
     <target name="pdf.tm" depends="init">
       <echo>Building XSL-FO intermediate output.</echo>
       <java classname="${xslt.processor.class}" fork="yes" failonerror="true">
@@ -662,3 +680,4 @@
 	</target>
 
 </project>
+
