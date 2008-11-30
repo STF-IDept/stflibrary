@@ -9,9 +9,9 @@ See http://www.sagehill.net/docbookxsl/ChunkingCustomization.html
 -->
 
 <xsl:import href="html-set-customizations.xsl"/>
-<xsl:import href="chunk-common.xsl"/>
-<xsl:include href="manifest.xsl"/>
-<xsl:include href="chunk-code.xsl"/>
+<xsl:import href="docbook/html/chunk-common.xsl"/>
+<xsl:include href="docbook/html/manifest.xsl"/>
+<xsl:include href="docbook/html/chunk-code.xsl"/>
 
 <!-- And add in our custom title pages. -->
 <xsl:include href="html-titlepage-templates.xsl"/>

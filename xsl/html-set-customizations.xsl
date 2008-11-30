@@ -4,7 +4,7 @@
 	<!-- Import the base stylesheet to modify. -->
 	<!-- We import the non-chunk version to customize, then this file
 		gets imported by another that links it up with the chunker. -->
-	<xsl:import href="docbook.xsl"/>
+	<xsl:import href="docbook/html/docbook.xsl"/>
 
 	<!-- Import our common settings for all books. -->
 	<xsl:import href="html-common.xsl"/>

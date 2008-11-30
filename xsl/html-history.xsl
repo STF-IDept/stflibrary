@@ -18,7 +18,7 @@
 	<!-- Add the common footer bar, customized for this book. -->
 	<xsl:template name="user.footer.content">
 		<xsl:call-template name="copyright.bar">
-			<xsl:with-param name="pdffile" select="'charters.pdf'"/>
+			<xsl:with-param name="pdffile" select="'history.pdf'"/>
 		</xsl:call-template>
 	</xsl:template>
 	
