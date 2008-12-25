@@ -131,7 +131,6 @@
       <java classname="${xslt.processor.class}" fork="yes" failonerror="true">
         <classpath refid="xslt.processor.classpath" />
         <!-- <jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/> -->
-        <!-- -Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration -->
         <arg line="-x ${resolving.reader.class}"/>
         <arg line="-y ${resolving.reader.class}"/>
         <arg line="-r ${catalog.resolver.class}"/>
