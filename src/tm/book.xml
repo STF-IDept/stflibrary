@@ -42,6 +42,7 @@
 		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="cutlass.xml" />
 		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="liberty.xml" />
 		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="ranger.xml" />
+		<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="templar.xml" />
 	</part>
 	<part id="spec-historical">
 		<title>Ship Specifications (Historical)</title>
