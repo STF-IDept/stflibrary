@@ -1,102 +1,69 @@
 <!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
                     "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
 <chapter id="navigation">
-	<title>Navigation and roleplaying basics</title>
+	<title>Ship Navigation</title>
 	<sect1 id="sitenav">
-		<title>Site navigation</title>
-		<para>This site is very easy to get around. Everywhere you need to go is accessible by either dropdown menus or links. Once you've logged in, you're on what's called the start or media page. There's some useful, if dated, information near the top, and then blurbs by the various media outlets attached to STF. Scroll to the bottom of the page, and you'll see this:</para>
+		<para>Once you have entered your chosen Fleet from the login page you will see what we call the Fleet page. The Fleet page holds necessary links and information on that Fleet.</para>
+		<para>After clicking on your selected fleet, a new page will appear. We call this page the Fleet MOTD or Message Of The Day. It contains a myriad of information on the fleet in question, including individual fleet policies and information on the fleet command staff.</para>
 		<para></para>
 		<figure>
-			<title>Main MOTD Navigation Buttons</title>
+			<title>Fleet MOTD and Navigation Options</title>
 			<mediaobject>
-				<imageobject id="navbuttons">
+				<imageobject id="motdscreenshot">
 					<objectinfo>
 						<author>
-							<firstname>Larry</firstname>
-							<surname>Garfield</surname>
+							<firstname>Andrew</firstname>
+							<surname>Robinson</surname>
 						</author>
 					</objectinfo>
-					<imagedata format="PNG" fileref="images/handbook/navbuttons.png"/>
+					<imagedata format="PNG" fileref="images/handbook/fleetmotd.png"/>
 				</imageobject>
 				<textobject>
-					<phrase>The Main MOTD navigation buttons</phrase>
+					<phrase>Fleet MOTD Screenshot</phrase>
 				</textobject>
 			</mediaobject>
 		</figure>
-		<para>The top left button is the list of roleplaying fleets (1-7), the Command Area, and Starfleet Academy. If your ship is in Second Fleet, you select it from the menu, then click the <emphasis>Go to Selected Fleet</emphasis> button to the right of the menu. The training ships, USS Challenger and USS Discovery, are located in Starfleet Academy, as is the Academy homepage. The governmental departments are located within Command Area.</para>
-		<para>The other buttons are fairly self-explanatory. Use <emphasis>Change your Password</emphasis> to do just that. You can use <emphasis>Change User Defaults</emphasis> to change how the pages display. However, there aren't many options available. You can also change your email address at this point. The last button, <emphasis>Declare Leave of Absence</emphasis>, is explained a little later.</para>
+		<para>The navigation bar along the left now provides a list of the ships within your chosen fleet. Selecting any of the ships listed will forward you to that ships individual MOTD and crew roster. This provides information on the crew, command staff and mission status.</para>
+		<para>Within the crew roster, Character and user names are highlighted to allow you to access information that may be available for that character and user.</para>
+		<para>Now that you're ready to begin reading posts and making some of your own, you will need to observe the three tabs at the top right hand corner of the ship MOTD:</para>
+		<para>- View: This will return you to the ship MOTD from any other post screen within the ship.</para>
+		<para>- Captain's Log: This is an optional record the Captain may use to provide information on past missions and to keep you up to date on current happenings in character. Not all Captains keep logs and not all are up to date.</para>
+		<para>- Notes: This will access the posts within the group. Clicking this is the first step towards posting.</para>
+		<para>Once you click the notes tab, it will load a page containing a list of all posts made within the previous seven days. This can be adjusted to read back in increments up to one year. Because of the large number of posts that accrue within a year, one week is the default option here.</para>
+		<para>New posts to your account will be listed with a red *New* next to them. The familiar search box continues into this page should you wish to search only for specific notes or specific note threads. If you wish to search in specific topics rather than trolling through an entire page of alternate topics, the "In Topic" section can be used to enter a specific topic title. It will thus display only messages within the specified timeframe under that topic.</para>
+		<para>When you select a post, it will appear at the top of the list with a number of options beneath it:</para>
+		<para>- Previous Note: This takes you to the previously posted note chronologically</para>
+		<para>- Parent: This will take you to the first note in any given thread.</para>
+		<para>- Reply: This allows you to make a reply to the post selected.</para>
+		<para>- Next Chronologically: This shows you the next note posted chronologically from that point forward.</para>
+		<para>- Next In Location: This will take you to the next post in the current thread</para>
+		<para>- Next New Note: This will take you to the next new note posted chronologically.</para>
+		<para>You'll notice the text in any given post utilises several different colours. This is to distinguish each reply given. To provide these colours, the system automatically generates a series of colons in each reply to any given post. You should never edit these colons, nor preface a reply with them as it makes the post more difficult to interpret.</para>
+		<para>To reply to a message, simply click Reply. This will translate the current message into an editable boxed format.</para>
+		<para>At the top of this box is a 'Location' field in which you can either keep the current thread title or alter it if you're changing location in this post.</para>
 		<para></para>
-	</sect1>
-	<sect1 id="shipnav">
-		<title>Ship navigation</title>
-		<para>Getting around the ship is an easy task. Once you go to the correct fleet (1 through 7 and Academy), go to the bottom of the fleet MOTD for the menu of ships in that fleet. Then select the one you want. When you arrive, you'll see the ship's page or MOTD (Message of the Day). Don't let the name fool you. These pages aren't updated daily. They don't have to be. The MOTD contains important information about the current sim, ship's status, a link to the Captain's Log, and standing orders. Be sure to read through the MOTD every time you post; you never know when new information will be there.</para>
-		<para>Beneath the MOTD is the ship's roster and navigation buttons. The example here is a roster from Fleet Four's USS Alliance. The players' names and email links are not included in the example, because the guest login was used. Other than that, this is what you can expect to see (albeit in varying colors):</para>
 		<figure>
-			<title>Ship roster and controls</title>
+			<title>Reply Options Screenshot</title>
 			<mediaobject>
-				<imageobject  id="roster">
+				<imageobject id="reply">
 					<objectinfo>
 						<author>
-							<firstname>Larry</firstname>
-							<surname>Garfield</surname>
+							<firstname>Andrew</firstname>
+							<surname>Robinson</surname>
 						</author>
 					</objectinfo>
-					<imagedata format="PNG" fileref="images/handbook/roster.png"/>
+					<imagedata format="PNG" fileref="images/handbook/reply.png"/>
 				</imageobject>
 				<textobject>
-					<phrase>The standard roster (this example from the USS Alliance)</phrase>
+					<phrase>Reply Option Screen</phrase>
 				</textobject>
 			</mediaobject>
 		</figure>
-		<para>As you can see, the roster gives a lot of information about a ship's crew. You can see how many people are on the ship, how big each department is, and what kind of species are present. Looking at the roster can even help you come up with a character. </para>
-		<para>Directly beneath the roster is the set of navigation and input menus/buttons. </para>
-		<para>The <emphasis>Read New Notes</emphasis> section is self-explanatory. You click the button and it takes you to the earliest post according to your time stamp. Above the button you also see a line about <emphasis>Read notes posted 0 hours before last login</emphasis>. This is a handy little shortcut.</para>
-		<para>Say someone mention ed that you never replied to a post he wrote two days ago. Glitches happen, missed posts occur, so there's no reason to beat yourself up over the incident. But how do you find the post? If it was written two days ago, and you last logged in yesterday, then change that 0 to 24. The WeBB will backtrack to posts written 24 hours before your last login</para>
-		<para>A caveat: The WeBB does not take into consideration your current login. If you're reading notes at 5 p.m. Wednesday, and you last read them at 5 p.m. Tuesday, the WeBB will backtrack based on your Tuesday login.</para>
-		<para>It's also possible to go forward in time. Say you were reading posts, got interrupted, and you're reading them again using the <emphasis>Resume Session</emphasis> option. The WeBB will start you back at the beginning. If you want to skip forward, input a negative number in place of zero. For instance, -24 will jump you forward 24 hours from your last login.</para>
-		<para>The <emphasis>Choose Subject</emphasis> menu is used if you're writing a brand new post, rather than replying to an existing one. If you click the arrow, you'll get a menu of the topics available on the Ogawa. If you don't see a topic you need, jump down to the Add topic section. Type in the topic you want created, hit the button, and viola, it's there. Pay attention to how the other topics are written, and use the same style and format. For instance, if you're adding your quarters and you see others listed as Qu: McPickle, set yours up the same way. Be aware that some ship captains have the topics restricted, so only command level officers can add topics. This is typically done when players get crazy with what topics they create. If you can't add the topic you want, send a request to the CO about it.</para>
-		<para>Each ship comes with a handy navigational shortcut. If you want to go to another fleet, or to a different ship within your current fleet, you can do so using the <emphasis>Go to Selected Ship</emphasis> and <emphasis>Go to fleet page</emphasis> buttons.</para>
-		<para>Finally, you have the <emphasis>Adjust Character Stats</emphasis> button. This takes you to an input screen where you can add your character's species and physical attributes.</para>
-	</sect1>
-	<sect1 id="rpstyle">
-		<title>Roleplaying style</title>
-		<para>The standard STF posting style is third-person past tense. Unlike IRC or other "live" roleplaying games, nothing in STF happens in the present. For example, a live roleplaying post might read like this:</para>
-		<example>
-			<title>Live-style posting</title>
-			<para>Lt. Shozzbott exits the turbolift and goes up to Captain Alf.</para>
-		</example>
-		<para>In STF, that same action would be written like this:</para>
-		<example>
-			<title>Novel-style posting</title>
-			<para>Lt. Shozzbott exited the turbolift. She looked around the bridge and saw the captain leaving his ready room with the XO. She walked up to Captain Alf and waited for him to acknowledge her.</para>
-		</example>
-		<para>You can see this post was embellished from the "live" version. That's because in STF, detailed posts are encouraged. Don't just write simple one or two-line bits of action. Incorporate your character's feelings, describe his actions, even reveal his thoughts. The more real you make your character, the more descriptive you make your posts, the more fun you'll end up having. Also note that the example didn't include the captain's actions. You never roleplay for another character without permission.</para>
-	</sect1>
-	<sect1 id="timelines">
-		<title>Multiple timelines</title>
-		<para>Because no two STF members post on the exact same schedule, you'll often find yourself involved in two or more timelines. This is perfectly acceptable, albeit somewhat confusing, and is a normal part of roleplaying around here.</para>
-		<para>Here's an example to better illustrate: You are a security officer recently assigned to the Challenger. One of the first orders of business is to report for your physical. One of your first posts involves doing just that. Then you wait for the CMO to reply. He does, a day later, and your interaction begins. Meanwhile, a prisoner has escaped from the brig and all security officers are called to assist. Unless it's plainly obvious in the plot timeline that the prisoner's escape happens at the same time your character is getting his physical, you can be in two places at once.</para>
-		<para>You can continue your interaction with the CMO in one post, and have your security officer reporting to help the COS in the next. As you read more and more posts, you'll have a clearer idea of how this works. The only thing to remember is multiple timelines are okay, so long as you can keep up with them and remember to keep your actions in chronological order. They may not be written in that order, but the actions have to flow properly into the timeline.</para>
-		<para>In a possibly vain attempt to make things clearer, let's look at those two timelines mentioned above. On Monday at noon, you began your posts with the CMO in sickbay. On Tuesday evening, he replies. By the time you post again on Wednesday, the brig break has occurred. So you split the timeline. In the sim chronology, the brig break happens an hour after your physical. In writing the brig break scenes, you're working with another cadet. You have your characters meet for the first time during this incident. The other cadet's player also ends up splitting his timelines and is having a physical in sickbay. You have to be sure that your characters do not meet in sickbay, because you've already had your "first meeting" at the brig break, which happens at a later time. This is keeping the chronological flow sorted with multiple timelines. You may write something on Monday that happens after something you write on Tuesday.</para>
-	</sect1>
-	<sect1 id="spelling">
-		<title>Spelling and punctuation</title>
-		<para>Like it or not, spelling and punctuation aren't just school subjects. They are important aspects of your post. Do your best with both of these. You don't have to be an English professor, but do try to make your posts easy to read. Several members of STF do not have English as a first language. For the most part players are understanding of this. It's still in everyone's best interest that you do your best. To that end, here are some basic formatting and punctuation guidelines to help you along:</para>
-		<para>You don't have to be the Spelling Bee Champion of Mopicqua School District to roleplay. No one's spelling is perfect. But do try and make an effort. If it takes people five minutes to figure out what you mean in your posts, chances are they're going to quit reading them. If no one reads your posts, no one roleplays with you. And roleplaying is not a solitary endeavor. So for the sake of your own enjoyment, work on your spelling. There are online dictionaries that can help a lot. It make take a few moments, but in the long run, it's time well spent.</para>
-		<para>Be sure to end your sentences with a period/full stop (.), and questions end with a question mark (?). Shouting is usually denoted by an exclamation point at the end (!), although some people prefer to just write all the shouts in capital letters. Commas are rough on most everyone. Either you put too many or you don't put enough. A general rule of thumb is to insert a comma anywhere there is a pause in the sentence. It's not foolproof by any means, but it gets you close. You can find the pauses by reading your posts aloud.</para>
-		<para>Capital letters are your friends! A post with no capital letters simply looks bad. Especially if you opt not to punctuate, as well. imagine if i wrote this handbook without capitilizing letters or using even the most basic punctuation it not only looks messy but it gets confusing its hard to understand exactly what im trying to say</para>
-		<para>Be sure to break your post into paragraphs by entering twice after each section. This puts a blank space between paragraphs and makes it easier to read. There's nothing worse on the eyes than a giant block of yellow text. Some players like to write their posts in a text editor (in order to use spell check) and then cut-and-paste them on the boards. That's fine, except the returns don't always translate. So double-check the paragraph spacing if you cut-and-paste.</para>
-		<para>Dialogue needs to be enclosed with quotation marks ("), and always comes in a separate paragraph.</para>
-		<para>If your character is talking to someone on his comm badge, instead of quote marks, use this symbol: =/\=. That's just an equals sign (=) followed by a forward slash (/), a backward slash (\), and another equals sign. Another option is this: =^=, using the symbol above the 6 on American keyboards for the middle section, rather than the slash marks. The idea, obviously, is to look like the comm badges on Star Trek. Cute, huh? </para>
-		<para>Character thoughts are usually surrounded by single quote marks (') or asterisks (*). Asterisks are also typically used when two characters are speaking telepathically to one another. There is no concrete rule on this. You can use whatever symbols float your boat. Just make sure your thoughts are distinguishable from dialogue.</para>
-	</sect1>
-	<sect1 id="reportingin">
-		<title>Reporting for duty</title>
-		<para>This can be tricky, especially if you're arriving in the middle of a sim. The best thing to do is report for duty to your department head. Not all DHs have offices on the topic menu. So pick something that makes sense. Engineers tend to be in Engineering. Doctors tend to be in sickbay. Scientists like labs. And security officers tend to be on the bridge or near the brig. Just find one that makes sense and report for duty. Your DH will take it from there. Usually, if the current sim situation makes the arrival of new people impossible, the captain or GM will let you know how to get yourself into the story. Usually it's something as simple as pretending you've been aboard the whole time, but off duty for some reason.</para>
-	</sect1>
-	<sect1 id="stardates">
-		<title>Stardate formats</title>
-		<para>STF rearranges the date to look Star Trekish. Take the last two digits of the year, follow it by the two-digit month (adding a zero for the first nine months), then add the two-digit day, separated by a period (.). Again, use a zero for days 1-9.</para>
-		<para>For instance, today is April 22, 2002. The stardate is 02042.2. Christmas Day 2000 looked like this: 00122.5; New Year's Day 2002 looked like this: 02010.1; and Valentine's Day 2001 like this: 01021.4.</para>
+		<para>Beneath that is the body text. The system will have automatically input the required colons (':') to enable text colouring. If the message is too long, it's considered good practice to remove any excess portions, leaving only the relevant previous reply to give any responder an idea of what you're responding to. Any parts that are removed should be replaced with '<SNIP>' to inform other readers that content was removed.</para>
+		<para>Once you've made your reply, you can either preview the post, providing it in finished format with a shaded background, or simply press submit to send it to the server.</para>
+		<para>Now that you've replied, you can find the next new post in the list beneath the post and continue reading from there or create a new note entirely.</para>
+		<para>In order to create an entirely new post, you must use the left navigation bar once more. Clicking 'Post Note' will create a similar box to that you found in the reply note function. You now have the option of creating a new location or using one which has previously been utilised. These can be found in a smaller text below the Location field.</para>
+		<para>Once you've written your post, you have the same preview and submit options available to you.</para>
+		<para>You have now mastered the basics of posting.</para>
 	</sect1>
 </chapter>

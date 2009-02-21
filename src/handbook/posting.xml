@@ -1,44 +1,53 @@
 <!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
                     "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
 <chapter id="posting">
-	<title>Posting etiquette</title>
-	<para>STF is not a solo excursion. It's true that you're probably alone when you're posting, but what you write is shared with everyone else on your ship. What you write, how you write it, and how often you write has a direct impact on those around you. That's why it's imperative that you use common sense and good manners when roleplaying.</para>
-	<para>Here are some helpful hints to make you a welcome member of the crew, and not the person everyone avoids:</para>
-	<sect1 id="trim">
-		<title>Trim your notes</title>
-		<para>This doesn't mean write short answers. Creative roleplaying, and the longer posts associated with it, are welcomed and encouraged in STF. When players are admonished to trim their notes, it means to remove all the unnecessary bits in the post to which you're replying. This includes the who posted what and when section, as well as anything not directly pertaining to what you're adding. Doing this makes it easier for people to read, since they don't have to scroll down through a slew of repeated text.</para>
-	</sect1>
-	<sect1 id="ooc">
-		<title>OOC commentary</title>
-		<para>As you know, OOC stands for Out of Character. When you see text prefaced with OOC, it means it's the player speaking, not the character. OOC comes in handy when the player is making a note about when the post occurs (handy when you've got one character in several time lines). Sometimes players will make strictly OOC posts noting something special happening in their lives (a birthday, a wedding), making announcements, or bringing up something of interest. In limited quantities, these type of posts are allowed. Very often around STF, a crew will get so involved in the OOC discussion they'll neglect the roleplaying. That defeats our purpose for being here. So keep your OOC commentary to a minimum.</para>
-	</sect1>
-	<sect1 id="reliability">
-		<title>Reliability</title>
-		<para>When you're a part of a team, such as a ship's crew, it's important that your fellow team mates can rely upon you. It's simply rude to keep people waiting for you to post, which is why all ships have an AWOL policy. The activity level required depends on your position on the ship, as well as the ship itself. Some ships have a more relaxed posting requirement, while others require daily attention. Check on your ship's MOTD to see how often you need to post and always abide by that schedule. If you don't, the captain is likely to mark you AWOL and remove you from the roster. Not only have you let down your crew mates, you might possibly have lost your position.</para>
-		<para>Sometimes, we simply have to go away. Either we're going on vacation, our computer is going under the knife, or we won't have Internet access for one reason or another. When this happens, you declare an LOA. A Leave of Absence is not only a heads-up to your captain and crew about your pending disappearance, but it is a way to safeguard your place in the crew.</para>
-		<para>If you need to declare an LOA, go to the main page of the WeBB (right after you log in). At the bottom of the page, near the fleet selection button is one marked "Declare Leave of Absence." Simply click the button and fill in the requested information. The input screen looks like this:</para>
-		<figure>
-			<title>The LOA screen</title>
-			<mediaobject>
-				<imageobject id="loascreen">
-					<objectinfo>
-						<author>
-							<firstname>Larry</firstname>
-							<surname>Garfield</surname>
-						</author>
-					</objectinfo>
-					<imagedata format="PNG" fileref="images/handbook/loa.png"/>
-				</imageobject>
-				<textobject>
-					<phrase>The Declare LOA screen</phrase>
-				</textobject>
-			</mediaobject>
-		</figure>
-		<para>As a matter of courtesy, write a post on your ship or email your CO noting when you're leaving and when you expect to return.</para>
-		<para>If your LOA is going to be more than a month, be sure to talk to your CO. Being gone that long can be a strain on some ships, and a CO may have to find someone to take your place. While most COs are willing to work with their crew members, bear in mind that the well-being of the ship and crew is of the utmost importance. A player on extended LOA cannot be guaranteed his old position upon his return.</para>
-	</sect1>
-	<sect1 id="criticism">
-		<title>Criticism</title>
-		<para>There is a fine line between being helpful and being a nag. Before you say anything negative to someone, be sure you're saying it to be helpful and not to be mean. Constructive criticism is the only type tolerated. We're all here to have fun, not be harrassed.</para>
-	</sect1>
+	<title>Posting</title>
+<sect1 id="reportingin">
+	<title>Reporting In</title>
+	<para>Now that you're ready to post, it's a good idea to get a feel for the ship by reading the most recent notes. Whilst this doesn't give you all the information you'll need, it does give you an idea of where people are and what's currently happening.</para>
+	<para>Your first series of posts aboard a new ship should consist of you reporting to your Department Head, reporting for a medical exam in sickbay and reporting for a psychological evaluation with the counsellor.</para>
+	<para>To do this, you must consider whether or not to utilise what we call alternate timelines. If the ship is mid-mission and a lot of action is taking place, you may want to play into the age old "you were always there" bit and just jump straight in with your department head and whatever your department is currently doing. In that case your posts would take place in an earlier timeline. You'd still make them, but under the assumption that they've already taken place rather than in conjunction with the current mission timelines. The alternate timeline in this sense is posting in more than one timeframe at the same time. This can be done in the example above by making your reporting-in posts at the same time as posting within the current sim timeline</para>
+	<para>Using the "Post Note" option, you open a new box. To report in, you might put the location "Office: COS" if you were security or "Office: CE" for engineering and so on for each department. To report for a physical, you'd likely use the location "Sickbay" and for the psych exam you would likely use "Office: CNS".</para>
+	<para>In creating a post it's often worth considering how you're going to craft it. In STF we utilise a third person, past tense writing style, similar to that you'll find in many novels. Instead of writing "I walk into Sickbay", you would write "He walked into Sickbay". Rather than "He pulls out his phaser and presses the firing stud", you would write "He pulled out his phaser and pressed the firing stud".</para>
+	<para>When writing, it's also good to consider good spelling, grammar and punctuation. Well written posts are more likely to be received with applause than something simple and poorly spelled, for example:</para>
+		<example>
+			<title>A Clear Grammatically Correct and Well Punctuated Post</title>
+			<para>Stepping out of the turbolift, Ensign Johnson approached Sickbay, adjusting his uniform before activating the doors. Stepping in, he took a moment to orient himself, searching for a Doctor.</para>
+			<para>As his eyes settled on a blue uniformed woman, he strode across the room, coming smartly to attention as he observed the Lieutenant's pips on her collar. His voice was crisp, with a hint of his north American roots as he addressed her</para>
+			<para>"Good morning, Sir. Ensign Johnson reporting for my boarding physical."</para>
+			<para>He could feel the adrenaline in his blood as he breathed in the atmosphere of his first real assignment out of the Academy. He hoped he could perform as well as he'd been trained, as well as he felt he could.</para>
+			<para>Ensign Johnson (Security)</para>
+		</example>
+	<para>The above would get a significantly quicker and more detailed response than the following</para>
+		<example>
+			<title>Poor Quality, Poorly Constructed Posting</title>
+			<para>Johnson wakled in2 sickbay im here 4 my exam doc</para>
+		</example>
+	</para>In the first example, you'll notice that not only were his actions included, but the post also describes his feelings, some of his hopes and desires and some descriptive explanations of how he sounded. You could also include, in your first posts, a few mentions of what your character looks like.</para>
+	<para>Making posts that are detailed, full of evocative language and which are well presented with good grammar, spelling and punctuation will help people enjoy reading your posts. They'll want to interact with you more as a good, solid and descriptive writer than someone who uses poor spelling, no punctuation and a lot of text language abbreviations such as 4, 2 and U.</para>
+	<para>If you have problems with spelling and grammar, then writing a post in a word processor with spelling and grammar checker will help. Many people follow this path if they're unsure of their spelling. There are also a number of add-on browser spell checkers which can perform a similar function if you prefer not to write posts in a word processor.</para>
+	<para>With the use of multiple timelines, you can jump straight into a mission or advance your character into more than a single thread. If you get into a particular thread that you're enjoying and events move past it, you can continue in that thread, but pick up in a separate thread to continue the story. You can juggle as many threads as you feel comfortable playing in, though it's usually a good idea to close past threads as soon as is reasonably possible to keep the ship from stalling.</para>
+</sect1>
+<sect1 id="postingetiquette">
+	<title>Posting Etiquette</title>
+	<para>Because of the nature of STF, occasionally emotions can run high or confusion can set in. To avoid this, we have a few guidelines governing etiquette for posting on WeBBspace.</para>
+	<para>Trim Your Notes: When you reply to a note, the previous post remains, marked with ':' colon signatures to denote colour codes to the system. Eventually, in long threads, this gets prohibitive, generating massive posts that go on for page after page. It's considered polite to remove all but the bare essentials of the previous message, leaving only what you need to help people keep track of where you're posting.</para>
+	<para>OOC: From time to time, you may wish to make Out Of Character comments, either to clarify points, ask questions or just have some fun. When doing this, it's best to distinguish OOC from IC (In Character) by prefacing it with OOC: and then IC: once you move In Character</para>
+	<para>Signing Your Posts: It's good practice to sign your posts. IC posts should be signed with your character name and position and OOC posts with your real name or nickname, whichever you're better known by.</para>
+	<para>=^=: When using a commbadge in a post, we tend to identify it by the ASCII shortcut =^=. Putting that either side of the communicated message will let the people you're posting to know you're on a commbadge. Communications with the computer should have a similar symbol to identify them.</para>
+	<para>An example to the above points follows:</para>
+		<example>
+			<title>An IC Post With OOC Note</title>
+			<para>OOC: Welcome to the ship. It's great to have you with us.</para>
+			<para>Andy</para>
+			<para>IC:</para>
+			<para>Robinson pulled back as the corner he was peeking around erupted from a stray phaser blast. Clearly he was in trouble here. He tapped his commbadge</para>
+			<para>=^= Robinson to Bridge. We're under heavy fire here and need reinforcements. =^=</para>
+			<para>Adrenaline flooded through his body as he shoved his phaser around the corner, blindly returning fire and hoping help arrived soon</para>
+			<para>Lt Commander Andrew Robinson (COS)</para>
+		</example>
+	<para>**: When posting thoughts, some people either write them directly into a post in such a way as to easily identify them as thoughts and some will treat them as speech, identifying them by the use of asterisks rather than speech marks.</para>
+	<para>Never Post In Anger: Sometimes people will say things that hurt your feelings or you feel are unfair. You should never respond to these in a like manner. Walk away, take a few minutes, grab some coffee and come back to the monitor. If you still feel angry, leave it a little more. It's best to answer in a calm and concise manner to avoid creating a flame war.</para>
+	<para>Reliability and LOA's: There is a general club guideline concerning posting limits. The average tends to be 7 days for Junior Officers, 5 days for department heads and 3 days for Command Staff (CO/XO/GM). If you need more time than that off it's considered good etiquette to declare a Leave Of Absence or LOA. To do this, in your account settings add the words "LOA Until **/**/**" as the last part of your last name, which can be altered in your account settings. This will let people know you're away. A quick post on all your ships is also considered good practice, just stating that you need some time away and when you'll be back. When someone disappears with no warning and breaches their posting limits with no responses to email, the command staff will usually mark them AWOL (Absent WithOut Leave) and remove them from the roster until they return with an explanation. On some ships posting limits may be different, either being faster or slower.</para>
+</sect1>
 </chapter>
