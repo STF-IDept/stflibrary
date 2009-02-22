@@ -59,7 +59,7 @@
 				</textobject>
 			</mediaobject>
 		</figure>
-		<para>Beneath that is the body text. The system will have automatically input the required colons (':') to enable text colouring. If the message is too long, it's considered good practice to remove any excess portions, leaving only the relevant previous reply to give any responder an idea of what you're responding to. Any parts that are removed should be replaced with '<SNIP>' to inform other readers that content was removed.</para>
+		<para>Beneath that is the body text. The system will have automatically input the required colons (':') to enable text colouring. If the message is too long, it's considered good practice to remove any excess portions, leaving only the relevant previous reply to give any responder an idea of what you're responding to. Any parts that are removed should be replaced with '*snip*' to inform other readers that content was removed.</para>
 		<para>Once you've made your reply, you can either preview the post, providing it in finished format with a shaded background, or simply press submit to send it to the server.</para>
 		<para>Now that you've replied, you can find the next new post in the list beneath the post and continue reading from there or create a new note entirely.</para>
 		<para>In order to create an entirely new post, you must use the left navigation bar once more. Clicking 'Post Note' will create a similar box to that you found in the reply note function. You now have the option of creating a new location or using one which has previously been utilised. These can be found in a smaller text below the Location field.</para>
