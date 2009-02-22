@@ -37,7 +37,6 @@
 	</articleinfo>
 	<section>
 		<title>History and Mission Overview</title>
-		
 		<para>Starfleet has made use of fighter craft for more than three hundred years, long before it's inception as the defensive and exploratory arm of the Federation, largely in a role as planetary defenders and small scale combat craft, but until the outbreak of war with the Dominion these fighters had rarely before seen extended combat actions in space.</para>
 		<para>During the Dominion war, vast numbers of Starfleet fighter craft were lost to the superior firepower and speed of Jem'Hadar fighters, and despite the valiant efforts of existing craft, there were no real equivalents that could match these enemies for sheer speed and overwhelming rate of fire and accuracy.</para>
 		<para>Starfleet Research and Development at this time were unable to sacrifice the time, or resources to adequately facilitate research into a potential new fighter craft with materiel and personnel stretched almost to breaking point in an attempt to fabricate new technologies and spare parts to aid the front line battle forces and it was with this in mind that the project was outsourced to the defence contract agency Wolfestar Systems, based in the Bolian outlier systems.</para>
@@ -104,9 +103,9 @@
 			<member>Left Screen 2 - Power Status</member>
 			<member>Left Screen 3 - Computer Status</member>
 			<member>Centre Screen - Tactical Threat Analysis Monitor - Provides information on all detected threats and current locations relative to home fighter, as well as information concerning friendly units and a threat analysis by grading of all vessels e.g. Capital ships no immediate mobile threat, fighters, immediate threat, friendly ships no threat. Using this method it will highlight any targets classified as critical threat and issue an audible warning, highlighting that threat on the main forward screen if visible within that range.</member>
-			<member>Right Screen 3 – Pulse Phaser Cannon Status</member>
-			<member>Right Screen 2 – Microtorpedo Assembly Status</member>
-			<member>Far Right Screen 1 – Environmental Control, Secondary Power Systems and Auxiliary Systems Status.</member>
+			<member>Right Screen 3 - Pulse Phaser Cannon Status</member>
+			<member>Right Screen 2 - Microtorpedo Assembly Status</member>
+			<member>Far Right Screen 1 - Environmental Control, Secondary Power Systems and Auxiliary Systems Status.</member>
 		    </simplelist>
 		<para>Primary flight control is provided by the standard auxiliary helm control stick, as supplied for larger Starships. This control stick utilises thumb and finger control mechanisms for weapons select and a larger forefinger control to fire selected weapons. Torpedo's and phasers can be fired, and weapons selected using the Voice COMTAC interface, though this procedure is of course slowed by the need for speech.</para>
 		<para>Velocity and engine power are controlled by a raised control lever, which provides combat COMTAC access through a thumb key along the right hand side. Depression of this key provides the same input as the "TAC" mode of verbal address which itself is an adaptation of the more traditional "Computer" mode of address.</para>
@@ -116,7 +115,7 @@
 		<para>Because of its nature as a none warp capable fighter craft, the Templar cockpit is designed to function as an extended duration life pod. Upon verbal or emergency tactile request, the cockpit is blown away from the main craft using explosive bolt devices, small, shaped, solid state explosives, driving the cockpit, including its armour panelling away from the craft at approximately 4 m/s. Once ejected, the cockpit systems are powered by an emergency micro fission generator with a battery backup, providing approximately 72 hours of continuous life support, or 300 hours if the emergency medkit is used to induce sleep.</para>
 		<para>Provided a larger friendly craft is in site, the life pod will activate, small reaction control thrusters to propel the lifeboat at 16 m/s towards that craft, emitting a coded or open frequency emergency distress signal. Once within range, the larger craft can tractor the pod in, or transport the pilot aboard.</para>
 		<para>In case of landing on a planetary or atmospheric body, the life pod systems are capable of recharging through solar power cells. The pod contains a three day emergency ration kit, medkit and a Type IIIa Pulse Compression Phaser Rifle with twelve spare charged power packs.</para>
-		<section>
+	</section>
 	<section>
 		<title>Crew Support Systems</title>
 		<para>The Templar utilises a standard environmental control system which provides air to the cockpit compartment, and can be adapted to provide air to other areas of the craft for the purposes of emergency repairs whilst in space. Other areas are reached via small crawlways which run the length and width of the craft, centred on the Cockpit area.</para>
