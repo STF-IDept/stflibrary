@@ -179,8 +179,10 @@
         <term>Decellerate</term>
         <listitem><para>6 seconds</para></listitem>
       </varlistentry>
+      <varlistentry>
         <term>Emergency Booster System Maximum Speed</term>
         <listitem><para>0.43c</para></listitem>
+      </varlistentry>
       <varlistentry>
         <term>Emergency Booster System Maximum Acceleration</term>
         <listitem><para>0.3 seconds</para></listitem>
