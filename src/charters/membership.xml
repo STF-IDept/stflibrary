@@ -51,7 +51,7 @@
       <member>Vice Admiral</member>
       <member>Admiral</member>
     </simplelist>
-    <para>Alternate Role-playing Areas may have a different character rank system. In the case of the ranks Captain, Fleet Captain, Commodore, Rear Admiral, Vice Admiral and Admiral, no Member shall have a character with a character rank higher than the Member's club rank.</para>
+    <para>Alternate Role-playing Areas may have a different character rank system. No Member shall have a character with a character rank higher than the Member's club rank.</para>
     <para>A Marine rank structure exists within STF and follows that of the United States Marine Corp as follows, junior to senior</para>
     <para>Enlisted:</para>
     <simplelist role="Marine Rank List">
@@ -79,7 +79,7 @@
       <member>Lieutenant General</member>
       <member>General</member>
     </simplelist>
-    <para>Each marine officer rank has an equivalent within the regular fleet. In the case of the ranks Lieutenant Colonel (Commander), Colonel (Captain), Brigadier General (Fleet Captain), Major General (Commodore) and Lieutenant General (Admiral) no member may hold a character with a rank higher than their club member rank.</para>
+    <para>Each marine officer rank has an equivalent within the regular fleet. No member may hold a marine character with a rank higher than their club member rank.</para>
   </section>
   <section>
     <title>Absence from the club</title>
