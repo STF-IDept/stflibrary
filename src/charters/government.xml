@@ -1,49 +1,49 @@
 <!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
                     "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
 <article id="charter-go">
-	<title>Government Organization</title>
-	<subtitle>"GO"</subtitle>
-	<articleinfo>
-		<author role="President">
-			<honorific>President</honorific>
-			<firstname>Sarah</firstname>
-			<surname>Hemenway</surname>
-		</author>
-		<revhistory>
-			<revision>
-				<revnumber>1</revnumber>
-				<date>1 April 2007</date>
-				<revdescription>
-					<para>Based on Edict <ulink url="http://www.star-fleet.com/prez/edicts/hemenway/#e33">Hemenway #33</ulink></para>
-				</revdescription>
-			</revision>
-		</revhistory>
-	</articleinfo>
-	<section>
-		<title>Supercedence of previous edicts</title>
-		<para>Edict Dipper #7 is hereby rescinded and superceded by this Edict.</para>
-	</section>
-	<section>
-		<title>Government appointments</title>
-		<para>There shall be three general types of governmental appointment made by the President of STF:</para>
-		<variablelist>
-			<varlistentry>
-				<term>Fleet Commander</term>
-				<listitem><para>The Fleet Commander of each Fleet shall be appointed by the President, who shall name his own Assistant Fleet Commander. The Fleet Commander is considered a member of the Cabinet.</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Executive Departments</term>
-				<listitem><para>An Executive Department is a governmental department responsible for overseeing some aspect of STF's administration that is established in that department's charter. A Department may set internal policy as well as general policy for those matters relating to its sphere of influence, with the consultation of the President. An Executive Department is headed by a Departmental Director, appointed by the President, who shall name his own Assistant Director and, if needed, any other internal departmental positions. The Departmental Director is considered a member of the Cabinet. Further details of Departmental activity can be found elsewhere in other edicts.</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Executive Assistant</term>
-				<listitem><para>An Executive Assistant is a governmental "at large" officer responsible for some stated activity as defined by Edict. An Executive Assistant may set internal policy relating to his responsibilities, but is not empowered to set policy for the club at large. An Executive Assistant is appointed by the President, but is not required to appoint an assistant unless explicitly stated by Edict and is not considered a member of the Cabinet.</para></listitem>
-			</varlistentry>
-		</variablelist>
-		<para>As of the date of this Edict, the following Executive Departments exist, per their chartering Edicts: Personnel Department, Internet Department, Engineering Department, Gamemaster Department, and Starfleet Academy and the Cabinet is comprised of the Engineering Director, the Gamemaster Director, the Personnel Director, the Internet Director, the Academy Commandant, the Fleet Commander of Fleet 1, the Fleet Commander of Fleet 2, the Fleet Commander of Fleet 3, the Fleet Commander of Fleet 4, the Fleet Commander of Fleet 5, and the Fleet Commander of Fleet 6, as well as the Vice President. The Librarian, the Election Coordinator and the Coder exist as Executive Assistant positions, per their chartering Edicts.</para>
-	</section>
-	<section>
-		<title>Chain of command</title>
-		<para>The Chain of Command for STF is the President, the Vice President, then Cabinet members in order of club rank. In the event that Cabinet members of the same rank exist, time in their current rank (excluding any period of eLOA) shall be the determining factor. In the event of a vacancy in the Presidency, the office shall be filled by the next available Member in the Chain of Command until a new President is elected in the next regular election.</para>
-	</section>
+  <title>Government Organization</title>
+  <subtitle>"GO"</subtitle>
+  <articleinfo>
+    <author role="President">
+      <honorific>President</honorific>
+      <firstname>Sarah</firstname>
+      <surname>Hemenway</surname>
+    </author>
+    <revhistory>
+      <revision>
+        <revnumber>1</revnumber>
+        <date>1 April 2007</date>
+        <revdescription>
+          <para>Based on Edict <ulink url="http://www.star-fleet.com/prez/edicts/hemenway/#e33">Hemenway #33</ulink></para>
+        </revdescription>
+      </revision>
+    </revhistory>
+  </articleinfo>
+  <section>
+    <title>Supercedence of previous edicts</title>
+    <para>Edict Dipper #7 is hereby rescinded and superceded by this Edict.</para>
+  </section>
+  <section>
+    <title>Government appointments</title>
+    <para>There shall be three general types of governmental appointment made by the President of STF:</para>
+    <variablelist>
+      <varlistentry>
+        <term>Fleet Commander</term>
+        <listitem><para>The Fleet Commander of each Fleet shall be appointed by the President, who shall name his own Assistant Fleet Commander. The Fleet Commander is considered a member of the Cabinet.</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Executive Departments</term>
+        <listitem><para>An Executive Department is a governmental department responsible for overseeing some aspect of STF's administration that is established in that department's charter. A Department may set internal policy as well as general policy for those matters relating to its sphere of influence, with the consultation of the President. An Executive Department is headed by a Departmental Director, appointed by the President, who shall name his own Assistant Director and, if needed, any other internal departmental positions. The Departmental Director is considered a member of the Cabinet. Further details of Departmental activity can be found elsewhere in other edicts.</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Executive Assistant</term>
+        <listitem><para>An Executive Assistant is a governmental "at large" officer responsible for some stated activity as defined by Edict. An Executive Assistant may set internal policy relating to his responsibilities, but is not empowered to set policy for the club at large. An Executive Assistant is appointed by the President, but is not required to appoint an assistant unless explicitly stated by Edict and is not considered a member of the Cabinet.</para></listitem>
+      </varlistentry>
+    </variablelist>
+    <para>As of the date of this Edict, the following Executive Departments exist, per their chartering Edicts: Personnel Department, Internet Department, Engineering Department, Gamemaster Department, and Starfleet Academy and the Cabinet is comprised of the Engineering Director, the Gamemaster Director, the Personnel Director, the Internet Director, the Academy Commandant, the Fleet Commander of Fleet 1, the Fleet Commander of Fleet 2, the Fleet Commander of Fleet 3, the Fleet Commander of Fleet 4, the Fleet Commander of Fleet 5, and the Fleet Commander of Fleet 6, as well as the Vice President. The Librarian, the Election Coordinator and the Coder exist as Executive Assistant positions, per their chartering Edicts.</para>
+  </section>
+  <section>
+    <title>Chain of command</title>
+    <para>The Chain of Command for STF is the President, the Vice President, then Cabinet members in order of club rank. In the event that Cabinet members of the same rank exist, time in their current rank (excluding any period of eLOA) shall be the determining factor. In the event of a vacancy in the Presidency, the office shall be filled by the next available Member in the Chain of Command until a new President is elected in the next regular election.</para>
+  </section>
 </article>

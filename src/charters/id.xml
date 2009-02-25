@@ -1,29 +1,29 @@
 <!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
                     "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
 <article id="charter-id">
-	<title>The Internet Department</title>
-	<subtitle>"SCSI"</subtitle>
-	<articleinfo>
-		<author role="President">
-			<honorific>President</honorific>
-			<firstname>Jack</firstname>
-			<surname>Dipper</surname>
-		</author>
-		<author role="IDir">
-			<honorific>Internet Director</honorific>
-			<firstname>Larry</firstname>
-			<surname>Garfield</surname>
-		</author>
-		<revhistory>
-			<revision>
-				<revnumber>1</revnumber>
-				<date>30 November 2005</date>
-				<revdescription>
-					<para>Based on Edict <ulink url="http://www.star-fleet.com/prez/edicts/dipper/#e31">Dipper #31</ulink></para>
-				</revdescription>
-			</revision>
-		</revhistory>
-	</articleinfo>
+  <title>The Internet Department</title>
+  <subtitle>"SCSI"</subtitle>
+  <articleinfo>
+    <author role="President">
+      <honorific>President</honorific>
+      <firstname>Jack</firstname>
+      <surname>Dipper</surname>
+    </author>
+    <author role="IDir">
+      <honorific>Internet Director</honorific>
+      <firstname>Larry</firstname>
+      <surname>Garfield</surname>
+    </author>
+    <revhistory>
+      <revision>
+        <revnumber>1</revnumber>
+        <date>30 November 2005</date>
+        <revdescription>
+          <para>Based on Edict <ulink url="http://www.star-fleet.com/prez/edicts/dipper/#e31">Dipper #31</ulink></para>
+        </revdescription>
+      </revision>
+    </revhistory>
+  </articleinfo>
     <section>
       <title>Supercedence of previous edicts</title>
       <para>Edicts Hughes #30-B, Hughes #30-C, Hughes #30-D, Hughes #30-E, Hughes #30-F, Hughes #30-G, Hughes #30-H, and Hughes #30-I are hereby rescinded and superceded by this Edict.</para>
@@ -44,9 +44,9 @@
       <para>The Internet Department shall make available web space and an MOTD (collectively "Section") to the head of each Department, Fleet, registered RPG Area, and Executive Office (collectively "Maintainers") for their use. The Internet Department may establish publicly documented reasonable standards for such Sections in order to maintain accuracy, site integrity and organization, security, and community standards as defined by the STF Terms of Service or other Edicts. Any changes to such standards must be publicly announced and a grace period given of no less than thirty (30) days.</para>
       <para>Maintainers may opt for one of three options for their Section.</para>
       <orderedlist>
-	      <listitem><para>Full Control. The Maintainer is fully responsible for all content and design for the Section, and for any and all routine maintenance that is required.</para></listitem>
-	      <listitem><para>Content Control. The Maintainer is responsible for providing the content for the Section, but the Internet Department is responsible for the layout and presentation, and is not required to use a format other than the common template. Maintainers wishing an alternate design should request Full Control.</para></listitem>
-	      <listitem><para>Departmental Control. The Internet Department is responsible for both the content and presentation of the Section. The Internet Department will use the current departmental template for such Sections, and is not required to provide more than a general informational page. Maintainers wishing expanded content or an alternate design should request Content Control or Full Control.</para></listitem>
+        <listitem><para>Full Control. The Maintainer is fully responsible for all content and design for the Section, and for any and all routine maintenance that is required.</para></listitem>
+        <listitem><para>Content Control. The Maintainer is responsible for providing the content for the Section, but the Internet Department is responsible for the layout and presentation, and is not required to use a format other than the common template. Maintainers wishing an alternate design should request Full Control.</para></listitem>
+        <listitem><para>Departmental Control. The Internet Department is responsible for both the content and presentation of the Section. The Internet Department will use the current departmental template for such Sections, and is not required to provide more than a general informational page. Maintainers wishing expanded content or an alternate design should request Content Control or Full Control.</para></listitem>
        </orderedlist>
        <para>The Internet Department may assume Departmental Control of any Section whose content is more than sixty (60) days out of date and whose Maintainer has been given at least fourteen (14) days notice. This rule applies only to pages whose contents have been inaccurate for sixty days, regardless of when the page was last updated.</para>
        <para>A Maintainer may request a change of status from the Internet Department in writing. Such requests may only be denied if the Internet Department can show just cause why such a change would be detrimental to STF.</para>
@@ -64,10 +64,10 @@
       <title>Application Software</title>
       <para>Maintainers may implement auxiliary web applications to use in their Sections if they so choose, or to implement dynamic web pages using a server-side technology such as PHP or Perl. Such applications may be custom written by an STF member or a 3rd party application. However, auxiliary web applications are subject to the following additional restrictions:</para>
       <itemizedlist>
-	      <listitem><para>The Internet Department reserves the right to audit any executable code intended for installation on the STF server, and to modify or reject it order to protect the security and integrity of the system.</para></listitem>
-	      <listitem><para>If a 3rd party application, the application must be under an open source license that permits the Internet Department to audit and modify the code if needed.</para></listitem>
-	      <listitem><para>If a custom application, the author grants STF a non-exclusive, perpetual, non-revokable license to use or alter the application in any way whatsoever as needed. The original author will, however, retain any related copyright, and STF is not given the authority to redistribute the application to 3rd parties unless otherwise specified.</para></listitem>
-	      <listitem><para>Although the Internet Department is authorized to modify any application code on the server for security reasons, it must inform the related Maintainer that it has done so and may not modify the application for other reasons.</para></listitem>
+        <listitem><para>The Internet Department reserves the right to audit any executable code intended for installation on the STF server, and to modify or reject it order to protect the security and integrity of the system.</para></listitem>
+        <listitem><para>If a 3rd party application, the application must be under an open source license that permits the Internet Department to audit and modify the code if needed.</para></listitem>
+        <listitem><para>If a custom application, the author grants STF a non-exclusive, perpetual, non-revokable license to use or alter the application in any way whatsoever as needed. The original author will, however, retain any related copyright, and STF is not given the authority to redistribute the application to 3rd parties unless otherwise specified.</para></listitem>
+        <listitem><para>Although the Internet Department is authorized to modify any application code on the server for security reasons, it must inform the related Maintainer that it has done so and may not modify the application for other reasons.</para></listitem>
       </itemizedlist>
       <para>Dynamic web pages or any web pages that include executable code, such as PHP or Perl, are considered a web application, even if the code is being used only for easier, centralized page formatting.</para>
     </section>
