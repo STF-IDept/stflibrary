@@ -15,12 +15,13 @@
 			<surname>Olinski</surname>
 		</author>
 		<revhistory>
-		    <revision>
+		  <revision>
 				<revnumber>2</revnumber>
 				<date>16th February 2009</date>
 				<revdescription>
 					<para>Based on Edict <ulink url="http://www.star-fleet.com/prez/edicts/robinson/#e26">Robinson #26</ulink></para>
 				</revdescription>
+		  </revision>
 			<revision>
 				<revnumber>1</revnumber>
 				<date>15 July 2005</date>
@@ -36,7 +37,7 @@
     </section>
 	<section>
 		<title>Establishment of the Personnel Department</title>
-		<para>An Executive Department is hereby established under the name "Personnel Department"<para>
+		<para>An Executive Department is hereby established under the name "Personnel Department"</para>
 		<para>The Personnel Department shall serve as the primary department responsible for tasks relating to member accounts, including but not limited to creating new accounts, new member placement, requested new character member placement, providing assistance with password reset issues, granting individuals administrative access for use in specific ship applications, as defined in this edict, and ensuring compliance with the STF Accounts Terms of Service. The Personnel Department may also operate and maintain a range of resources that serves to help fleets fill their personnel needs, as set by departmental mandate.</para>
 		<para>The daily activity and administration of the Personnel Department shall be overseen by the Personnel Director, who shall be appointed by the President. Personnel Director is a cabinet position, and is equal in power to other Departmental Directors and Fleet Commanders.</para>
 		<para>The Personnel Director shall appoint an Assistant Personnel Director. The Assistant Personnel Director answers directly to the Personnel Director, and is responsible for departmental decisions in the event the Personnel Director is not available. Additional responsibilities may be given at the discretion of the Personnel Director.</para>
@@ -62,6 +63,7 @@
 		<para>No administrative access to a specific individual ship or group of ships shall be provided to a member that is not covered by the above list. The Personnel Department is not responsible for providing club-wide administrative access to all ships, based on a given position held by a single member. The Personnel Department is not responsible for providing administrative access to internal fleet or department managed pages, as well as the fleet entry pages. The Personnel Department is not responsible for providing any other type of administrative access to STF.</para>
 		<para>The Personnel Director may delegate the responsibility for providing administrative access by departmental mandate, including delegating such responsibility to members who are not staff members of the Personnel Department, but may still reserve the right to enforce that administrative access to ships are not given beyond what is allowed by this edict.</para>
 		<para>In addition, the Personnel Director and Assistant Personnel Director should be given sufficient access in order to allow them to have administrative and subscription access to all ships in STF, access to edit all membership accounts, access to activate and block any membership account, access to the text of all automatic emails sent to members, access to the format and text of the membership application, and access to all administrative logs relevant to enforcing club rules, policies, and Terms of Service within the scope of the Personnel Department's responsibilities.</para>
+  </section>
 	<section>
 		<title>Mentors program</title>
 		<para>The Personnel Department shall maintain a Mentors Program. This program is tasked with creating and maintaining a list of available people to mentor new members, and assigning mentors to new members who request them.</para>
@@ -82,7 +84,8 @@
 		<para>The Personnel Department shall be required to maintain and publish monthly statistics regarding the membership, including, but not limited to, total number of applicants per month, and how many of those members are still posting actively. Additional statistics are at the discretion of the Personnel Department.</para>
 	</section>
 	<section>
-	    <title>Disputes</title>
+	  <title>Disputes</title>
 		<para>Any dispute involving the Personnel Department or its tasked areas of influence shall be moderated by the Personnel Director. Should any involved parties be the Personnel Director, the dispute shall be moderated by the Assistant Personnel Director. Should any of the involved parties be both Personnel Director and Assistant Personnel Director, the dispute shall be moderated by the President.</para>
 		<para>The decision of the moderating officer shall be considered final.</para>
+	</section>
 </article>
