@@ -36,6 +36,7 @@
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="gmd.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="pd.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="id.xml" />
+    <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="motd.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="mac.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="policies.xml" />
   </part>

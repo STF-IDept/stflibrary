@@ -1,0 +1,56 @@
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
+                    "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<article id="charter-motd">
+  <title>Motd Instituted Restrictions And Governance Edict</title>
+  <subtitle>"MIRAGE"</subtitle>
+  <articleinfo>
+    <author role="President">
+      <honorific>President</honorific>
+      <firstname>Andrew</firstname>
+      <surname>Robinson</surname>
+    </author>
+    <author role="Internet Director">
+      <honorific>Internet Director</honorific>
+      <firstname>Russell</firstname>
+      <surname>Watt</surname>
+    </author>
+    <revhistory>
+      <revision>
+        <revnumber>1</revnumber>
+        <date>15 December 2008</date>
+        <revdescription>
+          <para>Based on Edict <ulink url="http://www.star-fleet.com/prez/edicts/robinson/#e27">Robinson #39</ulink></para>
+        </revdescription>
+      </revision>
+    </revhistory>
+  </articleinfo>
+  <section>
+    <title>Definitions</title>
+    <para>The administrator of every Board in the system (CO, FComm, QDir, or the Internet Department for other boards) shall be provided with an editable region on the home page of that board known as an MOTD (Message of the Day). This individual is recognized as the Maintainer of that MOTD.</para>
+    <para>The page layout of every Board page is divided into three nested regions: The Page (the entire content that appears in the browser), the Content area, and the MOTD. The Content area is a subset of the Page, and the MOTD is a subset of the Content area. The Internet Department is responsible for defining and documenting the exact boundaries of the Content area and MOTD of the site theme in such a way that they may be easily distinguished by page authors (such as a specific CSS id).</para>
+  </section>
+  <section>
+    <title>Maintainer Authority</title>
+    <para>A Maintainer may make implement whatever design he wishes within the MOTD, subject to the restrictions below. However, good care should be paid to established conventions for usability and accessibility.</para>
+    <para>A Maintainer may implement color changes only within the Content area, provided that said changes do not interfere with the usability of the site.</para>
+    <para>A Maintainer may make no changes outside of the Content area whatsoever, unless specific support for such changes is provided by the system.</para>
+  </section>
+  <section>
+    <title>Restrictions</title>
+    <orderedlist>
+      <listitem><para>The general layout of the page may not be altered or supplanted.</para></listitem>
+      <listitem><para>No graphics may be added or removed outside of the MOTD area.</para></listitem>
+      <listitem><para>No dynamic navigational components may be altered, aside from color changes. Those include, but are not limited to, site breadcrumbs and navigation menus. As a special exception, the ship's roster may be altered vis CSS (color, font, spacing, etc.) provided that the alterations do not interfere with its functioning or positioning.</para></listitem>
+      <listitem><para>The use of any malicious code, be it PHP, Javascript, or CSS, is strictly forbidden. "Malicious code" is considered any code which poses a danger to the security or stability of the system or to users of the system, regardless of whether that was the intent of the author or not.</para></listitem>
+      <listitem><para>No email addresses other than official @star-fleet.com address or contact information may be published to any MOTD without the prior consent of the person to whom those addresses belong.</para></listitem>
+    </orderedlist>
+  </section>
+  <section>
+    <title>Enforcement</title>
+    <para>The Internet Department is responsible for enforcing this edict. The Internet Department may not normally alter an MOTD without five (5) days prior notice to the appropriate Maintainer and his immediate superior. Should the Internet Department have reason to believe that a given MOTD poses a security risk to the site or its users, renders a page or navigation elements on it unusable, or inhibits the stability of the system, then it may alter the MOTD as needed immediately. It must retain a backup of the MOTD and inform the President and Maintainer immediately of the actions it has taken.</para>
+  </section>
+  <section>
+    <title>Disputes</title>
+    <para>Any disputes involving the application or enforcement of this edict shall be moderated by the Internet Director. Should any of the involved parties be the Internet Director the dispute shall be moderated by the President. Should any of the parties involved be the President and Internet Director, the dispute shall be moderated by the Vice President. The decision of the moderating officer shall be considered final.</para>
+  </section>
+</article>
