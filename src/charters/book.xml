@@ -17,6 +17,7 @@
       <para>It's not always easy to find which Edict applies to which department or RPG area, however.  Since it became common practice to have one giant edict to define everything about a department at once rather than a series of small edicts that sometimes overlap it has become significantly easier to find such information, but it still requires knowing where to look.</para>
       <para>To make such legal referencing easier, the Library staff has put together this reference book, collecting all such information together in one easy-to-find place.  Although effort has been taken to keep these pages as accurate as possible to the original edicts, sometimes minor errors do happen.  Non-legally-binding content, such as the President's "thanks to everyone who worked on this" message, has sometimes also been trimmed for clarity.  If there is any question, the original edict is always the legally binding version.  A link to the original edict is provided with each charter.</para>
       <para>Each charter is listed as authored by the President who posted it and, if applicable, the director of the related department at the time the edict was made.  In many cases many more people were involved in actually developing and writing the edict in question, but for simplicity (and because it is hard to keep track of everyone who made any contribution at all) only the "official" authors are listed.  The original edict often includes an informal thanks to other contributors.</para>
+      <para>The "Retired Alt-RPG Environments" section includes those Alt RPGs that were active but have since been retired.  They are not currently binding, but are included here for historical reference.</para>
     </abstract>
   </bookinfo>
 
@@ -47,6 +48,10 @@
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="merrimack.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="oed_v.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="ogawa.xml" />
+  </part>
+  <part id="oldaltrpgareas">
+    <title>Retired Alternate Role-Playing Environments</title>
+    <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="crell.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="scottie.xml" />
   </part>
 </book>
