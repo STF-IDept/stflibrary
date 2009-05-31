@@ -10,6 +10,13 @@
       <surname>Robinson</surname>
     </author>
     <revhistory>
+	<revision>
+        <revnumber>3</revnumber>
+        <date>31st May 2009</date>
+        <revdescription>
+          <para>Based on Edict <ulink url="http://www.star-fleet.com/prez/edicts/robinson/#e64">Robinson #64</ulink></para>
+        </revdescription>
+      </revision>
         <revision>
         <revnumber>2</revnumber>
         <date>29th February 2009</date>
@@ -26,6 +33,10 @@
       </revision>
     </revhistory>
   </articleinfo>
+  <section>
+    <title>Supersession Of Previous Edicts</title>
+	<para>Edicts Hemenway #34 and Robinson #49 are hereby rescinded and superseded by this Edict.</title>
+  </section>
   <section>
     <title>Membership</title>
     <para>A Member of STF is defined as an individual who has at least one active role-playing or Gamemaster position within the club.</para>
@@ -95,5 +106,9 @@
     <para>Rear Admiral (RAdm): Rare. Rear Admiral is a promotion given to those who have not only made exceptional commitments to the club above and beyond that which is required for a number of years, but have also had a permanent and lasting impact in developing the club through government work in Fleets or Departments.</para>
     <para>Vice Admiral (VAdm): Very Rare. Vice Admiral is a promotion given to those who have made exceptional, lasting and long term impacts on the way in which the club operates and functions. Usually given to those members who have served as President at least once and have a long history of government work developing new procedures and working tirelessly to develop the best procedures and policies for any Department or Fleet that they turn their hand to.</para>
     <para>Admiral (Adm): Ultra Rare. The highest member rank achievable in the club, Admiral is given by the President to those rare few members who have given their all for many years and have had a significant lasting impact on the club in terms of its development through government and technology as well as a profound impact on how we function and operate through the implementation of long lasting changes that revolutionise the Government, the platform on which we operate or the Presidency.</para>
+  </section>
+  <section>
+    <title>Promotions Limits</title>
+	<para>Beyond the rank of Captain, no member may be promoted more than once in any eight month period. Members may only be promoted in this manner to the next highest rank as outlined in the Chain Of Command.</para>
   </section>
 </article>
