@@ -10,14 +10,14 @@
       <surname>Robinson</surname>
     </author>
     <revhistory>
-	<revision>
+      <revision>
         <revnumber>3</revnumber>
         <date>31st May 2009</date>
         <revdescription>
           <para>Based on Edict <ulink url="http://www.star-fleet.com/prez/edicts/robinson/#e64">Robinson #64</ulink></para>
         </revdescription>
       </revision>
-        <revision>
+      <revision>
         <revnumber>2</revnumber>
         <date>29th February 2009</date>
         <revdescription>
@@ -35,7 +35,7 @@
   </articleinfo>
   <section>
     <title>Supersession Of Previous Edicts</title>
-	<para>Edicts Hemenway #34 and Robinson #49 are hereby rescinded and superseded by this Edict.</title>
+  	<para>Edicts Hemenway #34 and Robinson #49 are hereby rescinded and superseded by this Edict.</para>
   </section>
   <section>
     <title>Membership</title>
