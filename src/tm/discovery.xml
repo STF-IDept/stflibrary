@@ -431,7 +431,6 @@
 				<member>Science Lab 3</member>
 				<member>Secondary Hull Docking Latches</member>
 				<member>Security Office</member>
-				<member>Seven Forward Lounge</member>
 				<member>Quantum Physics Lab 2</member>
 				<member>Warp Core Docking Hatch</member>
 				<member>Warp Core Jettison Hatch</member>
@@ -456,7 +455,7 @@
 			<title>Deck 9</title>
 			<simplelist>
 				<member>Battle Sickbay</member>
-				<member>Crew Lounge</member>
+				<member>Nine Forward Lounge</member>
 				<member>Crew Quarters</member>
 				<member>Forward Torpedo Launcher</member>
 				<member>Lower Computer Core</member>
