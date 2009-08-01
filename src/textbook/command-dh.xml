@@ -11,13 +11,20 @@
 			</author>
 		</authorgroup>
 		<revhistory>
-			<revision>
-				<revnumber>2</revnumber>
-				<date>16th February 2009</date>
-				<revdescription>
-					<para>Changed course proctor to Robin Bird</para>
-				</revdescription>
-			</revision>		
+      <revision>
+        <revnumber>2</revnumber>
+        <date>16th February 2009</date>
+        <revdescription>
+          <para>Changed course proctor to Robin Bird</para>
+        </revdescription>
+      </revision>   
+      <revision>
+        <revnumber>3</revnumber>
+        <date>1 August 2009</date>
+        <revdescription>
+          <para>Changed course proctor to Samuel Bibb</para>
+        </revdescription>
+      </revision>   
 		</revhistory>
 	</articleinfo>
 	<section id="dh-intro">
@@ -162,7 +169,7 @@
 		<para>Submission Instructions</para>
 		<orderedlist>
 			<listitem><para>Write out your answers to the questions below.</para></listitem>
-			<listitem><para>E-mail them to the course grader: <ulink url="mailto:command-dh-tutor@star-fleet.com?subject=STF Command DH Exam">Symon Silvester</ulink></para></listitem>
+			<listitem><para>E-mail them to the course grader: <ulink url="mailto:command-dh-tutor@star-fleet.com?subject=STF Command DH Exam">Samuel Bibb</ulink></para></listitem>
 			<listitem><para><emphasis>Be sure to include your full name at the top of the e-mail!</emphasis></para></listitem>
 			<listitem><para>Send the original question followed by your answers.</para></listitem>
 			<listitem><para>Do <emphasis>not</emphasis> send your answers as an attachment.</para></listitem>
