@@ -10,6 +10,13 @@
       <surname>Robinson</surname>
     </author>
     <revhistory>
+	<revision>
+        <revnumber>4</revnumber>
+        <date>11th September 2009</date>
+        <revdescription>
+          <para>Based on Edict <ulink url="http://www.star-fleet.com/prez/edicts/robinson/#e81">Robinson #81</ulink></para>
+        </revdescription>
+      </revision>
       <revision>
         <revnumber>3</revnumber>
         <date>31st May 2009</date>
@@ -35,11 +42,11 @@
   </articleinfo>
   <section>
     <title>Supersession Of Previous Edicts</title>
-  	<para>Edicts Hemenway #34 and Robinson #49 are hereby rescinded and superseded by this Edict.</para>
+  	<para>Edicts Hemenway #34, Robinson #49 and Robinson #64 are hereby rescinded and superseded by this Edict.</para>
   </section>
   <section>
     <title>Membership</title>
-    <para>A Member of STF is defined as an individual who has at least one active role-playing or Gamemaster position within the club.</para>
+    <para>A Member is defined as any person holding an active STF account and at least one of the following; a governmental position, an active roleplaying character, a gamemaster position. These must be held for no less than 30 days to qualify as a Member.</para>
   </section>
   <section>
     <title>Club rank structure</title>
