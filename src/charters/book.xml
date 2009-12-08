@@ -7,8 +7,8 @@
     <corpauthor>The STF Librarian</corpauthor>
     <editor>
       <honorific>Librarian</honorific>
-      <firstname>Larry</firstname>
-      <surname>Garfield</surname>
+      <firstname>Andrew</firstname>
+      <surname>Robinson</surname>
     </editor>
     <date>12 September 2007</date>
     <abstract>
@@ -26,18 +26,19 @@
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="membership.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="government.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="fleets.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="oversight.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="elections.xml" />
+	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="motd.xml" />
   </part>
   <part id="departments">
     <title>Executive Departments and Assistants</title>
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="acad.xml" />
-    <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="elections.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="coder.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="ed.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="library.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="gmd.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="pd.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="id.xml" />
-    <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="motd.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="mac.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="policies.xml" />
   </part>
