@@ -1,49 +1,49 @@
 <?xml version="1.0"?>
 <project name="generate" basedir="" default="all">
-	<description>Library generation</description>
+  <description>Library generation</description>
 
-	<!--
-		 Required Debian/Ubuntu packages:
-		 docbook-xml
-		 docbook-xsl
-		 libsaxon-java
-		 libxalan2-java
-		 libxerces2-java
-		 //libxml-commons-resolver1.1-java (Broken, not needed anymore?)
-		 ant
-		 
-		 // Only if using FOP.
-		 //fop
-		 //libbatik-java
-		 //libjaxp1.2-java
+  <!--
+     Required Debian/Ubuntu packages:
+     docbook-xml
+     docbook-xsl
+     libsaxon-java
+     libxalan2-java
+     libxerces2-java
+     //libxml-commons-resolver1.1-java (Broken, not needed anymore?)
+     ant
+     
+     // Only if using FOP.
+     //fop
+     //libbatik-java
+     //libjaxp1.2-java
 
-		 Manually:
-		 xerces (nightly, since the last release is buggy)
-		 XIncluder
-		 Resolver (from XML Commons)
+     Manually:
+     xerces (nightly, since the last release is buggy)
+     XIncluder
+     Resolver (from XML Commons)
 
-	-->
+  -->
 
-	<!-- Classpath-related properties.  Set these to the location of the appropriate Jars. -->
-	<property name="saxon.jar" value="/usr/share/java/saxon.jar"/>
-	<property name="resolver.jar" value="/usr/share/java/resolver.jar"/> <!-- note this is a symlink to the real xml-commons-resolver-version.jar -->
-	<property name="xerces.jar" value="/usr/share/java/xerces.jar"/> 
-	<!--<property name="xincluder.jar" value="/usr/share/java/xincluder.jar"/> -->
-	<!--<property name="xincluder.jar" value="/home/lgarfiel/Download/xincluder.jar"/> -->
-	<!--<property name="xom.jar" value="/usr/share/java/xom.jar"/>-->
-	<!--<property name="fop.jar" value="/usr/share/java/fop.jar"/>
-	<property name="batik.jar" value="/usr/share/java/batik.jar"/>
-	<property name="jai_core.jar" value="/usr/share/java/jai_core.jar"/>
-	<property name="jai_codec.jar" value="/usr/share/java/jai_codec.jar"/>
-	<property name="avalon-framework.jar" value="/usr/share/java/avalon-framework.jar"/>
-	<property name="xml-apis.jar" value="/usr/share/java/xml-apis.jar"/>
-	<property name="jimi.jar" value="/usr/share/java/JimiProClasses.jar"/>-->
+  <!-- Classpath-related properties.  Set these to the location of the appropriate Jars. -->
+  <property name="saxon.jar" value="/usr/share/java/saxon.jar"/>
+  <property name="resolver.jar" value="/usr/share/java/resolver.jar"/> <!-- note this is a symlink to the real xml-commons-resolver-version.jar -->
+  <property name="xerces.jar" value="/usr/share/java/xerces.jar"/> 
+  <!--<property name="xincluder.jar" value="/usr/share/java/xincluder.jar"/> -->
+  <!--<property name="xincluder.jar" value="/home/lgarfiel/Download/xincluder.jar"/> -->
+  <!--<property name="xom.jar" value="/usr/share/java/xom.jar"/>-->
+  <!--<property name="fop.jar" value="/usr/share/java/fop.jar"/>
+  <property name="batik.jar" value="/usr/share/java/batik.jar"/>
+  <property name="jai_core.jar" value="/usr/share/java/jai_core.jar"/>
+  <property name="jai_codec.jar" value="/usr/share/java/jai_codec.jar"/>
+  <property name="avalon-framework.jar" value="/usr/share/java/avalon-framework.jar"/>
+  <property name="xml-apis.jar" value="/usr/share/java/xml-apis.jar"/>
+  <property name="jimi.jar" value="/usr/share/java/JimiProClasses.jar"/>-->
 
-	<!-- DocBook path properties.  Set these for your system. -->
-	<property name="docbookDTD" value="/usr/share/sgml/docbook/dtd/xml/4.3/docbookx.dtd"/>
-	<!--<property name="MainXslPath" value="/usr/share/xml/docbook/stylesheet/nwalsh"/>-->
-	<property name="MainXslPath" value="./xsl/docbook"/>
-	<property name="xslPath" value="xsl"/>
+  <!-- DocBook path properties.  Set these for your system. -->
+  <property name="docbookDTD" value="/usr/share/sgml/docbook/dtd/xml/4.3/docbookx.dtd"/>
+  <!--<property name="MainXslPath" value="/usr/share/xml/docbook/stylesheet/nwalsh"/>-->
+  <property name="MainXslPath" value="./xsl/docbook"/>
+  <property name="xslPath" value="xsl"/>
 
   <!-- Project-specific properties. Set these as needed. -->
   <property name="source.dir" value="src"/>
@@ -57,22 +57,22 @@
   <property name="xslHtmlSet" value="${xslPath}/html-set.xsl"/>
   <property name="xslHtmlOneLibrary" value="${xslPath}/html-onelibrary.xsl"/>
 
-	<property name="xslHtmlAwards" value="${xslPath}/html-awards.xsl"/>
+  <property name="xslHtmlAwards" value="${xslPath}/html-awards.xsl"/>
   <property name="xslFoAwards" value="${xslPath}/fo-awards.xsl"/>
 
   <property name="xslHtmlCharters" value="${xslPath}/html-charters.xsl"/>
   <property name="xslFoCharters" value="${xslPath}/fo-charters.xsl"/>
 
-	<property name="xslHtmlHandbook" value="${xslPath}/html-handbook.xsl"/>
+  <property name="xslHtmlHandbook" value="${xslPath}/html-handbook.xsl"/>
   <property name="xslFoHandbook" value="${xslPath}/fo-handbook.xsl"/>
 
-	<property name="xslHtmlHistory" value="${xslPath}/html-history.xsl"/>
+  <property name="xslHtmlHistory" value="${xslPath}/html-history.xsl"/>
   <property name="xslFoHistory" value="${xslPath}/fo-history.xsl"/>
 
-	<property name="xslHtmlFaq" value="${xslPath}/html-faq.xsl"/>
+  <property name="xslHtmlFaq" value="${xslPath}/html-faq.xsl"/>
   <property name="xslFoFaq" value="${xslPath}/fo-faq.xsl"/>
 
-	<property name="xslHtmlMedia" value="${xslPath}/html-media.xsl"/>
+  <property name="xslHtmlMedia" value="${xslPath}/html-media.xsl"/>
   <property name="xslFoMedia" value="${xslPath}/fo-media.xsl"/>
 
   <property name="xslHtmlMinutes" value="${xslPath}/html-minutes.xsl"/>
@@ -81,53 +81,53 @@
   <property name="xslHtmlRm" value="${xslPath}/html-rm.xsl"/>
   <property name="xslFoRm" value="${xslPath}/fo-rm.xsl"/>
 
-	<property name="xslHtmlTextbook" value="${xslPath}/html-textbook.xsl"/>
+  <property name="xslHtmlTextbook" value="${xslPath}/html-textbook.xsl"/>
   <property name="xslFoTextbook" value="${xslPath}/fo-textbook.xsl"/>
 
-	<property name="xslHtmlTm" value="${xslPath}/html-tm.xsl"/>
+  <property name="xslHtmlTm" value="${xslPath}/html-tm.xsl"/>
   <property name="xslFoTm" value="${xslPath}/fo-tm.xsl"/>
 
-	<!-- Define the actual Java classes to use. -->
-	<property name="xslt.processor.class" value="com.icl.saxon.StyleSheet" />
-	<!--<property name="xi.resolver.class" value="com.elharo.xml.xinclude.SAXXIncluder" />-->
-	<property name="xi.resolver.class" value="com.icl.saxon.StyleSheet" />
-	<property name="catalog.resolver.class" value="org.apache.xml.resolver.tools.CatalogResolver" />
-	<property name="resolving.reader.class" value="org.apache.xml.resolver.tools.ResolvingXMLReader" />
-	<property name="fo.processor.class" value="org.apache.fop.apps.Fop" />
+  <!-- Define the actual Java classes to use. -->
+  <property name="xslt.processor.class" value="com.icl.saxon.StyleSheet" />
+  <!--<property name="xi.resolver.class" value="com.elharo.xml.xinclude.SAXXIncluder" />-->
+  <property name="xi.resolver.class" value="com.icl.saxon.StyleSheet" />
+  <property name="catalog.resolver.class" value="org.apache.xml.resolver.tools.CatalogResolver" />
+  <property name="resolving.reader.class" value="org.apache.xml.resolver.tools.ResolvingXMLReader" />
+  <property name="fo.processor.class" value="org.apache.fop.apps.Fop" />
 
-	<!-- Define the classpath sto use for all build targets. -->
-	<path id="xslt.processor.classpath">
-		<pathelement path="${saxon.jar}" />
-		<pathelement path="${resolver.jar}" />
-		<pathelement path="${xerces.jar}" />
-		<pathelement path="${xincluder.jar}" />
-		<pathelement path="${xom.jar}" />
-		<pathelement path="."/> <!-- for CatalogManager.properties -->
-	</path>
+  <!-- Define the classpath sto use for all build targets. -->
+  <path id="xslt.processor.classpath">
+    <pathelement path="${saxon.jar}" />
+    <pathelement path="${resolver.jar}" />
+    <pathelement path="${xerces.jar}" />
+    <pathelement path="${xincluder.jar}" />
+    <pathelement path="${xom.jar}" />
+    <pathelement path="."/> <!-- for CatalogManager.properties -->
+  </path>
 
-	<path id="fo.processor.classpath">
-		<pathelement path="${xerces.jar}" />
-		<pathelement path="${fop.jar}" />
-		<pathelement path="${batik.jar}" />
-		<pathelement path="${jai_core.jar}" />
-		<pathelement path="${jai_codec.jar}" />
-		<pathelement path="${avalon-framework.jar}" />
-		<pathelement path="${xml-apis.jar}" />
-		<pathelement path="${jimi.jar}" />
-	</path>
-	
-	<!-- Macros, aka custom tasks, aka "subroutines" -->
-	 
+  <path id="fo.processor.classpath">
+    <pathelement path="${xerces.jar}" />
+    <pathelement path="${fop.jar}" />
+    <pathelement path="${batik.jar}" />
+    <pathelement path="${jai_core.jar}" />
+    <pathelement path="${jai_codec.jar}" />
+    <pathelement path="${avalon-framework.jar}" />
+    <pathelement path="${xml-apis.jar}" />
+    <pathelement path="${jimi.jar}" />
+  </path>
+  
+  <!-- Macros, aka custom tasks, aka "subroutines" -->
+   
   <macrodef name="html-book">
     <attribute name="book" default="NOT SET"/>
     <attribute name="stylesheet" default="NOT SET"/>
     <sequential>
-    	<!-- I can't seem to get the Xerces resolver to work, but PHP's is easy. -->
+      <!-- I can't seem to get the Xerces resolver to work, but PHP's is easy. -->
       <exec executable="php">
         <arg line="resolve.php" />
         <arg line="@{book}" />
       </exec>
-    	<!-- Now compile the book based on the resoved file. -->
+      <!-- Now compile the book based on the resoved file. -->
       <java classname="${xslt.processor.class}" fork="yes" failonerror="true">
         <classpath refid="xslt.processor.classpath" />
         <!-- <jvmarg value="-Dorg.apache.xerces.xni.parser.XMLParserConfiguration=org.apache.xerces.parsers.XIncludeParserConfiguration"/> -->
@@ -143,12 +143,12 @@
     </sequential>
   </macrodef>
 
-	<macrodef name="pdf-book">
-		<attribute name="book" default="NOT SET"/>
-		<attribute name="stylesheet" default="NOT SET"/>
-		<sequential>
+  <macrodef name="pdf-book">
+    <attribute name="book" default="NOT SET"/>
+    <attribute name="stylesheet" default="NOT SET"/>
+    <sequential>
       <echo>Building XSL-FO intermediate output.</echo>
-	     <!-- I can't seem to get the Xerces resolver to work, but PHP's is easy. -->
+       <!-- I can't seem to get the Xerces resolver to work, but PHP's is easy. -->
       <exec executable="php">
         <arg line="resolve.php" />
         <arg line="@{book}" />
@@ -172,15 +172,15 @@
         <arg line="-fo ${fo.dir}/@{book}.fo"/>
         <arg line="-pdf ${build.dir}/pdf/@{book}.pdf"/>
       </java>
-		</sequential>
+    </sequential>
   </macrodef>
-	
-	<!-- Our assorted build targets. -->
+  
+  <!-- Our assorted build targets. -->
 
-	<target name="init">
-		<echo message="Initializing build system." />
-		<defaultexcludes remove="**/*~"/>
-	</target>
+  <target name="init">
+    <echo message="Initializing build system." />
+    <defaultexcludes remove="**/*~"/>
+  </target>
 
   <target name="all" depends="html, pdf" />
 
@@ -203,176 +203,176 @@
   <target name="minutes" depends="html.minutes, pdf.minutes" />
 
   <target name="media" depends="html.media, pdf.media" />
-	
+  
   <target name="tm" depends="html.tm, pdf.tm" />
   
   <target name="history" depends="html.history, pdf.history" />
 
-	<target name="html.titlepage" depends="init">
-		<java classname="${xslt.processor.class}" fork="yes" failonerror="true">
-			<classpath refid="xslt.processor.classpath" />
-			<arg line="-x ${resolving.reader.class}"/>
-			<arg line="-y ${resolving.reader.class}"/>
-			<arg line="-u"/>
-			<arg line="-o ${xslPath}/html-titlepage-templates.xsl"/>
-			<arg line="${xslPath}/html-titlepage-templates.xml"/>
-			<arg line="${xslHtmlTitlepage}" />
- 			<arg line="base.dir=${xslPath}/html-titlepage-templates.xsl" />
-		</java>
-	</target>
+  <target name="html.titlepage" depends="init">
+    <java classname="${xslt.processor.class}" fork="yes" failonerror="true">
+      <classpath refid="xslt.processor.classpath" />
+      <arg line="-x ${resolving.reader.class}"/>
+      <arg line="-y ${resolving.reader.class}"/>
+      <arg line="-u"/>
+      <arg line="-o ${xslPath}/html-titlepage-templates.xsl"/>
+      <arg line="${xslPath}/html-titlepage-templates.xml"/>
+      <arg line="${xslHtmlTitlepage}" />
+       <arg line="base.dir=${xslPath}/html-titlepage-templates.xsl" />
+    </java>
+  </target>
 
-	<target name="resolve.set" depends="init">
-		<exec executable="php">
+  <target name="resolve.set" depends="init">
+    <exec executable="php">
       <arg line="resolve.php" />
     </exec>
-	</target>
-	
-	<target name="html.onefile" depends="init, html.titlepage, resolve.set">
-		<tstamp>
-			<format property="TODAY" pattern="yyyy-MM-dd" locale="en"/>
-		</tstamp>
-		<echo>Building HTML archive file for ${TODAY}</echo>
-		<java classname="${xslt.processor.class}" fork="yes" failonerror="true">
-			<classpath refid="xslt.processor.classpath" />
-			<arg line="-x ${resolving.reader.class}"/>
-			<arg line="-y ${resolving.reader.class}"/>
-			<arg line="-r ${catalog.resolver.class}"/>
-			<arg line="-u"/>
-			<arg line="-o ${archive.dir}/${TODAY}.html"/>
-			<arg line="${resolved.dir}/set.xml"/>
-			<arg line="${MainXslPath}/html/docbook.xsl" />
-			<arg line="base.dir=${build.dir}/" />
-			<arg line="use.id.as.filename=1" />
-		</java>
-	</target>
+  </target>
+  
+  <target name="html.onefile" depends="init, html.titlepage, resolve.set">
+    <tstamp>
+      <format property="TODAY" pattern="yyyy-MM-dd" locale="en"/>
+    </tstamp>
+    <echo>Building HTML archive file for ${TODAY}</echo>
+    <java classname="${xslt.processor.class}" fork="yes" failonerror="true">
+      <classpath refid="xslt.processor.classpath" />
+      <arg line="-x ${resolving.reader.class}"/>
+      <arg line="-y ${resolving.reader.class}"/>
+      <arg line="-r ${catalog.resolver.class}"/>
+      <arg line="-u"/>
+      <arg line="-o ${archive.dir}/${TODAY}.html"/>
+      <arg line="${resolved.dir}/set.xml"/>
+      <arg line="${MainXslPath}/html/docbook.xsl" />
+      <arg line="base.dir=${build.dir}/" />
+      <arg line="use.id.as.filename=1" />
+    </java>
+  </target>
 
-	<target name="pdf.onefile" depends="init">
-		<tstamp>
-			<format property="TODAY" pattern="yyyy-MM-dd" locale="en"/>
-		</tstamp>
-		<echo>Building PDF archive file for ${TODAY}</echo>
-		<java classname="${xslt.processor.class}" fork="yes" failonerror="true">
-			<classpath refid="xslt.processor.classpath" />
-			<arg line="-x ${resolving.reader.class}"/>
-			<arg line="-y ${resolving.reader.class}"/>
-			<arg line="-u"/>
-			<arg line="-o ${fo.dir}/library.fo"/>
-			<arg line="${source.dir}/set.xml"/>
-			<arg line="${MainXslPath}/fo/docbook.xsl" />
-		</java>
-		<echo>Creating Archive PDF file</echo>
-		<java classname="${fo.processor.class}" failonerror="true">
-			<classpath refid="fo.processor.classpath" />
-			<arg line="-fo ${fo.dir}/library.fo"/>
-			<arg line="-pdf ${archive.dir}/pdf/${TODAY}.pdf"/>
-		</java>
-	</target>
+  <target name="pdf.onefile" depends="init">
+    <tstamp>
+      <format property="TODAY" pattern="yyyy-MM-dd" locale="en"/>
+    </tstamp>
+    <echo>Building PDF archive file for ${TODAY}</echo>
+    <java classname="${xslt.processor.class}" fork="yes" failonerror="true">
+      <classpath refid="xslt.processor.classpath" />
+      <arg line="-x ${resolving.reader.class}"/>
+      <arg line="-y ${resolving.reader.class}"/>
+      <arg line="-u"/>
+      <arg line="-o ${fo.dir}/library.fo"/>
+      <arg line="${source.dir}/set.xml"/>
+      <arg line="${MainXslPath}/fo/docbook.xsl" />
+    </java>
+    <echo>Creating Archive PDF file</echo>
+    <java classname="${fo.processor.class}" failonerror="true">
+      <classpath refid="fo.processor.classpath" />
+      <arg line="-fo ${fo.dir}/library.fo"/>
+      <arg line="-pdf ${archive.dir}/pdf/${TODAY}.pdf"/>
+    </java>
+  </target>
 
-	<target name="html.set" depends="init, html.titlepage, resolve.set">
-		<java classname="${xslt.processor.class}" fork="yes" failonerror="true">
-			<classpath refid="xslt.processor.classpath" />
-			<arg line="-x ${resolving.reader.class}"/>
-			<arg line="-y ${resolving.reader.class}"/>
-			<arg line="-u"/>
-			<arg line="${resolved.dir}/set.xml"/>
-			<arg line="${xslHtmlSet}" />
-			<arg line="base.dir=${build.dir}/" />
-		</java>
-	</target>
+  <target name="html.set" depends="init, html.titlepage, resolve.set">
+    <java classname="${xslt.processor.class}" fork="yes" failonerror="true">
+      <classpath refid="xslt.processor.classpath" />
+      <arg line="-x ${resolving.reader.class}"/>
+      <arg line="-y ${resolving.reader.class}"/>
+      <arg line="-u"/>
+      <arg line="${resolved.dir}/set.xml"/>
+      <arg line="${xslHtmlSet}" />
+      <arg line="base.dir=${build.dir}/" />
+    </java>
+  </target>
 
-	<target name="html.handbook" depends="init, html.titlepage">
-		<html-book book="handbook" stylesheet="${xslHtmlHandbook}"/>
-	</target>
+  <target name="html.handbook" depends="init, html.titlepage">
+    <html-book book="handbook" stylesheet="${xslHtmlHandbook}"/>
+  </target>
 
-	<target name="pdf.handbook" depends="init">
-		<pdf-book book="handbook" stylesheet="${xslFoHandbook}"/>
-	</target>
+  <target name="pdf.handbook" depends="init">
+    <pdf-book book="handbook" stylesheet="${xslFoHandbook}"/>
+  </target>
 
-	<target name="html.charters" depends="init, html.titlepage">
-		<html-book book="charters" stylesheet="${xslHtmlCharters}"/>
-	</target>
+  <target name="html.charters" depends="init, html.titlepage">
+    <html-book book="charters" stylesheet="${xslHtmlCharters}"/>
+  </target>
 
-	<target name="pdf.charters" depends="init">
-		<pdf-book book="charters" stylesheet="${xslFoCharters}"/>
-	</target>
+  <target name="pdf.charters" depends="init">
+    <pdf-book book="charters" stylesheet="${xslFoCharters}"/>
+  </target>
 
-	<target name="html.faq" depends="init, html.titlepage">
-		<html-book book="faq" stylesheet="${xslHtmlFaq}"/>
-	</target>
+  <target name="html.faq" depends="init, html.titlepage">
+    <html-book book="faq" stylesheet="${xslHtmlFaq}"/>
+  </target>
 
-	<target name="pdf.faq" depends="init">
-		<pdf-book book="faq" stylesheet="${xslFoFaq}"/>
-	</target>
+  <target name="pdf.faq" depends="init">
+    <pdf-book book="faq" stylesheet="${xslFoFaq}"/>
+  </target>
 
-	<target name="html.rm" depends="init, html.titlepage">
-		<html-book book="rm" stylesheet="${xslHtmlRm}"/>
-	</target>
+  <target name="html.rm" depends="init, html.titlepage">
+    <html-book book="rm" stylesheet="${xslHtmlRm}"/>
+  </target>
 
-	<target name="pdf.rm" depends="init">
-		<pdf-book book="rm" stylesheet="${xslFoRm}"/>
-	</target>
+  <target name="pdf.rm" depends="init">
+    <pdf-book book="rm" stylesheet="${xslFoRm}"/>
+  </target>
 
-	<target name="html.textbook" depends="init, html.titlepage">
-		<html-book book="textbook" stylesheet="${xslHtmlTextbook}"/>
-	</target>
+  <target name="html.textbook" depends="init, html.titlepage">
+    <html-book book="textbook" stylesheet="${xslHtmlTextbook}"/>
+  </target>
 
-	<target name="pdf.textbook" depends="init">
-		<pdf-book book="textbook" stylesheet="${xslFoTextbook}"/>
-	</target>
+  <target name="pdf.textbook" depends="init">
+    <pdf-book book="textbook" stylesheet="${xslFoTextbook}"/>
+  </target>
 
   <target name="html.minutes" depends="init, html.titlepage">
-  	<html-book book="minutes" stylesheet="${xslHtmlMinutes}"/>
+    <html-book book="minutes" stylesheet="${xslHtmlMinutes}"/>
   </target>
 
   <target name="pdf.minutes" depends="init">
-  	<pdf-book book="minutes" stylesheet="${xslFoMinutes}"/>
+    <pdf-book book="minutes" stylesheet="${xslFoMinutes}"/>
   </target>
 
   <target name="html.media" depends="init, html.titlepage">
-  	<html-book book="media" stylesheet="${xslHtmlMedia}"/>
+    <html-book book="media" stylesheet="${xslHtmlMedia}"/>
   </target>
 
   <target name="pdf.media" depends="init">
-  	<pdf-book book="media" stylesheet="${xslFoMedia}"/>
+    <pdf-book book="media" stylesheet="${xslFoMedia}"/>
   </target>
 
   <target name="html.tm" depends="init, html.titlepage">
-  	<html-book book="tm" stylesheet="${xslHtmlTm}"/>
+    <html-book book="tm" stylesheet="${xslHtmlTm}"/>
   </target>
 
   <target name="pdf.tm" depends="init">
-  	<pdf-book book="tm" stylesheet="${xslFoTm}"/>
+    <pdf-book book="tm" stylesheet="${xslFoTm}"/>
   </target>
     
   <target name="html.awards" depends="init, html.titlepage">
-  	<html-book book="awards" stylesheet="${xslHtmlAwards}"/>
+    <html-book book="awards" stylesheet="${xslHtmlAwards}"/>
   </target>
     
   <target name="pdf.awards" depends="init">
-  	<pdf-book book="awards" stylesheet="${xslFoAwards}"/>
+    <pdf-book book="awards" stylesheet="${xslFoAwards}"/>
   </target>
   
   <target name="html.history" depends="init, html.titlepage">
-  	<html-book book="history" stylesheet="${xslHtmlHistory}"/>
+    <html-book book="history" stylesheet="${xslHtmlHistory}"/>
   </target>
     
   <target name="pdf.history" depends="init">
-  	<pdf-book book="history" stylesheet="${xslFoHistory}"/>
+    <pdf-book book="history" stylesheet="${xslFoHistory}"/>
   </target>
 
-	<target name="clean" depends="init">
-		<delete>
-			<fileset dir="." includes="**/*~"/>
-		</delete>
-		<delete>
-			<fileset dir="${build.dir}" includes="**/*.html"/>
+  <target name="clean" depends="init">
+    <delete>
+      <fileset dir="." includes="**/*~"/>
+    </delete>
+    <delete>
+      <fileset dir="${build.dir}" includes="**/*.html"/>
       <fileset dir="${build.dir}" includes="**/*.pdf"/>
       <fileset dir="${resolved.dir}" includes="**/*.xml"/>
-			<fileset dir="${fo.dir}" includes="**/*.fo"/>
-			<fileset dir="${xslPath}" includes="html-titlepage-templates.xsl"/> <!-- This file is auto-generated -->
+      <fileset dir="${fo.dir}" includes="**/*.fo"/>
+      <fileset dir="${xslPath}" includes="html-titlepage-templates.xsl"/> <!-- This file is auto-generated -->
             <!-- We do NOT delete the archive directory, as we want the historical record. -->
-		</delete>
-	</target>
+    </delete>
+  </target>
 
 </project>
 
