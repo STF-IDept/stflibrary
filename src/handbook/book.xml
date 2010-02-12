@@ -1,5 +1,5 @@
-<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
-                    "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">
+<!--<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
+                    "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">-->
 <book id="handbook">
 	<?dbhtml dir="handbook" filename="index.html" ?>
 	<bookinfo>
