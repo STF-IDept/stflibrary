@@ -14,7 +14,8 @@
 			<subtitle>1 December 2005 - 31 July 2006</subtitle>
 		</partinfo>
 		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="ircrpg.xml" />
-		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="alphaalliance.xml" />
+<!--		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="alphaalliance.xml" />
 		<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="alphaalliancefollowup.xml" />
+-->
 	</part>
 </book>
