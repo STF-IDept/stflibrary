@@ -1,165 +1,163 @@
-<!--<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
-                    "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">-->
 <article id="minutes-ircrpg">
-	<title>Should STF try IRC role playing?</title>
-	<subtitle>14 December 2005 - 23 December 2005</subtitle>
-	<articleinfo>
-		<editor role="Command Janitor">
-			<honorific>Command Janitor</honorific>
-			<firstname>Danny</firstname>
-			<surname>Young</surname>
-		</editor>
-		<author>
-			<honorific>Proposer</honorific>
-			<firstname>Chris</firstname>
-			<surname>Jones</surname>
-		</author>
-		<revhistory>
-			<revision>
-				<revnumber>1</revnumber>
-				<date>21 January 2006</date>
-				<revdescription>
-					<para>Added to the Library.</para>
-				</revdescription>
-			</revision>
-		</revhistory>
-	</articleinfo>
+  <title>Should STF try IRC role playing?</title>
+  <subtitle>14 December 2005 - 23 December 2005</subtitle>
+  <articleinfo>
+    <editor role="Command Janitor">
+      <honorific>Command Janitor</honorific>
+      <firstname>Danny</firstname>
+      <surname>Young</surname>
+    </editor>
+    <author>
+      <honorific>Proposer</honorific>
+      <firstname>Chris</firstname>
+      <surname>Jones</surname>
+    </author>
+    <revhistory>
+      <revision>
+        <revnumber>1</revnumber>
+        <date>21 January 2006</date>
+        <revdescription>
+          <para>Added to the Library.</para>
+        </revdescription>
+      </revision>
+    </revhistory>
+  </articleinfo>
 
-	<section>
-		<title>Results</title>
-		<para>Not enough interest shown. To be reopened.</para>
-	</section>
+  <section>
+    <title>Results</title>
+    <para>Not enough interest shown. To be reopened.</para>
+  </section>
 
-	<section>
-		<title>Participants</title>
-		<orderedlist>
-			<listitem><para>Chris Jones</para></listitem>
-			<listitem><para>Dominic Waite (Research &amp; Development Director</para></listitem>
-			<listitem><para>Matt Bernardin</para></listitem>
-			<listitem><para>Ed Amoroso</para></listitem>
-			<listitem><para>Larry Garfield (Librarian)</para></listitem>
-			<listitem><para>Jessica McClary (FComm-7)</para></listitem>
-			<listitem><para>Andrew Robinson (Personnel Director)</para></listitem>
-			<listitem><para>Amanda Noon</para></listitem>
-			<listitem><para>David Wonderly</para></listitem>
-			<listitem><para>Jen Herr (President)</para></listitem>
-			<listitem><para>Danny Young (Command Janitor)</para></listitem>
-		</orderedlist>
-	</section>
+  <section>
+    <title>Participants</title>
+    <orderedlist>
+      <listitem><para>Chris Jones</para></listitem>
+      <listitem><para>Dominic Waite (Research &amp; Development Director</para></listitem>
+      <listitem><para>Matt Bernardin</para></listitem>
+      <listitem><para>Ed Amoroso</para></listitem>
+      <listitem><para>Larry Garfield (Librarian)</para></listitem>
+      <listitem><para>Jessica McClary (FComm-7)</para></listitem>
+      <listitem><para>Andrew Robinson (Personnel Director)</para></listitem>
+      <listitem><para>Amanda Noon</para></listitem>
+      <listitem><para>David Wonderly</para></listitem>
+      <listitem><para>Jen Herr (President)</para></listitem>
+      <listitem><para>Danny Young (Command Janitor)</para></listitem>
+    </orderedlist>
+  </section>
 
-	<section>
-		<title>Proposal</title>
-		<section>
-			<title>Background</title>
-			<para>Earlier this morning, I was approached by an individual with an interesting idea to open the IRC channel to an actual sim. While a good idea in theory, it could be refined to suit our needs.</para>
-		</section>
-		<section>
-			<title>Problem</title>
-			<para>As we all know, currently, all that happens in the channel is we talk for a little while, then the channel lays dormant for a few hours. This would ensure as little idle time as possible in the channel.</para>
-		</section>
-		<section>
-			<title>Proposal</title>
-			<para>I propose a normal type IRC sim at a set time and day of the week, with a GM, CO, etc. The GM would have complete control of the sim, the PM function could be used to simulate communications. The channel Ops would be in charge of maintaining our PG-13 rating. We could continue to write our responses in third person, past tense, and use the /me commands to show action. If there is enough interest, then we shouldn't have any problems crewing the ship. Of course, this would be on a trial basis, perhaps as little as 30 days. Any other time that the room has an OP, it can be used as a free sim on the same ship.</para>
-		</section>
-		<section>
-			<title>Discussion</title>
-			<para>I realize that this would take a lot of planning on everyone's part, but, I believe that as a club, it's possible for us to do this. If anyone sees a problem with this (I'm talking to the long timers that can actually remember when this was the norm), please respond. I'm keenly interested in hearing everyone's thoughts on this!</para>
-		</section>
-	</section>
-	<section>
-		<title>Minutes</title>
-		<variablelist>
-			<varlistentry>
-				<term>1. Dominic Waite</term>
-				<listitem><para>Interested in trying an IRC sim. Quiet #star-fleet times are when people are not around or busy. This is perhaps not a good time to try an IRC sim. It is suggested that we create a separate IRC channel.</para></listitem>
-			</varlistentry>
-			<varlistentry>
-              <term>2. Matt Bernardin</term>
-				<listitem><para>Not interested in an IRC Sim. The IRC channel is intended to provide a universal couch/hammock/futon for members and prospective members to come, talk and share. Club should look at interested numbers.</para></listitem>
-			</varlistentry>
-			<varlistentry>
-              <term>3. Ed Amoroso</term>
-				<listitem><para>Is there enough interest for this to be successful? Members of a BBS RPG site may find IRC sims not to their tastes. The sims would have to set up during peak IRC times. However, this could cut into peak IRC chatting times on #star-fleet. If we created a new channel, it wouldn't interrupt people who are on IRC simply to chat.</para></listitem>
-			</varlistentry>
-			<varlistentry>
-              <term>4. Larry Garfield</term>
-				<listitem><para>#star-fleet being a hang out venue not a bad thing. IRC Sim should be in another channel, not #star-fleet. #Star-fleet should remain an OOC chat area. As mentioned in item 2, is there enough interest to make it worthwhile? Do we have any GMs who are competent to run an IRC mission (which is different from a regular BBS sim. There are other clubs who specialize in IRC RPing. Do we want to consider a "cross sponsoring" setup with an IRC RPG club?</para></listitem>
-			</varlistentry>
-			<varlistentry>
-              <term>5. Chris Jones</term>
-				<listitem><para>In response to item 2, in order to set up an IRC ship, a test run would have to be conducted and a new IRC channel be formed. In response to 4, didn't mean to suggest #star-fleet being a hang venue was bad, simply that it would be fun to have an IRC sim because the interest is there from people asking about it in the channel.</para></listitem>
-			</varlistentry>
-			<varlistentry>
-              <term>6. Ed Amoroso</term>
-				<listitem><para>Some recruiting would have to be done to find a suitable XO, CO, GM, and DHs who are qualified to do IRC RPGing. How would the current STF rules fit with the IRC sims? ie GM training and selection. In response to item 4, a club partnership with another club would allow members of our club the opportunity to IRC RP in an environment that STF has identified as good.</para></listitem>
-			</varlistentry>
-			<varlistentry>
-              <term>7. Jessica McClary</term>
-				<listitem><para>The time it takes to complete an IRC Sim should be considered. Some members can dedicate many hours while other cannot. Would IRC Sims be broken down into stages?</para></listitem>
-			</varlistentry>
-			<varlistentry>
-              <term>8. Chris Jones</term>
-				<listitem><para>In response to item 7, it could be possible to do a 2 hour sim with a break in the middle or broken down into episodes if planned correctly. Is that too long or two short?</para></listitem>
-			</varlistentry>
-			<varlistentry>
-              <term>9. Larry Garfield</term>
-				<listitem><para>In response to item 8, regular STF Sims always last longer than you planned. The club as a whole doesn't really have the mechanics of IRC role playing. <quote>Outsourcing the idea would be the better way to go and would save the club the large learning curve.</quote></para></listitem>
-			</varlistentry>
-			<varlistentry>
-              <term>10. Matt Bernardin</term>
-				<listitem><para>Agrees with Item 9. Who will be able to role play in the IRC Sims? Can anyone or just the registered members of STF's?</para></listitem>
-			</varlistentry>
-			<varlistentry>
-              <term>11. Andrew Robinson</term>
-				<listitem>
-                  <para>Has experience with IRCSims. Agrees that we'd have to set up a seperate channel as #star-fleet definately wouldn't work. Agrees that we'd also need a very experienced GM with IRCSim and RTRP (Real Time Role Play) Sim history to handle the ship. Agrees that we'd need at least a few experienced IRC or RTRP players to act as senior officers. A set of rules posted and explanations governing the differing aspects of an IRCSim would need to be made.</para>
-                  <para>Sim length would definitely be more than one or two hours long. RTRP Sim's, unless they are freeform, rely heavily on a forum/message board/group to keep track of what has happened and list the background information on a Sim. The GM or a named log keeper would need to maintain a synopsis of current events and past events in the sim, as well as a complete log should someone need to see what has happened.</para>
-                  <para>It's not necessary for everyone involved to be online at any given time, and the only person who does have to be online to keep the sim moving is the GM. Other than this, it can be handled in snippets, with any thread being carried on provided that all those players involved are online at the same time.</para>
-                  <para>It's impractical for any sim to last only a few hours, because it's unrealistic to *ever* expect all 15 people to be online at any one given time, and it's a logistical nightmare to try and organize anything around time zones and work schedules, a nightmare which gets progressively larger the more people you involve.</para>
-                  <para>The only time you would need at least two thirds of the crew online would be the start of a sim, something which need only last an hour or so.</para>
-                  <para>So we have the beginning of a sim with 2/3 of the crew, at least all the senior officers. Once that is complete and a log is posted on the board/group/forum, with Sim background and some useful information, it can all be taken from there, with threads picking up wherever people are online with the GM.</para>
-                  <para>If it can work and the interest is there, then once we've got an appropriate GM, it could be brilliant, but also bear in mind that 95% of all IRC/RTRP Sim's fail because people can't put in the time, or aren't versatile enough to manage it.</para>
-				</listitem>
-			</varlistentry>
-			<varlistentry>
-              <term>12. Amanda Noon</term>
-				<listitem><para>Why do people want to real time role play? Is it because they want to sim, or because they want to role play their characters in real time?</para></listitem>
-			</varlistentry>
-			<varlistentry>
-              <term>13. Chris Jones</term>
-				<listitem><para>In response to item 12, the idea was brought up just to try something new. People in #star-fleet had mentioned that they wanted to try.</para></listitem>
-			</varlistentry>
-			<varlistentry>
-              <term>14. David Wonderly</term>
-				<listitem><para>Even if we get everything mentioned above, there is still the problem a crew. STF has people from all over the world and real life role playing would take away from that.</para></listitem>
-			</varlistentry>
-			<varlistentry>
-              <term>15. Jen Herr</term>
-				<listitem>
-					<para>Real life role playing works differently than what we're used to, but I think that pushing our knowledge and abilities would help us grow. The sim would last only 2 hours, and would be similar to a star trek episode like Chris was saying... sometimes Star Trek episodes are to be continued. There might not be a beginning to end sim in those 2 hours, but progress would be made on a continuing sim.</para>
-					<para>In response to ietm 11, Though I have no doubt this way of siming might work for some people, this is not what I have experienced, and is not what I imagine when thinking of an IRC sim. I did describe my experience and what I imagine for this club in an earlier post though. ;)</para>
-					<para>Smaller crew, focused sim (one timeline, two max, not multiple threads), time limit. It worked in my experience.</para>
-					<para>One objection to this format might be: What if there are more than 7 people interested? If we decide to do this, and are successful with a trial sim, and more people want to participate, we simply open up more sim times and sim opportunities.</para>
-					<para>In response to item 12, we should have a sim channel open all the times during non-sim times. New characters should be made for the IRC sim ship.</para>
-				</listitem>
-			</varlistentry>
-			<varlistentry>
-              <term>16. Jen Herr</term>
-                <listitem>
-                  <blockquote>
-                      <attribution>Jen Herr</attribution>
-                      <para>Final Comments</para>
-                      <para>It's hard to believe that this topic has been open for a week, but it has, and since I'm seeing the discussion dying off, I think we should conclude for now.</para>
-                      <para>I think that having an IRC sim or two for this club would be neat, and it would allow us to boldy go where we haven't quite gone before. ;) However, I haven't seen the show of support that I feel would be necessary to get something like this off the ground properly.</para>
-                      <para>As such, I think we should keep our minds open about this idea, and reopen a discussion at a later time if we find enough people want it, and we have a more detailed proposal.</para>
-                      <para>Until then, the point that Larry brought up segues nicely into another discussion I wanted to have... introduced in the next post!</para>
-                  </blockquote>
-                </listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>17. Danny Young</term>
-				<listitem><para>No other comments made. Discussion closed as of Stardate 05122.3</para></listitem>
-			</varlistentry>
-		</variablelist>
-	</section>
+  <section>
+    <title>Proposal</title>
+    <section>
+      <title>Background</title>
+      <para>Earlier this morning, I was approached by an individual with an interesting idea to open the IRC channel to an actual sim. While a good idea in theory, it could be refined to suit our needs.</para>
+    </section>
+    <section>
+      <title>Problem</title>
+      <para>As we all know, currently, all that happens in the channel is we talk for a little while, then the channel lays dormant for a few hours. This would ensure as little idle time as possible in the channel.</para>
+    </section>
+    <section>
+      <title>Proposal</title>
+      <para>I propose a normal type IRC sim at a set time and day of the week, with a GM, CO, etc. The GM would have complete control of the sim, the PM function could be used to simulate communications. The channel Ops would be in charge of maintaining our PG-13 rating. We could continue to write our responses in third person, past tense, and use the /me commands to show action. If there is enough interest, then we shouldn't have any problems crewing the ship. Of course, this would be on a trial basis, perhaps as little as 30 days. Any other time that the room has an OP, it can be used as a free sim on the same ship.</para>
+    </section>
+    <section>
+      <title>Discussion</title>
+      <para>I realize that this would take a lot of planning on everyone's part, but, I believe that as a club, it's possible for us to do this. If anyone sees a problem with this (I'm talking to the long timers that can actually remember when this was the norm), please respond. I'm keenly interested in hearing everyone's thoughts on this!</para>
+    </section>
+  </section>
+  <section>
+    <title>Minutes</title>
+    <variablelist>
+      <varlistentry>
+        <term>1. Dominic Waite</term>
+        <listitem><para>Interested in trying an IRC sim. Quiet #star-fleet times are when people are not around or busy. This is perhaps not a good time to try an IRC sim. It is suggested that we create a separate IRC channel.</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>2. Matt Bernardin</term>
+        <listitem><para>Not interested in an IRC Sim. The IRC channel is intended to provide a universal couch/hammock/futon for members and prospective members to come, talk and share. Club should look at interested numbers.</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>3. Ed Amoroso</term>
+        <listitem><para>Is there enough interest for this to be successful? Members of a BBS RPG site may find IRC sims not to their tastes. The sims would have to set up during peak IRC times. However, this could cut into peak IRC chatting times on #star-fleet. If we created a new channel, it wouldn't interrupt people who are on IRC simply to chat.</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>4. Larry Garfield</term>
+        <listitem><para>#star-fleet being a hang out venue not a bad thing. IRC Sim should be in another channel, not #star-fleet. #Star-fleet should remain an OOC chat area. As mentioned in item 2, is there enough interest to make it worthwhile? Do we have any GMs who are competent to run an IRC mission (which is different from a regular BBS sim. There are other clubs who specialize in IRC RPing. Do we want to consider a "cross sponsoring" setup with an IRC RPG club?</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>5. Chris Jones</term>
+        <listitem><para>In response to item 2, in order to set up an IRC ship, a test run would have to be conducted and a new IRC channel be formed. In response to 4, didn't mean to suggest #star-fleet being a hang venue was bad, simply that it would be fun to have an IRC sim because the interest is there from people asking about it in the channel.</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>6. Ed Amoroso</term>
+        <listitem><para>Some recruiting would have to be done to find a suitable XO, CO, GM, and DHs who are qualified to do IRC RPGing. How would the current STF rules fit with the IRC sims? ie GM training and selection. In response to item 4, a club partnership with another club would allow members of our club the opportunity to IRC RP in an environment that STF has identified as good.</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>7. Jessica McClary</term>
+        <listitem><para>The time it takes to complete an IRC Sim should be considered. Some members can dedicate many hours while other cannot. Would IRC Sims be broken down into stages?</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>8. Chris Jones</term>
+        <listitem><para>In response to item 7, it could be possible to do a 2 hour sim with a break in the middle or broken down into episodes if planned correctly. Is that too long or two short?</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>9. Larry Garfield</term>
+        <listitem><para>In response to item 8, regular STF Sims always last longer than you planned. The club as a whole doesn't really have the mechanics of IRC role playing. <quote>Outsourcing the idea would be the better way to go and would save the club the large learning curve.</quote></para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>10. Matt Bernardin</term>
+        <listitem><para>Agrees with Item 9. Who will be able to role play in the IRC Sims? Can anyone or just the registered members of STF's?</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>11. Andrew Robinson</term>
+        <listitem>
+          <para>Has experience with IRCSims. Agrees that we'd have to set up a seperate channel as #star-fleet definately wouldn't work. Agrees that we'd also need a very experienced GM with IRCSim and RTRP (Real Time Role Play) Sim history to handle the ship. Agrees that we'd need at least a few experienced IRC or RTRP players to act as senior officers. A set of rules posted and explanations governing the differing aspects of an IRCSim would need to be made.</para>
+          <para>Sim length would definitely be more than one or two hours long. RTRP Sim's, unless they are freeform, rely heavily on a forum/message board/group to keep track of what has happened and list the background information on a Sim. The GM or a named log keeper would need to maintain a synopsis of current events and past events in the sim, as well as a complete log should someone need to see what has happened.</para>
+          <para>It's not necessary for everyone involved to be online at any given time, and the only person who does have to be online to keep the sim moving is the GM. Other than this, it can be handled in snippets, with any thread being carried on provided that all those players involved are online at the same time.</para>
+          <para>It's impractical for any sim to last only a few hours, because it's unrealistic to *ever* expect all 15 people to be online at any one given time, and it's a logistical nightmare to try and organize anything around time zones and work schedules, a nightmare which gets progressively larger the more people you involve.</para>
+          <para>The only time you would need at least two thirds of the crew online would be the start of a sim, something which need only last an hour or so.</para>
+          <para>So we have the beginning of a sim with 2/3 of the crew, at least all the senior officers. Once that is complete and a log is posted on the board/group/forum, with Sim background and some useful information, it can all be taken from there, with threads picking up wherever people are online with the GM.</para>
+          <para>If it can work and the interest is there, then once we've got an appropriate GM, it could be brilliant, but also bear in mind that 95% of all IRC/RTRP Sim's fail because people can't put in the time, or aren't versatile enough to manage it.</para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>12. Amanda Noon</term>
+        <listitem><para>Why do people want to real time role play? Is it because they want to sim, or because they want to role play their characters in real time?</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>13. Chris Jones</term>
+        <listitem><para>In response to item 12, the idea was brought up just to try something new. People in #star-fleet had mentioned that they wanted to try.</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>14. David Wonderly</term>
+        <listitem><para>Even if we get everything mentioned above, there is still the problem a crew. STF has people from all over the world and real life role playing would take away from that.</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>15. Jen Herr</term>
+        <listitem>
+          <para>Real life role playing works differently than what we're used to, but I think that pushing our knowledge and abilities would help us grow. The sim would last only 2 hours, and would be similar to a star trek episode like Chris was saying... sometimes Star Trek episodes are to be continued. There might not be a beginning to end sim in those 2 hours, but progress would be made on a continuing sim.</para>
+          <para>In response to ietm 11, Though I have no doubt this way of siming might work for some people, this is not what I have experienced, and is not what I imagine when thinking of an IRC sim. I did describe my experience and what I imagine for this club in an earlier post though. ;)</para>
+          <para>Smaller crew, focused sim (one timeline, two max, not multiple threads), time limit. It worked in my experience.</para>
+          <para>One objection to this format might be: What if there are more than 7 people interested? If we decide to do this, and are successful with a trial sim, and more people want to participate, we simply open up more sim times and sim opportunities.</para>
+          <para>In response to item 12, we should have a sim channel open all the times during non-sim times. New characters should be made for the IRC sim ship.</para>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>16. Jen Herr</term>
+        <listitem>
+          <blockquote>
+            <attribution>Jen Herr</attribution>
+            <para>Final Comments</para>
+            <para>It's hard to believe that this topic has been open for a week, but it has, and since I'm seeing the discussion dying off, I think we should conclude for now.</para>
+            <para>I think that having an IRC sim or two for this club would be neat, and it would allow us to boldy go where we haven't quite gone before. ;) However, I haven't seen the show of support that I feel would be necessary to get something like this off the ground properly.</para>
+            <para>As such, I think we should keep our minds open about this idea, and reopen a discussion at a later time if we find enough people want it, and we have a more detailed proposal.</para>
+            <para>Until then, the point that Larry brought up segues nicely into another discussion I wanted to have... introduced in the next post!</para>
+          </blockquote>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>17. Danny Young</term>
+        <listitem><para>No other comments made. Discussion closed as of Stardate 05122.3</para></listitem>
+      </varlistentry>
+    </variablelist>
+  </section>
 </article>
