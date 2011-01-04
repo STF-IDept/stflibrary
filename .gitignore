@@ -1,0 +1,2 @@
+# Ignore built HTML output, because we can always just regenerate it. (At least when the builder is working.)
+build/*.html
