@@ -6,8 +6,8 @@
 	<articleinfo>
 		<authorgroup>
 			<author>
-				<firstname>Amanda</firstname>
-				<surname>Noon</surname>
+				<firstname>David</firstname>
+				<surname>Wonderly</surname>
 				<email>gamemaster-tutor@star-fleet.com</email>
 			</author>
 		</authorgroup>
@@ -31,6 +31,13 @@
 			<date>6 December 2005</date>
 			<revdescription>
 				<para>Course rewritten by Amanda Noon</para>
+		  <revision>
+            <revnumber>4</revnumber>
+            <date>2nd January 2011</date>
+            <revdescription>
+              <para>Changed course proctor to David Wonderly</para> 
+            </revdescription>
+          </revision>
 			</revdescription>
 		  </revision>
 		</revhistory>
