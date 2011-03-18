@@ -6,12 +6,19 @@
   <articleinfo>
     <authorgroup>
       <author>
-        <firstname>Sam</firstname>
-        <surname>Bibb</surname>
+        <firstname>Symon</firstname>
+        <surname>Silvester</surname>
       </author>
     </authorgroup>
     <revhistory>
       <revision>
+            <revnumber>3</revnumber>
+            <date>16th June 2010</date>
+            <revdescription>
+              <para>Course proctor changed to Symon Silvester</para>
+            </revdescription>
+          </revision>
+	  <revision>
         <revnumber>2</revnumber>
         <date>16th February 2009</date>
         <revdescription>
