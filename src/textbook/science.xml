@@ -6,12 +6,19 @@
 	<articleinfo>
 		<authorgroup>
 			<author>
-				<firstname>Peter</firstname>
-				<surname>Hinton-Smith</surname>
+				<firstname>Joe</firstname>
+				<surname>P</surname>
 				<email>science-tutor@star-fleet.com</email>
 			</author>
 		</authorgroup>
 		<revhistory>
+			<revision>
+            <revnumber>3</revnumber>
+            <date>16th February 2011</date>
+            <revdescription>
+              <para>Course proctor changed to Joe P</para>
+            </revdescription>
+          </revision>
 			<revision>
 				<revnumber>2</revnumber>
 				<date>16th February 2009</date>

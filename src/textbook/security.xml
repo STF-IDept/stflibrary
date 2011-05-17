@@ -6,12 +6,26 @@
 	<articleinfo>
 		<authorgroup>
 			<author>
-				<firstname>Wail</firstname>
-				<surname>Qasim</surname>
+				<firstname>Alasdair</firstname>
+				<surname>Sutherland</surname>
 			</author>
 		</authorgroup>
 		<revhistory>
+		  <revision>
+            <revnumber>4</revnumber>
+            <date>16th January 2011</date>
+            <revdescription>
+              <para>Course proctor changed to Alasdair Sutherland</para>
+            </revdescription>
+          </revision>
           <revision>
+            <revnumber>3</revnumber>
+            <date>16th July 2010</date>
+            <revdescription>
+              <para>Course proctor changed to Andrew Robinson</para>
+            </revdescription>
+          </revision>
+		  <revision>
             <revnumber>2</revnumber>
             <date>16th February 2009</date>
             <revdescription>
@@ -19,7 +33,7 @@
             </revdescription>
           </revision>
           <revision>
-            <revnumber>2</revnumber>
+            <revnumber>1</revnumber>
             <date>15 November 2005</date>
             <revdescription>
               <para>Rewritten by Andrew Robinson</para>
