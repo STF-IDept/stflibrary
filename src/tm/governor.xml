@@ -38,8 +38,8 @@
   <section>
     <title>History and Mission Overview</title>
   <epigraph>
-	<attribution>Charles Dickens</attribution>
-	<para>It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness . . . it was the spring of hope, it was the winter of despair . . . in short, the period was so far like the present period . . . </para>
+  <attribution>Charles Dickens</attribution>
+  <para>It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness . . . it was the spring of hope, it was the winter of despair . . . in short, the period was so far like the present period . . . </para>
   </epigraph>
     <para>In early 2257, in response to increased Klingon presence across the neutral zone, it was determined that an alternative to the Constitution Class starships was warranted. A lighter, more manoeuvreable and more rapidly constructed craft was required to patrol the neutral zone and respond to any incursions from the faster and more manoeuvreable Klingon Bird of Prey and its larger cousins.</para>
     <para>Development contracts were assigned to Starfleet Research and Development with the intent of attempting to shrink the Constitution frame whilst increasing overall speed and sustainability whilst causing minimum reduction in weapons usage. After six years of development and simulation, the Research and Development technicians produced the first draft of the Governor Class Cruiser. After careful examination it was determined that this was a viable option and the ship went into production immediately with a prototype rolling off the line less than twelve months after receipt of contract. During its shakedown cruise, deliberately sited around the Klingon Neutral Zone, a confrontation with a Klingon D-5 cruiser which ended in victory for the Governor produced such excited murmuring in Starfleet Engineering that it was determined that a further twenty Governor class ships would be produced immediately.</para>
@@ -57,8 +57,8 @@
   <section>
     <title>Structure and Construction</title>
    <epigraph>
-	<attribution>Charles Dickens</attribution>
-	<para>A heart well worth winning, and well won. A heart that, once won, goes through fire and water for the winner, and never changes, and is never daunted</para>
+  <attribution>Charles Dickens</attribution>
+  <para>A heart well worth winning, and well won. A heart that, once won, goes through fire and water for the winner, and never changes, and is never daunted</para>
    </epigraph>
     <para>In appearance, the Governor consists of a saucer connected to a tubular star drive section via a dorsal neck mounting. The twin warp nacelles are fitted to the aft section of the secondary hull via V shaped pylons. It is similar in appearance to the much larger Constitution Class starship.</para>
     <para>The Governor's hull is composed of a duranium-tritanium alloy in a 30cm double layer separated with 15cm of enriched duraplast foam. The outer layer of hull plating is in a state of permanent polarisation to enable greater unprotected resistance to enemy weapons fire. The duranium-tritanium trusses that support the outer hull are laser welded to form a permanent support chassis.</para>
@@ -67,8 +67,8 @@
   <section>
     <title>Science and Remote Sensing Systems</title>
   <epigraph>
-	<attribution>Charles Dickens</attribution>
-	<para>I only ask to be free. The butterflies are free.</para>
+  <attribution>Charles Dickens</attribution>
+  <para>I only ask to be free. The butterflies are free.</para>
   </epigraph>
     <para>Given the need for the Governor to have an active and powerful sensor suite without the attendant scientific research facilities, a series of 200 sensors are distributed throughout the outer hull and are used for navigational, remote sensing, tactical analysis and early warning data collection. Each sensor can be operated independantly or in series in both passive and active data collection mode. The whole forms the collective 'sensor array'</para>
     <para>The sensor array aboard the Governor is one of the most powerful in current service, with a high resolution scan range of 1.5 light years and a low resolution range of 6.5 light years. Through the application of high power emissions diodes, the sensor array can be utilised as a jamming system to prevent enemy vessels from sending or receiving transmissions. Effective jamming range for this system at full power is 390,000km. It should be noted that effecting this jamming system also prevents the jamming vessel from utilising their own communications systems.</para>
@@ -77,26 +77,26 @@
   <section>
     <title>Computer Systems</title>
   <epigraph>
-	<attribution>Charles Dickens</attribution>
-	<para>There were times when he could not read the face he had studied so long, and when this lonely girl was a greater mystery to him than any women of the world...</para>
+  <attribution>Charles Dickens</attribution>
+  <para>There were times when he could not read the face he had studied so long, and when this lonely girl was a greater mystery to him than any women of the world...</para>
   </epigraph>
     <para>The Governor is designed and built with a dual computer core system. It is outfitted with a D-3 Duotronic primary core, and a D-2 Duotronic secondary core. The primary core is located in the center of decks 3, 4, and 5 of the saucer section, with the smaller back up core in the center aft of the secondary hull of decks eleven and twelve. The function of the secondary core has largely been relegated to simple information back up storage. In an emergency, it can be reconfigured to operate the Governor's primary systems such as navigation, propulsion, weapons, shields and life support, though on a limited capacity. Each computer core is monitored from a main Computer Room and the computer rooms are maintained by at least two active technicians at any one time. Any requests from the library computer must be issued through the main Computer Room and any portable information must be copied to recorder tapes. The only information terminals capable of accessing the library computer without passing through the computer room are those in the Captains Quarters, the main Conference Lounge, Main Engineering, Sickbay and the Bridge.</para>
-	<para>The verbal user interface used aboard the Governor is the same simple MAJEL interface familiar to all personnel. It responds to simple verbal requests through main computer access terminals and can perform simple tasks, though is incapable of extended factor calculation without a tactile command input.</para>
-  </section>	
+  <para>The verbal user interface used aboard the Governor is the same simple MAJEL interface familiar to all personnel. It responds to simple verbal requests through main computer access terminals and can perform simple tasks, though is incapable of extended factor calculation without a tactile command input.</para>
+  </section>  
   <section>
     <title>Warp Propulsion Systems</title>
   <epigraph>
-	<attribution>Charles Dickens</attribution>
-	<para>The whole difference between construction and creation is exactly this: that a thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.</para>
+  <attribution>Charles Dickens</attribution>
+  <para>The whole difference between construction and creation is exactly this: that a thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.</para>
   </epigraph>
     <para>The Governor utilizes a horizontally mounted Class-VI warp core. Ejection protocols are in place should the core ever breach and through the application of explosive bolting technology will occur within three seconds. During a warp core breach, the core is ejected through a service hatch directly aft from the Governor's secondary hull. The warp core for the Governor is rated at 636 cochranes with a max velocity of TOS-Warp-8.6 for 12 hours, a max sustainable velocity of TOS-Warp-8, and a cruising speed of TOS-Warp-7.5.</para>
-	<para>NOTE: Comparison of TOS warp values and the more modern TNG-VOY warp values can be found at:http://www.star-fleet.com/ed/warp-chart.html</para>
-  </section>	
+  <para>NOTE: Comparison of TOS warp values and the more modern TNG-VOY warp values can be found at:http://www.star-fleet.com/ed/warp-chart.html</para>
+  </section>  
   <section>
     <title>Impulse Propulsion Systems</title>
   <epigraph>
     <attribution>Charles Dickens</attribution>
-	<para>Cheerfulness and contentment are great beautifiers, and are fatuous preservers of youthful looks</para>
+  <para>Cheerfulness and contentment are great beautifiers, and are fatuous preservers of youthful looks</para>
   </epigraph>
     <para>The dual vent impulse drive is mounted directly aft of, and attached to the saucer section. The impulse drive is designed to propel the ship up to and including 0.25c, with an acceleration rate from zero to 0.25c of 14 seconds, and a deceleration rate from 0.25c to zero in 32 seconds.</para>
     <para>An emergency impulse system is in place aboard the Governor. In the event of saucer separation or primary fusion generator failure, a series of three micro-fusion reactors powering three adjustable vector exhaust vents mounted in the central neck of the secondary hull are revealed through a group of retracting hull plates. These are capable of propelling the ship at a theoretical maximum speed of .10c and the separated secondary hull at a speed of .15c.</para>
@@ -112,7 +112,7 @@
       <title>Phaser Systems</title>
       <para>The Governor is outfitted with a mix of two separate phaser systems. Two Type VII phaser emitters are mounted in the fore mid section of the saucer section, whilst two Type VI emitters are mounted at the rear of the star drive section. Both systems are designed to have independent firing control. Each emitter is mounted to a swivelling turret system. Forward phaser systems can fire in an arc 90 degrees from the horizontal and vertical planes, providing 180 degree coverage forward of the star drive section. The aft phasers are capable of the same, providing coverage from the rear of the star drive section. The central portion of the star drive section is vulnerable to attack with no side mounted phaser systems and the ship must be reliant upon the Navigator and Weapons Officers skill to maintain the security of the star drive section from flanking attacks.. Each phaser bank can be operated at full power for twenty two minutes before the batteries are drained and must undergo a nine minute recharge cycle. As standard, the phaser batteries are maintained at a fully charged state whilst in standby.</para>
       <para>The Type VII phaser emitters are rated at a maximum energy output of 1.3MW with a maximum range of 75,000km.</para>
-	  <para>The Type VI phaser emitters are rated at a maximum energy output of 0.6MW with a maximum range of 35,000km</para>
+    <para>The Type VI phaser emitters are rated at a maximum energy output of 0.6MW with a maximum range of 35,000km</para>
     </section>
     <section>
       <title>Torpedo Systems</title>
@@ -124,46 +124,46 @@
   <section>
     <title>Command and Support Systems</title>
     <section>
-	  <title>Bridge</title>
-	  <para>The Governors bridge in layout is similar to that of its larger cousin, the Constitution. At center is the Captain's chair, with the Helmsman and Navigator's seats directly ahead. These three areas rest in a sunken area with a railing running partway around the circumference. Directly behind and to the right of the Captain is the main entrance to the Conference Lounge. To the right of that are the science and communications stations. To the right of these is the main turbolift access and finally the main engineering station and systems monitoring station, occupying the wall to the Captains left. The viewscreen occupies the entire forward wall of the Bridge. Although there is no designated seat for the First Officer, as he is traditionally a Department Head himself, it is assumed that he will be manning one of the  duty stations located through out the Bridge. The Bridge is located at the center of deck 1.</para>
+    <title>Bridge</title>
+    <para>The Governors bridge in layout is similar to that of its larger cousin, the Constitution. At center is the Captain's chair, with the Helmsman and Navigator's seats directly ahead. These three areas rest in a sunken area with a railing running partway around the circumference. Directly behind and to the right of the Captain is the main entrance to the Conference Lounge. To the right of that are the science and communications stations. To the right of these is the main turbolift access and finally the main engineering station and systems monitoring station, occupying the wall to the Captains left. The viewscreen occupies the entire forward wall of the Bridge. Although there is no designated seat for the First Officer, as he is traditionally a Department Head himself, it is assumed that he will be manning one of the  duty stations located through out the Bridge. The Bridge is located at the center of deck 1.</para>
     </section>
-	<section>
-	  <title>Auxiliary Control</title>
-	  <para>The Auxiliary Control Room is located on deck 4. It is continually manned and maintained by four junior officers. In the event of a ship wide catastrophe, all the major ship's functions can be controlled from here. In layout it is similar to the main bridge but smaller and without the sunken area or railing.</para>
-	  <para>In the star drive, Main Engineering serves as auxillary control, with primary systems being routed through a control room located just off the Chief Engineers office. A small viewscreen operates in the same capacity as its larger cousin and this control room can be manned by as few as four people. This control room has customisable stations capable of controlling each of the ships primary functions, but in four person mode the default stations are Navigation/Tactical, Conn and Science.</para>
-	</section>
+  <section>
+    <title>Auxiliary Control</title>
+    <para>The Auxiliary Control Room is located on deck 4. It is continually manned and maintained by four junior officers. In the event of a ship wide catastrophe, all the major ship's functions can be controlled from here. In layout it is similar to the main bridge but smaller and without the sunken area or railing.</para>
+    <para>In the star drive, Main Engineering serves as auxillary control, with primary systems being routed through a control room located just off the Chief Engineers office. A small viewscreen operates in the same capacity as its larger cousin and this control room can be manned by as few as four people. This control room has customisable stations capable of controlling each of the ships primary functions, but in four person mode the default stations are Navigation/Tactical, Conn and Science.</para>
+  </section>
     <section>
       <title>Armoury</title>
       <para>The Ship's armoury is located on Deck 8, directly above the Torpedo Room. The armoury is stocked with a usual complement of 50 Type-I hand phasers, 100 Type-II hand phasers, 100 Type-III phaser rifles, 75 sets of body armor, 120 Anastazine gas grenades, 120 concussion grenades, and 120 photon grenades. Access to the armoury is highly restricted. Only the ship's CO, XO, all the Department Heads, and the Security staff have access to the armoury, and this is granted only after a DNA palm print scan. The armoury is laid out in racks, each labelled and catalogued. Inventory of armoury and weapons lockers contents is taken at the beginning of each duty shift and compared to a master readout contained within a secure section of the main library database. The armoury is continually manned by a pair of security officers.</para>
-	  <para>To protect against a hostile boarding of the ship, there are also several weapons lockers strategically placed in prominent areas of the ship. These areas include the Auxiliary Control, Bridge, Brig, Main Engineering, all the Transporter Rooms, the Shuttlebay, and the Torpedo Room. During normal operations, only the Command and Security staff (as stated for the armoury) may gain access to the lockers. During yellow or red alert status, any ship's crewmember may gain access via DNA thumb print verification. Each locker contains 12 Type-II hand phasers, two tricorders and twenty four spare power packs with an effective life of forty five maximum setting shots each.</para>
-	</section>
+    <para>To protect against a hostile boarding of the ship, there are also several weapons lockers strategically placed in prominent areas of the ship. These areas include the Auxiliary Control, Bridge, Brig, Main Engineering, all the Transporter Rooms, the Shuttlebay, and the Torpedo Room. During normal operations, only the Command and Security staff (as stated for the armoury) may gain access to the lockers. During yellow or red alert status, any ship's crewmember may gain access via DNA thumb print verification. Each locker contains 12 Type-II hand phasers, two tricorders and twenty four spare power packs with an effective life of forty five maximum setting shots each.</para>
+  </section>
     <section>
       <title>Brig</title>
       <para>Located on Deck 10, the Brig is comprised of five cells, a common "watch" area and COS's office. The "watch" area is nothing more than a duty station in which a security officer can stand watch over the prisoners. Each cell is equipped with a small "drum" dispenser for the secure transfer of items and food both to and from the cell. The drum has an opening on only one section of its curved surface, and is made out of a 1cm thick sheet of duranium alloy, which in turn is mounted to a framework of solid duranium that extends 25.0cm with in the bulkhead of the wall. Once an object is placed with in the drum, the drum is rotated so that its opened section "faces" the opposite side of the wall. For reasons of security, the controls for the drum dispenser are placed on the "watch" duty station and not with in the detention cell itself. This is to prevent a prisoner from escaping his cell by using the drum dispenser to gain access to his cell controls. There is a single protein resequencer mounted near the "watch" duty station and is totally inaccessible to cell occupants. The protein resequencer is capable of transforming bulk protein into a variety of simple chain food stuffs such as ice cream, meats and potatoes.</para>
-	  <para>The cells themselves utilise a series of two recessed forcefield generators which deliver a painful, but relatively harmless shock to anyone who touches the field whilst active. When activated, the generators slide into place and glow with a soft yellow light. This allows the watch officer to continually monitor the cells occupants without allowing an opportunity to escape.</para>
-	  <para>Also housed in the Brig is the ship's vault. The vault is a secured storage compartment which can be used to safely store information and evidence in a criminal investigation, sensitive mission specific material or information that can not be stored in the ship's cargo bay or the ship's computers, currency, or personal items for the crew and passengers. The vault is separated into a safe, and 100 locked boxes. Either the safe or the boxes can be individually preset to its own lock combination and climate controls. Access to the vault is granted only by senior officer identification. This identification is verified by voice print, optical retina scan, and palm print. All three must be successful for the senior officer to gain access to the vault.</para>
-	</section>
-	<section>
-	  <title>Main Engineering</title>
-	  <para>Main Engineering is located near the center of the secondary hull on Decks 11 and 12. On either end of the compartment is a single three man turbolift which only operates within Main Engineering itself. The warp core lays horizontal along the floor of Deck 12 and runs from fore to aft, separated from the main engineering bay by a series of hatchwork grids. The Chief Engineer's office is located on the forward end of the Engineering compartment on Deck 11 and is situated so that the Chief Engineer can oversee the operation of his department through another series of hatchwork grids.</para>
-	  <para>The Chief Engineers office has a set of monitoring screens directly behind his desk which provide customisable readouts listing the status of any of the primary systems aboard ship. His desk contains a main library access terminal, a communications panel and a series of switches which provide access to all primary system readouts.</para>
-	</section>
+    <para>The cells themselves utilise a series of two recessed forcefield generators which deliver a painful, but relatively harmless shock to anyone who touches the field whilst active. When activated, the generators slide into place and glow with a soft yellow light. This allows the watch officer to continually monitor the cells occupants without allowing an opportunity to escape.</para>
+    <para>Also housed in the Brig is the ship's vault. The vault is a secured storage compartment which can be used to safely store information and evidence in a criminal investigation, sensitive mission specific material or information that can not be stored in the ship's cargo bay or the ship's computers, currency, or personal items for the crew and passengers. The vault is separated into a safe, and 100 locked boxes. Either the safe or the boxes can be individually preset to its own lock combination and climate controls. Access to the vault is granted only by senior officer identification. This identification is verified by voice print, optical retina scan, and palm print. All three must be successful for the senior officer to gain access to the vault.</para>
+  </section>
+  <section>
+    <title>Main Engineering</title>
+    <para>Main Engineering is located near the center of the secondary hull on Decks 11 and 12. On either end of the compartment is a single three man turbolift which only operates within Main Engineering itself. The warp core lays horizontal along the floor of Deck 12 and runs from fore to aft, separated from the main engineering bay by a series of hatchwork grids. The Chief Engineer's office is located on the forward end of the Engineering compartment on Deck 11 and is situated so that the Chief Engineer can oversee the operation of his department through another series of hatchwork grids.</para>
+    <para>The Chief Engineers office has a set of monitoring screens directly behind his desk which provide customisable readouts listing the status of any of the primary systems aboard ship. His desk contains a main library access terminal, a communications panel and a series of switches which provide access to all primary system readouts.</para>
+  </section>
   </section>
   <section>
     <title>Utility Systems</title>
   <epigraph>
     <attribution>Charles Dickens</attribution>
-	<para>There is a wisdom of the head, and... a wisdom of the heart.</para>
+  <para>There is a wisdom of the head, and... a wisdom of the heart.</para>
   </epigraph>
     <section>
-	<title>Cargo Bays</title>
-	  <para>The main cargo bays are located in the lower aft section of the Secondary Hull between the shuttlebays, and the main deflector dish. There are four cargo holds in total. Each cargo bay is equipped with two entrances, one opening towards outer space for offloading via work bee, shuttlecraft, or space dock. The second entrance is a dual access airlock opening into the ship's corridor. The airlock acts as a buffer between the cargo hold and the rest of the ship. Each cargo hold is compartmentalized, and can be configured to provide either a H, K, L, M, N, or N(2) environment for the safe storage of perishable cargo or to house life forms that exist in terrestrial environments other than Class-M. This design gives the ship the capability of storing perishable cargo or housing life forms in their proper environment.</para>
-	  <para>A further three cargo areas are located on decks 3 and 4 in the saucer section, with the same outward facing loading airlock and the inner double airlock. The saucer section cargo bays are used for storing spare parts for the impulse systems and emergency damage control equipment for the saucer section.</para>
-	</section>
-	<section>
-	  <title>Tractor Beam Systems</title>
-	  <para>There are two tractor beam projectors located fore and aft, the fore emitter is located across the neck of the saucer section, the aft emitter between the aft phaser emitters at the rear of the star drive. Effective range of the tractor beams is 22,500km, depending on local relativistic and delta-v conditions.</para>
-	</section>
+  <title>Cargo Bays</title>
+    <para>The main cargo bays are located in the lower aft section of the Secondary Hull between the shuttlebays, and the main deflector dish. There are four cargo holds in total. Each cargo bay is equipped with two entrances, one opening towards outer space for offloading via work bee, shuttlecraft, or space dock. The second entrance is a dual access airlock opening into the ship's corridor. The airlock acts as a buffer between the cargo hold and the rest of the ship. Each cargo hold is compartmentalized, and can be configured to provide either a H, K, L, M, N, or N(2) environment for the safe storage of perishable cargo or to house life forms that exist in terrestrial environments other than Class-M. This design gives the ship the capability of storing perishable cargo or housing life forms in their proper environment.</para>
+    <para>A further three cargo areas are located on decks 3 and 4 in the saucer section, with the same outward facing loading airlock and the inner double airlock. The saucer section cargo bays are used for storing spare parts for the impulse systems and emergency damage control equipment for the saucer section.</para>
+  </section>
+  <section>
+    <title>Tractor Beam Systems</title>
+    <para>There are two tractor beam projectors located fore and aft, the fore emitter is located across the neck of the saucer section, the aft emitter between the aft phaser emitters at the rear of the star drive. Effective range of the tractor beams is 22,500km, depending on local relativistic and delta-v conditions.</para>
+  </section>
     <section>
       <title>Transporter Systems</title>
       <para>There are a total of 4 transporters designed into the Governor's deck plan. There are two standard six pad transporters, one on deck 2 directly beneath the main bridge and one on deck 10 in the star drive. In addition, there are two ten pad emergency transporters. One is located near sickbay in the saucer section, and the other is positioned with in the secondary hull. Ranges of the standard transporters are 30,000km, while that of the emergency and cargo transporters are only 11,250km respectively. The transport sequence aboard the Governor takes 13 seconds, start to finish. The emergency transporter systems also operate as troop deployment systems, allowing a rapid force deployment capability. This allows a maximum troop deployment rate of 32 troops every 30 seconds. The emergency transporters, by design, are outbound transport only because of the inability to target that many individual comm signals at a single time.</para>
@@ -208,14 +208,14 @@
        <title>Troop Transport Systems</title>
        <para>In its role as a troop transport, the Governor can convert its cargo bays, shuttlebays and common areas using portable camp beds and support up to 1100 troops in reasonable comfort, before power and resource strains begin to place the ships operating capacity at risk. Troop transport deployments at maximum capacity, whilst rare, are time limited to a five day transport range due to the enhanced strain on waste reclamation, life support and perishable resources.</para>
     </section>
-	</section>
+  </section>
   <section>
-	  <title>Auxiliary Spacecraft Systems</title>
-	<epigraph>
-	  <attribution>Charles Dickens</attribution>
-	  <para>Look round and round upon this bare bleak plain, and see even here, upon a winter's day, how beautiful the shadows are! Alas! it is the nature of their kind to be so. The loveliest things in life, Tom, are but shadows; and they come and go, and change and fade away, as rapidly as these!</para>
-	</epigraph>
-      <para>As stated before, the shuttlecraft landing bay is located aft of the secondary hull. The launch bay is comprised of a double set of doors as a safe guard against mechanical failure or damage suffered from combat. The Governor's Shuttlebay is large enough to handle the maintenance and offloading requirements for a standard complement of three shuttle craft. The bay is capable of launching a single shuttle craft at a time. During normal operations, as the double bay doors are opened, the shuttlebay is depressurized, allowing safe passage.</para>	
+    <title>Auxiliary Spacecraft Systems</title>
+  <epigraph>
+    <attribution>Charles Dickens</attribution>
+    <para>Look round and round upon this bare bleak plain, and see even here, upon a winter's day, how beautiful the shadows are! Alas! it is the nature of their kind to be so. The loveliest things in life, Tom, are but shadows; and they come and go, and change and fade away, as rapidly as these!</para>
+  </epigraph>
+      <para>As stated before, the shuttlecraft landing bay is located aft of the secondary hull. The launch bay is comprised of a double set of doors as a safe guard against mechanical failure or damage suffered from combat. The Governor's Shuttlebay is large enough to handle the maintenance and offloading requirements for a standard complement of three shuttle craft. The bay is capable of launching a single shuttle craft at a time. During normal operations, as the double bay doors are opened, the shuttlebay is depressurized, allowing safe passage.</para>  
   </section>
   <section>
     <title>Technical Specifications</title>
@@ -233,7 +233,7 @@
         <term>Height</term>
         <listitem><para>60.2 metres</para></listitem>
       </varlistentry>
-	  <varlistentry>
+    <varlistentry>
         <term>Decks</term>
         <listitem><para>12</para></listitem>
       </varlistentry>
@@ -244,7 +244,7 @@
         <term>Officers and Crew</term>
         <listitem><para>195</para></listitem>
       </varlistentry>
-	  <varlistentry>
+    <varlistentry>
         <term>Troop Transport Limit</term>
         <listitem><para>1100</para></listitem>
       </varlistentry>
@@ -264,25 +264,25 @@
         <listitem><para>MAJEL V1.0</para></listitem>
       </varlistentry>
     </variablelist>
-	<variablelist>
-	  <title>Warp Systems</title>
-	  <varlistentry>
-	    <term>Power Plant</term>
-	    <listitem><para>One 636 cochrane M/ARA core feeding two nacelles</para></listitem>
-	  </varlistentry>
-	  <varlistentry>
-	    <term>Crusing Velocity</term>
-	    <listitem><para>TOS-Warp 7.5</para></listitem>
-	  </varlistentry>
-	  <varlistentry>
-	    <term>Maximum Sustainable Velocity</term>
-   	  <listitem><para>TOS Warp 8</para></listitem>
-	    </varlistentry>
-	  <varlistentry>
-	    <term>Maximum Velocity</term>
-	    <listitem><para>TOS Warp 8.6 (12 hours)</para></listitem>
-	  </varlistentry>
-	</variablelist>	
+  <variablelist>
+    <title>Warp Systems</title>
+    <varlistentry>
+      <term>Power Plant</term>
+      <listitem><para>One 636 cochrane M/ARA core feeding two nacelles</para></listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>Crusing Velocity</term>
+      <listitem><para>TOS-Warp 7.5</para></listitem>
+    </varlistentry>
+    <varlistentry>
+      <term>Maximum Sustainable Velocity</term>
+       <listitem><para>TOS Warp 8</para></listitem>
+      </varlistentry>
+    <varlistentry>
+      <term>Maximum Velocity</term>
+      <listitem><para>TOS Warp 8.6 (12 hours)</para></listitem>
+    </varlistentry>
+  </variablelist>  
     <variablelist>
       <title>Impulse Systems</title>
       <varlistentry>
@@ -335,198 +335,198 @@
         <listitem>
           <itemizedlist>
             <listitem><para>2 Type VII emitters</para></listitem>
-			<listitem><para>2 Type VI emitters</para></listitem>
+      <listitem><para>2 Type VI emitters</para></listitem>
           </itemizedlist>
         </listitem>
       </varlistentry>
     </variablelist>
-	</section>
-	<section>
-		<title>Deck Layout</title>
-		<section role="Deck">
-				<title>Deck 1</title>
-			<simplelist>
-				<member>Bridge</member>
-				<member>Conference Room-A</member>
-			</simplelist>
-		</section>
-		<section role="Deck">
-			<title>Deck 2</title>
-			<simplelist>
-				<member>CO's Quarters</member>
-				<member>XO's Quarters</member>
-				<member>VIP Quarters</member>
-				<member>Transporter Room 1</member>
-				<member>Private Captains Mess</member>
-			</simplelist>
-		</section>
-		<section role="Deck">
-			<title>Deck 3</title>
-			<simplelist>
-				<member>Conference Room-B</member>
-				<member>Emergency Transporter #1</member>
-				<member>Food Locker #1-#3</member>
-				<member>Officers Quarters</member>
-				<member>Primary Computer Core - Level 1</member>
-				<member>Shield Emitters #1 and #2</member>
-			</simplelist>
-		</section>
-		<section role="Deck">
-			<title>Deck 4</title>
-			<simplelist>
-				<member>Auxiliary Control</member>
-				<member>Auxiliary Life Support</member>
-				<member>Auxiliary Power</member>
-				<member>Galley</member>
-				<member>Crew Quarters</member>
-				<member>Primary Computer Core Level 2</member>
-			</simplelist>
-		</section>
-		<section role="Deck">
-			<title>Deck 5</title>
-			<simplelist>
-				<member>Auxiliary Sensor Grid</member>
-				<member>Crew Quarters</member>
-				<member>Docking Airlocks #1 and #2 (Port and Starboard)</member>
-				<member>Primary Computer Core Level 3</member>
-				<member>Transporter Rooms 2 and 3(port and starboard)</member>
-				<member>Sickbay</member>
-				<member>Crew Lounge</member>
-			</simplelist>
-		</section>
-		<section role="Deck">
-			<title>Deck 6</title>
-			<simplelist>
-				<member>Auxiliary Cargo Holds 1-2</member>
-				<member>Crew Quarters</member>
-				<member>Deuterium Storage Tanks A and B (port and starboard)</member>
-				<member>Impulse Drive (aft)</member>
-				<member>Type VII Phaser Banks 1 and 2</member>
-				<member>Tractor Beam Emitter</member>
-				<member>Gymnasium</member>
-			</simplelist>
-		</section>
-		<section role="Deck">
-			<title>Deck 7</title>
-			<simplelist>
-				<member>Emergency Transporter #2</member>
-				<member>Turbolift Main Shafts Access</member>
-				<member>Damage Control Storage</member>
-				<member>Secondary Conference Room</member>
-			</simplelist>
-		</section>
-		<section role="Deck">
-			<title>Deck 8</title>
-			<simplelist>
-				<member>Brig</member>
-				<member>Armoury</member>
-				<member>Phaser Control Room</member>
-			</simplelist>
-		</section>
-		<section role="Deck">
-			<title>Deck 9</title>
-			<simplelist>
-				<member>Torpedo Room</member>
-				<member>Torpedo Bay</member>
-			</simplelist>
-		</section>
-		<section role="Deck">
-			<title>Deck 10</title>
-			<simplelist>
-				<member>Main Engineering</member>
-				<member>Engineering Workshop</member>
-				<member>Tool Storage Room</member>
-			</simplelist>
-		</section>
-		<section role="Deck">
-			<title>Deck 11</title>
-			<simplelist>
-				<member>Cargo Transporters #1 and #2</member>
-				<member>Main Deflector Dish</member>
-				<member>Main Engineering Level 2</member>
-				<member>Primary Cargo Holds #1 and #2</member>
-				<member>Auxiliary Computer Core Level 1</member>
-			</simplelist>
-		</section>
-		<section role="Deck">
-			<title>Deck 12</title>
-			<simplelist>
-				<member>Auxiliary Computer Core Level 2</member>
-				<member>Cargo Transporter Level #3</member>
-				<member>Deuterium Storage Tank C</member>
-				<member>Main Engineering Level 3</member>
-				<member>Type VI Phaser Bank</member>
-				<member>Primary Cargo Hold #3</member>
-				<member>Shield Emitters #5 and #6</member>
-				<member>Shuttlebay</member>
-			</simplelist>
-		</section>
-	<section>
-		<title>Ships of the Class</title>
-		<simplelist role="ShipList">
-			<member role="PC">
-				<productname>Governor</productname>
-				<productnumber>1785</productnumber>
-			</member>
-			<member role="PC">
-				<productname>Stinger</productname>
-				<productnumber>1786</productnumber>
-			</member>
-			<member role="PC">
-				<productname>Aegis</productname>
-				<productnumber>1787</productnumber>
-			</member>
-			<member role="PC">
-				<productname>Trident</productname>
-				<productnumber>1788</productnumber>
-			</member>
-			<member role="PC">
-				<productname>Patriot</productname>
-				<productnumber>1789</productnumber>
-			</member>
-			<member role="PC">
-				<productname>Warrior</productname>
-				<productnumber>1790</productnumber>
-			</member>
-			<member role="PC">
-				<productname>Centurion</productname>
-				<productnumber>1791</productnumber>
-			</member>
-			<member role="PC">
-				<productname>Spectrum</productname>
-				<productnumber>1792</productnumber>
-			</member>
-			<member role="PC">
-				<productname>Tomahawk</productname>
-				<productnumber>1793</productnumber>
-			</member>
-			<member role="PC">
-				<productname>Sentinel</productname>
-				<productnumber>1794</productnumber>
-			</member>
-			<member role="PC">
-				<productname>Raptor</productname>
-				<productnumber>1795</productnumber>
-			</member>
-			<member role="PC">
-				<productname>Viper</productname>
-				<productnumber>1796</productnumber>
-			</member>
-			<member role="PC">
-				<productname>Brimstone</productname>
-				<productnumber>1797</productnumber>
-			</member>
-			<member role="PC">
-				<productname>Bloodhound</productname>
-				<productnumber>1798</productnumber>
-			</member>
-			<member role="PC">
-				<productname>Reaper</productname>
-				<productnumber>1799</productnumber>
-			</member>
-		</simplelist>
-	</section>
-	</section>
+  </section>
+  <section>
+    <title>Deck Layout</title>
+    <section role="Deck">
+        <title>Deck 1</title>
+      <simplelist>
+        <member>Bridge</member>
+        <member>Conference Room-A</member>
+      </simplelist>
+    </section>
+    <section role="Deck">
+      <title>Deck 2</title>
+      <simplelist>
+        <member>CO's Quarters</member>
+        <member>XO's Quarters</member>
+        <member>VIP Quarters</member>
+        <member>Transporter Room 1</member>
+        <member>Private Captains Mess</member>
+      </simplelist>
+    </section>
+    <section role="Deck">
+      <title>Deck 3</title>
+      <simplelist>
+        <member>Conference Room-B</member>
+        <member>Emergency Transporter #1</member>
+        <member>Food Locker #1-#3</member>
+        <member>Officers Quarters</member>
+        <member>Primary Computer Core - Level 1</member>
+        <member>Shield Emitters #1 and #2</member>
+      </simplelist>
+    </section>
+    <section role="Deck">
+      <title>Deck 4</title>
+      <simplelist>
+        <member>Auxiliary Control</member>
+        <member>Auxiliary Life Support</member>
+        <member>Auxiliary Power</member>
+        <member>Galley</member>
+        <member>Crew Quarters</member>
+        <member>Primary Computer Core Level 2</member>
+      </simplelist>
+    </section>
+    <section role="Deck">
+      <title>Deck 5</title>
+      <simplelist>
+        <member>Auxiliary Sensor Grid</member>
+        <member>Crew Quarters</member>
+        <member>Docking Airlocks #1 and #2 (Port and Starboard)</member>
+        <member>Primary Computer Core Level 3</member>
+        <member>Transporter Rooms 2 and 3(port and starboard)</member>
+        <member>Sickbay</member>
+        <member>Crew Lounge</member>
+      </simplelist>
+    </section>
+    <section role="Deck">
+      <title>Deck 6</title>
+      <simplelist>
+        <member>Auxiliary Cargo Holds 1-2</member>
+        <member>Crew Quarters</member>
+        <member>Deuterium Storage Tanks A and B (port and starboard)</member>
+        <member>Impulse Drive (aft)</member>
+        <member>Type VII Phaser Banks 1 and 2</member>
+        <member>Tractor Beam Emitter</member>
+        <member>Gymnasium</member>
+      </simplelist>
+    </section>
+    <section role="Deck">
+      <title>Deck 7</title>
+      <simplelist>
+        <member>Emergency Transporter #2</member>
+        <member>Turbolift Main Shafts Access</member>
+        <member>Damage Control Storage</member>
+        <member>Secondary Conference Room</member>
+      </simplelist>
+    </section>
+    <section role="Deck">
+      <title>Deck 8</title>
+      <simplelist>
+        <member>Brig</member>
+        <member>Armoury</member>
+        <member>Phaser Control Room</member>
+      </simplelist>
+    </section>
+    <section role="Deck">
+      <title>Deck 9</title>
+      <simplelist>
+        <member>Torpedo Room</member>
+        <member>Torpedo Bay</member>
+      </simplelist>
+    </section>
+    <section role="Deck">
+      <title>Deck 10</title>
+      <simplelist>
+        <member>Main Engineering</member>
+        <member>Engineering Workshop</member>
+        <member>Tool Storage Room</member>
+      </simplelist>
+    </section>
+    <section role="Deck">
+      <title>Deck 11</title>
+      <simplelist>
+        <member>Cargo Transporters #1 and #2</member>
+        <member>Main Deflector Dish</member>
+        <member>Main Engineering Level 2</member>
+        <member>Primary Cargo Holds #1 and #2</member>
+        <member>Auxiliary Computer Core Level 1</member>
+      </simplelist>
+    </section>
+    <section role="Deck">
+      <title>Deck 12</title>
+      <simplelist>
+        <member>Auxiliary Computer Core Level 2</member>
+        <member>Cargo Transporter Level #3</member>
+        <member>Deuterium Storage Tank C</member>
+        <member>Main Engineering Level 3</member>
+        <member>Type VI Phaser Bank</member>
+        <member>Primary Cargo Hold #3</member>
+        <member>Shield Emitters #5 and #6</member>
+        <member>Shuttlebay</member>
+      </simplelist>
+    </section>
+  <section>
+    <title>Ships of the Class</title>
+    <simplelist role="ShipList">
+      <member role="PC">
+        <productname>Governor</productname>
+        <productnumber>1785</productnumber>
+      </member>
+      <member role="PC">
+        <productname>Stinger</productname>
+        <productnumber>1786</productnumber>
+      </member>
+      <member role="PC">
+        <productname>Aegis</productname>
+        <productnumber>1787</productnumber>
+      </member>
+      <member role="PC">
+        <productname>Trident</productname>
+        <productnumber>1788</productnumber>
+      </member>
+      <member role="PC">
+        <productname>Patriot</productname>
+        <productnumber>1789</productnumber>
+      </member>
+      <member role="PC">
+        <productname>Warrior</productname>
+        <productnumber>1790</productnumber>
+      </member>
+      <member role="PC">
+        <productname>Centurion</productname>
+        <productnumber>1791</productnumber>
+      </member>
+      <member role="PC">
+        <productname>Spectrum</productname>
+        <productnumber>1792</productnumber>
+      </member>
+      <member role="PC">
+        <productname>Tomahawk</productname>
+        <productnumber>1793</productnumber>
+      </member>
+      <member role="PC">
+        <productname>Sentinel</productname>
+        <productnumber>1794</productnumber>
+      </member>
+      <member role="PC">
+        <productname>Raptor</productname>
+        <productnumber>1795</productnumber>
+      </member>
+      <member role="PC">
+        <productname>Viper</productname>
+        <productnumber>1796</productnumber>
+      </member>
+      <member role="PC">
+        <productname>Brimstone</productname>
+        <productnumber>1797</productnumber>
+      </member>
+      <member role="PC">
+        <productname>Bloodhound</productname>
+        <productnumber>1798</productnumber>
+      </member>
+      <member role="PC">
+        <productname>Reaper</productname>
+        <productnumber>1799</productnumber>
+      </member>
+    </simplelist>
+  </section>
+  </section>
   <section>
     <title>Conclusion</title>
     <para>With the arrival and deployment of the Governor Class Destroyers, it is hoped that the Neutral Zones between the Federation and the Romulan and Klingon Empires will remain in place, unbreached and quiet. The Governor is the new deterrent, a rapid attack force of powerful and manoeuvreable ships that can respond more rapidly than any other ship currently in Starfleet service.</para>

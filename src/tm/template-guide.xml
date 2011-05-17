@@ -1,48 +1,48 @@
 <article class="journalarticle" id="articlename">
-	<title>TITLE</title>
-	<subtitle/>
-	<titleabbrev>TITLEABBREV</titleabbrev>
-	<articleinfo>
-		<authorgroup role="Maintainer">
-			<author>
-				<firstname>FIRST</firstname>
-				<surname>LAST</surname>
-			</author>
-		</authorgroup>
-		<authorgroup role="Primary Designers">
-			<author>
-				<firstname>FIRST</firstname>
-				<surname>LAST</surname>
-			</author>
-		</authorgroup>
-		<authorgroup role="Contributing Designers">
-			<author>
-				<firstname>FIRST</firstname>
-				<surname>LAST</surname>
-			</author>
-		</authorgroup>
-		<authorgroup role="Original Designers">
-			<author>
-				<firstname>FIRST</firstname>
-				<surname>LAST</surname>
-			</author>
-		</authorgroup>
-		<revhistory>
-			<revision>
-				<revnumber>1</revnumber>
-				<date>DATE</date>
-				<revdescription>
-					<para>Posted in the ED</para>
-				</revdescription>
-			</revision>
-		</revhistory>
-	</articleinfo>
-	<section>
-		<title>NAME</title>
-		<para>X</para>
-	</section>
-	<section>
-		<title>NAME</title>
-		<para>X</para>
-	</section>
+  <title>TITLE</title>
+  <subtitle/>
+  <titleabbrev>TITLEABBREV</titleabbrev>
+  <articleinfo>
+    <authorgroup role="Maintainer">
+      <author>
+        <firstname>FIRST</firstname>
+        <surname>LAST</surname>
+      </author>
+    </authorgroup>
+    <authorgroup role="Primary Designers">
+      <author>
+        <firstname>FIRST</firstname>
+        <surname>LAST</surname>
+      </author>
+    </authorgroup>
+    <authorgroup role="Contributing Designers">
+      <author>
+        <firstname>FIRST</firstname>
+        <surname>LAST</surname>
+      </author>
+    </authorgroup>
+    <authorgroup role="Original Designers">
+      <author>
+        <firstname>FIRST</firstname>
+        <surname>LAST</surname>
+      </author>
+    </authorgroup>
+    <revhistory>
+      <revision>
+        <revnumber>1</revnumber>
+        <date>DATE</date>
+        <revdescription>
+          <para>Posted in the ED</para>
+        </revdescription>
+      </revision>
+    </revhistory>
+  </articleinfo>
+  <section>
+    <title>NAME</title>
+    <para>X</para>
+  </section>
+  <section>
+    <title>NAME</title>
+    <para>X</para>
+  </section>
 </article>

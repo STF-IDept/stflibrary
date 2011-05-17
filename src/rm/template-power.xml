@@ -1,52 +1,52 @@
 <article class="whitepaper" id="power-powercommonname">
-	<title>POWER_COMMON_NAME</title>
-	<articleinfo>
-		<authorgroup>
-			<author>
-				<firstname>FIRST</firstname>
-				<surname>LAST</surname>
-			</author>
-		</authorgroup>
-		<keywordset role="stats">
-			<keyword role="Government">GOVERNMENT_TYPE</keyword>
-			<keyword role="Capital">CAPITAL_PLANET</keyword>
-			<keyword role="Age">APPROX_AGE</keyword>
-			<keyword role="Technological Level">Pre-Industrial / Industrial / Pre-Warp / Warp Capable</keyword>
-			<keyword role="Dominant Species">PRIMARY_SPECIES</keyword>
-			<keyword role="Diplomatic Status">Allied / Peace / Neutral / Hostile / War</keyword>
-		</keywordset>
-		<keywordset role="classification">
-			<keyword role="type">Canon / Non-Canon / Custom</keyword>
-			<keyword role="source">SOURCES_LIST</keyword>
-		</keywordset>
-		<revhistory>
-			<revision>
-				<revnumber>1</revnumber>
-				<date>APPROVALDATE</date>
-				<revdescription>
-					<para>Approved by APPROVER</para>
-				</revdescription>
-			</revision>
-		</revhistory>
-	</articleinfo>
-	<indexterm>
-		<seealso>
-			<link linkend="entryid">EntryName</link>
-		</seealso>
-		<seealso>
-			<link linkend="entryid">EntryName</link>
-		</seealso>
-	</indexterm>
-	<sect1>
-		<title>Overview</title>
-		<para></para>
-		<para></para>
-		<para></para>
-	</sect1>
-	<sect1>
-		<title>History</title>
-		<para></para>
-		<para></para>
-		<para></para>
-	</sect1>
+  <title>POWER_COMMON_NAME</title>
+  <articleinfo>
+    <authorgroup>
+      <author>
+        <firstname>FIRST</firstname>
+        <surname>LAST</surname>
+      </author>
+    </authorgroup>
+    <keywordset role="stats">
+      <keyword role="Government">GOVERNMENT_TYPE</keyword>
+      <keyword role="Capital">CAPITAL_PLANET</keyword>
+      <keyword role="Age">APPROX_AGE</keyword>
+      <keyword role="Technological Level">Pre-Industrial / Industrial / Pre-Warp / Warp Capable</keyword>
+      <keyword role="Dominant Species">PRIMARY_SPECIES</keyword>
+      <keyword role="Diplomatic Status">Allied / Peace / Neutral / Hostile / War</keyword>
+    </keywordset>
+    <keywordset role="classification">
+      <keyword role="type">Canon / Non-Canon / Custom</keyword>
+      <keyword role="source">SOURCES_LIST</keyword>
+    </keywordset>
+    <revhistory>
+      <revision>
+        <revnumber>1</revnumber>
+        <date>APPROVALDATE</date>
+        <revdescription>
+          <para>Approved by APPROVER</para>
+        </revdescription>
+      </revision>
+    </revhistory>
+  </articleinfo>
+  <indexterm>
+    <seealso>
+      <link linkend="entryid">EntryName</link>
+    </seealso>
+    <seealso>
+      <link linkend="entryid">EntryName</link>
+    </seealso>
+  </indexterm>
+  <sect1>
+    <title>Overview</title>
+    <para></para>
+    <para></para>
+    <para></para>
+  </sect1>
+  <sect1>
+    <title>History</title>
+    <para></para>
+    <para></para>
+    <para></para>
+  </sect1>
 </article>

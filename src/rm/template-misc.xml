@@ -1,44 +1,44 @@
 <article class="whitepaper" id="misc-entryname">
-	<title>ENTRY_NAME</title>
-	<articleinfo>
-		<authorgroup>
-			<author>
-				<firstname>FIRST</firstname>
-				<surname>LAST</surname>
-			</author>
-		</authorgroup>
-		<keywordset role="classification">
-			<keyword role="type">Canon / Non-Canon / Custom</keyword>
-			<keyword role="source">SOURCES_LIST</keyword>
-		</keywordset>
-		<revhistory>
-			<revision>
-				<revnumber>1</revnumber>
-				<date>APPROVALDATE</date>
-				<revdescription>
-					<para>Approved by APPROVER</para>
-				</revdescription>
-			</revision>
-		</revhistory>
-	</articleinfo>
-	<indexterm>
-		<seealso>
-			<link linkend="entryid">EntryName</link>
-		</seealso>
-		<seealso>
-			<link linkend="entryid">EntryName</link>
-		</seealso>
-	</indexterm>
-	<sect1>
-		<title>Overview</title>
-		<para></para>
-		<para></para>
-		<para></para>
-	</sect1>
-	<sect1>
-		<title>History</title>
-		<para></para>
-		<para></para>
-		<para></para>
-	</sect1>
+  <title>ENTRY_NAME</title>
+  <articleinfo>
+    <authorgroup>
+      <author>
+        <firstname>FIRST</firstname>
+        <surname>LAST</surname>
+      </author>
+    </authorgroup>
+    <keywordset role="classification">
+      <keyword role="type">Canon / Non-Canon / Custom</keyword>
+      <keyword role="source">SOURCES_LIST</keyword>
+    </keywordset>
+    <revhistory>
+      <revision>
+        <revnumber>1</revnumber>
+        <date>APPROVALDATE</date>
+        <revdescription>
+          <para>Approved by APPROVER</para>
+        </revdescription>
+      </revision>
+    </revhistory>
+  </articleinfo>
+  <indexterm>
+    <seealso>
+      <link linkend="entryid">EntryName</link>
+    </seealso>
+    <seealso>
+      <link linkend="entryid">EntryName</link>
+    </seealso>
+  </indexterm>
+  <sect1>
+    <title>Overview</title>
+    <para></para>
+    <para></para>
+    <para></para>
+  </sect1>
+  <sect1>
+    <title>History</title>
+    <para></para>
+    <para></para>
+    <para></para>
+  </sect1>
 </article>

@@ -1,72 +1,72 @@
 <article class="whitepaper" id="power-kton">
-	<title>K'Ton</title>
-	<articleinfo>
-		<authorgroup>
-			<author>
-				<firstname>Philip</firstname>
-				<surname>Stonness</surname>
-			</author>
-		</authorgroup>
-		<revhistory>
-			<revision>
-				<revnumber>1</revnumber>
-				<date>21 March 2002</date>
-				<revdescription>
-					<para>Approved by Unknown</para>
-				</revdescription>
-			</revision>
-		</revhistory>
-	</articleinfo>
-	<!--<indexterm>
-		<seealso>
-			<link linkend="nimbusiii">Nimbus III</link>
-		</seealso>
-		<seealso>
-			<link linkend="entryid">EntryName</link>
-		</seealso>
-	</indexterm>-->
-	<section>
-		<title>Abstract</title>
-		<variablelist>
-			<varlistentry>
-				<term>Government</term>
-				<listitem><para>Terrorist Regime</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Capital</term>
-				<listitem><para>Unknown</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Age</term>
-				<listitem><para>4 years</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Technological Level</term>
-				<listitem><para>Warp Capable</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Dominant Species</term>
-				<listitem><para>Romulan</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Diplomatic Status</term>
-				<listitem><para>Hostile</para></listitem>
-			</varlistentry>
-		</variablelist>
-		<variablelist>
-			<varlistentry>
-				<term>Entry Type</term>
-				<listitem><para>Custom</para></listitem>
-			</varlistentry>
-		</variablelist>
-	</section>
-	<section>
-		<title>Overview</title>
-		<para>This is a Romulan terrorist group, formed several weeks after the Romulan/Federation alliance was formed, they are opposed to this alliance. This group works like the Maquis, they use stolen Romulan vessels to destroy Federation outposts, warning them to end the alliance. Most of their technolodgy is Romulan, but they have reported having Dominion style transporters. Their main targets are outposts and starbases along the Neutral Zone, except attacks from the K'ton have also been reported around Betazed, Pacifica, Risa, Disharn VII, and in one instance Mars Colony.</para>
-		<para>Their leader has been suspected to be a retired Romulan Admiral, G'rol, except no proof of his implications have been found thus far. The Romulan Government assures the Federation that everything in their power is being done to stop these terrorists, except many Star-Fleet officials think they are secretly aiding the K'ton in their fight. There have also been romours of several K'ton infiltrators in Star-Fleet. One of these spys have been confirmed, however the suposed Admiral T'grek transported away from Earth before he could be apprehended on Stardate 01021.2</para>
-	</section>
-	<section>
-		<title>History</title>
-		<para>Even though these terrorists have not been around for long, they have created much disturbance. Shortly after the Dominion War, all diplomats attending a peace conference between the Romulan Empire and the Federation were killed in a bombing. Ever since that inncident, the Federation have dispatched ships to seek out and capture all suspected K'ton vessels. So far however, it is estimated only 12% of all their resources in total have been confiscated. On Stardate 00122.3 Star-Fleet intercepted a K'ton transmission from Risa to Pacifica. Using help from Vulcan mathimaticians, Star-Fleet found the transmission was holding information about a K'ton attack on Nimbus III. Two monthes after, the U.S.S. Trinitron was ordered to avert this attack and capture these Romulan attackers.</para>
-	</section>
+  <title>K'Ton</title>
+  <articleinfo>
+    <authorgroup>
+      <author>
+        <firstname>Philip</firstname>
+        <surname>Stonness</surname>
+      </author>
+    </authorgroup>
+    <revhistory>
+      <revision>
+        <revnumber>1</revnumber>
+        <date>21 March 2002</date>
+        <revdescription>
+          <para>Approved by Unknown</para>
+        </revdescription>
+      </revision>
+    </revhistory>
+  </articleinfo>
+  <!--<indexterm>
+    <seealso>
+      <link linkend="nimbusiii">Nimbus III</link>
+    </seealso>
+    <seealso>
+      <link linkend="entryid">EntryName</link>
+    </seealso>
+  </indexterm>-->
+  <section>
+    <title>Abstract</title>
+    <variablelist>
+      <varlistentry>
+        <term>Government</term>
+        <listitem><para>Terrorist Regime</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Capital</term>
+        <listitem><para>Unknown</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Age</term>
+        <listitem><para>4 years</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Technological Level</term>
+        <listitem><para>Warp Capable</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Dominant Species</term>
+        <listitem><para>Romulan</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Diplomatic Status</term>
+        <listitem><para>Hostile</para></listitem>
+      </varlistentry>
+    </variablelist>
+    <variablelist>
+      <varlistentry>
+        <term>Entry Type</term>
+        <listitem><para>Custom</para></listitem>
+      </varlistentry>
+    </variablelist>
+  </section>
+  <section>
+    <title>Overview</title>
+    <para>This is a Romulan terrorist group, formed several weeks after the Romulan/Federation alliance was formed, they are opposed to this alliance. This group works like the Maquis, they use stolen Romulan vessels to destroy Federation outposts, warning them to end the alliance. Most of their technolodgy is Romulan, but they have reported having Dominion style transporters. Their main targets are outposts and starbases along the Neutral Zone, except attacks from the K'ton have also been reported around Betazed, Pacifica, Risa, Disharn VII, and in one instance Mars Colony.</para>
+    <para>Their leader has been suspected to be a retired Romulan Admiral, G'rol, except no proof of his implications have been found thus far. The Romulan Government assures the Federation that everything in their power is being done to stop these terrorists, except many Star-Fleet officials think they are secretly aiding the K'ton in their fight. There have also been romours of several K'ton infiltrators in Star-Fleet. One of these spys have been confirmed, however the suposed Admiral T'grek transported away from Earth before he could be apprehended on Stardate 01021.2</para>
+  </section>
+  <section>
+    <title>History</title>
+    <para>Even though these terrorists have not been around for long, they have created much disturbance. Shortly after the Dominion War, all diplomats attending a peace conference between the Romulan Empire and the Federation were killed in a bombing. Ever since that inncident, the Federation have dispatched ships to seek out and capture all suspected K'ton vessels. So far however, it is estimated only 12% of all their resources in total have been confiscated. On Stardate 00122.3 Star-Fleet intercepted a K'ton transmission from Risa to Pacifica. Using help from Vulcan mathimaticians, Star-Fleet found the transmission was holding information about a K'ton attack on Nimbus III. Two monthes after, the U.S.S. Trinitron was ordered to avert this attack and capture these Romulan attackers.</para>
+  </section>
 </article>

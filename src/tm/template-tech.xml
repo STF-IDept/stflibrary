@@ -1,50 +1,50 @@
 <article class="techreport" id="techname">
-	<title>TITLE</title>
-	<subtitle/>
-	<titleabbrev>TITLEABBREV</titleabbrev>
-	<articleinfo>
-		<authorgroup role="Maintainer">
-			<author>
-				<firstname>FIRST</firstname>
-				<surname>LAST</surname>
-			</author>
-		</authorgroup>
-		<authorgroup role="Primary Designers">
-			<author>
-				<firstname>FIRST</firstname>
-				<surname>LAST</surname>
-			</author>
-		</authorgroup>
-		<authorgroup role="Contributing Designers">
-			<author>
-				<firstname>FIRST</firstname>
-				<surname>LAST</surname>
-			</author>
-		</authorgroup>
-		<authorgroup role="Original Designers">
-			<author>
-				<firstname>FIRST</firstname>
-				<surname>LAST</surname>
-			</author>
-		</authorgroup>
-		<keywordset>
-			<keyword role="type">STARSHIP/PERSONNEL</keyword>
-			<keyword role="category">CATEGORY</keyword>
-			<keyword role="mark">I</keyword>
-		</keywordset>
-		<revhistory>
-			<revision>
-				<revnumber>1</revnumber>
-				<date>DATE</date>
-				<revdescription>
-					<para>Approved by Engineering Director NAME</para>
-				</revdescription>
-			</revision>
-		</revhistory>
-	</articleinfo>
-	<section>
-		<title>Description</title>
-		<para>X</para>
-		<para>X</para>
-	</section>
+  <title>TITLE</title>
+  <subtitle/>
+  <titleabbrev>TITLEABBREV</titleabbrev>
+  <articleinfo>
+    <authorgroup role="Maintainer">
+      <author>
+        <firstname>FIRST</firstname>
+        <surname>LAST</surname>
+      </author>
+    </authorgroup>
+    <authorgroup role="Primary Designers">
+      <author>
+        <firstname>FIRST</firstname>
+        <surname>LAST</surname>
+      </author>
+    </authorgroup>
+    <authorgroup role="Contributing Designers">
+      <author>
+        <firstname>FIRST</firstname>
+        <surname>LAST</surname>
+      </author>
+    </authorgroup>
+    <authorgroup role="Original Designers">
+      <author>
+        <firstname>FIRST</firstname>
+        <surname>LAST</surname>
+      </author>
+    </authorgroup>
+    <keywordset>
+      <keyword role="type">STARSHIP/PERSONNEL</keyword>
+      <keyword role="category">CATEGORY</keyword>
+      <keyword role="mark">I</keyword>
+    </keywordset>
+    <revhistory>
+      <revision>
+        <revnumber>1</revnumber>
+        <date>DATE</date>
+        <revdescription>
+          <para>Approved by Engineering Director NAME</para>
+        </revdescription>
+      </revision>
+    </revhistory>
+  </articleinfo>
+  <section>
+    <title>Description</title>
+    <para>X</para>
+    <para>X</para>
+  </section>
 </article>

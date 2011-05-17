@@ -1,53 +1,53 @@
 <!--<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
                     "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">-->
 <chapter id="gettingstarted">
-	<title>Getting started</title>
-	<sect1 id="abbreviations">
-		<title>STF's Abbreviations and Acronyms.</title>
-		<para><emphasis>STF</emphasis> Star-Fleet.com</para>
-		<para><emphasis>LOA</emphasis> Leave of Absence.</para>
-		<para><emphasis>AWOL</emphasis> Absent WithOut Leave.</para>
-		<para><emphasis>OOC</emphasis> Out of Character.</para>
-		<para><emphasis>IC</emphasis> In Character.</para>
-		<para><emphasis>WeBB</emphasis> The generic name for the system we use; stands for Web-Based Bulletin Board.</para>
-		<para><emphasis>effWeBB</emphasis> The previous version of the WeBB. The added eff is to signify the grade its designer believed he would have received had he submitted it at school.</para>
-		<para><emphasis>WeBBspace</emphasis> The current version of the WeBB. Adopted by STF in Jan 2008 and continually evolving.</para>
-		<para><emphasis>FComm</emphasis> Fleet Commander. Each of our six fleets has a commander, a member of the government cabinet who sees to out of character administration of the fleets, including assisting the president in choosing new CO's and ensuring that each ship is healthy, has a Gamemaster and is responsible for discipline should it reach beyond the ship command level. Fleet Commanders are superior in position to ship CO's, but are often one of those CO's and may not be superior in actual rank. The Fleet commander isn't always superior in rank, just in position. There are still few enough Fleet Captains, that the majority of FComm's are Captains and only outrank their counterparts by position.</para>
-		<para><emphasis>CO</emphasis> Commanding Officer (Usually the Captain aboard a ship)</para>
-		<para><emphasis>XO</emphasis> Executive Officer or First Officer</para>
-		<para><emphasis>GM</emphasis> Gamemaster. The member who has followed our Gamemaster training course, graduated and sets the story and pace for the ship they are assigned. They control the environment in which members play and the general direction in which the story moves, providing the crew with various disasters to circumvent and puzzles to solve in order to progress.</para>
-		<para><emphasis>DH</emphasis> Department Head. Our five standard DH positions are Counsellor (CNS), Chief Science Officer (CSO), Chief of Security (COS), Chief Medical Officer (CMO) and Chief Engineer (CE). Other non-standard DH positions are called swing positions and include, but are not limited to, Chief Intelligence Officer (CIO), Chief Tactical Officer (CTO) and such positions as Fighter Squadron Commander, Chief Of Operations (COO) and various marine ranks. Swing positions rarely include Junior Officers and tend to be standalone.</para>
-		<para><emphasis>JO</emphasis> Junior Officer. The standard four position types are Scientist, Engineer, Security Officer and Doctor</para>
-		<para><emphasis>NE</emphasis> Nameless Ensign, an expendable or recurring non-rostered character usually employed to achieve a specific goal within the mission that a played character could not easily or ordinarily do. NE's tend to be played aboard ship whilst a member's rostered character is on an away team or indisposed. The Academy equivalent is referred to as a Non-Cadet or NC.</para>
-		<para><emphasis>Mission</emphasis>. Also referred to as 'sim' (simulation), the story in which a crew are involved, provided by the Gamemaster.</para>
-	</sect1>
-	<sect1 id="loggingin">
-		<title>Logging in</title>
-		<para>Once your application for membership has been approved, you will receive two emails from our Personnel Department. The first will inform you of your login name and password. The other will remind you of the character name you supplied in your application, giving you a ship assignment and your position aboard that ship.</para>
-		<para>Once you've received this information, you will be able to login for the first time. Access the homepage at http://www.star-fleet.com/ and, along the navigation bar to the left of the page, you'll see a box which asks for your username and password, as shown below:</para>
-		<figure>
-			<title>The STF Login Screen</title>
-			<mediaobject>
-				<imageobject id="loginscreen">
-					<objectinfo>
-						<author>
-							<firstname>Andrew</firstname>
-							<surname>Robinson</surname>
-						</author>
-					</objectinfo>
-					<imagedata format="PNG" fileref="images/handbook/userlogin.png"/>
-				</imageobject>
-				<textobject>
-					<phrase>STF's Login Page</phrase>
-				</textobject>
-			</mediaobject>
-		</figure>
-		<para>After entering your login information and pressing enter, the page will not alter, but the login box will change to offer two options:</para>
-		<para>- My Account: This allows you to edit your name, user information, password and general settings.</para>
-		<para>- Log Out: You will automatically be logged out once every 24 hours of inactive use to prevent abuse of your account, but this is a manual link should you be on a public computer.</para>
-		<para>The home page contains information on recent updates, STF news and will from time to time inform of any site downtime to allow you to plan ahead, plus, during times of public election or important events such as our annual awards ceremony, will provide information on voting and the current standings.</para>
-		<para>The top of the page carries links to the STF Library (where this and other documents can be found), The Office of the President (where our rules, regulations and history can be found) Latest News section (which leads to the main page where all the latest news of STF are located), and the New Project link (where all new Internet Department projects to improve the WeBB are located)</para>
-		<para>At the top of the left hand navigation bar, you will find a list of our fleets, including the Academy and our Command fleet, the latter of which contains the ships for our government departments.</para>
-		<para>Clicking on any of these links will take you to that fleets homepage. The Command fleet contains its own notes area along with ships for the government departments. The Academy contains its own notes area under its own homepage, whilst the other fleets have their own command ships. Ships within the fleet can be accessed by the menu on the left.</para>
-	</sect1>
+  <title>Getting started</title>
+  <sect1 id="abbreviations">
+    <title>STF's Abbreviations and Acronyms.</title>
+    <para><emphasis>STF</emphasis> Star-Fleet.com</para>
+    <para><emphasis>LOA</emphasis> Leave of Absence.</para>
+    <para><emphasis>AWOL</emphasis> Absent WithOut Leave.</para>
+    <para><emphasis>OOC</emphasis> Out of Character.</para>
+    <para><emphasis>IC</emphasis> In Character.</para>
+    <para><emphasis>WeBB</emphasis> The generic name for the system we use; stands for Web-Based Bulletin Board.</para>
+    <para><emphasis>effWeBB</emphasis> The previous version of the WeBB. The added eff is to signify the grade its designer believed he would have received had he submitted it at school.</para>
+    <para><emphasis>WeBBspace</emphasis> The current version of the WeBB. Adopted by STF in Jan 2008 and continually evolving.</para>
+    <para><emphasis>FComm</emphasis> Fleet Commander. Each of our six fleets has a commander, a member of the government cabinet who sees to out of character administration of the fleets, including assisting the president in choosing new CO's and ensuring that each ship is healthy, has a Gamemaster and is responsible for discipline should it reach beyond the ship command level. Fleet Commanders are superior in position to ship CO's, but are often one of those CO's and may not be superior in actual rank. The Fleet commander isn't always superior in rank, just in position. There are still few enough Fleet Captains, that the majority of FComm's are Captains and only outrank their counterparts by position.</para>
+    <para><emphasis>CO</emphasis> Commanding Officer (Usually the Captain aboard a ship)</para>
+    <para><emphasis>XO</emphasis> Executive Officer or First Officer</para>
+    <para><emphasis>GM</emphasis> Gamemaster. The member who has followed our Gamemaster training course, graduated and sets the story and pace for the ship they are assigned. They control the environment in which members play and the general direction in which the story moves, providing the crew with various disasters to circumvent and puzzles to solve in order to progress.</para>
+    <para><emphasis>DH</emphasis> Department Head. Our five standard DH positions are Counsellor (CNS), Chief Science Officer (CSO), Chief of Security (COS), Chief Medical Officer (CMO) and Chief Engineer (CE). Other non-standard DH positions are called swing positions and include, but are not limited to, Chief Intelligence Officer (CIO), Chief Tactical Officer (CTO) and such positions as Fighter Squadron Commander, Chief Of Operations (COO) and various marine ranks. Swing positions rarely include Junior Officers and tend to be standalone.</para>
+    <para><emphasis>JO</emphasis> Junior Officer. The standard four position types are Scientist, Engineer, Security Officer and Doctor</para>
+    <para><emphasis>NE</emphasis> Nameless Ensign, an expendable or recurring non-rostered character usually employed to achieve a specific goal within the mission that a played character could not easily or ordinarily do. NE's tend to be played aboard ship whilst a member's rostered character is on an away team or indisposed. The Academy equivalent is referred to as a Non-Cadet or NC.</para>
+    <para><emphasis>Mission</emphasis>. Also referred to as 'sim' (simulation), the story in which a crew are involved, provided by the Gamemaster.</para>
+  </sect1>
+  <sect1 id="loggingin">
+    <title>Logging in</title>
+    <para>Once your application for membership has been approved, you will receive two emails from our Personnel Department. The first will inform you of your login name and password. The other will remind you of the character name you supplied in your application, giving you a ship assignment and your position aboard that ship.</para>
+    <para>Once you've received this information, you will be able to login for the first time. Access the homepage at http://www.star-fleet.com/ and, along the navigation bar to the left of the page, you'll see a box which asks for your username and password, as shown below:</para>
+    <figure>
+      <title>The STF Login Screen</title>
+      <mediaobject>
+        <imageobject id="loginscreen">
+          <objectinfo>
+            <author>
+              <firstname>Andrew</firstname>
+              <surname>Robinson</surname>
+            </author>
+          </objectinfo>
+          <imagedata format="PNG" fileref="images/handbook/userlogin.png"/>
+        </imageobject>
+        <textobject>
+          <phrase>STF's Login Page</phrase>
+        </textobject>
+      </mediaobject>
+    </figure>
+    <para>After entering your login information and pressing enter, the page will not alter, but the login box will change to offer two options:</para>
+    <para>- My Account: This allows you to edit your name, user information, password and general settings.</para>
+    <para>- Log Out: You will automatically be logged out once every 24 hours of inactive use to prevent abuse of your account, but this is a manual link should you be on a public computer.</para>
+    <para>The home page contains information on recent updates, STF news and will from time to time inform of any site downtime to allow you to plan ahead, plus, during times of public election or important events such as our annual awards ceremony, will provide information on voting and the current standings.</para>
+    <para>The top of the page carries links to the STF Library (where this and other documents can be found), The Office of the President (where our rules, regulations and history can be found) Latest News section (which leads to the main page where all the latest news of STF are located), and the New Project link (where all new Internet Department projects to improve the WeBB are located)</para>
+    <para>At the top of the left hand navigation bar, you will find a list of our fleets, including the Academy and our Command fleet, the latter of which contains the ships for our government departments.</para>
+    <para>Clicking on any of these links will take you to that fleets homepage. The Command fleet contains its own notes area along with ships for the government departments. The Academy contains its own notes area under its own homepage, whilst the other fleets have their own command ships. Ships within the fleet can be accessed by the menu on the left.</para>
+  </sect1>
 </chapter>

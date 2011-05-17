@@ -1,370 +1,370 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article class="whitepaper" id="misc-starclassification">
-	
+  
    <title>Stellar Classification</title>
-	
+  
    <articleinfo>
-		
+    
       <authorgroup>
-			
+      
          <author>
-				
+        
             <firstname>Patrick</firstname>
-				
+        
             <surname>Greenwell</surname>
-			
+      
          </author>
-			
+      
          <author>
-				
+        
             <firstname>Randy</firstname>
-				
+        
             <surname>McCullick</surname>
-			
+      
          </author>
-		
+    
       </authorgroup>
-		
+    
       <keywordset role="classification">
-			
+      
          <keyword role="type">Canon</keyword>
-		
+    
       </keywordset>
-		
+    
       <revhistory>
-			
+      
          <revision>
-				
+        
             <revnumber>1</revnumber>
-				
+        
             <date>9 Jaunary 2004</date>
-				
+        
             <revdescription>
-					
+          
                <para>Approved by Assistant GM Director Robert Gulley</para>
-				
+        
             </revdescription>
-			
+      
          </revision>
-		
+    
       </revhistory>
-	
+  
    </articleinfo>
-	
+  
  <!--  <indexterm>
-		
+    
       <seealso>
-			
+      
          <link linkend="misc-planets">Planetary Classification</link>
-		
+    
       </seealso>
-	
+  
    </indexterm>-->
-	
+  
    <sect1>
-		
+    
       <title>Stellar Classes</title>
-		
+    
       <sect2>
-			
+      
          <title>Class O</title>
-			
+      
          <variablelist>
-				
+        
             <varlistentry>
                <term>Examples</term>
                <listitem>
                   <para>Mintaka (Delta Orionis)</para>
                </listitem>
             </varlistentry>
-				
+        
             <varlistentry>
                <term>Color</term>
                <listitem>
                   <para>Dark Blue</para>
                </listitem>
             </varlistentry>
-				
+        
             <varlistentry>
                <term>Temperature</term>
                <listitem>
                   <para>28,000 to 50,000 Kelvin</para>
                </listitem>
             </varlistentry>
-				
+        
             <varlistentry>
                <term>Composition</term>
                <listitem>
                   <para>Ionized atoms, especially helium</para>
                </listitem>
             </varlistentry>
-			
+      
          </variablelist>
-		
+    
       </sect2>
-		
+    
       <sect2>
-			
+      
          <title>Class B</title>
-			
+      
          <variablelist>
-				
+        
             <varlistentry>
                <term>Examples</term>
                <listitem>
                   <para>Rigel, Spica</para>
                </listitem>
             </varlistentry>
-				
+        
             <varlistentry>
                <term>Color</term>
                <listitem>
                   <para>Blue</para>
                </listitem>
             </varlistentry>
-				
+        
             <varlistentry>
                <term>Temperature</term>
                <listitem>
                   <para>10,000 to 28,000 Kelvin</para>
                </listitem>
             </varlistentry>
-				
+        
             <varlistentry>
                <term>Composition</term>
                <listitem>
                   <para>Neutral Helium, some hydrogen</para>
                </listitem>
             </varlistentry>
-			
+      
          </variablelist>
-		
+    
       </sect2>
-		
+    
       <sect2>
-			
+      
          <title>Class A</title>
-			
+      
          <variablelist>
-				
+        
             <varlistentry>
                <term>Examples</term>
                <listitem>
                   <para>Sirus A</para>
                </listitem>
             </varlistentry>
-				
+        
             <varlistentry>
                <term>Color</term>
                <listitem>
                   <para>Light Blue</para>
                </listitem>
             </varlistentry>
-				
+        
             <varlistentry>
                <term>Temperature</term>
                <listitem>
                   <para>7,500 to 10,000 Kelvin</para>
                </listitem>
             </varlistentry>
-				
+        
             <varlistentry>
                <term>Composition</term>
                <listitem>
                   <para>Strong hydrogen, some ionized metals</para>
                </listitem>
             </varlistentry>
-			
+      
          </variablelist>
-		
+    
       </sect2>
-		
+    
       <sect2>
-			
+      
          <title>Class F</title>
-			
+      
          <variablelist>
-				
+        
             <varlistentry>
                <term>Examples</term>
                <listitem>
                   <para>Procyon A</para>
                </listitem>
             </varlistentry>
-				
+        
             <varlistentry>
                <term>Color</term>
                <listitem>
                   <para>White</para>
                </listitem>
             </varlistentry>
-				
+        
             <varlistentry>
                <term>Temperature</term>
                <listitem>
                   <para>6,000 to 7,000 Kelvin</para>
                </listitem>
             </varlistentry>
-				
+        
             <varlistentry>
                <term>Composition</term>
                <listitem>
                   <para>Hydrogen and ionized metals, calcium and iron</para>
                </listitem>
             </varlistentry>
-			
+      
          </variablelist>
-		
+    
       </sect2>
-		
+    
       <sect2>
-			
+      
          <title>Class G</title>
-			
+      
          <variablelist>
-				
+        
             <varlistentry>
                <term>Examples</term>
                <listitem>
                   <para>Sol</para>
                </listitem>
             </varlistentry>
-				
+        
             <varlistentry>
                <term>Color</term>
                <listitem>
                   <para>Yellow</para>
                </listitem>
             </varlistentry>
-				
+        
             <varlistentry>
                <term>Temperature</term>
                <listitem>
                   <para>5,000 to 6,000 Kelvin</para>
                </listitem>
             </varlistentry>
-				
+        
             <varlistentry>
                <term>Composition</term>
                <listitem>
                   <para>Ionized Calcium, both neutral and ionized metals</para>
                </listitem>
             </varlistentry>
-			
+      
          </variablelist>
-		
+    
       </sect2>
-		
+    
       <sect2>
-			
+      
          <title>Class K</title>
-			
+      
          <variablelist>
-				
+        
             <varlistentry>
                <term>Examples</term>
                <listitem>
                   <para>Alpha Centauri B, Arcturus</para>
                </listitem>
             </varlistentry>
-				
+        
             <varlistentry>
                <term>Color</term>
                <listitem>
                   <para>Orange</para>
                </listitem>
             </varlistentry>
-				
+        
             <varlistentry>
                <term>Temperature</term>
                <listitem>
                   <para>3,500 to 5,000 Kelvin</para>
                </listitem>
             </varlistentry>
-				
+        
             <varlistentry>
                <term>Composition</term>
                <listitem>
                   <para>Neutral metals</para>
                </listitem>
             </varlistentry>
-			
+      
          </variablelist>
-		
+    
       </sect2>
-		
+    
       <sect2>
-			
+      
          <title>Class M</title>
-			
+      
          <variablelist>
-				
+        
             <varlistentry>
                <term>Examples</term>
                <listitem>
                   <para>Wolf 359, Betelgeuse</para>
                </listitem>
             </varlistentry>
-				
+        
             <varlistentry>
                <term>Color</term>
                <listitem>
                   <para>Red</para>
                </listitem>
             </varlistentry>
-				
+        
             <varlistentry>
                <term>Temperature</term>
                <listitem>
                   <para>2,500 to 3,500 Kelvin</para>
                </listitem>
             </varlistentry>
-				
+        
             <varlistentry>
                <term>Composition</term>
                <listitem>
                   <para>Ionized atoms, especially helium</para>
                </listitem>
             </varlistentry>
-			
+      
          </variablelist>
-		
+    
       </sect2>
-	
+  
    </sect1>
-	
+  
    <sect1>
-		
+    
       <title>Stellar Class Subdivisions</title>
-		
+    
       <para>Each star class is divided into 10 subclasses, ranging from 0 (hottest) to 9 (coolest). Stars are also divided into six categories according to luminosity:</para>
-		
+    
       <simplelist>
-			
+      
          <member>Ia (most luminous supergiants)</member>
-			
+      
          <member>Ib (less luminous supergiants)</member>
-			
+      
          <member>II (luminous giants)</member>
-			
+      
          <member>III (normal giants)</member>
-			
+      
          <member>IV (subgiants)</member>
-			
+      
          <member>V (main sequence and dwarfs)</member>
-			
+      
          <member>VI (subdwarfs)</member>
-			
+      
          <member>VII (white dwarfs)</member>
-		
+    
       </simplelist>
-		
+    
       <para>Example: Earth's star, Sol would be rated as a G2V, which means that it is a relatively hot (2) G-Class (G) main sequence star (V). So when naming the sub-class of a star they should be named in the following format:</para>
-		
+    
       <para>[Letter of class][Temperature number 0 to 9][Luminosity category]</para>
-		
+    
       <note><para>Classes R, N, S, T, Q, and W are not in the main sequence above. They are used for rare star types. More information on these classes will be listed if/when it becomes available in later Paramount-approved products or episodes</para></note>
-	
+  
    </sect1>
 
 </article>

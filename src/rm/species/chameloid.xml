@@ -1,65 +1,65 @@
 <article class="whitepaper" id="species-chameloid">
-	<title>Chameloid</title>
-	<articleinfo>
-		<authorgroup>
-			<author>
-				<!-- For non-custom, this would be the person who wrote/copied the article for STF -->
-				<firstname>Elana</firstname>
-				<surname>Rubin</surname>
-			</author>
-		</authorgroup>
-		<revhistory>
-			<revision>
-				<revnumber>1</revnumber>
-				<date>2 November 2001</date>
-				<revdescription>
-					<para>Approved by Unknown</para>
-				</revdescription>
-			</revision>
-		</revhistory>
-	</articleinfo>
-	<section>
-		<title>Abstract</title>
-		<variablelist>
-			<varlistentry>
-				<term>Homeworld</term>
-				<listitem><para>Unknown</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Height (Average)</term>
-				<listitem><para>Varies</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Weight (Average)</term>
-				<listitem><para>Varies</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Lifespan</term>
-				<listitem><para>Unknown</para></listitem>
-			</varlistentry>
-		</variablelist>
-		<variablelist>
-			<varlistentry>
-				<term>Entry Type</term>
-				<listitem><para>Canon</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Source</term>
-				<listitem><para>"Star Trek VI: The Undiscovered Country"</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Found in Starfleet</term>
-				<listitem><para>Never</para></listitem>
-			</varlistentry>
-		</variablelist>
-	</section>
-	<section>
-		<title>Overview</title>
-		<para>A unique feature of the Chameloid is its ability to shape shift. A Chameloid's physique is unlike that of a Changelings in that a Chameloid is a "solid", with muscles and a skeleton. The skeleton is made of a very strong and flexible cartilage that acts a little like elastic but with no diminishing of its overall strength when "streched". A Chameloid have more then twice the amount of muscles that a Human has. Chameloids have an amazing knowledge of of their race's physique, as well as physiques of other races, and without this knowlenge when a Chameloid changes into another species the change would only be superficial. With the knowledge of the physiques of other species, the Chameloid can arrange its muscles to take advantage of that species strengths.</para>
-		<para>Chameloids can improve minor muscular structures but cannot preform gross changes to the form of the species the Chameloid has adopted. For example a Chameloid can improve a humans eyes so that they can see better and farther or see better in the dark. However when they adopt that form a Chameloid cannot change the eyes so they can see through things on a X-ray band wave. One very curious thing about Chameloid biology is that their genes are dominant no matter what. For example if a Chameloid was to have a child with someone of a different species, the child would have the shape-shifting ability with no diminishing of this trait.</para>
-	</section>
-	<section>
-		<title>History</title>
-		<para>Chameloids were long thought to be a myth until Captain Kirk met one in a Klingon prison in 2293. In the past Chameloids have worked as spys and other sinister ocupations. It is unknown if Chameloids have served in Starfleet as they are extrememly rare individuals.</para>
-	</section>
+  <title>Chameloid</title>
+  <articleinfo>
+    <authorgroup>
+      <author>
+        <!-- For non-custom, this would be the person who wrote/copied the article for STF -->
+        <firstname>Elana</firstname>
+        <surname>Rubin</surname>
+      </author>
+    </authorgroup>
+    <revhistory>
+      <revision>
+        <revnumber>1</revnumber>
+        <date>2 November 2001</date>
+        <revdescription>
+          <para>Approved by Unknown</para>
+        </revdescription>
+      </revision>
+    </revhistory>
+  </articleinfo>
+  <section>
+    <title>Abstract</title>
+    <variablelist>
+      <varlistentry>
+        <term>Homeworld</term>
+        <listitem><para>Unknown</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Height (Average)</term>
+        <listitem><para>Varies</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Weight (Average)</term>
+        <listitem><para>Varies</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Lifespan</term>
+        <listitem><para>Unknown</para></listitem>
+      </varlistentry>
+    </variablelist>
+    <variablelist>
+      <varlistentry>
+        <term>Entry Type</term>
+        <listitem><para>Canon</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Source</term>
+        <listitem><para>"Star Trek VI: The Undiscovered Country"</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Found in Starfleet</term>
+        <listitem><para>Never</para></listitem>
+      </varlistentry>
+    </variablelist>
+  </section>
+  <section>
+    <title>Overview</title>
+    <para>A unique feature of the Chameloid is its ability to shape shift. A Chameloid's physique is unlike that of a Changelings in that a Chameloid is a "solid", with muscles and a skeleton. The skeleton is made of a very strong and flexible cartilage that acts a little like elastic but with no diminishing of its overall strength when "streched". A Chameloid have more then twice the amount of muscles that a Human has. Chameloids have an amazing knowledge of of their race's physique, as well as physiques of other races, and without this knowlenge when a Chameloid changes into another species the change would only be superficial. With the knowledge of the physiques of other species, the Chameloid can arrange its muscles to take advantage of that species strengths.</para>
+    <para>Chameloids can improve minor muscular structures but cannot preform gross changes to the form of the species the Chameloid has adopted. For example a Chameloid can improve a humans eyes so that they can see better and farther or see better in the dark. However when they adopt that form a Chameloid cannot change the eyes so they can see through things on a X-ray band wave. One very curious thing about Chameloid biology is that their genes are dominant no matter what. For example if a Chameloid was to have a child with someone of a different species, the child would have the shape-shifting ability with no diminishing of this trait.</para>
+  </section>
+  <section>
+    <title>History</title>
+    <para>Chameloids were long thought to be a myth until Captain Kirk met one in a Klingon prison in 2293. In the past Chameloids have worked as spys and other sinister ocupations. It is unknown if Chameloids have served in Starfleet as they are extrememly rare individuals.</para>
+  </section>
 </article>

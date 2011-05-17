@@ -1,64 +1,64 @@
 <article class="whitepaper" id="species-pakeld">
-	<title>Pakled</title>
-	<articleinfo>
-		<authorgroup>
-			<author>
-				<!-- For non-custom, this would be the person who wrote/copied the article for STF -->
-				<firstname>Philip</firstname>
-				<surname>Stonness</surname>
-			</author>
-		</authorgroup>
-		<revhistory>
-			<revision>
-				<revnumber>1</revnumber>
-				<date>25 March 2002</date>
-				<revdescription>
-					<para>Approved by Unknown</para>
-				</revdescription>
-			</revision>
-		</revhistory>
-	</articleinfo>
-	<section>
-		<title>Abstract</title>
-		<variablelist>
-			<varlistentry>
-				<term>Homeworld</term>
-				<listitem><para>N/A</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Height (Average)</term>
-				<listitem><para>5' 4"</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Weight (Average)</term>
-				<listitem><para>195 lbs</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Lifespan</term>
-				<listitem><para>63 years</para></listitem>
-			</varlistentry>
-		</variablelist>
-		<variablelist>
-			<varlistentry>
-				<term>Entry Type</term>
-				<listitem><para>Canon</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Source</term>
-				<listitem><para>"Samitarian Snare" (TNG)</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Found in Starfleet</term>
-				<listitem><para>Never</para></listitem>
-			</varlistentry>
-		</variablelist>
-	</section>
-	<section>
-		<title>Overview</title>
-		<para>These humanoids are a prime example of what can happen when the Prime Directive is not honoured. These people became aware of higher level beings before they were even spaceworthy, and unfortunatly their brain capacity is very limited, thus they do not have the communication or intelligence capability to be capable of space flight. However, through trade and other such means they aquired space vessels from other more advanced species such as the Romulans and Ferengi. Instead of waiting for intelligence to grow on it's own naturally, they want instant knowledge and power, and will resort to violence in order to do so.</para>
-	</section>
-	<section>
-		<title>History</title>
-		<para>There are not many incidents with the Federation involving this race, the Enterprise D encountered them and rendered assistance to the Pakleds' damaged ship. However, when the Pakled Captain saw how intelligent Lieutenant Geordi La Forge was, so they held him captive using Lieutenant La Forge's phaser and kept the Enterprise from transporting La Forge aboard using a Romulan shielding device. </para>
-	</section>
+  <title>Pakled</title>
+  <articleinfo>
+    <authorgroup>
+      <author>
+        <!-- For non-custom, this would be the person who wrote/copied the article for STF -->
+        <firstname>Philip</firstname>
+        <surname>Stonness</surname>
+      </author>
+    </authorgroup>
+    <revhistory>
+      <revision>
+        <revnumber>1</revnumber>
+        <date>25 March 2002</date>
+        <revdescription>
+          <para>Approved by Unknown</para>
+        </revdescription>
+      </revision>
+    </revhistory>
+  </articleinfo>
+  <section>
+    <title>Abstract</title>
+    <variablelist>
+      <varlistentry>
+        <term>Homeworld</term>
+        <listitem><para>N/A</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Height (Average)</term>
+        <listitem><para>5' 4"</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Weight (Average)</term>
+        <listitem><para>195 lbs</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Lifespan</term>
+        <listitem><para>63 years</para></listitem>
+      </varlistentry>
+    </variablelist>
+    <variablelist>
+      <varlistentry>
+        <term>Entry Type</term>
+        <listitem><para>Canon</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Source</term>
+        <listitem><para>"Samitarian Snare" (TNG)</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Found in Starfleet</term>
+        <listitem><para>Never</para></listitem>
+      </varlistentry>
+    </variablelist>
+  </section>
+  <section>
+    <title>Overview</title>
+    <para>These humanoids are a prime example of what can happen when the Prime Directive is not honoured. These people became aware of higher level beings before they were even spaceworthy, and unfortunatly their brain capacity is very limited, thus they do not have the communication or intelligence capability to be capable of space flight. However, through trade and other such means they aquired space vessels from other more advanced species such as the Romulans and Ferengi. Instead of waiting for intelligence to grow on it's own naturally, they want instant knowledge and power, and will resort to violence in order to do so.</para>
+  </section>
+  <section>
+    <title>History</title>
+    <para>There are not many incidents with the Federation involving this race, the Enterprise D encountered them and rendered assistance to the Pakleds' damaged ship. However, when the Pakled Captain saw how intelligent Lieutenant Geordi La Forge was, so they held him captive using Lieutenant La Forge's phaser and kept the Enterprise from transporting La Forge aboard using a Romulan shielding device. </para>
+  </section>
 </article>

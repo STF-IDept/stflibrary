@@ -1,97 +1,97 @@
 <article class="specification" id="concord">
-	<title>Concord-class</title>
-	<articleinfo>
-		<authorgroup role="Maintainer">
-			<author>
-				<firstname>Brandon</firstname>
-				<surname>Irvine</surname>
-			</author>
-		</authorgroup>
-		<authorgroup role="Primary Designers">
-			<author>
+  <title>Concord-class</title>
+  <articleinfo>
+    <authorgroup role="Maintainer">
+      <author>
         <firstname>Brandon</firstname>
         <surname>Irvine</surname>
-			</author>
-		</authorgroup>
-		<authorgroup role="Original Designers">
-			<author>
-				<firstname>Brandon</firstname>
-				<surname>Irvine</surname>
-			</author>
-		</authorgroup>
-		<keywordset>
-			<keyword role="service">PC</keyword>
-			<keyword role="category">Surveyor</keyword>
-			<keyword role="variant">Medium</keyword>
-			<keyword role="mark">I</keyword>
-		</keywordset>
-		<revhistory>
-			<revision>
-				<revnumber>1</revnumber>
-				<date>24 November 2007</date>
-				<revdescription>
-					<para>Approved by Engineering Director Lee Bridgeford</para>
-				</revdescription>
-			</revision>
-		</revhistory>
-	</articleinfo>
-	<section>
-		<title>History and Mission Overview</title>
-		<para>After the conclusion of the Dominion War, the rest of the galaxy returned to the semi-peaceful existence it had known before the Dominion, before the Cardassians, before even the Borg. An existence where, save minor border clashes between the Federation, the Klingons, and the Romulans, there was absolutely no conflict. Even so, there were some members of the Operations Department at Starfleet Command who spent their workdays in cubicles wondering what was out there. The Dominion had come practically without warning through the Bajoran wormhole. The only thing that could stop another, stronger species from doing the same, they reasoned, was intense exploration and knowledge.</para><para>With this in mind, Project Concord was begun on Stardate 05111.7, under the direction of Starfleet Research and Development and personally overseen by Admiral James Richard Nelson. Many argued for the development of a stronger vessel like a frigate or a cruiser, however, a surveyor - moderately armed as a necessity - was commissioned due to the nature of the mission. It would need to be able to remain in an area long-term, studying events that would interest at least one branch of Starfleet. With the Concord, the Fleet would be able to study and make contact if possible or necessary.</para>
-	  <para> USS Concord, NCC-76520, the ship of line, was completed at Utopia Planitia on Stardate 07070.9, a little over the year from the word being given to proceed with the project. She completed her trials cruise on 07081.0, reporting only minor defects that were easily corrected on both her and the other ships called for in the production order.</para>
-	  <para>As described by the project parameters, the primary mission of the Concord-class is to travel the Galaxy to study interesting new discoveries, but in addition to that mission, a Concord-class ship is also capable of the following missions:</para>
-	  <simplelist>
-	    <member>Orbital survey of an uncharted planet</member>
-	    <member>First contact with a newly discovered species</member>
-	    <member>Cartography of uncharted systems</member></simplelist>
-	</section>
-	<section>
-		<title>Structure and Construction</title>
-		<para>The Concord isn't the biggest of ships, measuring in at 100 meters tall, 20 decks overall. She makes up for this somewhat in her width, measuring in at 300 meters wide, not counting nacelles. With nacelle measurement included, the Concord is 372 meters wide, and is 410 meters long. The design itself breaks two centuries of Starfleet ship design. It is a linear design with an inverted-pyramid shaped forward section measuring 60 meters in length by 150m in width and 85m in height, containing weaponry and tactical systems, that is connected to a 100 meter long by 100 meter wide by 50 meter high neck, containing personnel areas, attached to a 250m x 300m x 100m aft section with propulsion systems and command areas. The aft section is a cubic structure at and below the ten decks that connect to the neck, with a 150 meter diameter saucer-like area making up three decks on top of that cube. Decks 1-3 are solely contained in the saucer on the aft section. Decks 4-13 go the whole length of the ship, and make up part of the cube, the neck, and part of the forward section. Decks 14-20 are either in the forward section or in the aft cube.</para>
-		<para>This design allows for a unique form of compartmentalization. Non-mission specific systems are clustered forward, mission-specific systems are grouped midway through the ship, and command and control systems are situated aft, allowing for maximum protection and control over a situation.</para>
-		<para>Her hull is a hybrid of 87% duranium and 13% tritanium. This mixture is just enough to lighten the load of the Structural Integrity Fields during warp travel; the designers chose an angular design to both increase storage capacity and provide for easy compartmentalization. The navigational deflector is located in the forward pyramid, providing shielding for the ship during its transit at warp speeds.</para>
-	</section>
-	<section>
-		<title>Science and Remote Sensing Systems</title>
-		<para>The computer systems of a Concord run off a two-core isolinear main system located in the aft section of Decks Six-Twelve, with two additional isolinear backup cores, also located in the aft section of Decks Six-Twelve. As a separate computer system would prove either too difficult to adapt or too expensive to develop, MAJEL and LCARS were chosen for the class.</para>
-		<para>The sensor systems on a ship of this class have to be top-notch. In part because of the data required by Starfleet First Contact Protocols and in part because a ship this lightly armed needs to know what is near it, the subcontractor designed a system so powerful that if activated at full, the sensors can &quot;see&quot; one-and-a-half times the clarity of a normal system. The maximum ranges of these sensors are 14.75 light years for low-resolution scans and 7 light years for high resolution scans.</para>
-		<para>There are no holographic crewmembers aboard a Concord-class ship.</para>
-	</section>
-	<section>
-		<title>Warp Propulsion Systems</title>
-		<para>The Concord-class is equipped with a small but powerful warp core, a class-7 M/AM reactor that measures in at just over 1548 Cochranes. It is horizontally positioned, oriented fore-aft, on deck 20, in Main Engineering in the aft section, and propels the ship to a cruising speed of Warp 6, a Maximum Sustainable Velocity of Warp 7.2, and a 12-hour Maximum Velocity of Warp 9.5. The Matter and Anti-Matter storage areas are located on Deck 20, aft section. The horizontal placement is in order to facilitate easier fuel storage, via tanks located on either side of Decks 17-20 and protected by the warp nacelles.</para>
-		<para>The Nacelles are mounted on a single pylon that runs through deck 17/18 and out 12 meters to each side, and extend from Deck 18 down to Deck 20.</para>
-		<para>The Concord is able to eject its core in case of emergencies by opening a hatch beneath directly beneath the core on Deck 20. Similar measures are available to eject the fuel storage pods.</para>
-	</section>
-	<section>
-		<title>Impulse Propulsion Systems</title>
-		<para>The six fusion generators that provide impulse propulsion on the Concord are located in the aft section of Deck 10. Each impulse engine is powered by three generators, making the maximum sublight velocity of the Concord .25c.</para>
-	</section>
-	<section>
-		<title>Tactical Systems</title>
-		<section>
-			<title>Defensive Shields</title>
-			<para>The Concord is equipped with Type-8 shields. These shields have a Maximum Graviton Load of 1344 Mega Watts, and a Maximum Dissipation Rate of 3.7 x 10^5, and will protect the ship long enough for it to power her warp engines and get out of the hostile situation.</para>
-		</section>
-		<section>
-			<title>Phaser Systems</title>
-			<para>The Concord is not designed to be a show of force for Starfleet. Thus, she is only equipped with five phaser strips, each of the Type-7 variant, located:</para>
-			<simplelist>
+      </author>
+    </authorgroup>
+    <authorgroup role="Primary Designers">
+      <author>
+        <firstname>Brandon</firstname>
+        <surname>Irvine</surname>
+      </author>
+    </authorgroup>
+    <authorgroup role="Original Designers">
+      <author>
+        <firstname>Brandon</firstname>
+        <surname>Irvine</surname>
+      </author>
+    </authorgroup>
+    <keywordset>
+      <keyword role="service">PC</keyword>
+      <keyword role="category">Surveyor</keyword>
+      <keyword role="variant">Medium</keyword>
+      <keyword role="mark">I</keyword>
+    </keywordset>
+    <revhistory>
+      <revision>
+        <revnumber>1</revnumber>
+        <date>24 November 2007</date>
+        <revdescription>
+          <para>Approved by Engineering Director Lee Bridgeford</para>
+        </revdescription>
+      </revision>
+    </revhistory>
+  </articleinfo>
+  <section>
+    <title>History and Mission Overview</title>
+    <para>After the conclusion of the Dominion War, the rest of the galaxy returned to the semi-peaceful existence it had known before the Dominion, before the Cardassians, before even the Borg. An existence where, save minor border clashes between the Federation, the Klingons, and the Romulans, there was absolutely no conflict. Even so, there were some members of the Operations Department at Starfleet Command who spent their workdays in cubicles wondering what was out there. The Dominion had come practically without warning through the Bajoran wormhole. The only thing that could stop another, stronger species from doing the same, they reasoned, was intense exploration and knowledge.</para><para>With this in mind, Project Concord was begun on Stardate 05111.7, under the direction of Starfleet Research and Development and personally overseen by Admiral James Richard Nelson. Many argued for the development of a stronger vessel like a frigate or a cruiser, however, a surveyor - moderately armed as a necessity - was commissioned due to the nature of the mission. It would need to be able to remain in an area long-term, studying events that would interest at least one branch of Starfleet. With the Concord, the Fleet would be able to study and make contact if possible or necessary.</para>
+    <para> USS Concord, NCC-76520, the ship of line, was completed at Utopia Planitia on Stardate 07070.9, a little over the year from the word being given to proceed with the project. She completed her trials cruise on 07081.0, reporting only minor defects that were easily corrected on both her and the other ships called for in the production order.</para>
+    <para>As described by the project parameters, the primary mission of the Concord-class is to travel the Galaxy to study interesting new discoveries, but in addition to that mission, a Concord-class ship is also capable of the following missions:</para>
+    <simplelist>
+      <member>Orbital survey of an uncharted planet</member>
+      <member>First contact with a newly discovered species</member>
+      <member>Cartography of uncharted systems</member></simplelist>
+  </section>
+  <section>
+    <title>Structure and Construction</title>
+    <para>The Concord isn't the biggest of ships, measuring in at 100 meters tall, 20 decks overall. She makes up for this somewhat in her width, measuring in at 300 meters wide, not counting nacelles. With nacelle measurement included, the Concord is 372 meters wide, and is 410 meters long. The design itself breaks two centuries of Starfleet ship design. It is a linear design with an inverted-pyramid shaped forward section measuring 60 meters in length by 150m in width and 85m in height, containing weaponry and tactical systems, that is connected to a 100 meter long by 100 meter wide by 50 meter high neck, containing personnel areas, attached to a 250m x 300m x 100m aft section with propulsion systems and command areas. The aft section is a cubic structure at and below the ten decks that connect to the neck, with a 150 meter diameter saucer-like area making up three decks on top of that cube. Decks 1-3 are solely contained in the saucer on the aft section. Decks 4-13 go the whole length of the ship, and make up part of the cube, the neck, and part of the forward section. Decks 14-20 are either in the forward section or in the aft cube.</para>
+    <para>This design allows for a unique form of compartmentalization. Non-mission specific systems are clustered forward, mission-specific systems are grouped midway through the ship, and command and control systems are situated aft, allowing for maximum protection and control over a situation.</para>
+    <para>Her hull is a hybrid of 87% duranium and 13% tritanium. This mixture is just enough to lighten the load of the Structural Integrity Fields during warp travel; the designers chose an angular design to both increase storage capacity and provide for easy compartmentalization. The navigational deflector is located in the forward pyramid, providing shielding for the ship during its transit at warp speeds.</para>
+  </section>
+  <section>
+    <title>Science and Remote Sensing Systems</title>
+    <para>The computer systems of a Concord run off a two-core isolinear main system located in the aft section of Decks Six-Twelve, with two additional isolinear backup cores, also located in the aft section of Decks Six-Twelve. As a separate computer system would prove either too difficult to adapt or too expensive to develop, MAJEL and LCARS were chosen for the class.</para>
+    <para>The sensor systems on a ship of this class have to be top-notch. In part because of the data required by Starfleet First Contact Protocols and in part because a ship this lightly armed needs to know what is near it, the subcontractor designed a system so powerful that if activated at full, the sensors can &quot;see&quot; one-and-a-half times the clarity of a normal system. The maximum ranges of these sensors are 14.75 light years for low-resolution scans and 7 light years for high resolution scans.</para>
+    <para>There are no holographic crewmembers aboard a Concord-class ship.</para>
+  </section>
+  <section>
+    <title>Warp Propulsion Systems</title>
+    <para>The Concord-class is equipped with a small but powerful warp core, a class-7 M/AM reactor that measures in at just over 1548 Cochranes. It is horizontally positioned, oriented fore-aft, on deck 20, in Main Engineering in the aft section, and propels the ship to a cruising speed of Warp 6, a Maximum Sustainable Velocity of Warp 7.2, and a 12-hour Maximum Velocity of Warp 9.5. The Matter and Anti-Matter storage areas are located on Deck 20, aft section. The horizontal placement is in order to facilitate easier fuel storage, via tanks located on either side of Decks 17-20 and protected by the warp nacelles.</para>
+    <para>The Nacelles are mounted on a single pylon that runs through deck 17/18 and out 12 meters to each side, and extend from Deck 18 down to Deck 20.</para>
+    <para>The Concord is able to eject its core in case of emergencies by opening a hatch beneath directly beneath the core on Deck 20. Similar measures are available to eject the fuel storage pods.</para>
+  </section>
+  <section>
+    <title>Impulse Propulsion Systems</title>
+    <para>The six fusion generators that provide impulse propulsion on the Concord are located in the aft section of Deck 10. Each impulse engine is powered by three generators, making the maximum sublight velocity of the Concord .25c.</para>
+  </section>
+  <section>
+    <title>Tactical Systems</title>
+    <section>
+      <title>Defensive Shields</title>
+      <para>The Concord is equipped with Type-8 shields. These shields have a Maximum Graviton Load of 1344 Mega Watts, and a Maximum Dissipation Rate of 3.7 x 10^5, and will protect the ship long enough for it to power her warp engines and get out of the hostile situation.</para>
+    </section>
+    <section>
+      <title>Phaser Systems</title>
+      <para>The Concord is not designed to be a show of force for Starfleet. Thus, she is only equipped with five phaser strips, each of the Type-7 variant, located:</para>
+      <simplelist>
         <member>Deck 1: Aft section, dorsal/forward, running along the top of the saucer</member>
         <member>Deck 4: Forward section, port/forward, running along the left side of the pyramid and cutting across the front.</member>
         <member>Deck 4: Forward section, starboard/forward, running along the right side of the pyramid and cutting across the front.</member>
         <member>Deck 13: Neck section, ventral, running along the bottom of the neck section.</member>
         <member>Deck 20: Aft section, ventral/aft, running along the bottom of the cube.</member>
       </simplelist>
-		  <para>All the strips have a minimum of 150 emitters, and are placed so as to provide full 360-degree phaser coverage of the ship.</para>
-		</section>
-		<section>
-			<title>Torpedo Systems</title>
-			<para>In keeping further with the scientific nature of the Concord, the torpedo systems are simple. They consist of one set of tubes, one firing forward from the port side of Deck 16, aft section, and the other firing forward from the starboard section of Deck 16, aft section. The spacing allows each tube to load from the ship's matter and antimatter stores. The tubes are loaded from a torpedo bay, located on Deck Fifteen, aft section. These ships carry 75 Mark-V photon torpedoes, which the tubes can fire at the rate of one every ten seconds, and 50 Mark-IV scientific probes, which can be loaded and fired out of either tube at a similar rate. 25 casings are held in reserve.</para>
-		</section>
-	</section>
-	<section>
-		<title>Command and Support Systems</title>
+      <para>All the strips have a minimum of 150 emitters, and are placed so as to provide full 360-degree phaser coverage of the ship.</para>
+    </section>
+    <section>
+      <title>Torpedo Systems</title>
+      <para>In keeping further with the scientific nature of the Concord, the torpedo systems are simple. They consist of one set of tubes, one firing forward from the port side of Deck 16, aft section, and the other firing forward from the starboard section of Deck 16, aft section. The spacing allows each tube to load from the ship's matter and antimatter stores. The tubes are loaded from a torpedo bay, located on Deck Fifteen, aft section. These ships carry 75 Mark-V photon torpedoes, which the tubes can fire at the rate of one every ten seconds, and 50 Mark-IV scientific probes, which can be loaded and fired out of either tube at a similar rate. 25 casings are held in reserve.</para>
+    </section>
+  </section>
+  <section>
+    <title>Command and Support Systems</title>
     <section>
       <title>Bridge</title>
       <para>The Concord's bridge is located on Deck Two, in the forward section of the aft saucer. It has a nearly panoramic view of space, augmented forward by the viewscreen, which can display multiple images on separate viewing segments. The viewscreen is located directly five meters in front of the Command platform which includes the Captain's chair, a seat for the helmsman to starboard of the Captain, and a seat for an operations officer to port. Either the helmsman or the operations officer will double as the XO. There is a Science console on the starboard-side wall and a Communications console on the port-side wall. Each of these consoles are primarily oriented on the bulkhead, but there is a forward-facing control surface to input commands and view the results on the bulkhead display. An integrated Security/Tactical Console is placed aft of the Command Area, and an Engineering station behind that, up against the back wall of the Bridge.</para>
@@ -114,27 +114,27 @@
       <para>The third complex is situated on Deck Eight. It is devoted to Geology and Planetary Sciences, and contains the lower portion of the Stellar Cartography lab. In between Geology, Planetary Sciences, and Stellar Cartography is the same area of offices and turbolift access contained by the other complexes.</para>
       <para>The fourth complex is situated on Deck Nine. This complex is devoted to the life sciences, with laboratories for Biology, Biochemistry, and Zoology assuming space here. These labs are devoted to the study of newly discovered bacteria, chemicals, and animal life. This complex also contains the offices and turbolift access hub in between the labs.</para><para>As each science officer has a separate specialty, there is no designated office for the Chief Science Officer. Instead, the head of each section is accorded an office of the size typically accorded to a CSO. Therefore, the CSO is also the head of one of the various sections in the Department.</para>
     </section>
-	</section>
-	<section>
-		<title>Utility Systems</title>
-		<section>
-			<title>Cargo Bays</title>
-			<para>Concord-class ships have two cargo bays, the first of which is located on Deck 14, forward section, and takes up the entire deck in the forward section. This bay can be used to collect anything. There is also another bay in the forward half of Deck 14, aft section, with the same purpose. Both of these bays come equipped with cargo transporter pads to better facilitate the collection of cargo.</para>
-		</section>
-		<section>
-			<title>Tractor Beam Systems</title>
-			<para>The Tractor Beam is a standard piece of equipment onboard the Concord-with the paired 16 MW Graviton Polarity Sources producing 32 Mega Watts of Gravity Displacing Power, effective up to a range (assuming nominal delta-v) of up to 20,000 kilometers. The tractor beam is located on Deck 13, neck section, so that it can direct captured objects into one of the three cargo bays.</para>
-		</section>
-		<section>
-			<title>Transporter Systems</title>
-			<para>The Concord has two sets of transporter rooms. The first set is of two rooms adjacent to one another on Deck Four, neck section. The second set is also on Deck Four, but in the aft section. Pattern buffers are located beneath each set of transporters on the deck immediately below it. Emergency transporters are located in the forward section of Deck Eleven, and the aft section of Deck Twelve. Buffers for these are located on the deck immediately below them as well. The standard sets are capable of beaming 12 people onboard the ship every minute, the emergency pads can beam up 12 every 30 seconds. Each room has six pads and a control console manned by a transporter chief.</para>
-		</section>
-		<section>
-		  <title>Turbolifts</title>
-		  <para>Concord-class vessels have three turbolift tubes, one for each primary section, and all are connected to the Bridge and provide nearly unlimited coverage to most of the ship. Each section �lift connects to each other section �lift, allowing for easy transfer of personnel between on and off-duty locations. Turbolift cars deploy out of a repair area located on Deck Six, with holding areas located every few deck so that critical calls can be routed faster than off-duty crewmen heading back to their quarters.</para></section>
-	</section>
-	<section>
-		<title>Crew Support Systems</title>
+  </section>
+  <section>
+    <title>Utility Systems</title>
+    <section>
+      <title>Cargo Bays</title>
+      <para>Concord-class ships have two cargo bays, the first of which is located on Deck 14, forward section, and takes up the entire deck in the forward section. This bay can be used to collect anything. There is also another bay in the forward half of Deck 14, aft section, with the same purpose. Both of these bays come equipped with cargo transporter pads to better facilitate the collection of cargo.</para>
+    </section>
+    <section>
+      <title>Tractor Beam Systems</title>
+      <para>The Tractor Beam is a standard piece of equipment onboard the Concord-with the paired 16 MW Graviton Polarity Sources producing 32 Mega Watts of Gravity Displacing Power, effective up to a range (assuming nominal delta-v) of up to 20,000 kilometers. The tractor beam is located on Deck 13, neck section, so that it can direct captured objects into one of the three cargo bays.</para>
+    </section>
+    <section>
+      <title>Transporter Systems</title>
+      <para>The Concord has two sets of transporter rooms. The first set is of two rooms adjacent to one another on Deck Four, neck section. The second set is also on Deck Four, but in the aft section. Pattern buffers are located beneath each set of transporters on the deck immediately below it. Emergency transporters are located in the forward section of Deck Eleven, and the aft section of Deck Twelve. Buffers for these are located on the deck immediately below them as well. The standard sets are capable of beaming 12 people onboard the ship every minute, the emergency pads can beam up 12 every 30 seconds. Each room has six pads and a control console manned by a transporter chief.</para>
+    </section>
+    <section>
+      <title>Turbolifts</title>
+      <para>Concord-class vessels have three turbolift tubes, one for each primary section, and all are connected to the Bridge and provide nearly unlimited coverage to most of the ship. Each section �lift connects to each other section �lift, allowing for easy transfer of personnel between on and off-duty locations. Turbolift cars deploy out of a repair area located on Deck Six, with holding areas located every few deck so that critical calls can be routed faster than off-duty crewmen heading back to their quarters.</para></section>
+  </section>
+  <section>
+    <title>Crew Support Systems</title>
     <section>
       <title>Sickbay</title>
       <para>Sickbay is a critical area of the ship, and is divided into several areas, each with a specific purpose. The first area is the General Purpose Ward, where crewmen needing physicals or treatment for abrasions and minor broken bones go. The second area is the Surgical Ward, where crewmen with serious injuries that require surgery go. The third is the Recovery Ward, where crewmen who survive the Surgical Ward go to recuperate. The fourth is the Administrative Ward, where the office of the CMO and his subordinate officers are located, and also where people who can't be seen immediately are diverted. The fifth is the Morgue, where bodies of deceased crew are stored until autopsies can be performed. Those autopsies are performed in the sixth area, the Medical lab, which is also used for medical research-such as new medicines and cures. It is located adjacent to the final area, the Medlab. The Medlab is where diagnostic medical staff work to run tests that cannot be performed with tricorders or on biobeds. Sickbay is located on Deck Ten, forward section.</para>
@@ -174,147 +174,147 @@
       <title>Counselor's Office</title>
       <para>The Counselor's Office is located on Deck 13, forward section. The ship's CNS is expected to perform psychological evaluations of the crew, offer psychiatric therapy, and serve as a mediator for shipboard disputes.</para>
     </section>
-		
-	</section>
-	<section>
-		<title>Auxiliary Spacecraft Systems</title>
-		<para>The Main Shuttlebay of the Concord, located on Decks 13-14, aft section of the ship, carries the ship's two runabouts. Flight Operations Control is located on Deck 12.</para>
-		<para>A secondary shuttlebay is provided on Decks 18-20 in the forward section. Having less space due to the slope of the pyramid, this shuttlebay carries two Class-VII personnel shuttles. This shuttlebay has a small Flight Operations Control on Deck 18.</para>
-		<para>A small bay that holds the Captain's Yacht and one small personnel shuttle is located aft on Decks Two and Three. There is no Flight Ops Control center for this bay.</para>
-	</section>
-	<section>
-		<title>Technical Specifications</title>
-		<variablelist>
-			<title>Dimensions and Structure</title>		
-			<varlistentry>
-				<term>Length</term>
-				<listitem><para>410 meters</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Beam (Width)</term>
-				<listitem><para>372 meters</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Height</term>
-				<listitem><para>100 meters</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Decks</term>
-				<listitem><para>20</para></listitem>
-			</varlistentry>
-		</variablelist>
-		<variablelist>
-			<title>Crew Complement</title>
-			<varlistentry>
-				<term>Officers and Crew</term>
-				<listitem><para>600</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Visiting Personnel</term>
-				<listitem><para>155</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Maximum Evacuation Limit</term>
-				<listitem><para>1600</para></listitem>
-			</varlistentry>
-		</variablelist>			
-		<variablelist>
-			<title>Computer Systems</title>
-			<varlistentry>
-				<term>Core</term>
-				<listitem><para>Isolinear core x2</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Operating System</term>
-				<listitem><para>Starfleet Library Computer Access and Retrieval System (LCARS)</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>User Interface</term>
-				<listitem><para>MAJEL</para></listitem>
-			</varlistentry>
-		</variablelist>				
-		<variablelist>
-			<title>Warp Systems</title>
-			<varlistentry>
-				<term>Power Plant</term>
-				<listitem><para>One 1548 Cochrane M/ARA core feeding two nacelles</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Crusing Velocity</term>
-				<listitem><para>Warp 6</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Maximum Sustainable Velocity</term>
-				<listitem><para>Warp 7.2</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Maximum Velocity</term>
-				<listitem><para>Warp 9.5 (12 hours)</para></listitem>
-			</varlistentry>
-		</variablelist>
-		<variablelist>
-			<title>Impulse Systems</title>
-			<varlistentry>
-				<term>Full Impulse</term>
-				<listitem><para>0.25c</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Accellerate</term>
-				<listitem><para>15 seconds</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Decellerate</term>
-				<listitem><para>30 seconds</para></listitem>
-			</varlistentry>
-		</variablelist>
-		<variablelist>
-			<title>Defensive Systems</title>
-			<varlistentry>
-				<term>Shield Maximum Graviton Load (Continuous)</term>
-				<listitem><para>1344 MegaWatts</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Shield Maximum Energy Dissipation Rate</term>
-				<listitem><para>3.7 x 10^5 kilowatts</para></listitem>
-			</varlistentry>
-		</variablelist>
-		<variablelist>
-			<title>Offensive Systems</title>
-			<varlistentry>
-				<term>Torpedoes</term>
-				<listitem>
-					<variablelist>
-						<varlistentry>
-							<term>Torpedo Tubes</term>
-							<listitem><para>2</para></listitem>
-						</varlistentry>
-						<varlistentry>
-							<term>Standard Payload (total)</term>
-							<listitem><para>75 photon torpedoes</para></listitem>
-						</varlistentry>
-					</variablelist>
-				</listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Phasers</term>
-				<listitem>
-					<itemizedlist>
-						<listitem><para>5 Type-VII Phaser Strips</para></listitem>
-					</itemizedlist>
-				</listitem>
-			</varlistentry>
-		</variablelist>
-	</section>
-	<section>
-		<title>Deck Layout</title>
-		<section role="Deck">
-			<title>Deck 1</title>
-			<simplelist>
-				<member>Gangplank Hatches</member>
-				<member>Docking Airlocks</member>
-				<member>VIP Conference Room</member>
-			</simplelist>
-		</section>
+    
+  </section>
+  <section>
+    <title>Auxiliary Spacecraft Systems</title>
+    <para>The Main Shuttlebay of the Concord, located on Decks 13-14, aft section of the ship, carries the ship's two runabouts. Flight Operations Control is located on Deck 12.</para>
+    <para>A secondary shuttlebay is provided on Decks 18-20 in the forward section. Having less space due to the slope of the pyramid, this shuttlebay carries two Class-VII personnel shuttles. This shuttlebay has a small Flight Operations Control on Deck 18.</para>
+    <para>A small bay that holds the Captain's Yacht and one small personnel shuttle is located aft on Decks Two and Three. There is no Flight Ops Control center for this bay.</para>
+  </section>
+  <section>
+    <title>Technical Specifications</title>
+    <variablelist>
+      <title>Dimensions and Structure</title>    
+      <varlistentry>
+        <term>Length</term>
+        <listitem><para>410 meters</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Beam (Width)</term>
+        <listitem><para>372 meters</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Height</term>
+        <listitem><para>100 meters</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Decks</term>
+        <listitem><para>20</para></listitem>
+      </varlistentry>
+    </variablelist>
+    <variablelist>
+      <title>Crew Complement</title>
+      <varlistentry>
+        <term>Officers and Crew</term>
+        <listitem><para>600</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Visiting Personnel</term>
+        <listitem><para>155</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Maximum Evacuation Limit</term>
+        <listitem><para>1600</para></listitem>
+      </varlistentry>
+    </variablelist>      
+    <variablelist>
+      <title>Computer Systems</title>
+      <varlistentry>
+        <term>Core</term>
+        <listitem><para>Isolinear core x2</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Operating System</term>
+        <listitem><para>Starfleet Library Computer Access and Retrieval System (LCARS)</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>User Interface</term>
+        <listitem><para>MAJEL</para></listitem>
+      </varlistentry>
+    </variablelist>        
+    <variablelist>
+      <title>Warp Systems</title>
+      <varlistentry>
+        <term>Power Plant</term>
+        <listitem><para>One 1548 Cochrane M/ARA core feeding two nacelles</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Crusing Velocity</term>
+        <listitem><para>Warp 6</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Maximum Sustainable Velocity</term>
+        <listitem><para>Warp 7.2</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Maximum Velocity</term>
+        <listitem><para>Warp 9.5 (12 hours)</para></listitem>
+      </varlistentry>
+    </variablelist>
+    <variablelist>
+      <title>Impulse Systems</title>
+      <varlistentry>
+        <term>Full Impulse</term>
+        <listitem><para>0.25c</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Accellerate</term>
+        <listitem><para>15 seconds</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Decellerate</term>
+        <listitem><para>30 seconds</para></listitem>
+      </varlistentry>
+    </variablelist>
+    <variablelist>
+      <title>Defensive Systems</title>
+      <varlistentry>
+        <term>Shield Maximum Graviton Load (Continuous)</term>
+        <listitem><para>1344 MegaWatts</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Shield Maximum Energy Dissipation Rate</term>
+        <listitem><para>3.7 x 10^5 kilowatts</para></listitem>
+      </varlistentry>
+    </variablelist>
+    <variablelist>
+      <title>Offensive Systems</title>
+      <varlistentry>
+        <term>Torpedoes</term>
+        <listitem>
+          <variablelist>
+            <varlistentry>
+              <term>Torpedo Tubes</term>
+              <listitem><para>2</para></listitem>
+            </varlistentry>
+            <varlistentry>
+              <term>Standard Payload (total)</term>
+              <listitem><para>75 photon torpedoes</para></listitem>
+            </varlistentry>
+          </variablelist>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Phasers</term>
+        <listitem>
+          <itemizedlist>
+            <listitem><para>5 Type-VII Phaser Strips</para></listitem>
+          </itemizedlist>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+  </section>
+  <section>
+    <title>Deck Layout</title>
+    <section role="Deck">
+      <title>Deck 1</title>
+      <simplelist>
+        <member>Gangplank Hatches</member>
+        <member>Docking Airlocks</member>
+        <member>VIP Conference Room</member>
+      </simplelist>
+    </section>
     <section role="Deck">
       <title>Deck 2</title>
       <simplelist>
@@ -537,12 +537,12 @@
         <member>Phaser strip 5(aft)</member>
       </simplelist>
     </section>
-	</section>
-	<section>
-		<title>Ships of the Class</title>
-		<para>The ships of the Concord-class are named for battles won by the American colonies during the American Revolutionary War.</para>
-		<simplelist role="ShipList">
-			<member role="PC">
+  </section>
+  <section>
+    <title>Ships of the Class</title>
+    <para>The ships of the Concord-class are named for battles won by the American colonies during the American Revolutionary War.</para>
+    <simplelist role="ShipList">
+      <member role="PC">
         <productname>Concord</productname>
         <productnumber>76520</productnumber>
       </member>
@@ -582,10 +582,10 @@
         <productname>Vincennes</productname>
         <productnumber>76529</productnumber>
       </member>
-		</simplelist>
-	</section>
-	<section>
-		<title>Conclusion</title>
-		<para>Now that Starfleet is, for the time being, out of the war business and back in the exploration business, designers see the Concord-class soaring at the forefront of Starfleet's science arm for a long time to come.</para>
-	</section>
+    </simplelist>
+  </section>
+  <section>
+    <title>Conclusion</title>
+    <para>Now that Starfleet is, for the time being, out of the war business and back in the exploration business, designers see the Concord-class soaring at the forefront of Starfleet's science arm for a long time to come.</para>
+  </section>
 </article>

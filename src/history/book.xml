@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <!--<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN"
-	"http://www.oasis-open.org/docbook/xml/4.0/docbookx.dtd">-->
+  "http://www.oasis-open.org/docbook/xml/4.0/docbookx.dtd">-->
 <book id="tm">
-	<?dbhtml dir="history" filename="index.html" ?>
-	<bookinfo>
-		<title>The STF Histories</title>
-		<corpauthor>STF Library</corpauthor>
-		<date>3 February 2007</date>
+  <?dbhtml dir="history" filename="index.html" ?>
+  <bookinfo>
+    <title>The STF Histories</title>
+    <corpauthor>STF Library</corpauthor>
+    <date>3 February 2007</date>
     <abstract>
       <title>About the Histories</title>
       <para>This book contains a collection of STF histories written by various members.  The Library is not responsible for the accuracy or opinions expressed in them.</para>
     </abstract>
-	</bookinfo>
-	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="fleet7.xml" />
+  </bookinfo>
+  <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="fleet7.xml" />
 </book>

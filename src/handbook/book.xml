@@ -1,32 +1,32 @@
 <!--<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
                     "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">-->
 <book id="handbook">
-	<?dbhtml dir="handbook" filename="index.html" ?>
-	<bookinfo>
-		<title>The Players' Handbook</title>
-		<corpauthor>Starfleet Academy</corpauthor>
-		<author>
-			<firstname>Andrew "Wolfe"</firstname>
-			<surname>Robinson</surname>
-		</author>
-		<author>
-		  <firstname>Krystelle</firstname>
-			<surname>Bromilow</surname>
-	  </author>
-		<date>14th July 2008</date>
-	</bookinfo>
+  <?dbhtml dir="handbook" filename="index.html" ?>
+  <bookinfo>
+    <title>The Players' Handbook</title>
+    <corpauthor>Starfleet Academy</corpauthor>
+    <author>
+      <firstname>Andrew "Wolfe"</firstname>
+      <surname>Robinson</surname>
+    </author>
+    <author>
+      <firstname>Krystelle</firstname>
+      <surname>Bromilow</surname>
+    </author>
+    <date>14th July 2008</date>
+  </bookinfo>
 
-	<!-- Include our chapter-level modules. -->
-	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="introduction.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="gettingstarted.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="navigation.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="characterbasics.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="posting.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="promotion.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="ranks.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="chainofcommand.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="government.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="academy.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="afterword.xml" />
+  <!-- Include our chapter-level modules. -->
+  <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="introduction.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="gettingstarted.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="navigation.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="characterbasics.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="posting.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="promotion.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="ranks.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="chainofcommand.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="government.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="academy.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="afterword.xml" />
 
 </book>

@@ -1,64 +1,64 @@
 <article class="whitepaper" id="species-bandi">
-	<title>Bandi</title>
-	<articleinfo>
-		<authorgroup>
-			<author>
-				<!-- For non-custom, this would be the person who wrote/copied the article for STF -->
-				<firstname>Jason</firstname>
-				<surname>Lee</surname>
-			</author>
-		</authorgroup>
-		<revhistory>
-			<revision>
-				<revnumber>1</revnumber>
-				<date>29 April 2002</date>
-				<revdescription>
-					<para>Approved by Unknown</para>
-				</revdescription>
-			</revision>
-		</revhistory>
-	</articleinfo>
-	<section>
-		<title>Abstract</title>
-		<variablelist>
-			<varlistentry>
-				<term>Homeworld</term>
-				<listitem><para>Denev IV</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Height (Average)</term>
-				<listitem><para>6' 2"</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Weight (Average)</term>
-				<listitem><para>170 lbs</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Lifespan</term>
-				<listitem><para>Unknown</para></listitem>
-			</varlistentry>
-		</variablelist>
-		<variablelist>
-			<varlistentry>
-				<term>Entry Type</term>
-				<listitem><para>Canon</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Source</term>
-				<listitem><para>"Encounter at Farpoint" (TNG)</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Found in Starfleet</term>
-				<listitem><para>Unlikely</para></listitem>
-			</varlistentry>
-		</variablelist>
-	</section>
-	<section>
-		<title>Overview</title>
-		<para>The Bandi are generally tall and slender with pale skin and straight gray hair. Bandi men wear their hair long and often cover it with cloth scarves. Bandi are genetically older than they appear, including the children. This appearance may be a result of the harsh enviroment of Deneb IV where the vegetation is sparse and the surface is swept by fierce winds. The Bandi seem to be quiet, and pleasant people who seem to enjoy meeting with other aliens. The Bandi seem to respect other aliens and other alien cultures. Although Bandi are somewhat placid and stoic in their behavior, their art is quite opposite. Bandi seem to have no desire leave their world and prefer offworlders to visit them instead. The Bandi dress modestly leaving the only skin exposed is their hands and face; their clothing is made of fabric that covers their arms and legs. The clothing seems to be densely woven and richly embroidered, but not brightly colored. A few Bandi wear draped scarves out of the same material of their clothing with fringes that hang down.</para>
-	</section>
-	<section>
-		<title>History</title>
-		<para>The Bandi attempted to apply for Federation membership in the early 2360s. They claimed to built an enormous technological space station, completely of modern design. This station was called Farpoint Station and seemed to be made out of tritanium and duraglass. The station's adminstrator and the leader of the Bandi people was Groppler Zorn, who lead the petition for Federation membership. The station was in exact accordance with Starfleet requirements, however it seemed unlikely that the Bandi were able to built such a station. The Bandi claimed that Deneb IV's plentiful resources of geothermal energy enabled them to construct Farpoint Station in record time, however Starfleet was suspicious. The materials that the station was built on were a contrast to the main Bandi city, the Old City. In addition, many of the materials that Farpoint was built on were not available on Deneb IV. The USS Enterprise was sent to investigate and the USS Hood brought several key officers to the USS Enterprise. The Enterprise discovered that Farpoint station was actually an alien lifeform in which the Bandi had captured and forced it to their will. Due to this discovery, the Bandi's petition for membership was rejected.</para>
-	</section>
+  <title>Bandi</title>
+  <articleinfo>
+    <authorgroup>
+      <author>
+        <!-- For non-custom, this would be the person who wrote/copied the article for STF -->
+        <firstname>Jason</firstname>
+        <surname>Lee</surname>
+      </author>
+    </authorgroup>
+    <revhistory>
+      <revision>
+        <revnumber>1</revnumber>
+        <date>29 April 2002</date>
+        <revdescription>
+          <para>Approved by Unknown</para>
+        </revdescription>
+      </revision>
+    </revhistory>
+  </articleinfo>
+  <section>
+    <title>Abstract</title>
+    <variablelist>
+      <varlistentry>
+        <term>Homeworld</term>
+        <listitem><para>Denev IV</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Height (Average)</term>
+        <listitem><para>6' 2"</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Weight (Average)</term>
+        <listitem><para>170 lbs</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Lifespan</term>
+        <listitem><para>Unknown</para></listitem>
+      </varlistentry>
+    </variablelist>
+    <variablelist>
+      <varlistentry>
+        <term>Entry Type</term>
+        <listitem><para>Canon</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Source</term>
+        <listitem><para>"Encounter at Farpoint" (TNG)</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Found in Starfleet</term>
+        <listitem><para>Unlikely</para></listitem>
+      </varlistentry>
+    </variablelist>
+  </section>
+  <section>
+    <title>Overview</title>
+    <para>The Bandi are generally tall and slender with pale skin and straight gray hair. Bandi men wear their hair long and often cover it with cloth scarves. Bandi are genetically older than they appear, including the children. This appearance may be a result of the harsh enviroment of Deneb IV where the vegetation is sparse and the surface is swept by fierce winds. The Bandi seem to be quiet, and pleasant people who seem to enjoy meeting with other aliens. The Bandi seem to respect other aliens and other alien cultures. Although Bandi are somewhat placid and stoic in their behavior, their art is quite opposite. Bandi seem to have no desire leave their world and prefer offworlders to visit them instead. The Bandi dress modestly leaving the only skin exposed is their hands and face; their clothing is made of fabric that covers their arms and legs. The clothing seems to be densely woven and richly embroidered, but not brightly colored. A few Bandi wear draped scarves out of the same material of their clothing with fringes that hang down.</para>
+  </section>
+  <section>
+    <title>History</title>
+    <para>The Bandi attempted to apply for Federation membership in the early 2360s. They claimed to built an enormous technological space station, completely of modern design. This station was called Farpoint Station and seemed to be made out of tritanium and duraglass. The station's adminstrator and the leader of the Bandi people was Groppler Zorn, who lead the petition for Federation membership. The station was in exact accordance with Starfleet requirements, however it seemed unlikely that the Bandi were able to built such a station. The Bandi claimed that Deneb IV's plentiful resources of geothermal energy enabled them to construct Farpoint Station in record time, however Starfleet was suspicious. The materials that the station was built on were a contrast to the main Bandi city, the Old City. In addition, many of the materials that Farpoint was built on were not available on Deneb IV. The USS Enterprise was sent to investigate and the USS Hood brought several key officers to the USS Enterprise. The Enterprise discovered that Farpoint station was actually an alien lifeform in which the Bandi had captured and forced it to their will. Due to this discovery, the Bandi's petition for membership was rejected.</para>
+  </section>
 </article>

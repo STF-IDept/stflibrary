@@ -1,64 +1,64 @@
 <article class="whitepaper" id="species-dilkian">
-	<title>Dilkian</title>
-	<subtitle>Homo Dilko</subtitle>
-	<articleinfo>
-		<authorgroup>
-			<author>
-				<!-- For non-custom, this would be the person who wrote/copied the article for STF -->
-				<firstname>Samuel</firstname>
-				<surname>Moritz</surname>
-			</author>
-		</authorgroup>
-		<revhistory>
-			<revision>
-				<revnumber>1</revnumber>
-				<date>6 November 2001</date>
-				<revdescription>
-					<para>Approved by Unknown</para>
-				</revdescription>
-			</revision>
-		</revhistory>
-	</articleinfo>
-	<section>
-		<title>Abstract</title>
-		<variablelist>
-			<varlistentry>
-				<term>Homeworld</term>
-				<listitem><para>Dilkia Prime</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Height (Average)</term>
-				<listitem><para>6'1"</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Weight (Average)</term>
-				<listitem><para>190 lbs</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Lifespan</term>
-				<listitem><para>60 years</para></listitem>
-			</varlistentry>
-		</variablelist>
-		<variablelist>
-			<varlistentry>
-				<term>Entry Type</term>
-				<listitem><para>Custom</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Found in Starfleet</term>
-				<listitem><para>Never</para></listitem>
-			</varlistentry>
-		</variablelist>
-	</section>
-	<section>
-		<title>Overview</title>
-		<para>Dilkia Prime is a small planet, and has a lot of seas. The whole planet is run by a Council that consists of the 10 oldest Dilkians alive. Everything is decided by voting, and whatever the Council orders happens. The Dilkians are almost identical to humans in appearance except for two things. One, they have two small and perfectly round bumps in the centre of their forheads, and two, they mature much faster than a human. For example, A 10 year-old Dilkian has the size and brainpower of a 20 year-old human. The downside to this is that the Dilkians have a much shorter lifespan than humans.</para>
-		<para>The Dilkians are also a very peaceful race. In fact so peaceful that their spaceships have no physical weapons whatsoever. But they defend themselves in other ways. When confronted with an enemy in space they first try to be as diplomatic as possible, but if that fails they use their psychic weapon. Everyone aboard the ship gather their energy and sends small psychic blasts to the enemy ship. Every blast makes enemy crew more and more sleepy. After a short while they are asleep. The Dilkians use the time that passes until the awakening to get away at maximum warp.</para>
-		<para>Their planet has a sensor disruption system that were built by Dilkian ancestors many centuries ago, that hides the techology on the planet from normal sensors. Every Dilkian is born with the weapon and is trained from a young age to use it. Should anyone misuse it they are immediatly brought to the Council which in an advanced and ancient ceremony creates a mental barrier in the mind of the target person. The barrier prevents them from using any psychic powers. Many of the rejects have tried to remove that barrier, but they have never been successful. After losing their weapon they often leave the planet in shame, towards another M class planet in the system, where the rejected Dilkians have founded a colony, that wants no contact with the Federation.</para>
-	</section>
-	<section>
-		<title>History</title>
-		<para>Their planet has a sensor disruption system that were built by Dilkian ancestors many centuries ago, that hides the techology on the planet from normal sensors. Every Dilkian is born with the weapon and is trained from a young age to use it. Should anyone misuse it they are immediatly brought to the Council which in an advanced and ancient ceremony creates a mental barrier in the mind of the target person. The barrier prevents them from using any psychic powers. Many of the rejects have tried to remove that barrier, but they have never been successful. After losing their weapon they often leave the planet in shame, towards another M class planet in the system, where the rejected Dilkians have founded a colony, that wants no contact with the Federation.</para>
-		<para>Within a few days, a science vessel arrived, and the Dilkians agreed to a change of teams. A team of Star-Fleet scientists stayed on Dilkia Prime and a team of Dilkian scientists and an ambassador, the 11th oldest person on Dilkia Prime,accompanied the science vessel back to Earth. The federation and the Dilkians of Dilkia Prime live in peace, and Dilkia Prime with it's tropical climate is a popular tourist resort for many people. </para>
-	</section>
+  <title>Dilkian</title>
+  <subtitle>Homo Dilko</subtitle>
+  <articleinfo>
+    <authorgroup>
+      <author>
+        <!-- For non-custom, this would be the person who wrote/copied the article for STF -->
+        <firstname>Samuel</firstname>
+        <surname>Moritz</surname>
+      </author>
+    </authorgroup>
+    <revhistory>
+      <revision>
+        <revnumber>1</revnumber>
+        <date>6 November 2001</date>
+        <revdescription>
+          <para>Approved by Unknown</para>
+        </revdescription>
+      </revision>
+    </revhistory>
+  </articleinfo>
+  <section>
+    <title>Abstract</title>
+    <variablelist>
+      <varlistentry>
+        <term>Homeworld</term>
+        <listitem><para>Dilkia Prime</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Height (Average)</term>
+        <listitem><para>6'1"</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Weight (Average)</term>
+        <listitem><para>190 lbs</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Lifespan</term>
+        <listitem><para>60 years</para></listitem>
+      </varlistentry>
+    </variablelist>
+    <variablelist>
+      <varlistentry>
+        <term>Entry Type</term>
+        <listitem><para>Custom</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Found in Starfleet</term>
+        <listitem><para>Never</para></listitem>
+      </varlistentry>
+    </variablelist>
+  </section>
+  <section>
+    <title>Overview</title>
+    <para>Dilkia Prime is a small planet, and has a lot of seas. The whole planet is run by a Council that consists of the 10 oldest Dilkians alive. Everything is decided by voting, and whatever the Council orders happens. The Dilkians are almost identical to humans in appearance except for two things. One, they have two small and perfectly round bumps in the centre of their forheads, and two, they mature much faster than a human. For example, A 10 year-old Dilkian has the size and brainpower of a 20 year-old human. The downside to this is that the Dilkians have a much shorter lifespan than humans.</para>
+    <para>The Dilkians are also a very peaceful race. In fact so peaceful that their spaceships have no physical weapons whatsoever. But they defend themselves in other ways. When confronted with an enemy in space they first try to be as diplomatic as possible, but if that fails they use their psychic weapon. Everyone aboard the ship gather their energy and sends small psychic blasts to the enemy ship. Every blast makes enemy crew more and more sleepy. After a short while they are asleep. The Dilkians use the time that passes until the awakening to get away at maximum warp.</para>
+    <para>Their planet has a sensor disruption system that were built by Dilkian ancestors many centuries ago, that hides the techology on the planet from normal sensors. Every Dilkian is born with the weapon and is trained from a young age to use it. Should anyone misuse it they are immediatly brought to the Council which in an advanced and ancient ceremony creates a mental barrier in the mind of the target person. The barrier prevents them from using any psychic powers. Many of the rejects have tried to remove that barrier, but they have never been successful. After losing their weapon they often leave the planet in shame, towards another M class planet in the system, where the rejected Dilkians have founded a colony, that wants no contact with the Federation.</para>
+  </section>
+  <section>
+    <title>History</title>
+    <para>Their planet has a sensor disruption system that were built by Dilkian ancestors many centuries ago, that hides the techology on the planet from normal sensors. Every Dilkian is born with the weapon and is trained from a young age to use it. Should anyone misuse it they are immediatly brought to the Council which in an advanced and ancient ceremony creates a mental barrier in the mind of the target person. The barrier prevents them from using any psychic powers. Many of the rejects have tried to remove that barrier, but they have never been successful. After losing their weapon they often leave the planet in shame, towards another M class planet in the system, where the rejected Dilkians have founded a colony, that wants no contact with the Federation.</para>
+    <para>Within a few days, a science vessel arrived, and the Dilkians agreed to a change of teams. A team of Star-Fleet scientists stayed on Dilkia Prime and a team of Dilkian scientists and an ambassador, the 11th oldest person on Dilkia Prime,accompanied the science vessel back to Earth. The federation and the Dilkians of Dilkia Prime live in peace, and Dilkia Prime with it's tropical climate is a popular tourist resort for many people. </para>
+  </section>
 </article>

@@ -1,165 +1,165 @@
 <article class="journalarticle" id="classification">
-	<title>The ED Ship Classification System</title>
-	<subtitle>The Milwaukee Plan, a product of the County Stadium Compromise</subtitle>
-	<articleinfo>
-		<authorgroup>
-			<author>
-				<firstname>Larry</firstname>
-				<surname>Garfield</surname>
-			</author>
-			<author>
-				<firstname>Israel</firstname>
-				<surname>Harris</surname>
-			</author>
-			<author>
-				<firstname>Randy</firstname>
-				<surname>McCullick</surname>
-			</author>
-		</authorgroup>
-		<revhistory>
-			<revision>
-				<revnumber>1</revnumber>
-				<date>31 July 2000</date>
-				<revdescription>
-					<para>Approved by Engineering Director Ralf Steen</para>
-				</revdescription>
-			</revision>
-		</revhistory>
-	</articleinfo>
-	<section>
-		<title>The Milwaukee Plan</title>
-		<table >
-			<title>Primary Vessels</title>
-			<tgroup cols="4">
-				<thead>
-					<row>
-						<entry>.</entry>
-						<entry role="header">Scientific</entry>
-						<entry role="header">Exploration/General</entry>
-						<entry role="header">Combat</entry>
-					</row>
-				</thead>
-				<tbody>
-					<row>
-						<entry role="header">Small</entry>
-						<entry>Observer</entry>
-						<entry>Frigate</entry>
-						<entry>Destroyer</entry>
-					</row>
-					<row>
-						<entry role="header">Medium</entry>
-						<entry>Surveyor</entry>
-						<entry>Cruiser</entry>
-						<entry>Battlecruiser</entry>
-					</row>
-					<row>
-						<entry role="header" >Large</entry>
-						<entry>Researcher</entry>
-						<entry>Explorer</entry>
-						<entry>Dreadnought</entry>
-					</row>
-				</tbody>
-			</tgroup>
-		</table>
-	</section>
-	<section>
-		<title>Mission Profile</title>
-		<para>All ships are either Primary Vessels, or Support Vessels (See Below). All Primary Vessels have one of three (3) Primary Missions:</para>
-		<variablelist>
-			<varlistentry>
-				<term>Science</term>
-				<listitem><para>Study in depth cool stuff that someone else found; conduct experiments; study natural and artificial phenomenon.</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Exploration</term>
-				<listitem><para>Find new cool stuff; chart out new areas of space; seak out new life and new civilizations; To Boldly Go Where No Man Has Gone Before; Command; Diplomatic escort; Diplomatic conduct; Patrol; and various and sundry other general purpose stuff.</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Combat</term>
-				<listitem><para>Blow stuff up; Keep stuff from being blown up; Patrol to keep out other people who may want to blow stuff up; Help other ships blow stuff up; Protect other ships that are trying to blow stuff up.</para></listitem>
-			</varlistentry>
-		</variablelist>
-		<para>Support Vessels have the Primary Mission of assisting other ships in fulfilling their Primary Mission.</para>
-	</section>
-	<section>
-		<title>Vessel Size</title>
-		<para>Primary Vessels also come in three convienent sizes; Small, Large, and Super Sized. (No, wait, that's french fries. Starships come in Small, Medium, and Large.)</para>
-		<para>The size of a ship is determined by its standard crew complement. A class that is close to the borderline between two size classifications may be placed in either size classification as determined by the Engineering Department.</para>
-		<simplelist>
-			<member>Vessels with a standard crew complement of 175 or less are classified as Small.</member>
-			<member>Vessels with a standard crew complement of 175 to 600 are classified as Medium.</member>
-			<member>Vessels with a standard crew complement of 600 or larger are classified as Large.</member>
-			<member>Vessels with a standard crew compliment of over 1000 are considered friggin' HUGE, but are still classified as Large.</member>
-		</simplelist>
-	</section>
-	<section>
-		<title>Category</title>
-		<para>Each Mission Type can come in each size, for a total of 9 Categories. (Support Vessels are listed separately.) Each Category has a name associated with it. The table of active Categories is listed above. Therefore, a "Small Vessel designed primarily for Combat" is a Destroyer, while a "Large Vessel designed primarily for Science" is a Researcher.</para>
-	</section>
-	<section>
-		<title>Variant</title>
-		<para>Each Category may come in a variety of Variants. A Variant is a differentiation between two or more classes in the same Category. A Variant label is prepended to the Category name of a vessel. A Variant should properly describe the specific nature of the class in question within the Category. For example:</para>
-		<simplelist>
-			<member>The Trafalgar-class is a Small ship, designed primarily for Combat. It is of the Tactical Variant. Therefore, the Trafalgar is a "Tactical Destroyer."</member>
-			<member>The McCoy-class is a Small ship, designed primarily for missions within the existing Federation sphere. It is of the Medical Variant. It is therefore a "Medical Frigate."</member>
-		</simplelist>
-		<para>Variant names are determined at design time by the designer and Engineering Department. No explicit limit is imposed upon the number of vessels within a Category, provided that they be sufficently unique to warrant separate Variants. A ship lacking a Variant is considered to be of the Variant "Medium." The currently active list of Variants words contains:</para>
-		<variablelist>
-			<varlistentry>
-				<term>Light</term>
-				<listitem><para>Containing less armaments, defensive and offensive, than benchmark.</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Medium</term>
-				<listitem><para>Default benchmark for a given Category.</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Heavy</term>
-				<listitem><para>Containing more armaments, defensive and offensive, than benchmark.</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Tactical</term>
-				<listitem><para>Designed for stronger strategic and military operations than benchmark.</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Medical</term>
-				<listitem><para>Designed with Extended and enhanced facilities for medical, medicinal, and treatment purposes.</para></listitem>
-			</varlistentry>
-		</variablelist>
-	</section>
-	<section>
-		<title>Support Vessels</title>
-		<para>Support Vessels are any vessels whose Primary Mission is to assist other Primary Vessels in fulfilling their Primary Mission. Under normal circumstances they do not operate independently of other craft, either of the same class or other classes. (In the STF context, these are typically NPC vessels.) Support Vessels are defined by their Category. The Category of a Support Vessel is determined at design time by the designer and Engineering Department. Possible Categories of Support Vessels include:</para>
-		<variablelist>
-			<varlistentry>
-				<term>Small</term>
-				<listitem><para>Shuttles, Fighters, Travel Pods, small one man craft</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Medium</term>
-				<listitem><para>Runabouts, Scouts, Escorts, medium sized ships and Small Capitol ships that don't fit in the above chart.</para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term></term>
-				<listitem><para></para></listitem>
-			</varlistentry>
-			<varlistentry>
-				<term>Large</term>
-				<listitem><para>Freighter, Tug/Transport, Carrier, Large Capitol Ships that don't fit in the above chart.</para></listitem>
-			</varlistentry>
-		</variablelist>
-		<para>This list is not intended to be exhaustive.</para>
-	</section>
-	<section>
-		<title>Sign Off</title>
-		<para>Assistant Engineering Director Larry Garfield, Engineering Advisor Israel Harris, and Dockmaster Randy E. McCullick met on May 20, 2000 in the parking lot of County Stadium, Milwalkee, Wisconson, USA. The Izzy-Mobile served as a support structure (table) for the preliminary draft. The County Stadium Compromise was the combination of the Garfield and McCullick Spec Category Systems, to form The Milwaukee Plan.</para>
-		<blockquote>
-			<para>The Milwaukee Plan, Draft 5</para>
-			<para>A Proposed Ship Class Categorization System Submitted 26 July 2000</para>
-			<para>Commodore Larry Garfield, Assistant Engineering Director</para>
-			<para>Captain Randy E. McCullick, Dockmaster</para>
-			<para>Lt. Cmdr. Israel Harris, Engineering Advisor</para>
-		</blockquote>
-		<para>The Milwaukee Plan was passed on July 31, 2000 by Engineering Director Ralf Steen</para>
-	</section>
+  <title>The ED Ship Classification System</title>
+  <subtitle>The Milwaukee Plan, a product of the County Stadium Compromise</subtitle>
+  <articleinfo>
+    <authorgroup>
+      <author>
+        <firstname>Larry</firstname>
+        <surname>Garfield</surname>
+      </author>
+      <author>
+        <firstname>Israel</firstname>
+        <surname>Harris</surname>
+      </author>
+      <author>
+        <firstname>Randy</firstname>
+        <surname>McCullick</surname>
+      </author>
+    </authorgroup>
+    <revhistory>
+      <revision>
+        <revnumber>1</revnumber>
+        <date>31 July 2000</date>
+        <revdescription>
+          <para>Approved by Engineering Director Ralf Steen</para>
+        </revdescription>
+      </revision>
+    </revhistory>
+  </articleinfo>
+  <section>
+    <title>The Milwaukee Plan</title>
+    <table >
+      <title>Primary Vessels</title>
+      <tgroup cols="4">
+        <thead>
+          <row>
+            <entry>.</entry>
+            <entry role="header">Scientific</entry>
+            <entry role="header">Exploration/General</entry>
+            <entry role="header">Combat</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry role="header">Small</entry>
+            <entry>Observer</entry>
+            <entry>Frigate</entry>
+            <entry>Destroyer</entry>
+          </row>
+          <row>
+            <entry role="header">Medium</entry>
+            <entry>Surveyor</entry>
+            <entry>Cruiser</entry>
+            <entry>Battlecruiser</entry>
+          </row>
+          <row>
+            <entry role="header" >Large</entry>
+            <entry>Researcher</entry>
+            <entry>Explorer</entry>
+            <entry>Dreadnought</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </section>
+  <section>
+    <title>Mission Profile</title>
+    <para>All ships are either Primary Vessels, or Support Vessels (See Below). All Primary Vessels have one of three (3) Primary Missions:</para>
+    <variablelist>
+      <varlistentry>
+        <term>Science</term>
+        <listitem><para>Study in depth cool stuff that someone else found; conduct experiments; study natural and artificial phenomenon.</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Exploration</term>
+        <listitem><para>Find new cool stuff; chart out new areas of space; seak out new life and new civilizations; To Boldly Go Where No Man Has Gone Before; Command; Diplomatic escort; Diplomatic conduct; Patrol; and various and sundry other general purpose stuff.</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Combat</term>
+        <listitem><para>Blow stuff up; Keep stuff from being blown up; Patrol to keep out other people who may want to blow stuff up; Help other ships blow stuff up; Protect other ships that are trying to blow stuff up.</para></listitem>
+      </varlistentry>
+    </variablelist>
+    <para>Support Vessels have the Primary Mission of assisting other ships in fulfilling their Primary Mission.</para>
+  </section>
+  <section>
+    <title>Vessel Size</title>
+    <para>Primary Vessels also come in three convienent sizes; Small, Large, and Super Sized. (No, wait, that's french fries. Starships come in Small, Medium, and Large.)</para>
+    <para>The size of a ship is determined by its standard crew complement. A class that is close to the borderline between two size classifications may be placed in either size classification as determined by the Engineering Department.</para>
+    <simplelist>
+      <member>Vessels with a standard crew complement of 175 or less are classified as Small.</member>
+      <member>Vessels with a standard crew complement of 175 to 600 are classified as Medium.</member>
+      <member>Vessels with a standard crew complement of 600 or larger are classified as Large.</member>
+      <member>Vessels with a standard crew compliment of over 1000 are considered friggin' HUGE, but are still classified as Large.</member>
+    </simplelist>
+  </section>
+  <section>
+    <title>Category</title>
+    <para>Each Mission Type can come in each size, for a total of 9 Categories. (Support Vessels are listed separately.) Each Category has a name associated with it. The table of active Categories is listed above. Therefore, a "Small Vessel designed primarily for Combat" is a Destroyer, while a "Large Vessel designed primarily for Science" is a Researcher.</para>
+  </section>
+  <section>
+    <title>Variant</title>
+    <para>Each Category may come in a variety of Variants. A Variant is a differentiation between two or more classes in the same Category. A Variant label is prepended to the Category name of a vessel. A Variant should properly describe the specific nature of the class in question within the Category. For example:</para>
+    <simplelist>
+      <member>The Trafalgar-class is a Small ship, designed primarily for Combat. It is of the Tactical Variant. Therefore, the Trafalgar is a "Tactical Destroyer."</member>
+      <member>The McCoy-class is a Small ship, designed primarily for missions within the existing Federation sphere. It is of the Medical Variant. It is therefore a "Medical Frigate."</member>
+    </simplelist>
+    <para>Variant names are determined at design time by the designer and Engineering Department. No explicit limit is imposed upon the number of vessels within a Category, provided that they be sufficently unique to warrant separate Variants. A ship lacking a Variant is considered to be of the Variant "Medium." The currently active list of Variants words contains:</para>
+    <variablelist>
+      <varlistentry>
+        <term>Light</term>
+        <listitem><para>Containing less armaments, defensive and offensive, than benchmark.</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Medium</term>
+        <listitem><para>Default benchmark for a given Category.</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Heavy</term>
+        <listitem><para>Containing more armaments, defensive and offensive, than benchmark.</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Tactical</term>
+        <listitem><para>Designed for stronger strategic and military operations than benchmark.</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Medical</term>
+        <listitem><para>Designed with Extended and enhanced facilities for medical, medicinal, and treatment purposes.</para></listitem>
+      </varlistentry>
+    </variablelist>
+  </section>
+  <section>
+    <title>Support Vessels</title>
+    <para>Support Vessels are any vessels whose Primary Mission is to assist other Primary Vessels in fulfilling their Primary Mission. Under normal circumstances they do not operate independently of other craft, either of the same class or other classes. (In the STF context, these are typically NPC vessels.) Support Vessels are defined by their Category. The Category of a Support Vessel is determined at design time by the designer and Engineering Department. Possible Categories of Support Vessels include:</para>
+    <variablelist>
+      <varlistentry>
+        <term>Small</term>
+        <listitem><para>Shuttles, Fighters, Travel Pods, small one man craft</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Medium</term>
+        <listitem><para>Runabouts, Scouts, Escorts, medium sized ships and Small Capitol ships that don't fit in the above chart.</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term></term>
+        <listitem><para></para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Large</term>
+        <listitem><para>Freighter, Tug/Transport, Carrier, Large Capitol Ships that don't fit in the above chart.</para></listitem>
+      </varlistentry>
+    </variablelist>
+    <para>This list is not intended to be exhaustive.</para>
+  </section>
+  <section>
+    <title>Sign Off</title>
+    <para>Assistant Engineering Director Larry Garfield, Engineering Advisor Israel Harris, and Dockmaster Randy E. McCullick met on May 20, 2000 in the parking lot of County Stadium, Milwalkee, Wisconson, USA. The Izzy-Mobile served as a support structure (table) for the preliminary draft. The County Stadium Compromise was the combination of the Garfield and McCullick Spec Category Systems, to form The Milwaukee Plan.</para>
+    <blockquote>
+      <para>The Milwaukee Plan, Draft 5</para>
+      <para>A Proposed Ship Class Categorization System Submitted 26 July 2000</para>
+      <para>Commodore Larry Garfield, Assistant Engineering Director</para>
+      <para>Captain Randy E. McCullick, Dockmaster</para>
+      <para>Lt. Cmdr. Israel Harris, Engineering Advisor</para>
+    </blockquote>
+    <para>The Milwaukee Plan was passed on July 31, 2000 by Engineering Director Ralf Steen</para>
+  </section>
 </article>

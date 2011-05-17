@@ -1,42 +1,42 @@
 <article class="techreport" id="ets">
-	<title>Emissions Tracking System</title>
-	<titleabbrev>ETS</titleabbrev>
-	<articleinfo>
-		<authorgroup role="Maintainer">
-			<author>
-				<firstname>EDept</firstname>
-				<surname>Staff</surname>
-			</author>
-		</authorgroup>
-		<authorgroup role="Primary Designers">
-			<author>
-				<firstname>Bradley</firstname>
-				<surname>Joy</surname>
-			</author>
-		</authorgroup>
-		<authorgroup role="Original Designers">
-			<author>
-				<firstname>Bradley</firstname>
-				<surname>Joy</surname>
-			</author>
-		</authorgroup>
-		<keywordset>
-			<keyword role="type">Starship</keyword>
-			<keyword role="category">Sensor System</keyword>
-			<keyword role="mark">I</keyword>
-		</keywordset>
-		<revhistory>
-			<revision>
-				<revnumber>1</revnumber>
-				<date>25 December 2000</date>
-				<revdescription>
-					<para>Approved by Engineering Director Owen Townes as Part of Compsognathus Specification</para>
-				</revdescription>
-			</revision>
-		</revhistory>
-	</articleinfo>
-	<section>
-		<title>Description</title>
-		<para>Emissions Tracking units are dedicated sensor units, designed to detect and trace the emissions of other craft (such as warp trails, impulse emissions, etc). Once detected, the ETS locates and locks onto the source of these emissions, providing an improved sensor lock when used with traditional systems. The system allows limited cloak detection against under-rated or damaged cloaking systems, but is useless against intact cloaking devices. This only provides detection, not a way to de-cloak the craft.</para>
-	</section>
+  <title>Emissions Tracking System</title>
+  <titleabbrev>ETS</titleabbrev>
+  <articleinfo>
+    <authorgroup role="Maintainer">
+      <author>
+        <firstname>EDept</firstname>
+        <surname>Staff</surname>
+      </author>
+    </authorgroup>
+    <authorgroup role="Primary Designers">
+      <author>
+        <firstname>Bradley</firstname>
+        <surname>Joy</surname>
+      </author>
+    </authorgroup>
+    <authorgroup role="Original Designers">
+      <author>
+        <firstname>Bradley</firstname>
+        <surname>Joy</surname>
+      </author>
+    </authorgroup>
+    <keywordset>
+      <keyword role="type">Starship</keyword>
+      <keyword role="category">Sensor System</keyword>
+      <keyword role="mark">I</keyword>
+    </keywordset>
+    <revhistory>
+      <revision>
+        <revnumber>1</revnumber>
+        <date>25 December 2000</date>
+        <revdescription>
+          <para>Approved by Engineering Director Owen Townes as Part of Compsognathus Specification</para>
+        </revdescription>
+      </revision>
+    </revhistory>
+  </articleinfo>
+  <section>
+    <title>Description</title>
+    <para>Emissions Tracking units are dedicated sensor units, designed to detect and trace the emissions of other craft (such as warp trails, impulse emissions, etc). Once detected, the ETS locates and locks onto the source of these emissions, providing an improved sensor lock when used with traditional systems. The system allows limited cloak detection against under-rated or damaged cloaking systems, but is useless against intact cloaking devices. This only provides detection, not a way to de-cloak the craft.</para>
+  </section>
 </article>

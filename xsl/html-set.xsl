@@ -1,7 +1,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-				xmlns:exsl="http://exslt.org/common"
-				version="1.0"
-				exclude-result-prefixes="exsl">
+        xmlns:exsl="http://exslt.org/common"
+        version="1.0"
+        exclude-result-prefixes="exsl">
 
 <!--
 This file copied from html/chunk.xsl and modified to import our customized rules.

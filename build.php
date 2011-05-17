@@ -23,7 +23,7 @@ function process() {
   // Configure the transformer
   $proc = new XSLTProcessor;
   if (!$proc->hasExsltSupport()) {
-  	throw new Exception('EXSLT Support not available.');
+    throw new Exception('EXSLT Support not available.');
   }
   $proc->importStyleSheet($xsl); // attach the xsl rules
   
