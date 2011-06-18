@@ -484,284 +484,284 @@
     <section role="Deck">
       <title>Deck 2</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Conference Room</member>
+        <member>CO's Office</member>
+        <member>XO's Office</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 3</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>CO's Quarters</member>
+        <member>XO's Quarters</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 4</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Senior Officers' Quarters</member>
+        <member>Visitors' Quarters</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 5</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Intelligence Offices</member>
+        <member>Observation Lounge</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 6</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Dorsal Shield Emitter 1</member>
+        <member>Dorsal Shield Emitter 2</member>
+        <member>Dorsal Shield Emitter 3</member>
+        <member>Dorsal Shield Emitter 4</member>
+        <member>Junior Officers' Quarters</member>
+        <member>Transporter Room 1</member>
+        <member>Transporter Room 2</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 7</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Dorsal Shield Emitter 1 (Cont'd)</member>
+        <member>Dorsal Shield Emitter 2 (Cont'd)</member>
+        <member>Dorsal Shield Emitter 3 (Cont'd)</member>
+        <member>Dorsal Shield Emitter 4 (Cont'd)</member>
+        <member>Junior Officers' Quarters</member>
+        <member>Transporter Room 3</member>
+        <member>Transporter Room 4</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 8</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Crew Quarters</member>
+        <member>Recreational Lounge</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 9</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Crew Quarters</member>
+        <member>Mess Hall 1</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 10</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Crew Quarters</member>
+        <member>Impulse Engine Assembly 1</member>
+        <member>Impulse Engine Assembly 2</member>
+        <member>Sickbay</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 11</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Crew Quarters</member>
+        <member>Impulse Engine Assembly 1 (Cont'd)</member>
+        <member>Impulse Engine Assembly 2 (Cont'd)</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 12</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>COS' Office</member>
+        <member>Crew Quarters</member>
+        <member>Security Offices</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 13</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Armory</member>
+        <member>Holodecks 1-3 (Cont'd)</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 14</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Crew Quarters</member>
+        <member>Holodecks 1-3 (Cont'd)</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 15</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Escape Pod Access</member>
+        <member>Machine Shop</member>
+        <member>Science Labs</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 16</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Crew Quarters</member>
+        <member>Dorsal Phaser Ring</member>
+        <member>Escape Pod Access</member>
+        <member>Forward Computer Core 1</member>
+        <member>Forward Computer Core 2</member>
+        <member>Mess Hall 2</member>
+
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 17</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Crew Quarters</member>
+        <member>Forward Computer Core 1 (Cont'd)</member>
+        <member>Forward Computer Core 2 (Cont'd)</member>
+        <member>Transporter Room 5</member>
+        <member>Transporter Room 6</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 18</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Brig</member>
+        <member>Forward Computer Core 1 (Cont'd)</member>
+        <member>Forward Computer Core 2 (Cont'd)</member>
+        <member>Holosuites 1-10</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 19</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Cargo Bay 1</member>
+        <member>Cargo Bay 2</member>
+        <member>Cargo Transporter</member>
+        <member>Central Computer Core</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 20</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Central Computer Core (Cont'd)</member>
+        <member>Aft Torpedo Launcher</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 21</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Cargo Bay 3</member>
+        <member>Cargo Bay 4</member>
+        <member>Central Computer Core (Cont'd)</member>
+        <member>Holodecks 3-6</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 22</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Central Computer Core (Cont'd)</member>
+        <member>Emergency Bridge</member>
+        <member>Holodecks 3-6 (Cont'd)</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 23</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Cargo Bay 5</member>
+        <member>Cargo Bay 6</member>
+        <member>Core Ejection Piston</member>
+        <member>Probe Room</member>
+        <member>Torpedo Storage</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 24</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Aft Computer Core 1</member>
+        <member>Aft Computer Core 2</member>
+        <member>Core Ejection Piston (Cont'd)</member>
+        <member>Impulse Engine Assembly 3</member>
+        <member>Impulse Engine Assembly 4</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 25</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Aft Computer Core 1 (Cont'd)</member>
+        <member>Aft Computer Core 2 (Cont'd)</member>
+        <member>Core Ejection Piston (Cont'd)</member>
+        <member>Deuterium Storage Tanks</member>
+        <member>Deuterium Fuel Pumps, Fill Ports, and Injector Reactors</member>
+        <member>Forward Torpedo Launcher 1</member>
+        <member>Forward Torpedo Launcher 2</member>
+        <member>Impulse Engine Assembly 3 (Cont'd)</member>
+        <member>Impulse Engine Assembly 4 (Cont'd)</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 26</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Aft Computer Core 1 (Cont'd)</member>
+        <member>Aft Computer Core 2 (Cont'd)</member>
+        <member>Cargo Bay 7</member>
+        <member>Cargo Bay 8</member>
+        <member>Main Deflector Dish</member>
+        <member>Warp Core</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 27</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Engineering, Upper Level</member>
+        <member>Escape Pod Access</member>
+        <member>Main Deflector Dish (Cont'd)</member>
+        <member>Warp Core (Cont'd)</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 28</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Chief Engineer’s Office</member>
+        <member>Engineering, Main Level</member>
+        <member>Escape Pod Access</member>
+        <member>Holosuites 11-20</member>
+        <member>Main Deflector Dish (Cont’d)</member>
+        <member>Warp Core (Cont'd)</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 29</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Engineer, Lower Level</member>
+        <member>Main Deflector Dish (Cont'dO</member>
+        <member>Mess Hall 3</member>
+        <member>Transporter Room 7</member>
+        <member>Transporter Room 8</member>
+        <member>Warp Core (Cont'd)</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 30</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-
+        <member>Transporter Room 9</member>
+        <member>Transporter Room 10</member>
+        <member>Ventral Phaser Ring</member>
+        <member>Warp Core (Cont'd)</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 31</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Anti-Matter Fuel Pumps, Fill Ports, and Injector Reactors</member>
+        <member>Anti-Matter Storage Tanks</member>
+        <member>Shuttle Bay 1</member>
+        <member>Shuttle Bay 2</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 32</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Forward Torpedo Launcher 3</member>
+        <member>Forward Torpedo Launcher 4</member>
+        <member>Marine Headquarters</member>
+        <member>Senior Marine Quarters</member>
+        <member>Shuttle Bay 1 (Cont'd)</member>
+        <member>Shuttle Bay 2 (Cont'd)</member>
       </simplelist>
     </section>
     <section role="Deck">
