@@ -375,323 +375,323 @@ Two “bubbles” on the dorsal and ventral surfaces house critical systems.  Th
     <section role="Deck">
       <title>Deck 1</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Primary Sensor Array</member>
+        <member>Secondary Sensor Suite</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 2</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>CO's Quarters</member>
+        <member>CO's Hot Tub</member>
+        <member>VIP Quarters</member>
+        <member>XO's Quarters</member>
+        <member>Transporter Room 1</member>
+        <member>Transporter Room 2</member>
+        <member>CIWS Station 1</member>
+        <member>Phaser Array 1 (Dorsal)</member>
+        <member>Phaser Array 2 (Aft)</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 3</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>DH Quarters</member>
+        <member>Medical Officers' Quarters</member>
+        <member>Alpha Sickbay</member>
+        <member>CMO's Office</member>
+        <member>Pattern Buffer</member>
+        <member>Emergency Transporter Room 1</member>
+        <member>Emergency Transporter Room 2</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 4</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Science Officers' Quarters</member>
+        <member>General Science Lab</member>
+        <member>CMO's Office</member>
+        <member>Pattern Buffer</member>
+        <member>Main Sensor Equipment A</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 5</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Phaser Cannon 1</member>
+        <member>Main Sensor Equipment B</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 6</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Holodeck 1</member>
+        <member>Holodeck 2</member>
+        <member>Holosuite 1</member>
+        <member>Holosuite 2</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 7</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Junior Officers' Quarters</member>
+        <member>Computer Core A</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 8</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Crew Lounge</member>
+        <member>Holodeck 3</member>
+        <member>Computer Core B</member>
+        <member>Transporter Room 3</member>
+        <member>Transporter Room 4</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 9</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Observation Lounge</member>
+        <member>Computer Core C</member>
+        <member>Pattern Buffer</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 10</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Computer Core D</member>
+        <member>Impulse Engines</member>
+        <member>Manual Firing Station 1</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 11</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>CAG's Office</member>
+        <member>Squadron CO's Offices</member>
+        <member>Flight Ops</member>
+        <member>Cargo Bay 1</member>
+        <member>Cargo Bay 2</member>
+        <member>Computer Core E</member>
+        <member>Impulse Engines</member>
+        <member>Torpedo Bay 1</member>
+        <member>Torbedo Tube 1</member>
+        <member>Torpedo Tube 2</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 12</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Alert Signals</member>
+        <member>Cargo Bay 1</member>
+        <member>Cargo Bay 2</member>
+        <member>Computer Core F</member>
+        <member>Impulse Engines</member>
+        <member>Impulse Engine Fuel/Coolant Tanks</member>
+        <member>PA System</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 13</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Cargo Bay 1</member>
+        <member>Cargo Bay 2</member>
+        <member>Computer Core G</member>
+        <member>Flight Deck</member>
+        <member>Mechanical Deck</member>
+        <member>Pilots' Briefing Lounge</member>
+        <member>Squadron Ready Rooms</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 14</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Auxiliary Spacecraft Storage</member>
+        <member>Cargo Bay 1</member>
+        <member>Cargo Bay 2</member>
+        <member>CIWS Station 3</member>
+        <member>CIWS Station 4</member>
+        <member>Fighter Maintenance Bays</member>
+        <member>Warp Core A</member>
+        <member>Warp Core Ejection System</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 15</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Auxiliary Spacecraft Storage</member>
+        <member>Cargo Bay 1</member>
+        <member>Cargo Bay 2</member>
+        <member>Tractor Beam</member>
+        <member>Warp Core B</member>
+        <member>Warp Core Ejection System</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 16</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Flight Officers' Quarters</member>
+        <member>Main Engineering A</member>
+        <member>Warp Core C</member>
+        <member>Warp Core Ejection System</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 17</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Main Engineering B</member>
+        <member>Phaser Cannon 2</member>
+        <member>Phaser Cannon 3</member>
+        <member>Warp Core D</member>
+        <member>Warp Core Ejection System</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 18</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>CE's Office</member>
+        <member>Main Engineering C</member>
+        <member>Industrial Replicator</member>
+        <member>Machine Shop</member>
+        <member>Warp Core E</member>
+        <member>Warp Core Ejection System</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 19</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Warp Core F</member>
+        <member>Warp Core Ejection System</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 20</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Backup Computer Core A</member>
+        <member>Flight Officers' Quarters</member>
+        <member>Marine Barracks</member>
+        <member>Phaser Array 3 (Starboard)</member>
+        <member>Phaser Array 4 (Port)</member>
+        <member>Phaser Cannon 4</member>
+        <member>Warp Core G</member>
+        <member>Warp Core Ejection System</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 21</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Backup Computer Core B</member>
+        <member>Torpedo Bay Manual Launch</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 22</title>
       <simplelist>
-        <member>XXX</member>
+        <member>Backup Computer Core C</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 23</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Briefing Lounge</member>
+        <member>Conference Lounge</member>
+        <member>Combat Information Center</member>
+        <member>CO's Ready Room</member>
+        <member>Flag Office</member>
+        <member>Backup Computer Core D</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 24</title>
       <simplelist>
-        <member>XXX</member>
+        <member>Guest Quarters</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 25</title>
       <simplelist>
-        <member>XXX</member>
+        <member>Holodeck 4</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 26</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Beta Sickbay</member>
+        <member>Backup Computer Core G</member>
+        <member>Emergency Transporter Room 3</member>
+        <member>Emergency Transporter Room 4</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 27</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Pattern Buffer</member>
+        <member>Spare Parts Locker</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 28</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Holosuite 3</member>
+        <member>Spare Parts Locker</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 29</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Armory</member>
+        <member>Brig</member>
+        <member>Security Office</member>
+        <member>Holosuite 4</member>
+        <member>Holosuite 5</member>
+        <member>Transporter Room 5</member>
+        <member>Transporter Room 6</member>
+        <member>Transporter Room 7</member>
+        <member>Transporter Room 8</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 30</title>
       <simplelist>
-        <member>XXX</member>
+        <member>Pattern Buffer</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 31</title>
       <simplelist>
-        <member>XXX</member>
+        <member>Holosuite 6</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 32</title>
       <simplelist>
-        <member>XXX</member>
+        <member>Holosuite 7</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 33</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>Counseling Center</member>
+        <member>CNS' Office</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 34</title>
       <simplelist>
-        <member>XXX</member>
+        <member>Manual Firing Station 2</member>
       </simplelist>
     </section>
     <section role="Deck">
       <title>Deck 35</title>
       <simplelist>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
-        <member>XXX</member>
+        <member>CIWS Station 2</member>
+        <member>Phaser Array 5 (Ventral)</member>
+        <member>Phaser Array 6 (Aft)</member>
+        <member>Torpedo Tube 3</member>
+        <member>Torpedo Tube 4</member>
+        <member>Torpedo Bay 2</member>
+        <member>Turbolift Hub</member>
+        <member>Turbolift Maintenance Facility</member>
       </simplelist>
     </section>
   </section>
@@ -700,56 +700,56 @@ Two “bubbles” on the dorsal and ventral surfaces house critical systems.  Th
     <para>All Mjolnir-class ships are named for weapons wielded by heroes in various Terran mythologies.</para>
     <simplelist role="ShipList">
       <member role="PC">
-        <productname>SHIPNAME</productname>
-        <productnumber>REGISTRYNUMBER</productnumber>
+        <productname>USS Mjolnir</productname>
+        <productnumber>92040</productnumber>
       </member>
       <member role="PC">
-        <productname>SHIPNAME</productname>
-        <productnumber>REGISTRYNUMBER</productnumber>
+        <productname>USS Aegis</productname>
+        <productnumber>92041</productnumber>
       </member>
       <member role="PC">
-        <productname>SHIPNAME</productname>
-        <productnumber>REGISTRYNUMBER</productnumber>
+        <productname>USS Gungnir</productname>
+        <productnumber>92042</productnumber>
       </member>
       <member role="PC">
-        <productname>SHIPNAME</productname>
-        <productnumber>REGISTRYNUMBER</productnumber>
+        <productname>USS Dyrnwyn</productname>
+        <productnumber>92043</productnumber>
       </member>
       <member role="PC">
-        <productname>SHIPNAME</productname>
-        <productnumber>REGISTRYNUMBER</productnumber>
+        <productname>USS Vajra</productname>
+        <productnumber>92044</productnumber>
       </member>
       <member role="PC">
-        <productname>SHIPNAME</productname>
-        <productnumber>REGISTRYNUMBER</productnumber>
+        <productname>USS Mistilteinn</productname>
+        <productnumber>92045</productnumber>
       </member>
       <member role="PC">
-        <productname>SHIPNAME</productname>
-        <productnumber>REGISTRYNUMBER</productnumber>
+        <productname>USS Kusanagi</productname>
+        <productnumber>92046</productnumber>
       </member>
     </simplelist>
     <para>The following names are reserved for use of any future Mjolnir-class vessels produced beyond the initial 7.</para>
     <simplelist>
       <member role="NPC">
-        <productname>SHIPNAME</productname>
+        <productname>USS Naegling</productname>
       </member>
       <member role="NPC">
-        <productname>SHIPNAME</productname>
+        <productname>USS Ridill</productname>
       </member>
       <member role="NPC">
-        <productname>SHIPNAME</productname>
+        <productname>USS Caladbolg</productname>
       </member>
       <member role="NPC">
-        <productname>SHIPNAME</productname>
+        <productname>USS Tyrfing</productname>
       </member>
       <member role="NPC">
-        <productname>SHIPNAME</productname>
+        <productname>USS Almace</productname>
       </member>
       <member role="NPC">
-        <productname>SHIPNAME</productname>
+        <productname>USS Gram</productname>
       </member>
       <member role="NPC">
-        <productname>SHIPNAME</productname>
+        <productname>USS Carnwennan</productname>
       </member>
     </simplelist>
   </section>
