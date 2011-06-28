@@ -113,4 +113,21 @@
 			<para>When editing and creating characters, you have the option to preview your changes/creation by clicking "preview" instead of "submit". On the preview screen, your changes appear right at the top, with the regard submit character boxes down below. In order for changes to be made permanent on your ship, you need to click "submit".</para>
 		</section>
 	</section>
+	<section="admin-103">
+		<title>Lesson Three: Subscribers</title>
+		<para>This lesson involves the last two options under the Admin tab, Subscribers and Add Subscribers.</para>
+		<para>In order to post on a ship, you need to be a subscriber of that ship(You can read all the notes you want as a non-subscriber).</para>
+		<section>
+			<title>Subscribers</title>
+			<para>This page will permit you to see who can make a post on your ship and allow you to assign administrators to that ship. Typically this is the FComm, AFComm, CO, XO and GM of the ship. To create an administrator, you simply click on the "Admin: Create" link and follow the prompts.</para>
+			<para>The same is true for the "remove" option, this permits you to remove subscribers. For instance, if you have a member who is no longer a member of your ship, you have the option of removing them.</para>
+			<para>It is recommended that you do keep your subscriber lists as clean as possible. Ideally subscribers are all the members of the ship, plus the Fleet Command staff(FComm and AFComm). I can't think of any reason a non-member of your crew might need to make a post unless they are part of the Fleet Command staff.</para>
+		</section>
+		<section>
+			<title>Add Subscribers</title>
+			<para>To add a subscriber to your ship, you merely need to click this option from the admin tab, you're taken to a dialog box.</para>
+			<para>You can add multiple users by separating each with a comma and as with the character creation, you need to know the user name of the person you wish to add.</para>
+			<para>Once all the names are typed in, you click submit and you're done.</para>
+		</section>
+	</section>
 </article>
