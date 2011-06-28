@@ -169,4 +169,20 @@
 	<para>If you have any questions on how to modify your MOTD, the IDept (Internet Department) is who to contact for answers and support.</para>
 	<para>With the edit tab, you can preview any minor changes to the MOTD by clicking "preview" before you click "submit"(Which makes your changes permanent). However if you are completely changing the look of the MOTD, preview will not always work.</para>
 	</section>
+	<section id="admin-conclusion">
+		<title>Conclusion</title>
+		<para>We have been through all the different options of the three tabs that appear once you've been made an administrator of a ship or board.</para>
+		<para>It's always a good idea to read over all your changes before clicking submit. This will help eliminate most of those dastardly typos, which could wreak havoc on your poor MOTD!</para>
+		<para>Most importantly, don't be discouraged if you make mistakes. We may play aliens in this club, but all of us are human and mistakes are part of that. There is nothing wrong with spotting a mistake after the fact. The Admin tabs are forgiving, you can just pop right back into the tab you need and correct that mistake easily enough. Don't be afraid to ask for help either.</para>
+		<para>Last and most importantly, congratulations and good luck with your new post. No doubt you've worked very hard for it and you deserve it! If you have any questions about this course, please contact the Academy Commandant(acad@star-fleet.com).</para>
+		<para>Thanks for reading my course!</para>
+		<para>And thank you to the following people who have graciously assisted me in producing that I hope was a very productive and relevant course for you:</para>
+		<itemizedlist>
+			<listitem><para>Robin Bird</para></listitem>
+			<listitem><para>Jen Herr</para></listitem>
+			<listitem><para>Terry Calvin</para></listitem>
+			<listitem><para>Chris DuBois</para></listitem>
+		</itemizedlist>
+		<para>And a thank you to the previous author and contributors to the course for writing a comprehensive look at our old system's administrative menu, this course is vastly different from the old course of course, but I did use the previous course as a beginning template when I first started the re-write of this one.</para>
+	</section>
 </article>
