@@ -130,4 +130,22 @@
 			<para>Once all the names are typed in, you click submit and you're done.</para>
 		</section>
 	</section>
+	<section id="admin-104">
+		<title>Lesson Four: Log Entries, Notes & Pages</title>
+		<para>The last three options on the admin tab will be discussed together.</para>
+		<variablelist>
+			<varlistentry>
+				<term>Create New Log Entry</term>
+				<listitem><para>Clicking this brings you to a dialogue screen where you type in what you want to say in your log and hit submit, that's then uploaded to the log entries where you and everyone else can read it. COs are the only ones permitted to use this function unless they have given permission for someone else to use it as well.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Create New Note</term>
+				<listitem><para>Performs the same function as "Post Note" option does at the bottom of the MOTD.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Create New Page</term>
+				<listitem><para>A redundant section that mostly repeats what we've discussed earlier. Creating new characters, new notes, etc.</para></listitem>
+			</varlistentry>
+		</variablelist>
+	</section>
 </article>
