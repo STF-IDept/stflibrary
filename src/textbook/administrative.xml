@@ -32,23 +32,6 @@
 		<title>Introduction</title>
 		<para>Welcome to the Admin course, designed for COs, XOs, and GMs to get them acquainted with the functions of the administrative menu. There is no exam to take, or grade to worry about. This course simply goes through the functions of all the administrative areas of the ship.</para>
 		<para>Now, if you look on the ship's MOTD (Message Of The Day), along the top right-hand side, you will see 3 brand new tabs ("Admin", "Edit", and "E-mail"), we will examine the functions of each of these new tabs in detail throughout this course.</para>
-		<figure>
-			<title>Administrative Menu Button</title>
-			<mediaobject>
-				<imageobject id="adminbutton">
-					<objectinfo>
-						<author>
-							<firstname>Sarah</firstname>
-							<surname>Hemenway</surname>
-						</author>
-					</objectinfo>
-                    <imagedata format="PNG" fileref="images/textbook/administrative-menu-button.png"/>
-				</imageobject>
-				<textobject>
-					<phrase>The Administrative Menu Button</phrase>
-				</textobject>
-			</mediaobject>
-		</figure>
 	</section>
 	<section id="admin-101">
 		<title>The Administrative Menu</title>
