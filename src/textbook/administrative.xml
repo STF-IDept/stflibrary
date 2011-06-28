@@ -148,4 +148,25 @@
 			</varlistentry>
 		</variablelist>
 	</section>
+	<section id="admin-105">
+		<title>Lesson Five: The Edit Tab</title>
+		<para>The edit tab, as discussed in lesson one, requires knowledge of HTML coding.</para>
+		<para>Three dialogue boxes are listed in this tab:</para>
+		<variablelist>
+			<varlistentry>
+				<term>Slogan</term>
+				<listitem><para>A brief description for the group details block and group directory. i.e: "The USS Columbia is a Discovery Class Vessel that has been training cadets since 2003."</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>MOTD</term>
+				<listitem><para>This is where you put all of your essentials, coding the CO, XO, GM sections, the Departmental orders, etc. Uses mainly HTML coding.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>CSS</term>
+				<listitem><para>This is for advanced users only, you need to know CSS in order to use this section.</para></listitem>
+			</varlistentry>
+		</variablelist>
+	<para>If you have any questions on how to modify your MOTD, the IDept (Internet Department) is who to contact for answers and support.</para>
+	<para>With the edit tab, you can preview any minor changes to the MOTD by clicking "preview" before you click "submit"(Which makes your changes permanent). However if you are completely changing the look of the MOTD, preview will not always work.</para>
+	</section>
 </article>
