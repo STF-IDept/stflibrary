@@ -13,17 +13,17 @@
 		</authorgroup>
 		<revhistory>
 			<revision>
-				<revnumber>2</revnumner>
-				<date>28 June 2011</date>
-				<revdescription>
-					<para>Revised by Kat Dedul</para>
-				</revdescription>
-			</revision>
-			<revision>
 				<revnumber>1</revnumber>
 				<date>20 September 2005</date>
 				<revdescription>
 					<para>Added to the Library</para>
+				</revdescription>
+			</revision>
+			<revision>
+				<revnumber>2</revnumner>
+				<date>28 June 2011</date>
+				<revdescription>
+					<para>Rewritten by Kat Dedul</para>
 				</revdescription>
 			</revision>
 		</revhistory>
