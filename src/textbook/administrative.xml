@@ -33,4 +33,22 @@
 		<para>Welcome to the Admin course, designed for COs, XOs, and GMs to get them acquainted with the functions of the administrative menu. There is no exam to take, or grade to worry about. This course simply goes through the functions of all the administrative areas of the ship.</para>
 		<para>Now, if you look on the ship's MOTD (Message Of The Day), along the top right-hand side, you will see 3 brand new tabs ("Admin", "Edit", and "E-mail"), we will examine the functions of each of these new tabs in detail throughout this course.</para>
 	</section>
+	<section id="admin-101">
+		<title>Lesson One: The Tabs</title>
+		<para>Before we go into a lot of detail, it's time to discuss the basic functions of these three new tabs.</para>
+		<variablelist>
+			<varlistentry>
+				<term>Admin</term>
+				<listitem><para>The place COs/XOs and GMs go to add new characters, view all characters on the ship, create log entries and add and remove subscribers as well as a few other functions that will be discussed in greater detail over the next few pages of the course.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>Edit</term>
+				<listitem><para>This is where you can edit the MOTD, both the basic look of it and simply updating your own special section of it. You need to be familiar with HTML coding as well as other codes that may be employed in the maintenance of the MOTD. If only to avoid undoing someone's hard work by accidentally deleting code.</para></listitem>
+			</varlistentry>
+			<varlistentry>
+				<term>E-mail</term>
+				<listitem><para>Sends a mass e-mail to all subscribers on your board. Not recommended for use, it may be a good idea to simply ignore this and carry on. Generally, if you need to reach all the members of your crew, it would probably be easiest to simply post a note on the ship regarding it rather than to spam everyone who has happened to subscribe to your board. We'll go into what subscribers are and how that works later in the course.</para><listitem>
+			</varlistentry>
+		</variablelist>
+	</section>
 </article>
