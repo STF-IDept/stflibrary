@@ -114,7 +114,7 @@
 			<para>When editing and creating characters, you have the option to preview your changes/creation by clicking "preview" instead of "submit". On the preview screen, your changes appear right at the top, with the regard submit character boxes down below. In order for changes to be made permanent on your ship, you need to click "submit".</para>
 		</section>
 	</section>
-	<section="admin-103">
+	<section id="admin-103">
 		<title>Lesson Three: Subscribers</title>
 		<para>This lesson involves the last two options under the Admin tab, Subscribers and Add Subscribers.</para>
 		<para>In order to post on a ship, you need to be a subscriber of that ship(You can read all the notes you want as a non-subscriber).</para>
