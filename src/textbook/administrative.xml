@@ -53,7 +53,7 @@
 		</variablelist>
 	</section>
 	<section id="admin-102">
-		<title>Lesson Two: Characters - Editing & Creating</title>
+		<title>Lesson Two: Characters - Editing &amp; Creating</title>
 		<para>The first two options under the Admin tab will be discussed together as they are related.</para>
 		<section>
 			<title>Character List</title>
@@ -67,7 +67,7 @@
 					<listitem><para>Obviously as CO, you'll occasionally see the need to promote people. This permits you to select their rank from a drop down menu. It is very important to note that as CO, you can only promote a character above the rank of Lt. Commander if that player already has a rank higher than Lt. Commander or with permission from your FComm. When in doubt, ask your FComm, they should be able to clear up any confusion you might have on this topic.</para></listitem>
 				</varlistentry>
 				<varlistentry>
-					<term>Position & Custom Position</term>
+					<term>Position &amp; Custom Position</term>
 					<listitem>
 						<para>Again, typically COs only use this function, but occasionally an XO may be given permission by the CO to use this. Position is another drop-down menu, with all the standard positions organized by department. Note, the CNS is located under the medical department and the CTO is located under the security department.</para>
 						<para>If you have a unique swing position on your ship(i.e: a lot of alt-RPGs are in this situation, but some standard ships can have these too), you'll be using the "custom position" option, which is a dialog box permitting you to type in whatever you please.</para>
@@ -98,7 +98,7 @@
 					<listitem><para>Permits you to select the area or ship to which a particular character is assigned. The default of the present ship you're working from is automatically checked off(i.e: if you're editing from the USS Genesis that's the box that will be checked). Typically you'll only look at this quickly to ensure there isn't a bug in the system and to make sure you're keeping that character on the right ship. As an aside note, the only areas you will see under the audience option are the areas to which you are a subscriber.</para></listitem>
 				</varlistentry>
 				<varlistentry>
-					<term>Height, Age & Weight</term>
+					<term>Height, Age &amp; Weight</term>
 					<listitem><para>Permits you to assign a height, age and weight to a particular character. Again unless it is your own character that you are editing, you will only be uploading info given to you by the author of that character. Only administrators can access these three boxes.</para></listitem>
 				</varlistentry>
 				<varlistentry>
@@ -132,7 +132,7 @@
 		</section>
 	</section>
 	<section id="admin-104">
-		<title>Lesson Four: Log Entries, Notes & Pages</title>
+		<title>Lesson Four: Log Entries, Notes &amp; Pages</title>
 		<para>The last three options on the admin tab will be discussed together.</para>
 		<variablelist>
 			<varlistentry>
