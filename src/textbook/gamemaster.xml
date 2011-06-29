@@ -12,27 +12,34 @@
 			</author>
 		</authorgroup>
 		<revhistory>
-          <revision>
-            <revnumber>1</revnumber>
-            <date>19 September 2005</date>
-            <revdescription>
-              <para>Added to Library</para>
-            </revdescription>
-          </revision>
-          <revision>
-            <revnumber>2</revnumber>
-            <date>13 October 2005</date>
-            <revdescription>
-              <para>Changed course proctor to Amanda Noon</para>
-            </revdescription>
-          </revision>
-		  <revision>
-		  	<revnumber>3</revnumber>
-			<date>6 December 2005</date>
-			<revdescription>
-				<para>Course rewritten by Amanda Noon</para>
-			</revdescription>
-		  </revision>
+			<revision>
+				<revnumber>1</revnumber>
+            			<date>19 September 2005</date>
+            			<revdescription>
+              				<para>Added to Library</para>
+            			</revdescription>
+          		</revision>
+          		<revision>
+            			<revnumber>2</revnumber>
+            			<date>13 October 2005</date>
+            			<revdescription>
+              				<para>Changed course proctor to Amanda Noon</para>
+            			</revdescription>
+          		</revision>
+	  		<revision>
+	  			<revnumber>3</revnumber>
+				<date>6 December 2005</date>
+				<revdescription>
+					<para>Course rewritten by Amanda Noon</para>
+				</revdescription>
+	  		</revision>
+			<revision>
+				<revnumber>4</revnumber>
+				<date>29 June 2011</date>
+				<revdescription>
+					<para>Exam revised by David Wonderly</para>
+				</revdescription>
+			</revision>
 		</revhistory>
 	</articleinfo>
 	<section id="gm-intro">
