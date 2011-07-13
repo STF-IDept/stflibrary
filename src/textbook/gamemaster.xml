@@ -12,27 +12,34 @@
 			</author>
 		</authorgroup>
 		<revhistory>
-          <revision>
-            <revnumber>1</revnumber>
-            <date>19 September 2005</date>
-            <revdescription>
-              <para>Added to Library</para>
-            </revdescription>
-          </revision>
-          <revision>
-            <revnumber>2</revnumber>
-            <date>13 October 2005</date>
-            <revdescription>
-              <para>Changed course proctor to Amanda Noon</para>
-            </revdescription>
-          </revision>
-		  <revision>
-		  	<revnumber>3</revnumber>
-			<date>6 December 2005</date>
-			<revdescription>
-				<para>Course rewritten by Amanda Noon</para>
-			</revdescription>
-		  </revision>
+			<revision>
+				<revnumber>1</revnumber>
+            			<date>19 September 2005</date>
+            			<revdescription>
+              				<para>Added to Library</para>
+            			</revdescription>
+          		</revision>
+          		<revision>
+            			<revnumber>2</revnumber>
+            			<date>13 October 2005</date>
+            			<revdescription>
+              				<para>Changed course proctor to Amanda Noon</para>
+            			</revdescription>
+          		</revision>
+	  		<revision>
+	  			<revnumber>3</revnumber>
+				<date>6 December 2005</date>
+				<revdescription>
+					<para>Course rewritten by Amanda Noon</para>
+				</revdescription>
+	  		</revision>
+			<revision>
+				<revnumber>4</revnumber>
+				<date>29 June 2011</date>
+				<revdescription>
+					<para>Exam revised by David Wonderly</para>
+				</revdescription>
+			</revision>
 		</revhistory>
 	</articleinfo>
 	<section id="gm-intro">
@@ -288,72 +295,74 @@
 		<para>Submission Instructions</para>
 		<orderedlist>
 			<listitem><para>Write out your answers to the questions below.</para></listitem>
-            <listitem><para>E-mail them to the course grader: <ulink url="mailto:gamemaster-tutor@star-fleet.com?subject=STF Gamemaster Exam">Amanda Noon</ulink></para></listitem>
+            <listitem><para>E-mail them to the course proctor: (<ulink url="mailto:gamemaster-tutor@star-fleet.com?subject=STF Gamemaster Exam">gamemaster-tutor@star-fleet.com</ulink>)</para></listitem>
 			<listitem><para>Be sure to include your full name at the top of the e-mail!</para></listitem>
 			<listitem><para>Do not use "HTML-enriched" e-mail. It makes it harder to grade. </para></listitem>
-			<listitem><para>Word or a Rich Text Format attachment is most acceptable.</para></listitem>
-			<listitem><para>Please request a receipt for this email.</para></listitem>
 		</orderedlist>
 		<section>
 			<title>Section A: Facts and Mechanics</title>
 			<orderedlist>
-				<listitem><para>Cut and paste Homeworks 101,103C and 105 here. <emphasis>9 marks</emphasis></para></listitem>
-				<listitem><para>Name the new button that will appear on a ship's MOTD when you become a GM. <emphasis>1 mark</emphasis></para></listitem>
-				<listitem><para>Once inside this mysterious place, which buttons may you use as a GM? What is the limit of your access here? <emphasis>2 marks</emphasis></para></listitem>
-				<listitem><para>How do you keep a character you add from appearing on the roster? Why might you need/want to do this? <emphasis>2 marks</emphasis></para></listitem>
-				<listitem><para>Why is renaming a topic not the ideal solution for unused topics? <emphasis>1 mark</emphasis></para></listitem>
-				<listitem><para>What is the golden Rule when using the admin menu? Clue... the WeBB doesn’t like it if you break this rule. <emphasis>1 mark</emphasis></para></listitem>
-				<listitem><para>What are the criteria for entering the GM training program in STF? <emphasis>4 marks</emphasis></para></listitem>
-				<listitem><para>Once accepted on the training program, explain what will happen next. <emphasis>4 marks</emphasis></para></listitem>
-				<listitem><para>Who is responsible for completing mission records for the GM Archive? When should they be completed? <emphasis>2 marks</emphasis></para></listitem>
-				<listitem><para>Why do we keep these records? <emphasis>1 mark</emphasis></para></listitem>
-				<listitem><para>How does a GM become a Full GM in STF? How do they become a Senior GM? <emphasis>2 marks</emphasis></para></listitem>
-				<listitem><para>Show the chain of command for a GM in STF. <emphasis>2 marks</emphasis></para></listitem>
-				<listitem><para>When can you kill a player’s character? <emphasis>2 marks</emphasis></para></listitem>
-				<listitem><para>When is it permissible to completely destroy a ship? <emphasis>1 mark</emphasis></para></listitem>
-				<listitem><para>Who can void posts and why? How would you void a post whilst minimising any disruption to the ship? <emphasis>3 marks</emphasis></para></listitem>
-				<listitem><para>Who can issue a death notice? What criteria need to be met? Explain how you might try to avoid issuing a death notice. <emphasis>3 marks</emphasis></para></listitem>
-				<listitem><para>If a player is giving you a hard time, what should you do? <emphasis>2 marks</emphasis></para></listitem>
-				<listitem><para>You should always trim your notes - Why? <emphasis>1 mark</emphasis></para></listitem>
-				<listitem><para>You should always limit OOC commentary - Why? <emphasis>1 mark</emphasis></para></listitem>
-				<listitem><para>What is it that shows you are/will be reliable as a GM? <emphasis>2 marks</emphasis></para></listitem>
-				<listitem><para>When and how is it okay for a GM to criticise another player through a post on the ship? <emphasis>2 marks</emphasis></para></listitem>
-				<listitem><para>Spelling and Punctuation; how important is it that you as GM get them right? Why? <emphasis>3 marks</emphasis></para></listitem>
-				<listitem><para>What style of posting does STF use? Explain this style now as if to a new member... <emphasis>3 marks</emphasis></para></listitem>
-				<listitem><para>What is meant by multiple timelines? Give an example. <emphasis>2 marks</emphasis></para></listitem>
-				<listitem><para>Explain what is considered canon in STF. <emphasis>2 marks</emphasis></para></listitem>
-				<listitem><para>How do you show someone is using a communicator to speak? <emphasis>1 mark</emphasis></para></listitem>
-				<listitem><para>Christmas Day is the 25th December, write the stardate for Christmas Day this year. <emphasis>1 mark</emphasis></para></listitem>
+				<listitem><para>Cut and paste Homework 101: What would your contingency plan be? How important do you feel it is to be in contact with the CO and XO?<emphasis>3 points</emphasis></para></listitem>
+				<listitem><para>Cut and paste Homework 105: For each of the following explain how you would try to solve these problems:<emphasis>3 points</emphasis></para>
+				<orderedlist>
+					<listitem><para>Slow pace</para></listitem>
+					<listitem><para>Crew ignoring Sim</para></listitem>
+					<listitem><para>Side Plots being ignored</para></listitem>
+				</orderedlist></listitem>
+				<listitem><para>Who is responsible for completing mission records for the GM Archive?<emphasis>1 point</emphasis></para></listitem>
+				<listitem><para>When should they be completed? <emphasis>1 point</emphasis></para></listitem>
+				<listitem><para>Why do we keep these records? <emphasis>1 point</emphasis></para></listitem>
+				<listitem><para>Show the chain of command for a GM in STF. <emphasis>1 point</emphasis></para></listitem>
+				<listitem><para>When can you kill a player’s character? <emphasis>1 point</emphasis></para></listitem>
+				<listitem><para>When is it permissible to completely destroy a ship? <emphasis>1 point</emphasis></para></listitem>
+				<listitem><para>Who can void posts and why? <emphasis>1 point</emphasis></para></listitem>
+				<listitem><para>How would you void a post whilst minimising any disruption to the ship? <emphasis>1 point</emphasis></para></listitem>
+				<listitem><para>Who can issue a death notice?<emphasis>3 points</emphasis></para>
+				<orderedlist>
+					<listitem><para>What criteria need to be met?</para></listitem>
+					<listitem><para>Explain how you might try to avoid issuing a death notice.</para></listitem>
+				</orderedlist></listitem>
+				<listitem><para>How can you use multiple timelines to your advantage? <emphasis>1 point</emphasis></para></listitem>
+				<listitem><para>Explain what is considered canon in STF. <emphasis>3 points</emphasis></para>
+				<orderedlist>
+					<listitem><para>When should you use canon material?</para></listitem>
+					<listitem><para>When should you use non-canon material?</para></listitem>
+				</orderedlist></listitem>
 			</orderedlist>
-			<para>Total 60 marks for Section A</para>
+			<para>Total 22 marks for Section A</para>
 		</section>
 		<section>
 			<title>Section B: Show Me the Money</title>
 			<orderedlist>
-				<listitem><para>Cut and paste homeworks 102, 103A, 103B and 104. <emphasis>25 marks</emphasis></para></listitem>
-				<listitem><para>Where did you get the inspiration for your story idea? Why will your story idea make a good sim? <emphasis>10 marks</emphasis></para></listitem>
+				<listitem><para>Cut and paste homework 102: Take a few minutes to come up with a story idea suitable for a sim. Identify how you will involve the various departments. You may need to just point out that a certain department is going to need a side sim.  (Include at least one swing position in your planning.)</para></listitem>
+				<listitem><para>Cut and paste homework 103A: Using the sim idea from 102 explain the series of clues you might use to get the crew from the beginning to the end of the sim. Point out places where you feel the crew might branch off from your plan. </para></listitem>
+				<listitem><para>Cut and paste homework 103B:  Using the sim idea you came up with in the last lesson, write out the sim’s first post using the Narrative style.</para></listitem>
+				<listitem><para>Cut and paste homework 104:  Using your sim idea from 102 write a plan, for this plan show where you might break it down into acts. Explain what key points you would want to be achieved by the end of each act.</para></listitem>
+				<listitem><para>Where did you get the inspiration for your story idea?</para></listitem>
+				<listitem><para>Why will your story idea make a good sim?</para></listitem>
+				<listitem><para>Suppose you are a GM on the USS Master and there is a player named Sally Cheatum. Sally continually disrupts your sim by constantly contradicting you. Sally usually does this with an OOC note stating that your recent post regarding the warp engine nearly breaching could not possibly happen because she is a theoretical physicist and there is no way a warp engine could ever do that! Brainstorm possible ways you might address this issue.</para></listitem> 
 				<listitem>
-					<para>A GM has to be able to invent new worlds, new characters and new technology. Show that you can do this by describing one of each. Each answer should be at least two paragraphs. At least one should be related to your sim idea. <emphasis>45 marks</emphasis></para>
+					<para>A GM has to be able to invent new worlds, new characters and new technology. Show that you can do this by describing one of each. Each answer should be at least two paragraphs. At least one should be related to your sim idea.</para>
 					<itemizedlist>
 						<listitem><para>A New World</para></listitem>
 						<listitem><para>A New Character</para></listitem>
 						<listitem><para>A New Technology</para></listitem>
 					</itemizedlist>
 				</listitem>
-				<listitem><para>Looking over the ship profiles, write an email to the Captain of the ship you think your sim would most suit and explain why. Sell your sim to the Captain. Pssst…don’t actually email it, put it here, for <emphasis>25 marks</emphasis>!</para></listitem>
+				<listitem><para>Looking over the ship profiles, write an email to the Captain of the ship you think your sim would most suit and explain why. Sell your sim to the Captain. Pssst…don’t actually email it, put it here.</para></listitem>
 				<listitem>
-					<para>Sometimes a GM is called on to help out a ship. Maybe the GM got sick, maybe the ship has been hunting for a GM for a long time. Whatever the reason, most GMs will help out if they have the time. But this means you may not get to choose the ship as carefully as you would normally. Or maybe a CO likes your GMing and keeps you on board for sim after sim. Show that you can come up with some quick sim ideas for the following... <emphasis>25 marks</emphasis></para>
+					<para>Sometimes a GM is called on to help out a ship. Whatever the reason, this means that sometimes you find yourself having to come up with a sim idea on the spot. Pick one of the following ships and come up with a basic sim outline.</para>
 					<itemizedlist>
 						<listitem><para>Starbase 202</para></listitem>
-						<listitem><para>Oed V</para></listitem>
+						<listitem><para>USS Lexington</para></listitem>
 						<listitem><para>USS Ogawa</para></listitem>
 						<listitem><para>USS Genesis</para></listitem>
-						<listitem><para>USS Merrimack</para></listitem>
+						<listitem><para>USS Rogue</para></listitem>
 					</itemizedlist>
 				</listitem>
 			</orderedlist>
-			<para>N.B. There are <emphasis>10 marks</emphasis> floating for good spelling and good English. What? That's not fair? Well, how do you expect to GM well, if you if you cannot put forth your ideas in a clear, concise manner?</para>
-			<para>Total Marks 140 for Section B</para>
+			<para>N.B. There are <emphasis>8 marks</emphasis> floating for good spelling and good English.</para>
+			<para>Section B is 10 pass or fail marks</para>
 		</section>
 	</section>
 </article>
