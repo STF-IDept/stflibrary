@@ -1,4 +1,4 @@
-﻿<article class="specification" id="olinski">
+<article class="specification" id="olinski">
   <title>Brian A. Olinski-class</title>
   <articleinfo>
     <authorgroup role="Maintainer">
@@ -41,7 +41,7 @@
       <para>"I must go down to the seas again, to the lonely seas and the sky." *</para>
     </epigraph>
     <para>Following the Dominion War, many in the Federation felt that Starfleet had created combat ships for too long. In spite of a call for more vessels focused upon the Federation's stated mission of exploration and interplanetary cooperation, some military leaders feared that disarmament might once again leave the Federation vulnerable. Starfleet's Admiralty Board proposed a compromise. Along with many scientific vessel designs, one large combat vessel would see approval, provided that it could take the place of multiple smaller combat-oriented vessels. With this in mind, the design, initially called the Andoria class, was specifically built to counter any enemies that the Federation might meet.</para>
-    <para>The design phase was accelerated, stealing some ideas from other vessels in order to allow the full design to be completed in only seven years. After five years of design, the first vessel began construction at the McKinley Yards orbiting Earth. While they were not Starfleetï¿½s first choice for making the newest generation of super-ships, the Yards were relatively underused at the time, allowing the ship of the class to be completed in an astounding eight years. After two months of round-the-clock testing during its shakedown run, the ship class was ready for commission.</para>
+    <para>The design phase was accelerated, stealing some ideas from other vessels in order to allow the full design to be completed in only seven years. After five years of design, the first vessel began construction at the McKinley Yards orbiting Earth. While they were not Starfleet's first choice for making the newest generation of super-ships, the Yards were relatively underused at the time, allowing the ship of the class to be completed in an astounding eight years. After two months of round-the-clock testing during its shakedown run, the ship class was ready for commission.</para>
     <para>The death of Brian Olinski led the designers to name the ship class after him as a memorial to his exemplary service.</para>
     <para>The Brian Olinski's mission profile is as follows:</para>
     <simplelist>
@@ -83,7 +83,7 @@
       <title>Sickbay Computers</title>
       <para>The two Sickbays are each equipped with two EMH Mark IV variants. Due to complaints from other EMH iterations that they did not appreciate having the same appearance as countless other programs, Starfleet Research and Development has implemented new programming to make each EMH seem more unique. As such, none of the EMH programs share any similarities in appearance, although they all share the same medical database.</para>
       <para>In the Upper Sickbay, they are designated as EMH White and EMH Blue, and in the Lower Sickbay, they are designated as EMH Green and EMH Gold. They are activated by color coding - e.g. "Computer, activate Blue." - instead of simply telling the computer to activate an EMH, and have colored bands around the cuffs of their uniforms to differentiate them. They are customized, so that Blue and Gold are female, while White and Green are male. The EMHs in the Lower Sickbay are more brief in their speech, but not to the point of impersonality. They are all designated as possessing the same rank and authority. They are present so that the regular medical staff can have extra assistance during triage, and as temporary replacements to multiple medical personnel.</para>
-      <para>However, should they be required to replace the entire Medical staff aboard the ship, there is also a fifth EMH Mark IV which is not specific to either Sickbay. It activates on the command, "Activate Primary EMH." In order to differentiate it from the other EMH programs, it has the <link linkend="swede">SWEDE</link> upgrade installed, and has authority over the other four in any and all situations. Because of the primary EMH, all of the other EMHï¿½s are programmed to understand gibberish.</para>
+      <para>However, should they be required to replace the entire Medical staff aboard the ship, there is also a fifth EMH Mark IV which is not specific to either Sickbay. It activates on the command, "Activate Primary EMH." In order to differentiate it from the other EMH programs, it has the <link linkend="swede">SWEDE</link> upgrade installed, and has authority over the other four in any and all situations. Because of the primary EMH, all of the other EMH's are programmed to understand gibberish.</para>
     </section>
   </section>
   <section>
@@ -132,7 +132,7 @@
     <section>
       <title>Bridge</title>
       <para>The Bridge aboard the Brian Olinski comprises almost all of Deck 1, and is circular in basic structure, with a diameter of 11 meters. There are three basic levels, with the aft level being 0.4 meters higher than the forward level, and the third level being sunken in to the forward level.</para>
-      <para>In the back of the forward level, there are two chairs - one for the CO, and one for the XO. The starboard chair is for the CO, as it has command controls specifically designed for the Captain. These chairs look directly at the main view screen on the front wall of the Bridge. To the aft port and aft starboard of these chairs are sets of two steps which allow access between the forward level and the aft level. Directly to port and starboard of these chairs are two turbolifts, both which lead to the Emergency Bridge.</para>    
+      <para>In the back of the forward level, there are two chairs - one for the CO, and one for the XO. The starboard chair is for the CO, as it has command controls specifically designed for the Captain. These chairs look directly at the main view screen on the front wall of the Bridge. To the aft port and aft starboard of these chairs are sets of two steps which allow access between the forward level and the aft level. Directly to port and starboard of these chairs are two turbolifts, both which lead to the Emergency Bridge.</para>
       <para>Directly forward of these chairs, sunken in by 0.2 meters and accessible by a single step, is the CONN station, which accesses helm and navigational controls for the ship. There is a single chair for the officer manning the CONN. To the port of the CONN, but on the same level as the CO and XO's chair, is the Flight Operations station. This sta-tion provides a direct tactical link between the Combat Information Center (CIC) and the Bridge, and allows for the CAG and the CO to share information between each other about the status of auxiliary craft and the main vessel. It has a chair in front of a single panel, as well as a wall display detailing information relayed from the CIC. An Operations officer typically mans this station. Directly across from this station, on the starboard side, is a Fleet Control station. During fleet actions, this station will relay information about other ships to the Brian Olinski-class vessel, including tactical plans, ship status, and current formation. Its physical arrangement is similar to that of Flight Operations. An Ops officer or a flag officer mans this station, which acts as a mission operations station during missions where an Brian Olinski-class operates alone.</para>
       <para>At the center of the aft level, there are two displays with a panel underneath, with two chairs at each display. The starboard display and panel includes the Master Systems Display and the Engineering station, which allows the Bridge to access all technical information from the ship. The port display and panel is the Science station, and allows the Bridge to access all information from the sensors, probes, and laboratories. To the port and starboard of these displays are doors which lead to a corridor directly aft of the displays. This corridor has a turbolift on a direct line to each door, as well as a stairwell in the center which goes to deck 2. Farther to the starboard of the displays is an alcove which is both the Tactical and Security station. The panel at the fore of the alcove com-prises all of the ship's tactical controls, from shield distribution to phaser fire. The rear of the alcove has three displays and one panel, and allows the individual at the station to access basic security information, current Brig status, and security staffing information. In a similar position on the port side is an alcove which is the Operations station. It has a similar setup, with a forward facing panel that displays all ship operations, and allows the individual at the station to allocate ship's operations according to priority and capability. The three displays and panel at the aft of this station offer the officer at this station a more detailed display of all operations, including pending, ongoing, and previously rejected operations.</para>
     </section>
@@ -299,7 +299,7 @@
       <para>"And all I ask is a merry yarn from a laughing fellow-rover." *</para>
     </epigraph>
     <variablelist>
-      <title>Dimensions and Structure</title>    
+      <title>Dimensions and Structure</title>
       <varlistentry>
         <term>Length</term>
         <listitem><para>957.45 meters</para></listitem>
@@ -369,7 +369,7 @@
         <term>Maximum Evacuation Limit</term>
         <listitem><para>20000</para></listitem>
       </varlistentry>
-    </variablelist>      
+    </variablelist>
     <variablelist>
       <title>Computer Systems</title>
       <varlistentry>
@@ -384,7 +384,7 @@
         <term>User Interface</term>
         <listitem><para>MAJEL</para></listitem>
       </varlistentry>
-    </variablelist>        
+    </variablelist>
     <variablelist>
       <title>Warp Systems</title>
       <varlistentry>
