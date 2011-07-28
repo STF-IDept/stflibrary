@@ -55,10 +55,8 @@
     <title>Structure and Construction</title>
     <para>Mjolnir-class ships are designed to function as workhorses for the fleets they are assigned, with multiple mission profiles. As such, the design team working for the Project decided to base the general shape of the ship on a spaceframe that had served as a workhorse for Starfleet since the mid-23rd century: the Miranda-class. This decision was one of the most-criticized aspects of the design and building process, as many designers noted that advancements in technology since the 2250s had made the Miranda obsolete. In response, the Project’s designers justified their choice of shape by pointing out that a “flying saucer” was easier to defend by virtue of not having to worry abut a stardrive section to create blind spots for the ventral weapons systems. Critics were further assured that the Project builders would not be simply ‘big-ifying’ the Miranda frame, but merely using it as a guide, and would construct the ship using modern techniques, supplies, and equipment.</para>
     <para>To fulfill all the mission profiles the ship would be assigned, the design team drastically expanded the Miranda design from its original 277.76m x 173.98m x 65.23m to a much larger 874.9m x 548m x 205.5m, while also inverting the nacelle placement and eliminating the “roll-bar” possessed by some Miranda-class ships. Construction of the Mjolnir class began with the joining of four U-frames via transporter welding at Utopia Planitia Fleet Yards.</para>
-    <para>
-Two “bubbles” on the dorsal and ventral surfaces house critical systems.  The dorsal bubble is home to a sensor array, while the ventral bubble houses part of the ship’s weapons capacities.  An opening exists on decks eleven through fifteen for access to the ship’s central hangar.  Deflector systems are located on deck twenty-nine.  There are a total of thirty five decks aboard the ship, with an average deck measurement of 5m.  Due to their placement atop rather than below the main hull, the warp nacelles are not counted towards the deck count, leaving 177m of deck space.</para>
-    <para>Mjolnir-class ships are constructed with an 87-13 duranium-tritanium alloy mix.  In addition to standard ablative armor, Mjolnir-class ships are equipped with additional tritanium armor plating concentrated around vital areas like the Hangar Bay doors and torpedo bubble.  This makes those areas more resistant to damage inflicted by enemy weapons.
-</para>
+    <para>Two "bubbles" on the dorsal and ventral surfaces house critical systems.  The dorsal bubble is home to a sensor array, while the ventral bubble houses part of the ship’s weapons capacities.  An opening exists on decks eleven through fifteen for access to the ship’s central hangar.  Deflector systems are located on deck twenty-nine.  There are a total of thirty five decks aboard the ship, with an average deck measurement of 5m.  Due to their placement atop rather than below the main hull, the warp nacelles are not counted towards the deck count, leaving 177m of deck space.</para>
+    <para>Mjolnir-class ships are constructed with an 87-13 duranium-tritanium alloy mix.  In addition to standard ablative armor, Mjolnir-class ships are equipped with additional tritanium armor plating concentrated around vital areas like the Hangar Bay doors and torpedo bubble.  This makes those areas more resistant to damage inflicted by enemy weapons.</para>
   </section>
   <section>
     <title>Science and Remote Sensing Systems</title>
@@ -239,7 +237,7 @@ Two “bubbles” on the dorsal and ventral surfaces house critical systems.  Th
   <section>
     <title>Technical Specifications</title>
     <variablelist>
-      <title>Dimensions and Structure</title>    
+      <title>Dimensions and Structure</title>
       <varlistentry>
         <term>Length</term>
         <listitem><para>897.4 meters</para></listitem>
@@ -271,7 +269,7 @@ Two “bubbles” on the dorsal and ventral surfaces house critical systems.  Th
         <term>Maximum Evacuation Limit</term>
         <listitem><para>13200</para></listitem>
       </varlistentry>
-    </variablelist>      
+    </variablelist>
     <variablelist>
       <title>Computer Systems</title>
       <varlistentry>
@@ -286,7 +284,7 @@ Two “bubbles” on the dorsal and ventral surfaces house critical systems.  Th
         <term>User Interface</term>
         <listitem><para>MAJEL</para></listitem>
       </varlistentry>
-    </variablelist>        
+    </variablelist>
     <variablelist>
       <title>Warp Systems</title>
       <varlistentry>
