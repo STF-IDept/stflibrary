@@ -12,6 +12,7 @@ test:
 	time xsltproc \
 	--xinclude \
 	--stringparam base.dir $(BUILD)/ \
+	--stringparam chunk.section.depth 0 \
 	$(STYLESHEET) \
 	$(SOURCE)/set.xml
 
