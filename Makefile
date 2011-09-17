@@ -8,6 +8,9 @@ BUILD=./procbuild
 BUILD_FO=./procbuild_fo
 BUILD_EPUB=./procbuild_epub
 
+DOCBOOKXSL_CUSTOMIZED=./xsl/xsltproc
+STYLESHEET_XHTML=$(DOCBOOKXSL_CUSTOMIZED)/html-set.xsl
+
 FO_OUTPUT=stflibrary.fo
 EPUB_OUTPUT=stflibrary.epub
 
@@ -19,9 +22,6 @@ html:
 	--xinclude \
 	--timing \
 	--stringparam base.dir $(BUILD)/ \
-	--stringparam chunk.section.depth 0 \
-	--stringparam chunker.output.indent yes \
-	--stringparam use.id.as.filename 1 \
 	$(STYLESHEET_XHTML) \
 	$(SOURCE)/set.xml
 
