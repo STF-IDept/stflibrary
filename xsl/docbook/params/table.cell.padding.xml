@@ -10,14 +10,14 @@
 </refmeta>
 <refnamediv>
 <refname>table.cell.padding</refname>
-<refpurpose/>
+<refpurpose>Specifies the padding of table cells</refpurpose>
 </refnamediv>
 
 <refsynopsisdiv>
 <src:fragment xml:id="table.cell.padding.frag">
 <xsl:attribute-set name="table.cell.padding">
-  <xsl:attribute name="padding-left">2pt</xsl:attribute>
-  <xsl:attribute name="padding-right">2pt</xsl:attribute>
+  <xsl:attribute name="padding-start">2pt</xsl:attribute>
+  <xsl:attribute name="padding-end">2pt</xsl:attribute>
   <xsl:attribute name="padding-top">2pt</xsl:attribute>
   <xsl:attribute name="padding-bottom">2pt</xsl:attribute>
 </xsl:attribute-set>
@@ -26,7 +26,7 @@
 
 <refsection><info><title>Description</title></info>
 
-<para>FIXME:</para>
+<para>Specifies the padding of table cells.</para>
 
 </refsection>
 </refentry>

@@ -4,7 +4,7 @@
                 version='1.0'>
 
 <!-- ********************************************************************
-     $Id: biblio.xsl 6910 2007-06-28 23:23:30Z xmldoc $
+     $Id: biblio.xsl 7467 2007-09-27 16:10:31Z bobstayton $
      ********************************************************************
 
      This file is part of the XSL DocBook Stylesheet distribution.
@@ -153,7 +153,7 @@
   <xsl:choose>
     <xsl:when test="string(.) = ''">
       <xsl:variable name="bib" select="document($bibliography.collection,.)"/>
-      <xsl:variable name="entry" select="$bib/bibliography/
+      <xsl:variable name="entry" select="$bib/bibliography//
                                          *[@id=$id or @xml:id=$id][1]"/>
       <xsl:choose>
         <xsl:when test="$entry">
@@ -212,7 +212,7 @@
   <xsl:choose>
     <xsl:when test="string(.) = ''">
       <xsl:variable name="bib" select="document($bibliography.collection,.)"/>
-      <xsl:variable name="entry" select="$bib/bibliography/
+      <xsl:variable name="entry" select="$bib/bibliography//
                                          *[@id=$id or @xml:id=$id][1]"/>
       <xsl:choose>
         <xsl:when test="$entry">

@@ -11,7 +11,7 @@
                 version='1.0'>
 
 <!-- ********************************************************************
-     $Id: graphics.xsl 7241 2007-08-14 15:59:17Z mzjn $
+     $Id: graphics.xsl 8421 2009-05-04 07:49:49Z bobstayton $
      ********************************************************************
 
      This file is part of the XSL DocBook Stylesheet distribution.
@@ -63,7 +63,7 @@
 
 <xsl:template match="screenshot">
   <div>
-    <xsl:apply-templates select="." mode="class.attribute"/>
+    <xsl:apply-templates select="." mode="common.html.attributes"/>
     <xsl:apply-templates/>
   </div>
 </xsl:template>
@@ -525,8 +525,19 @@ valign: <xsl:value-of select="@valign"/></xsl:message>
   <xsl:variable name="img">
     <xsl:choose>
       <xsl:when test="@format = 'SVG'">
-        <object data="{$output_filename}" type="image/svg+xml">
-          <xsl:call-template name="process.image.attributes">
+        <object type="image/svg+xml">
+	  <xsl:attribute name="data">
+	    <xsl:choose>
+	      <xsl:when test="$img.src.path != '' and
+                           $tag = 'img' and
+			   not(starts-with($output_filename, '/')) and
+			   not(contains($output_filename, '://'))">
+		<xsl:value-of select="$img.src.path"/>
+	      </xsl:when>
+           </xsl:choose>
+	   <xsl:value-of select="$output_filename"/>
+	  </xsl:attribute>
+	  <xsl:call-template name="process.image.attributes">
             <!--xsl:with-param name="alt" select="$alt"/ there's no alt here-->
             <xsl:with-param name="html.depth" select="$html.depth"/>
             <xsl:with-param name="html.width" select="$html.width"/>
@@ -548,7 +559,18 @@ valign: <xsl:value-of select="@valign"/></xsl:message>
             </xsl:attribute>
           </xsl:if>
           <xsl:if test="$use.embed.for.svg != 0">
-            <embed src="{$output_filename}" type="image/svg+xml">
+	    <embed type="image/svg+xml">
+	      <xsl:attribute name="src">
+		<xsl:choose>
+                  <xsl:when test="$img.src.path != '' and
+				  $tag = 'img' and
+				  not(starts-with($output_filename, '/')) and
+				  not(contains($output_filename, '://'))">
+		    <xsl:value-of select="$img.src.path"/>
+                  </xsl:when>
+		</xsl:choose>
+		<xsl:value-of select="$output_filename"/>
+              </xsl:attribute>
               <xsl:call-template name="process.image.attributes">
                 <!--xsl:with-param name="alt" select="$alt"/ there's no alt here -->
                 <xsl:with-param name="html.depth" select="$html.depth"/>
@@ -1069,9 +1091,11 @@ valign: <xsl:value-of select="@valign"/></xsl:message>
           </xsl:choose>
         </xsl:when>
         <xsl:otherwise>
-          <a xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"
-             href="{$filename}"/>
-        </xsl:otherwise>
+	  <xsl:message terminate="yes">
+	    <xsl:text>Cannot insert </xsl:text><xsl:value-of select="$filename"/>
+	    <xsl:text>. Check use.extensions and textinsert.extension parameters.</xsl:text> 
+	  </xsl:message>
+	</xsl:otherwise>
       </xsl:choose>
     </xsl:when>
     <xsl:otherwise>
@@ -1102,7 +1126,7 @@ valign: <xsl:value-of select="@valign"/></xsl:message>
   </xsl:variable>
 
   <div>
-    <xsl:apply-templates select="." mode="class.attribute"/>
+    <xsl:apply-templates select="." mode="common.html.attributes"/>
     <xsl:if test="$align != '' ">
       <xsl:attribute name="align">
         <xsl:value-of select="$align"/>
@@ -1117,7 +1141,7 @@ valign: <xsl:value-of select="@valign"/></xsl:message>
 
 <xsl:template match="inlinemediaobject">
   <span>
-    <xsl:apply-templates select="." mode="class.attribute"/>
+    <xsl:apply-templates select="." mode="common.html.attributes"/>
     <xsl:call-template name="anchor"/>
     <xsl:call-template name="select.mediaobject"/>
   </span>
@@ -1328,7 +1352,7 @@ valign: <xsl:value-of select="@valign"/></xsl:message>
     </xsl:call-template>
   </xsl:variable>
 
-  <div class="longdesc-link" align="right">
+  <div class="longdesc-link" align="{$direction.align.end}">
     <br clear="all"/>
     <span class="longdesc-link">
       <xsl:text>[</xsl:text>
@@ -1415,8 +1439,10 @@ valign: <xsl:value-of select="@valign"/></xsl:message>
       </xsl:choose>
     </xsl:when>
     <xsl:otherwise>
-      <a xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad"
-         href="{$filename}"/>
+      <xsl:message terminate="yes">
+	<xsl:text>Cannot insert </xsl:text><xsl:value-of select="$filename"/>
+	<xsl:text>. Check use.extensions and textinsert.extension parameters.</xsl:text> 
+      </xsl:message>
     </xsl:otherwise>
   </xsl:choose>
 </xsl:template>
@@ -1425,7 +1451,7 @@ valign: <xsl:value-of select="@valign"/></xsl:message>
 
 <xsl:template match="caption">
   <div>
-    <xsl:apply-templates select="." mode="class.attribute"/>
+    <xsl:apply-templates select="." mode="common.html.attributes"/>
     <xsl:if test="@align = 'right' or @align = 'left' or @align='center'">
       <xsl:attribute name="align"><xsl:value-of
                          select="@align"/></xsl:attribute>

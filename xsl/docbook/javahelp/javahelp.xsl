@@ -12,7 +12,7 @@
 <xsl:output method="html"/>
 
 <!-- ********************************************************************
-     $Id: javahelp.xsl 7237 2007-08-14 00:30:12Z xmldoc $
+     $Id: javahelp.xsl 8400 2009-04-08 07:44:54Z bobstayton $
      ********************************************************************
 
      This file is part of the XSL DocBook Stylesheet distribution.
@@ -33,10 +33,7 @@
     <!-- Hack! If someone hands us a DocBook V5.x or DocBook NG document,
          toss the namespace and continue.  Use the docbook5 namespaced
          stylesheets for DocBook5 if you don't want to use this feature.-->
-    <!-- include extra test for Xalan quirk -->
-    <xsl:when test="(function-available('exsl:node-set') or
-                     contains(system-property('xsl:vendor'),
-                       'Apache Software Foundation'))
+    <xsl:when test="$exsl.node.set.available != 0
                     and (*/self::ng:* or */self::db:*)">
       <xsl:call-template name="log.message">
         <xsl:with-param name="level">Note</xsl:with-param>
@@ -112,6 +109,7 @@
     <xsl:with-param name="content">
       <xsl:call-template name="helpset.content"/>
     </xsl:with-param>
+    <xsl:with-param name="quiet" select="$chunk.quietly"/>
   </xsl:call-template>
 </xsl:template>
 
@@ -168,6 +166,7 @@
     <xsl:with-param name="content">
       <xsl:call-template name="helptoc.content"/>
     </xsl:with-param>
+    <xsl:with-param name="quiet" select="$chunk.quietly"/>
   </xsl:call-template>
 </xsl:template>
 
@@ -385,6 +384,7 @@
     <xsl:with-param name="content">
       <xsl:call-template name="helpmap.content"/>
     </xsl:with-param>
+    <xsl:with-param name="quiet" select="$chunk.quietly"/>
   </xsl:call-template>
 </xsl:template>
 
@@ -531,6 +531,7 @@
     <xsl:with-param name="content">
       <xsl:call-template name="helpidx.content"/>
     </xsl:with-param>
+    <xsl:with-param name="quiet" select="$chunk.quietly"/>
   </xsl:call-template>
 </xsl:template>
 

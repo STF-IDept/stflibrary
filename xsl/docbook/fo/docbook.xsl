@@ -13,7 +13,7 @@
 <xsl:output method="xml" indent="no"/>
 
 <!-- ********************************************************************
-     $Id: docbook.xsl 6910 2007-06-28 23:23:30Z xmldoc $
+     $Id: docbook.xsl 8913 2010-10-01 04:44:57Z bobstayton $
      ********************************************************************
 
      This file is part of the XSL DocBook Stylesheet distribution.
@@ -95,14 +95,18 @@
 
 <xsl:template match="*">
   <xsl:message>
-    <xsl:value-of select="name(.)"/>
-    <xsl:text> encountered</xsl:text>
+    <xsl:text>Element </xsl:text>
+    <xsl:value-of select="local-name(.)"/>
+    <xsl:text> in namespace '</xsl:text>
+    <xsl:value-of select="namespace-uri(.)"/>
+    <xsl:text>' encountered</xsl:text>
     <xsl:if test="parent::*">
       <xsl:text> in </xsl:text>
       <xsl:value-of select="name(parent::*)"/>
     </xsl:if>
     <xsl:text>, but no template matches.</xsl:text>
   </xsl:message>
+  
   <fo:block color="red">
     <xsl:text>&lt;</xsl:text>
     <xsl:value-of select="name(.)"/>
@@ -127,10 +131,7 @@
     <!-- Hack! If someone hands us a DocBook V5.x or DocBook NG document,
          toss the namespace and continue.  Use the docbook5 namespaced
          stylesheets for DocBook5 if you don't want to use this feature.-->
-    <!-- include extra test for Xalan quirk -->
-    <xsl:when test="(function-available('exsl:node-set') or
-                     contains(system-property('xsl:vendor'),
-                       'Apache Software Foundation'))
+    <xsl:when test="$exsl.node.set.available != 0
                     and (*/self::ng:* or */self::db:*)">
       <xsl:call-template name="log.message">
         <xsl:with-param name="level">Note</xsl:with-param>
@@ -272,6 +273,7 @@
     </xsl:if>
 
     <xsl:if test="$fop1.extensions != 0">
+      <xsl:call-template name="fop1-document-information"/>
       <xsl:variable name="bookmarks">
         <xsl:apply-templates select="$document.element" 
                              mode="fop1.outline"/>
@@ -281,6 +283,8 @@
           <xsl:copy-of select="$bookmarks"/>
         </fo:bookmark-tree>
       </xsl:if>
+      <xsl:apply-templates select="$document.element" 
+                           mode="fop1.foxdest"/>
     </xsl:if>
 
     <xsl:if test="$xep.extensions != 0">

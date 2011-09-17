@@ -1,7 +1,7 @@
 ----------------------------------------------------------------------
               README file for the DocBook XSL Stylesheets
 ----------------------------------------------------------------------
-$Id: README 7303 2007-08-28 10:46:06Z xmldoc $
+$Id: README 8484 2009-07-13 20:35:34Z mzjn $
 
 These are XSL stylesheets for transforming DocBook XML document
 instances into various output formats.
@@ -52,12 +52,15 @@ schema/DTD, use one of the following stylesheets:
 
   xhtml/*.xsl                 - for XHTML versions of the above
 
+  xhtml-1_1/*.xsl             - for XHTML 1.1 versions of the above
+
+  epub/docbook.xsl            - for .epub 
+
   htmlhelp/htmlhelp.xsl       - for HTML Help
   javahelp/javahelp.xsl       - for JavaHelp
   eclipse/eclipse.xsl         - for Eclipse Help
 
-  manpages/docbook.xsl        - for groff/nroff man pages[1]
-  [1] more information at http://wiki.docbook.org/topic/ManPages
+  manpages/docbook.xsl        - for groff/nroff man pages
 
   */profile-*                 - single-pass-profiling versions of all above
 
@@ -104,6 +107,7 @@ NEWS          changes since the last public release (for a cumulative list of
 common/       code used among several output formats (HTML, FO, manpages,...)
 docsrc/       documentation sources
 eclipse/      for producing Eclipse Help
+epub/         for producing .epub
 extensions/   DocBook XSL Java extensions
 fo/           for producing XSL-FO
 highlighting  files used for adding source-code syntax highlighting in output
@@ -121,6 +125,7 @@ template/     templates for building stylesheet customization layers
 tools/        assorted supplementary tools
 website/      for producing website output (from Website source)
 xhtml/        for producing XHTML
+xhtml-1_1/    for producing (stricter) XHTML 1.1
 
 ----------------------------------------------------------------------
 Changes
