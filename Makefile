@@ -4,9 +4,6 @@ STYLESHEET_XHTML=$(DOCBOOKXSL)/xhtml/chunkfast.xsl
 SOURCE=./src
 BUILD=./procbuild
 
-RESOLVED=resolved.xml
-STYLESHEET=/usr/share/xml/docbook/stylesheet/docbook-xsl/xhtml/chunkfast.xsl
-
 all: main
 
 main:
