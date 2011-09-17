@@ -11,8 +11,9 @@ all: main
 
 main:
 	mkdir -p $(BUILD)
-	time xsltproc \
+	xsltproc \
 	--xinclude \
+	--timing \
 	--stringparam base.dir $(BUILD)/ \
 	--stringparam chunk.section.depth 0 \
 	--stringparam chunker.output.indent yes \
