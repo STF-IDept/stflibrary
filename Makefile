@@ -7,7 +7,9 @@ BUILD=./procbuild
 RESOLVED=resolved.xml
 STYLESHEET=/usr/share/xml/docbook/stylesheet/docbook-xsl/xhtml/chunkfast.xsl
 
-test:
+all: main
+
+main:
 	mkdir -p $(BUILD)
 	time xsltproc \
 	--xinclude \
