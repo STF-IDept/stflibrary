@@ -14,6 +14,7 @@ test:
 	--stringparam base.dir $(BUILD)/ \
 	--stringparam chunk.section.depth 0 \
 	--stringparam chunker.output.indent yes \
+	--stringparam use.id.as.filename 1 \
 	$(STYLESHEET) \
 	$(SOURCE)/set.xml
 
