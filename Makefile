@@ -13,6 +13,7 @@ test:
 	--xinclude \
 	--stringparam base.dir $(BUILD)/ \
 	--stringparam chunk.section.depth 0 \
+	--stringparam chunker.output.indent yes \
 	$(STYLESHEET) \
 	$(SOURCE)/set.xml
 
