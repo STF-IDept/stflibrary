@@ -1,12 +1,16 @@
 # Variable declarations
 DOCBOOKXSL=./xsl/docbook
 STYLESHEET_XHTML=$(DOCBOOKXSL)/xhtml/chunkfast.xsl
+STYLESHEET_FO=$(DOCBOOKXSL)/fo/docbook.xsl
 SOURCE=./src
 BUILD=./procbuild
+BUILD_FO=./procbuild_fo
 
-all: main
+FO_OUTPUT=stflibrary.fo
 
-main:
+all: html pdf
+
+html:
 	mkdir -p $(BUILD)
 	xsltproc \
 	--xinclude \
@@ -17,6 +21,20 @@ main:
 	--stringparam use.id.as.filename 1 \
 	$(STYLESHEET_XHTML) \
 	$(SOURCE)/set.xml
+
+pdf:
+	# We may be able to merge these into a single fop command when the build
+	# errors are resolved.
+	mkdir -p $(BUILD_FO)
+	xsltproc \
+	--xinclude \
+	--timing \
+	--stringparam fop1.extensions 1 \
+	--output $(FO_OUTPUT) \
+	$(STYLESHEET_FO) \
+	$(SOURCE)/set.xml
+	fop -fo $(FO_OUTPUT) -pdf library.pdf
+
 
 clean:
 	@echo "Deleting output files"
