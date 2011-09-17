@@ -23,6 +23,7 @@
     This file is a copy-paste-modify from xhtml/chunkfast.xsl.  The following
     customizations are all we're adding.  Arguably they could be put into a build
     script, but why the heck would we want these in the make file?
+  -->
 
   <!-- Set the stylesheet to use for the entire library. We'll set book-specific ones later. -->
   <xsl:param name="html.stylesheet" select="'../styles/main.css'" />
