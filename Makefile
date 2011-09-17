@@ -1,6 +1,6 @@
 # Variable declarations
-DOCBOOKXSL=/usr/share/xml/docbook/stylesheet/docbook-xsl/xhtml
-DBDTD=/usr/share/sgml/docbook/dtd/xml/4.3/docbookx.dtd
+DOCBOOKXSL=./xsl/docbook
+STYLESHEET_XHTML=$(DOCBOOKXSL)/xhtml/chunkfast.xsl
 SOURCE=./src
 BUILD=./procbuild
 
@@ -18,7 +18,7 @@ main:
 	--stringparam chunk.section.depth 0 \
 	--stringparam chunker.output.indent yes \
 	--stringparam use.id.as.filename 1 \
-	$(STYLESHEET) \
+	$(STYLESHEET_XHTML) \
 	$(SOURCE)/set.xml
 
 clean:
