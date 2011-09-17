@@ -30,15 +30,15 @@ all: chunk monolithic
 #  @echo "Building unified file."
 #  @xmllint -xinclude $(SOURCE)/set.xml > $(RESOLVED)
 
-#valid: resolve
-#  @echo "Validating Handbook"
-#  @xmllint \
-#  --noout \
-#  --xinclude \
-#  --postvalid \
-#  --noent \
-#  --dtdvalid $(DBDTD) \
-#  $(RESOLVED)
+valid:
+	@echo "Validating Handbook"
+	@xmllint \
+	--noout \
+	--xinclude \
+	--postvalid \
+	--noent \
+	--dtdvalid $(DBDTD) \
+	$(SOURCE)/set.xml
 
 #monolithic: resolve
 #  @echo "Generating single-file HTML outout."
