@@ -18,7 +18,11 @@ test:
 	$(STYLESHEET) \
 	$(SOURCE)/set.xml
 
-#xsltproc --xinclude --stringparam base.dir procbuild/ /usr/share/xml/docbook/stylesheet/docbook-xsl/xhtml/chunk.xsl src/set.xml
+clean:
+	@echo "Deleting output files"
+	@find ./$(BUILD) -name '*.html' -exec rm {} \;
+	@echo "Deleting redundant backup saves"
+	@find . -name '*~' -exec rm {} \;
 
 all: chunk monolithic
 
