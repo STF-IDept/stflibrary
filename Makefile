@@ -14,7 +14,7 @@ BUILD_EPUB=./procbuild_epub
 FO_OUTPUT=stflibrary.fo
 EPUB_OUTPUT=stflibrary.epub
 
-all: html pdf
+all: html pdf epub
 
 html:
 	mkdir -p $(BUILD_HTML)
