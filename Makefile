@@ -1,17 +1,15 @@
 # Variable declarations
 DOCBOOKXSL=./xsl/docbook
-STYLESHEET_XHTML=$(DOCBOOKXSL)/xhtml/chunkfast.xsl
+DOCBOOKXSL_CUSTOMIZED=./xsl/xsltproc
+
+STYLESHEET_XHTML=$(DOCBOOKXSL_CUSTOMIZED)/xhtml.xsl
 STYLESHEET_EPUB=$(DOCBOOKXSL)/epub/docbook.xsl
 STYLESHEET_FO=$(DOCBOOKXSL)/fo/docbook.xsl
+
 SOURCE=./src
-BUILD=./procbuild
+BUILD_HTML=./build
 BUILD_FO=./procbuild_fo
 BUILD_EPUB=./procbuild_epub
-
-DOCBOOKXSL_CUSTOMIZED=./xsl/xsltproc
-STYLESHEET_HTML_SET=$(DOCBOOKXSL_CUSTOMIZED)/html-set.xsl
-
-
 
 FO_OUTPUT=stflibrary.fo
 EPUB_OUTPUT=stflibrary.epub
@@ -19,23 +17,13 @@ EPUB_OUTPUT=stflibrary.epub
 all: html pdf
 
 html:
-	mkdir -p $(BUILD)
+	mkdir -p $(BUILD_HTML)
 	xsltproc \
 	--xinclude \
 	--timing \
-	--stringparam base.dir $(BUILD)/ \
+	--stringparam base.dir $(BUILD_HTML)/ \
 	$(STYLESHEET_XHTML) \
 	$(SOURCE)/set.xml
-
-html.set:
-	mkdir -p $(BUILD)
-	xsltproc \
-	--xinclude \
-	--timing \
-	--stringparam base.dir $(BUILD)/ \
-	$(STYLESHEET_HTML_SET) \
-	$(SOURCE)/set.xml
-
 
 epub:
 	mkdir -p $(BUILD_EPUB)
@@ -62,7 +50,6 @@ pdf:
 	$(STYLESHEET_FO) \
 	$(SOURCE)/set.xml
 	fop -fo $(FO_OUTPUT) -pdf library.pdf
-
 
 clean:
 	@echo "Deleting output files"
