@@ -16,7 +16,11 @@
 <!-- ==================================================================== -->
 
 
+  <xsl:import href="html-set-customizations.xsl"/>
+
 <xsl:import href="../docbook/xhtml/chunk.xsl"/>
+
+
 <xsl:param name="chunk.fast" select="1"/>
 
   <!--
@@ -24,6 +28,14 @@
     customizations are all we're adding.  Arguably they could be put into a build
     script, but why the heck would we want these in the make file?
   -->
+
+  <!--
+    I don't fully understand why these work, but you need both of them. This
+    limits the TOC depth for both set and book to 2, so you only see the top most
+    sections at any given level.
+  -->
+  <xsl:param name="toc.max.depth" select="2"/>
+  <xsl:param name="toc.section.depth" select="2"/>
 
   <!-- Set the stylesheet to use for the entire library. We'll set book-specific ones later. -->
   <xsl:param name="html.stylesheet" select="'../styles/main.css'" />
@@ -44,6 +56,8 @@
 
   <!-- Disable auto-numbering of chapters and sections unless we say otherwise. -->
   <xsl:param name="chapter.autolabel" select="0" />
+  <xsl:param name="part.autolabel" select="0" />
+  <xsl:param name="article.autolabel" select="0" />
   <xsl:param name="section.autolabel" select="0" />
   <xsl:param name="section.autolabel.max.depth" select="0" />
 
@@ -51,6 +65,19 @@
   <xsl:param name="punct.honorific" /> <!-- set it to empty string, select="" didn't work -->
 
   <xsl:param name="img.src.path" select="''" />
+
+  <xsl:param name="generate.toc">
+  appendix  toc,title
+  article/appendix  nop
+  article   toc,title
+  book      toc,title
+  part      toc,title
+  preface   toc,title
+  qandadiv  toc
+  qandaset  toc
+  reference toc,title
+  set       toc,title
+  </xsl:param>
 
   <!-- END CUSTOMIZATIONS -->
 

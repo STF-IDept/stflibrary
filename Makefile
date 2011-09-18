@@ -9,7 +9,9 @@ BUILD_FO=./procbuild_fo
 BUILD_EPUB=./procbuild_epub
 
 DOCBOOKXSL_CUSTOMIZED=./xsl/xsltproc
-STYLESHEET_XHTML=$(DOCBOOKXSL_CUSTOMIZED)/html-set.xsl
+STYLESHEET_HTML_SET=$(DOCBOOKXSL_CUSTOMIZED)/html-set.xsl
+
+
 
 FO_OUTPUT=stflibrary.fo
 EPUB_OUTPUT=stflibrary.epub
@@ -24,6 +26,16 @@ html:
 	--stringparam base.dir $(BUILD)/ \
 	$(STYLESHEET_XHTML) \
 	$(SOURCE)/set.xml
+
+html.set:
+	mkdir -p $(BUILD)
+	xsltproc \
+	--xinclude \
+	--timing \
+	--stringparam base.dir $(BUILD)/ \
+	$(STYLESHEET_HTML_SET) \
+	$(SOURCE)/set.xml
+
 
 epub:
 	mkdir -p $(BUILD_EPUB)
