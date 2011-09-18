@@ -16,7 +16,7 @@
 <!-- ==================================================================== -->
 
 
-  <xsl:import href="html-set-customizations.xsl"/>
+  <xsl:import href="xhtml-customizations.xsl"/>
 
 <xsl:import href="../docbook/xhtml/chunk.xsl"/>
 

@@ -39,34 +39,6 @@
 
   <!-- Any custom templates we need go here. -->
 
-  <!-- Disable the body element attributes that are not strict-complaint. -->
-  <xsl:template name="body.attributes">
-  <!--   <xsl:attribute name="bgcolor">white</xsl:attribute> -->
-  <!--   <xsl:attribute name="text">black</xsl:attribute> -->
-  <!--   <xsl:attribute name="link">#0000FF</xsl:attribute> -->
-  <!--   <xsl:attribute name="vlink">#840084</xsl:attribute> -->
-  <!--   <xsl:attribute name="alink">#0000FF</xsl:attribute> -->
-  </xsl:template>
-
-  <!-- We want simplelists to render as <ul> not tables, the way god intended. -->
-  <xsl:template match="simplelist">
-    <xsl:call-template name="anchor"/>
-    <ul>
-      <xsl:attribute name="class">
-      <xsl:value-of select="@role" /><xsl:text> </xsl:text><xsl:value-of select="name(.)" />
-    </xsl:attribute>
-      <xsl:apply-templates />
-    </ul>
-  </xsl:template>
-
-  <xsl:template match="member">
-    <li class="{name(.)}">
-    <xsl:attribute name="class">
-      <xsl:value-of select="@role" /><xsl:text> </xsl:text><xsl:value-of select="name(.)" />
-    </xsl:attribute>
-    <xsl:apply-templates />
-    </li>
-  </xsl:template>
 
   <!-- Add some copyright and standard-bragging stuff to every page. -->
   <xsl:template name="copyright.bar">
