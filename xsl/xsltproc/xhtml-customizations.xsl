@@ -25,4 +25,9 @@
     </li>
   </xsl:template>
 
+  <xsl:template name="user.footer.navigation">
+    <hr/>
+    <xsl:apply-templates select="//copyright[1]" mode="titlepage.mode"/>
+  </xsl:template>
+
 </xsl:stylesheet>
