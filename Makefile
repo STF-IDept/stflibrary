@@ -11,6 +11,10 @@ BUILD_HTML=./build
 BUILD_FO=./procbuild_fo
 BUILD_EPUB=./procbuild_epub
 
+UPLOAD_SERVER=www.star-fleet.com
+UPLOAD_USER=stfleet
+UPLOAD_PATH=/usr/home/stfleet/public_html/library/newbookshelf/
+
 FO_OUTPUT=stflibrary.fo
 EPUB_OUTPUT=stflibrary.epub
 
@@ -66,3 +70,7 @@ valid:
 	--noent \
 	--dtdvalid $(DBDTD) \
 	$(SOURCE)/set.xml
+
+upload:
+	@echo "Uploading files to production"
+	@scp -r $(BUILD_HTML)/* $(UPLOAD_USER)@$(UPLOAD_SERVER):$(UPLOAD_PATH)
