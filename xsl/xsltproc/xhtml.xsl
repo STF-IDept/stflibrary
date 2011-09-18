@@ -17,7 +17,7 @@
   <xsl:param name="toc.section.depth" select="2"/>
 
   <!-- Set the stylesheet to use for the entire library. We'll set book-specific ones later. -->
-  <xsl:param name="html.stylesheet" select="'../styles/main.css'" />
+  <xsl:param name="html.stylesheet" select="'styles/main.css'" />
 
   <!-- Sets the starting directory for the whole tree's output. -->
 <!--   <xsl:param name="base.dir" select="'build/'" /> -->
