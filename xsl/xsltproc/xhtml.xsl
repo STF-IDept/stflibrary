@@ -16,10 +16,10 @@
 <!-- ==================================================================== -->
 
 
-  <xsl:import href="xhtml-customizations.xsl"/>
 
 <xsl:import href="../docbook/xhtml/chunk.xsl"/>
 
+  <xsl:import href="xhtml-customizations.xsl"/>
 
 <xsl:param name="chunk.fast" select="1"/>
 
