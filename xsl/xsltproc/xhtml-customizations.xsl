@@ -1,7 +1,8 @@
 <?xml version='1.0'?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:exsl="http://exslt.org/common" xmlns:cf="http://docbook.sourceforge.net/xmlns/chunkfast/1.0" xmlns="http://www.w3.org/1999/xhtml" version="1.0" exclude-result-prefixes="cf exsl">
 
-  <!-- Any custom templates we need go here. -->
+  <!-- Templates specific to a particular section, which we break out for maintainability. -->
+  <xsl:import href="xhtml-tm.xsl"/>
 
   <!-- General templates -->
 
