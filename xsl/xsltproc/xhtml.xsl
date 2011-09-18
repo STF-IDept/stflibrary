@@ -17,11 +17,10 @@
 
 
 
-<xsl:import href="../docbook/xhtml/chunk.xsl"/>
+<xsl:import href="../docbook/xhtml/chunkfast.xsl"/>
 
   <xsl:import href="xhtml-customizations.xsl"/>
 
-<xsl:param name="chunk.fast" select="1"/>
 
   <!--
     This file is a copy-paste-modify from xhtml/chunkfast.xsl.  The following
