@@ -32,6 +32,7 @@
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/o.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/pakled.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/quasian.xml" />
+    <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/seetha.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/talosian.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/tholian.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/trill.xml" />
