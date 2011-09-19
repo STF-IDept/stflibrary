@@ -64,7 +64,7 @@ pdf:
 clean:
 	@echo "Deleting HTML files"
 	@find ./$(BUILD_HTML) -name '*.html' -exec rm {} \;
-	@rm $(BUILD_HTML)/$(EPUB_FILE_NAME)
+	@rm -f $(BUILD_HTML)/$(EPUB_FILE_NAME)
 	@echo "Deleting intermediary Epub files"
 	@rm -rf $(BUILD_EPUB)
 	@echo "Deleting redundant backup saves"
