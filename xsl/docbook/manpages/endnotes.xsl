@@ -8,7 +8,7 @@
                 version='1.0'>
 
 <!-- ********************************************************************
-     $Id: endnotes.xsl 7254 2007-08-18 23:59:53Z xmldoc $
+     $Id: endnotes.xsl 8703 2010-07-06 20:57:06Z nwalsh $
      ********************************************************************
 
      This file is part of the XSL DocBook Stylesheet distribution.
@@ -42,8 +42,8 @@
 <!-- *    Notesources with the same earmark are assigned the same -->
 <!-- *    number. -->
 <!-- * -->
-<!-- *    By design, that index excludes any element whose whose string -->
-<!-- *    value is identical to value of its url xlink:href attribute). -->
+<!-- *    By design, that index excludes any element whose string value -->
+<!-- *    is identical to the value of its url xlink:href attribute). -->
 <!-- * -->
 <!-- * 2. Puts a numbered marker inline to mark the place where the -->
 <!-- *    notesource occurs in the main text flow. -->
@@ -68,8 +68,8 @@
 <!-- * earmarks is that we need to get and check the sets of -->
 <!-- * earmarks for uniqueness per-Refentry (not per-document). -->
 <!-- * -->
-<!-- * FIXME: as -->
-<!-- * with "repeat" URLS, alt instances that have the same string value -->
+<!-- * FIXME: -->
+<!-- * as with "repeat" URLS, alt instances that have the same string value -->
 <!-- * as preceding ones (likely to occur for repeat acroynyms and -->
 <!-- * abbreviations) should be listed only once in the endnotes list, -->
 <!-- * and numbered accordingly inline; split man.indent.width into -->
@@ -175,9 +175,10 @@
 <!-- ==================================================================== -->
 
 <xsl:template match="*[@xlink:href]|ulink
-                     |imagedata|audiodata|videodata
-                     |footnote[not(ancestor::table)]
-                     |annotation|alt">
+  |imagedata|audiodata|videodata
+  |footnote[not(ancestor::table)]
+  |annotation|alt">
+  <xsl:variable name="refname" select="ancestor::refentry/refnamediv[1]/refname[1]"/>
   <xsl:variable name="all.earmark.indexes.in.current.document.rtf">
     <xsl:call-template name="get.all.earmark.indexes.in.current.document"/>
   </xsl:variable>
@@ -258,14 +259,15 @@
           <!-- * do some further checking on it, so we can emit warnings -->
           <!-- * about potential problems -->
         <xsl:for-each select="node()">
-          <xsl:if test="local-name() != 'para' and local-name() !=''">
+          <xsl:if test="local-name() != 'para' and
+                        local-name() != 'simpara' and
+                        local-name() !=''">
             <!-- * for each node we find as a child of a footnote or -->
             <!-- * annotation, if it's not a para or a text node, emit a -->
             <!-- * warning... because in manpages output, we can't render -->
             <!-- * block-level child content of an endnote properly unless -->
             <!-- * it's wrapped in a para that has some "prefatory" text -->
             <xsl:variable name="parent-name" select="local-name(..)"/>
-            <xsl:variable name="refname" select="ancestor::refentry/refnamediv[1]/refname[1]"/>
             <xsl:variable name="endnote-number">
               <xsl:call-template name="pad-string">
                 <!-- * endnote number may be 2 digits, so pad it with a space -->
@@ -343,34 +345,64 @@
   </xsl:variable>
 
   <xsl:if test="self::ulink or self::*[@xlink:href]">
-    <!-- * This is a hyperlink, so we need to decide how to format -->
-    <!-- * the inline contents of the link (to underline or not). -->
+    <xsl:variable name="link.wrapper">
+      <xsl:value-of select="normalize-space($notesource.contents)"/>
+    </xsl:variable>
+    <xsl:text>\m[blue]</xsl:text>
+    <!-- * This is a hyperlink, so we need to determine if the user wants -->
+    <!-- * font formatting applied to it, and if so, what font -->
     <xsl:choose>
-      <!-- * if user wants links underlined, underline (ital) it -->
-      <xsl:when test="$man.links.are.underlined != 0">
-        <xsl:variable name="link.wrapper">
-          <xsl:value-of select="$notesource.contents"/>
-        </xsl:variable>
+      <xsl:when test="$man.font.links = 'B'">
+        <xsl:call-template name="bold">
+          <xsl:with-param name="node" select="exsl:node-set($link.wrapper)"/>
+          <xsl:with-param name="context" select="."/>
+        </xsl:call-template>
+      </xsl:when>
+      <xsl:when test="$man.font.links = 'I'">
         <xsl:call-template name="italic">
           <xsl:with-param name="node" select="exsl:node-set($link.wrapper)"/>
           <xsl:with-param name="context" select="."/>
         </xsl:call-template>
       </xsl:when>
+      <xsl:when test="$man.font.links = ''">
+        <!-- * if man.font.links is empty, user doesn't want links -->
+        <!-- * underlined, so just display content -->
+        <xsl:value-of select="$notesource.contents"/>
+      </xsl:when>
       <xsl:otherwise>
-        <!-- * user doesn't want links underlined, so just display content -->
+        <!-- * otherwise the user has specified an unsupported value for -->
+        <!-- * man.font.links, so emit a warning and don't apply any font -->
+        <!-- * formatting -->
+        <xsl:message>
+          <xsl:call-template name="log.message">
+            <xsl:with-param name="level">Warn</xsl:with-param>
+            <xsl:with-param name="source" select="$refname"/>
+            <xsl:with-param name="context-desc">
+              <xsl:text>link font</xsl:text>
+            </xsl:with-param>
+            <xsl:with-param name="message">
+              <xsl:text>invalid $man.font.links value: </xsl:text>
+              <xsl:text>'</xsl:text>
+              <xsl:value-of select="$man.font.links"/>
+              <xsl:text>'</xsl:text>
+            </xsl:with-param>
+          </xsl:call-template>
+        </xsl:message>
         <xsl:value-of select="$notesource.contents"/>
       </xsl:otherwise>
     </xsl:choose>
+    <xsl:text>\m[]</xsl:text>
   </xsl:if>
 
   <xsl:if test="$notesource.number != ''">
-    <!-- * Format the number by placing it in square brackets. FIXME: -->
-    <!-- * This formatting should probably be made user-configurable, -->
-    <!-- * to allow something other than just square brackets; e.g., -->
-    <!-- * Angle brackets<10> or Braces{10}  -->
-    <xsl:text>\&amp;[</xsl:text>
+    <!-- * Format the number by placing it in square brackets. -->
+    <!-- * Also, set the number in font-size -2, and superscripted (\u -->
+    <!-- * means to move up half a line vertically) -->
+    <xsl:text>\&amp;\s-2\u[</xsl:text>
     <xsl:value-of select="$notesource.number"/>
-    <xsl:text>]</xsl:text>
+    <xsl:text>]\d\s+2</xsl:text>
+    <!-- * Revert superscripting (\d means to move down half a line), and -->
+    <!-- * move the font-size back to what it was before. -->
     <!-- * Note that the reason for the \& before the opening bracket -->
     <!-- * is to prevent any possible linebreak from being introduced -->
     <!-- * between the opening bracket and the following text. -->
@@ -416,12 +448,10 @@
 
 <xsl:template name="format.endnotes.list">
   <xsl:param name="endnotes"/>
-  <xsl:call-template name="mark.subheading"/>
 
   <!-- * ======= make the endnotes-list section heading ============= -->
-  <xsl:text>.SH "</xsl:text>
-  <xsl:call-template name="string.upper">
-    <xsl:with-param name="string">
+  <xsl:call-template name="make.subheading">
+    <xsl:with-param name="title">
       <xsl:choose>
         <!-- * if user has specified a heading, use that -->
         <xsl:when test="$man.endnotes.list.heading != ''">
@@ -437,7 +467,6 @@
       </xsl:choose>
     </xsl:with-param>
   </xsl:call-template>
-  <xsl:text>"&#10;</xsl:text>
 
   <!-- * ================ process each earmark ====================== -->
   <xsl:for-each select="$endnotes/earmark">
@@ -484,13 +513,15 @@
       </xsl:when>
       <xsl:otherwise>
         <!-- * otherwise, this earmark has empty content, -->
-        <!-- * which means its corresponding notesources is an -->
+        <!-- * which means its corresponding notesource is an -->
         <!-- * imagedata, audiodata, or videodata instance; in -->
-        <!-- * that case, we use the value of the notesoures's -->
+        <!-- * that case, we use the value of the notesource's -->
         <!-- * @fileref attribute (which is stored in the -->
         <!-- * earmark uri attribute) as the "contents" for -->
         <!-- * this endnote/notesource -->
-        <xsl:value-of select="@uri"/>
+        <xsl:call-template name="display.uri">
+          <xsl:with-param name="uri" select="@uri"/>
+        </xsl:call-template>
       </xsl:otherwise>
     </xsl:choose>
     <xsl:text>&#10;</xsl:text>
@@ -523,13 +554,33 @@
         <xsl:call-template name="suppress.hyphenation"/>
         <xsl:text>\%</xsl:text>
       </xsl:if>
-      <xsl:value-of select="@uri"/>
+      <xsl:call-template name="display.uri">
+        <xsl:with-param name="uri" select="@uri"/>
+      </xsl:call-template>
       <xsl:text>&#10;</xsl:text>
       <xsl:text>.RE</xsl:text>
       <xsl:text>&#10;</xsl:text>
     </xsl:if>
 
   </xsl:for-each>
+</xsl:template>
+
+<xsl:template name="display.uri">
+  <xsl:param name="uri"/>
+  <xsl:choose>
+    <xsl:when test="contains($uri, ':')">
+      <!-- * if this URI contains a colon character, it’s probably -->
+      <!-- * an absolute URI with a scheme, so we output it as-is -->
+      <xsl:value-of select="$uri"/>
+    </xsl:when>
+    <xsl:otherwise>
+      <!-- * otherwise this is probably not an absolute URI, so we -->
+      <!-- * need to prepend $man.base.url.for.relative.links to -->
+      <!-- * give the URI some "context" in man-page output -->
+      <xsl:value-of
+        select="concat($man.base.url.for.relative.links, $uri)"/>
+    </xsl:otherwise>
+  </xsl:choose>
 </xsl:template>
 
 </xsl:stylesheet>

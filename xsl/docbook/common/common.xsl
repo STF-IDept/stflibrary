@@ -7,7 +7,7 @@
                 version='1.0'>
 
 <!-- ********************************************************************
-     $Id: common.xsl 7056 2007-07-17 13:56:09Z xmldoc $
+     $Id: common.xsl 8784 2010-07-28 12:32:54Z mzjn $
      ********************************************************************
 
      This file is part of the XSL DocBook Stylesheet distribution.
@@ -20,7 +20,7 @@
   <info>
     <title>Common » Base Template Reference</title>
     <releaseinfo role="meta">
-      $Id: common.xsl 7056 2007-07-17 13:56:09Z xmldoc $
+      $Id: common.xsl 8784 2010-07-28 12:32:54Z mzjn $
     </releaseinfo>
   </info>
   <!-- * yes, partintro is a valid child of a reference... -->
@@ -1316,8 +1316,8 @@ pointed to by the link is one of the elements listed in
   <xsl:choose>
     <xsl:when test="not($list/@continuation = 'continues')">
       <xsl:choose>
-        <xsl:when test="@startingnumber">
-          <xsl:value-of select="@startingnumber"/>
+        <xsl:when test="$list/@startingnumber">
+          <xsl:value-of select="$list/@startingnumber"/>
         </xsl:when>
         <xsl:when test="$pi-start != ''">
           <xsl:value-of select="$pi-start"/>
@@ -1404,6 +1404,44 @@ pointed to by the link is one of the elements listed in
       </xsl:choose>
     </xsl:otherwise>
   </xsl:choose>
+</xsl:template>
+
+<xsl:template match="orderedlist/listitem" mode="item-number">
+  <xsl:variable name="numeration">
+    <xsl:call-template name="list.numeration">
+      <xsl:with-param name="node" select="parent::orderedlist"/>
+    </xsl:call-template>
+  </xsl:variable>
+
+  <xsl:variable name="type">
+    <xsl:choose>
+      <xsl:when test="$numeration='arabic'">1.</xsl:when>
+      <xsl:when test="$numeration='loweralpha'">a.</xsl:when>
+      <xsl:when test="$numeration='lowerroman'">i.</xsl:when>
+      <xsl:when test="$numeration='upperalpha'">A.</xsl:when>
+      <xsl:when test="$numeration='upperroman'">I.</xsl:when>
+      <!-- What!? This should never happen -->
+      <xsl:otherwise>
+        <xsl:message>
+          <xsl:text>Unexpected numeration: </xsl:text>
+          <xsl:value-of select="$numeration"/>
+        </xsl:message>
+        <xsl:value-of select="1."/>
+      </xsl:otherwise>
+    </xsl:choose>
+  </xsl:variable>
+
+  <xsl:variable name="item-number">
+    <xsl:call-template name="orderedlist-item-number"/>
+  </xsl:variable>
+
+  <xsl:if test="parent::orderedlist/@inheritnum='inherit'
+                and ancestor::listitem[parent::orderedlist]">
+    <xsl:apply-templates select="ancestor::listitem[parent::orderedlist][1]"
+                         mode="item-number"/>
+  </xsl:if>
+
+  <xsl:number value="$item-number" format="{$type}"/>
 </xsl:template>
 
 <!-- ====================================================================== -->
@@ -1528,7 +1566,7 @@ year range is <quote>1991-1992</quote> but discretely it's
     <xsl:text>)</xsl:text>
   </xsl:message>
   -->
-
+    
   <xsl:choose>
     <xsl:when test="$print.ranges = 0 and count($years) &gt; 0">
       <xsl:choose>
@@ -1554,6 +1592,10 @@ year range is <quote>1991-1992</quote> but discretely it's
         <xsl:when test="$firstyear = 0">
           <!-- there weren't any years at all -->
         </xsl:when>
+        <!-- Just output a year with range in its text -->
+        <xsl:when test="contains($firstyear, '-') or contains($firstyear, ',')">
+          <xsl:value-of select="$firstyear"/>
+        </xsl:when>
         <xsl:when test="$firstyear = $lastyear">
           <xsl:value-of select="$firstyear"/>
         </xsl:when>
@@ -1569,6 +1611,22 @@ year range is <quote>1991-1992</quote> but discretely it's
           <xsl:value-of select="$lastyear"/>
         </xsl:otherwise>
       </xsl:choose>
+    </xsl:when>
+    <xsl:when test="contains($firstyear, '-') or contains($firstyear, ',')">
+      <!-- Just output a year with range in its text -->
+      <xsl:value-of select="$firstyear"/>
+      <xsl:if test="count($years) != 0">
+        <xsl:text>, </xsl:text>
+      </xsl:if>
+      <xsl:call-template name="copyright.years">
+        <xsl:with-param name="years"
+              select="$years[position() &gt; 1]"/>
+        <xsl:with-param name="firstyear" select="$years[1]"/>
+        <xsl:with-param name="nextyear" select="$years[1] + 1"/>
+        <xsl:with-param name="print.ranges" select="$print.ranges"/>
+        <xsl:with-param name="single.year.ranges"
+                select="$single.year.ranges"/>
+      </xsl:call-template>
     </xsl:when>
     <xsl:when test="$firstyear = 0">
       <xsl:call-template name="copyright.years">

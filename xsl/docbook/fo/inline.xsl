@@ -1,16 +1,7 @@
 <?xml version='1.0'?>
 <!DOCTYPE xsl:stylesheet [
-  <!ENTITY comment.block.parents "parent::answer|parent::appendix|parent::article|parent::bibliodiv|
-                                  parent::bibliography|parent::blockquote|parent::caution|parent::chapter|
-                                  parent::glossary|parent::glossdiv|parent::important|parent::index|
-                                  parent::indexdiv|parent::listitem|parent::note|parent::orderedlist|
-                                  parent::partintro|parent::preface|parent::procedure|parent::qandadiv|
-                                  parent::qandaset|parent::question|parent::refentry|parent::refnamediv|
-                                  parent::refsect1|parent::refsect2|parent::refsect3|parent::refsection|
-                                  parent::refsynopsisdiv|parent::sect1|parent::sect2|parent::sect3|parent::sect4|
-                                  parent::sect5|parent::section|parent::setindex|parent::sidebar|
-                                  parent::simplesect|parent::taskprerequisites|parent::taskrelated|
-                                  parent::tasksummary|parent::warning">
+<!ENTITY % common.entities SYSTEM "../common/entities.ent">
+%common.entities;
 ]>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
                 xmlns:fo="http://www.w3.org/1999/XSL/Format"
@@ -19,7 +10,7 @@
                 version='1.0'>
 
 <!-- ********************************************************************
-     $Id: inline.xsl 6910 2007-06-28 23:23:30Z xmldoc $
+     $Id: inline.xsl 8811 2010-08-09 20:24:45Z mzjn $
      ********************************************************************
 
      This file is part of the XSL DocBook Stylesheet distribution.
@@ -27,6 +18,9 @@
      copyright and other information.
 
      ******************************************************************** -->
+
+<xsl:key name="glossentries" match="glossentry" use="normalize-space(glossterm)"/>
+<xsl:key name="glossentries" match="glossentry" use="normalize-space(glossterm/@baseform)"/>
 
 <xsl:template name="simple.xlink">
   <xsl:param name="node" select="."/>
@@ -57,15 +51,21 @@
       <!-- Is it an olink ? -->
       <xsl:variable name="is.olink">
         <xsl:choose>
-	  <!-- If xlink:role="http://docbook.org/xlink/role/olink" -->
+          <!-- If xlink:role="http://docbook.org/xlink/role/olink" -->
           <!-- and if the href contains # -->
           <xsl:when test="contains($xhref,'#') and
-	       @xlink:role = $xolink.role">1</xsl:when>
+               @xlink:role = $xolink.role">1</xsl:when>
           <xsl:otherwise>0</xsl:otherwise>
         </xsl:choose>
       </xsl:variable>
 
       <xsl:choose>
+        <xsl:when test="$is.olink = 1">
+          <xsl:call-template name="olink">
+            <xsl:with-param name="content" select="$content"/>
+          </xsl:call-template>
+        </xsl:when>
+
         <xsl:when test="$is.idref = 1">
 
           <xsl:variable name="idref">
@@ -98,17 +98,17 @@
           </xsl:choose>
         </xsl:when>
 
-        <xsl:when test="$is.olink = 1">
-	  <xsl:call-template name="olink">
-	    <xsl:with-param name="content" select="$content"/>
-	  </xsl:call-template>
-        </xsl:when>
-
         <!-- otherwise it's a URI -->
         <xsl:otherwise>
           <fo:basic-link external-destination="url({$xhref})">
             <xsl:copy-of select="$content"/>
           </fo:basic-link>
+          <!-- * Call the template for determining whether the URL for this -->
+          <!-- * hyperlink is displayed, and how to display it (either inline or -->
+          <!-- * as a numbered footnote). -->
+          <xsl:call-template name="hyperlink.url.display">
+            <xsl:with-param name="url" select="$xhref"/>
+          </xsl:call-template>
         </xsl:otherwise>
       </xsl:choose>
     </xsl:when>
@@ -182,6 +182,7 @@
   </xsl:param>
 
   <fo:inline xsl:use-attribute-sets="monospace.properties">
+    <xsl:call-template name="anchor"/>
     <xsl:if test="@dir">
       <xsl:attribute name="direction">
         <xsl:choose>
@@ -687,7 +688,10 @@
 </xsl:template>
 
 <xsl:template match="phrase">
-  <xsl:call-template name="inline.charseq"/>
+  <fo:inline>
+    <xsl:call-template name="anchor"/>
+    <xsl:call-template name="inline.charseq"/>
+  </fo:inline>
 </xsl:template>
 
 <xsl:template match="quote">
@@ -696,18 +700,26 @@
       <xsl:with-param name="string"><xsl:number level="multiple"/></xsl:with-param>
     </xsl:call-template>
   </xsl:variable>
-  <xsl:choose>
-    <xsl:when test="$depth mod 2 = 0">
-      <xsl:call-template name="gentext.startquote"/>
-      <xsl:call-template name="inline.charseq"/>
-      <xsl:call-template name="gentext.endquote"/>
-    </xsl:when>
-    <xsl:otherwise>
-      <xsl:call-template name="gentext.nestedstartquote"/>
-      <xsl:call-template name="inline.charseq"/>
-      <xsl:call-template name="gentext.nestedendquote"/>
-    </xsl:otherwise>
-  </xsl:choose>
+  <xsl:variable name="content">
+    <xsl:choose>
+      <xsl:when test="$depth mod 2 = 0">
+        <xsl:call-template name="gentext.startquote"/>
+        <xsl:call-template name="inline.charseq"/>
+        <xsl:call-template name="gentext.endquote"/>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:call-template name="gentext.nestedstartquote"/>
+        <xsl:call-template name="inline.charseq"/>
+        <xsl:call-template name="gentext.nestedendquote"/>
+      </xsl:otherwise>
+    </xsl:choose>
+  </xsl:variable>
+
+  <fo:inline>
+    <xsl:call-template name="anchor"/>
+    <xsl:copy-of select="$content"/>
+  </fo:inline>
+
 </xsl:template>
 
 <xsl:template match="varname">
@@ -824,17 +836,16 @@
       <xsl:variable name="term">
         <xsl:choose>
           <xsl:when test="@baseform">
-            <xsl:value-of select="@baseform"/>
+            <xsl:value-of select="normalize-space(@baseform)"/>
           </xsl:when>
           <xsl:otherwise>
-            <xsl:value-of select="."/>
+            <xsl:value-of select="normalize-space(.)"/>
           </xsl:otherwise>
         </xsl:choose>
       </xsl:variable>
 
       <xsl:variable name="targets"
-                    select="//glossentry[glossterm=$term or glossterm/@baseform=$term]"/>
-
+                    select="key('glossentries', $term)"/>
       <xsl:variable name="target" select="$targets[1]"/>
 
       <xsl:choose>
@@ -994,7 +1005,20 @@
         <xsl:if test="not($email.delimiters.enabled = 0)">
           <xsl:text>&lt;</xsl:text>
         </xsl:if>
-        <xsl:apply-templates/>
+        <xsl:choose>
+          <xsl:when test="not($email.mailto.enabled = 0)">
+            <fo:basic-link xsl:use-attribute-sets="xref.properties"
+                           keep-together.within-line="always" hyphenate="false">
+              <xsl:attribute name="external-destination">
+                mailto:<xsl:value-of select="string(.)" />
+              </xsl:attribute>
+              <xsl:apply-templates/>
+            </fo:basic-link>
+          </xsl:when>
+          <xsl:otherwise>
+            <xsl:apply-templates/>
+          </xsl:otherwise>
+        </xsl:choose>
         <xsl:if test="not($email.delimiters.enabled = 0)">
           <xsl:text>&gt;</xsl:text>
         </xsl:if>
@@ -1110,15 +1134,45 @@
           </xsl:call-template>
         </xsl:attribute>
 
-	<xsl:choose>
-	  <xsl:when test="$bibliography.numbered != 0">
-	    <xsl:apply-templates select="$target" mode="citation"/>
-	  </xsl:when>
-	  <xsl:otherwise>
-	    <xsl:call-template name="inline.charseq"/>
-	  </xsl:otherwise>
-	</xsl:choose>
+        <xsl:choose>
+          <xsl:when test="$bibliography.numbered != 0">
+            <xsl:apply-templates select="$target" mode="citation"/>
+          </xsl:when>
+          <xsl:otherwise>
+            <xsl:call-template name="inline.charseq"/>
+          </xsl:otherwise>
+        </xsl:choose>
      
+      </fo:basic-link>
+      <xsl:text>]</xsl:text>
+    </xsl:when>
+
+    <xsl:otherwise>
+      <xsl:text>[</xsl:text>
+      <xsl:call-template name="inline.charseq"/>
+      <xsl:text>]</xsl:text>
+    </xsl:otherwise>
+  </xsl:choose>
+</xsl:template>
+
+<xsl:template match="citebiblioid">
+  <xsl:variable name="targets" select="//*[biblioid = string(current())]"/>
+  <xsl:variable name="target" select="$targets[1]"/>
+
+  <xsl:choose>
+    <!-- try automatic linking based on match to parent of biblioid -->
+    <xsl:when test="$target and not(xref) and not(link)">
+
+      <xsl:text>[</xsl:text>
+      <fo:basic-link>
+        <xsl:attribute name="internal-destination">
+          <xsl:call-template name="object.id">
+            <xsl:with-param name="object" select="$target"/>
+          </xsl:call-template>
+        </xsl:attribute>
+
+        <xsl:call-template name="inline.charseq"/>
+            
       </fo:basic-link>
       <xsl:text>]</xsl:text>
     </xsl:when>
@@ -1133,7 +1187,7 @@
 
 <xsl:template match="biblioentry|bibliomixed" mode="citation">
   <xsl:number from="bibliography" count="biblioentry|bibliomixed"
-	      level="any" format="1"/>
+              level="any" format="1"/>
 </xsl:template>
 
 <!-- ==================================================================== -->
