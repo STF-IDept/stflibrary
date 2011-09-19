@@ -13,7 +13,7 @@ BUILD_EPUB=./build_epub
 
 UPLOAD_SERVER=www.star-fleet.com
 UPLOAD_USER=stfleet
-UPLOAD_PATH=/usr/home/stfleet/public_html/library/newbookshelf/
+UPLOAD_PATH=/usr/home/stfleet/public_html/library/bookshelf/
 
 FO_OUTPUT=stflibrary.fo
 EPUB_FILE_NAME=stflibrary.epub
