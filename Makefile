@@ -1,6 +1,6 @@
 # Variable declarations
 DOCBOOKXSL=./xsl/docbook
-DOCBOOKXSL_CUSTOMIZED=./xsl/xsltproc
+DOCBOOKXSL_CUSTOMIZED=./xsl
 
 STYLESHEET_XHTML=$(DOCBOOKXSL_CUSTOMIZED)/xhtml.xsl
 STYLESHEET_EPUB=$(DOCBOOKXSL)/epub/docbook.xsl

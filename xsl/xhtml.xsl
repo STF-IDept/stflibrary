@@ -2,7 +2,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:exsl="http://exslt.org/common" xmlns:cf="http://docbook.sourceforge.net/xmlns/chunkfast/1.0" xmlns="http://www.w3.org/1999/xhtml" version="1.0" exclude-result-prefixes="cf exsl">
 
   <!-- Import the chunkfast version of the XHTML templates as a starting point. -->
-  <xsl:import href="../docbook/xhtml/chunkfast.xsl"/>
+  <xsl:import href="docbook/xhtml/chunkfast.xsl"/>
 
   <!-- Now import our customizations.  Note that this import must appear second
        so that it takes precedence over chunkfast's templates. -->
