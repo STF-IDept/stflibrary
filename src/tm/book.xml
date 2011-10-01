@@ -25,7 +25,6 @@
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="mjolnir.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="olinski.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="pendragon.xml" />
-    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="phoenix.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="trafalgar.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="victoria.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="viking.xml" />
