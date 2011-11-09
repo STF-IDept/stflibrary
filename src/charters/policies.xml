@@ -1,41 +1,41 @@
 <!--<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
                     "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">-->
 <article id="charter-deptpolicy">
-	<title>Internal Department Policies</title>
-	<articleinfo>
-		<editor>
-			<honorific>Librarian</honorific>
-			<firstname>Larry</firstname>
-			<surname>Garfield</surname>
-		</editor>
-		<editor>
-			<honorific>Assistant Librarian</honorific>
-			<firstname>Andrew</firstname>
-			<surname>Robinson</surname>
-		</editor>		
-		<revhistory>
-			<revision>
-				<revnumber>3</revnumber>
-				<date>16th February 2009</date>
-				<revdescription>
-					<para>Added to the Library.</para>
-				</revdescription>
-			</revision>
-		</revhistory>
-	</articleinfo>
-	<section>
-		<para>Some departments have chosen to elaborate on the policy set by their charter edicts.</para>
-		<orderedlist>
-			<listitem><para><emphasis>Gamemaster Department</emphasis>: <ulink url="http://www.star-fleet.com/gmd/mandates.html">http://www.star-fleet.com/gmd/mandates.html</ulink></para></listitem>
-			<listitem><para><emphasis>Fleet One</emphasis>: <ulink url="http://www.star-fleet.com/stf1/policies.html">http://www.star-fleet.com/stf1/policies.html</ulink></para></listitem>
-			<listitem><para><emphasis>Fleet Two</emphasis>: <ulink url="http://www.star-fleet.com/stf2/policies.html">http://www.star-fleet.com/stf2/policies.html</ulink></para></listitem>
-			<listitem><para><emphasis>Fleet Three</emphasis>: <ulink url="http://www.star-fleet.com/stf3/policies.html">http://www.star-fleet.com/stf3/policies.html</ulink></para></listitem>
+  <title>Internal Department Policies</title>
+  <articleinfo>
+    <editor>
+      <honorific>Librarian</honorific>
+      <firstname>Larry</firstname>
+      <surname>Garfield</surname>
+    </editor>
+    <editor>
+      <honorific>Assistant Librarian</honorific>
+      <firstname>Andrew</firstname>
+      <surname>Robinson</surname>
+    </editor>
+    <revhistory>
+      <revision>
+        <revnumber>3</revnumber>
+        <date>16th February 2009</date>
+        <revdescription>
+          <para>Added to the Library.</para>
+        </revdescription>
+      </revision>
+    </revhistory>
+  </articleinfo>
+  <section>
+    <para>Some departments have chosen to elaborate on the policy set by their charter edicts.</para>
+    <orderedlist>
+      <listitem><para><emphasis>Gamemaster Department</emphasis>: <ulink url="http://www.star-fleet.com/gmd/mandates.html">http://www.star-fleet.com/gmd/mandates.html</ulink></para></listitem>
+      <listitem><para><emphasis>Fleet One</emphasis>: <ulink url="http://www.star-fleet.com/stf1/policies.html">http://www.star-fleet.com/stf1/policies.html</ulink></para></listitem>
+      <listitem><para><emphasis>Fleet Two</emphasis>: <ulink url="http://www.star-fleet.com/stf2/policies.html">http://www.star-fleet.com/stf2/policies.html</ulink></para></listitem>
+      <listitem><para><emphasis>Fleet Three</emphasis>: <ulink url="http://www.star-fleet.com/stf3/policies.html">http://www.star-fleet.com/stf3/policies.html</ulink></para></listitem>
       <listitem><para><emphasis>Fleet Four</emphasis>: <ulink url="http://www.star-fleet.com/stf4/awol.php">http://www.star-fleet.com/stf4/awol.php</ulink></para></listitem>
-			<listitem><para><emphasis>Fleet Six</emphasis>: <ulink url="http://www.star-fleet.com/stf6/index.html#policies">http://www.star-fleet.com/stf6/index.html#policies</ulink></para></listitem>
-			<listitem><para><emphasis>Internet Department</emphasis>: <ulink url="http://www.star-fleet.com/id/policies.php">http://www.star-fleet.com/id/policies.php</ulink></para></listitem>
-			<listitem><para><emphasis>Personnel Department</emphasis>: <ulink url="http://www.star-fleet.com/pd/policies.php">http://www.star-fleet.com/pd/policies.php</ulink></para></listitem>
-			<listitem><para><emphasis>Starfleet Academy</emphasis>: <ulink url="http://www.star-fleet.com/acad/mandates/">http://www.star-fleet.com/acad/mandates/</ulink></para></listitem>
-		</orderedlist>
-	</section>
+      <listitem><para><emphasis>Fleet Six</emphasis>: <ulink url="http://www.star-fleet.com/stf6/index.html#policies">http://www.star-fleet.com/stf6/index.html#policies</ulink></para></listitem>
+      <listitem><para><emphasis>Internet Department</emphasis>: <ulink url="http://www.star-fleet.com/id/policies.php">http://www.star-fleet.com/id/policies.php</ulink></para></listitem>
+      <listitem><para><emphasis>Personnel Department</emphasis>: <ulink url="http://www.star-fleet.com/pd/policies.php">http://www.star-fleet.com/pd/policies.php</ulink></para></listitem>
+      <listitem><para><emphasis>Starfleet Academy</emphasis>: <ulink url="http://www.star-fleet.com/acad/mandates/">http://www.star-fleet.com/acad/mandates/</ulink></para></listitem>
+    </orderedlist>
+  </section>
 </article>
-			
+

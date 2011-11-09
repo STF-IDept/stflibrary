@@ -1,36 +1,36 @@
 <!--<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
                     "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">-->
 <article id="charter-mac">
-	<title>Marketing and Advertising</title>
-	<subtitle>"MAC"</subtitle>
-	<articleinfo>
-		<author role="President">
-			<honorific>President</honorific>
-			<firstname>Andrew</firstname>
-			<surname>Robinson</surname>
-		</author>
-		<author role="MAC">
-			<honorific>Marketing and Advertising Coordinator</honorific>
-			<firstname>Robert</firstname>
-			<surname>Thompson</surname>
-		</author>
-		<revhistory>
-			<revision>
-				<revnumber>0</revnumber>
-				<date>17 August 2008</date>
-				<revdescription>
-					<para>Based on Edict <ulink url="http://www.star-fleet.com/prez/edicts/robinson/#e2">Robinson #2</ulink></para>
-				</revdescription>
-			</revision>
-		</revhistory>
-	</articleinfo>
+  <title>Marketing and Advertising</title>
+  <subtitle>"MAC"</subtitle>
+  <articleinfo>
+    <author role="President">
+      <honorific>President</honorific>
+      <firstname>Andrew</firstname>
+      <surname>Robinson</surname>
+    </author>
+    <author role="MAC">
+      <honorific>Marketing and Advertising Coordinator</honorific>
+      <firstname>Robert</firstname>
+      <surname>Thompson</surname>
+    </author>
+    <revhistory>
+      <revision>
+        <revnumber>0</revnumber>
+        <date>17 August 2008</date>
+        <revdescription>
+          <para>Based on Edict <ulink url="http://www.star-fleet.com/prez/edicts/robinson/#e2">Robinson #2</ulink></para>
+        </revdescription>
+      </revision>
+    </revhistory>
+  </articleinfo>
   <section>
-		<title>Creation of MAC</title>
-		<para>Because of how closely tied everyone was on the Marketing and Advertising discussion, I'm fairly sure 55% of you will love me and the the other 45% will hate me.... Of course I'm also your elected dictator for the next eight months, so nyeh :P</para>
-		<para>The Marketing and Advertising Coordinator will be granted a top level directory titled "MAC" and a notes area to be listed as a child of the 'Starfleet Command' menu item.</para>
-		<para>The MAC 'ship' is required to maintain an ongoing activity level in order to retain its status. Should it fail to maintain an active posting level at any point (active shall be defined here as at least ten valid posts in any fourteen day period) it shall be decommissioned in favour of a static page(s) to be linked to from the Primary Links area.</para>
-		<para>The MAC 'ship' shall be reviewed three months from this date (17th November 2008). Should it be maintained after this point it shall be further reviewed five months from this date (17th January 2008) and seven months from this date (17th March 2008).</para>
-		<para>If at any of these review dates it is found that the MAC 'ship' has failed to achieve and maintain its stated activity level, it shall be decommissioned in favour of a static page(s) to be linked from the Primary Links area.</para>
-		<para>Whilst the club is split on this decision in terms of how best to proceed, the majority (by a slim margin) was in favour of a full notes area and I have included multiple reviews to ensure that it maintains its mandate.</para>
-  </section>     
+    <title>Creation of MAC</title>
+    <para>Because of how closely tied everyone was on the Marketing and Advertising discussion, I'm fairly sure 55% of you will love me and the the other 45% will hate me.... Of course I'm also your elected dictator for the next eight months, so nyeh :P</para>
+    <para>The Marketing and Advertising Coordinator will be granted a top level directory titled "MAC" and a notes area to be listed as a child of the 'Starfleet Command' menu item.</para>
+    <para>The MAC 'ship' is required to maintain an ongoing activity level in order to retain its status. Should it fail to maintain an active posting level at any point (active shall be defined here as at least ten valid posts in any fourteen day period) it shall be decommissioned in favour of a static page(s) to be linked to from the Primary Links area.</para>
+    <para>The MAC 'ship' shall be reviewed three months from this date (17th November 2008). Should it be maintained after this point it shall be further reviewed five months from this date (17th January 2008) and seven months from this date (17th March 2008).</para>
+    <para>If at any of these review dates it is found that the MAC 'ship' has failed to achieve and maintain its stated activity level, it shall be decommissioned in favour of a static page(s) to be linked from the Primary Links area.</para>
+    <para>Whilst the club is split on this decision in terms of how best to proceed, the majority (by a slim margin) was in favour of a full notes area and I have included multiple reviews to ensure that it maintains its mandate.</para>
+  </section>
 </article>

@@ -10,7 +10,7 @@
       <surname>Robinson</surname>
     </author>
     <revhistory>
-	<revision>
+      <revision>
         <revnumber>4</revnumber>
         <date>11th September 2009</date>
         <revdescription>
@@ -42,7 +42,7 @@
   </articleinfo>
   <section>
     <title>Supersession Of Previous Edicts</title>
-  	<para>Edicts Hemenway #34, Robinson #49 and Robinson #64 are hereby rescinded and superseded by this Edict.</para>
+    <para>Edicts Hemenway #34, Robinson #49 and Robinson #64 are hereby rescinded and superseded by this Edict.</para>
   </section>
   <section>
     <title>Membership</title>
@@ -52,7 +52,7 @@
     <title>Club rank structure</title>
     <para>The club rank structure (for out of character usage) of STF is defined as, from junior to senior: Cadet/Ensign, Lieutenant junior grade, Lieutenant, Lieutenant Commander, Commander, Captain, Fleet Captain, Commodore, Rear Admiral, Vice Admiral and Admiral. Cadet and Ensign are equivalent for the purposes of club rank.</para>
     <para>A Member's club rank, below the rank of Captain, is defined as the highest role-playing rank that a Member has achieved since he joined STF. Club rank at and above the rank of Captain is determined by the most recent Presidential Edict. A Member at or above the rank of Captain may be recognized for exemplary role-playing and service to the club by promotion by the President in an Edict to the next highest club rank.</para>
-    <para>Character rank is defined as the rank that a Member's individual role-playing character has attained. The rank structure for character rank is, from junior to senior:</para>    
+    <para>Character rank is defined as the rank that a Member's individual role-playing character has attained. The rank structure for character rank is, from junior to senior:</para>
       <simplelist role="Member Rank List">
       <member>Civilian</member>
       <member>Crewman</member>
@@ -116,6 +116,6 @@
   </section>
   <section>
     <title>Promotions Limits</title>
-	<para>Beyond the rank of Captain, no member may be promoted more than once in any eight month period. Members may only be promoted in this manner to the next highest rank as outlined in the Chain Of Command.</para>
+  <para>Beyond the rank of Captain, no member may be promoted more than once in any eight month period. Members may only be promoted in this manner to the next highest rank as outlined in the Chain Of Command.</para>
   </section>
 </article>

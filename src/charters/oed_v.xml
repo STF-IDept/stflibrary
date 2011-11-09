@@ -1,74 +1,74 @@
 <!--<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
                     "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">-->
 <article id="charter-oed_v">
-	<title>Oed V</title>
-	<subtitle>Fleet Six</subtitle>
-	<articleinfo>
-		<author role="President">
-			<honorific>President</honorific>
-			<firstname>Sarah</firstname>
-			<surname>Hemenway</surname>
-		</author>
-		<author role="Fleet Commander">
-			<honorific>Fleet Commander</honorific>
-			<firstname>Symon</firstname>
-			<surname>Silvester</surname>
-		</author>
-		<revhistory>
-			<revision>
-				<revnumber>2</revnumber>
-				<date>1 August 2006</date>
-				<revdescription>
-					<para>Based on Edict <ulink url="http://www.star-fleet.com/prez/edicts/hemenway/#e2">Hemenway #2</ulink></para>
-				</revdescription>
-			</revision>
-			<revision>
-				<revnumber>1</revnumber>
-				<date>23 June 2005</date>
-				<revdescription>
-					<para>Based on Edict <ulink url="http://www.star-fleet.com/prez/edicts/garfield/#e24">Garfield #24</ulink></para>
-				</revdescription>
-			</revision>
-		</revhistory>
-	</articleinfo>
-	<section>
-		<title>Supercedence of Previous Edicts</title>
-		<para>This edict supercedes Garfield #24.</para>
-	</section>
-	<section>
-		<title>Overview</title>
-		<para>A new Alternative Roleplaying Area is hereby established in Fleet Six, named Oed V.</para>
-		<para>Oed V is a planet-based RPG, set on the planet Oed V, near the Vren Border. It is a joint Starfleet-civilian colony consisting of both Starfleet personnel and civilians.</para>
-		<para>Oed V will remain an active Roleplaying Area, provided that it means the following criteria:</para>
-		<orderedlist>
-			<listitem><para>Oed V currenly has a healthy roleplaying environment with a cast of reliable players who remain on the whole within the outlined AWOL guidelines.</para></listitem>
-			<listitem><para>Oed V has managed to continue its function as a planet-based environment successfully.</para></listitem>
-		</orderedlist>
-		<para>If Oed V should deviate from the criteria set in this edict at any time, she will be decommissioned.</para>
-	</section>
-	<section>
-		<title>Crew Structure</title>
-		<para>The Leader of Oed V both In Character and Out of Character is entitled Governor and may be a Starfleet officer or civilian. The Governor of Oed V will be appointed in the same fashion as a normal CO and counts as a CO position toward any limits in place. The Governor has similar powers and responsibilites to a CO. There will also be a Lieutenant Governor of Oed V will be appointed in the same fashion as a normal XO and counts as a XO position toward any limits in place. Oed V is a second-character-only Roleplaying Environment.</para>
-		<para>Oed V includes the standard STF departments for Starfleet characters. Possible swing positions may be added under the Governor's discretion. They may include, but not be limited to the following:</para>
-		<itemizedlist>
-			<listitem><para>Head of Police</para></listitem>
-			<listitem><para>Chief Customs Officer</para></listitem>
-			<listitem><para>Head of Construction Services</para></listitem>
-		</itemizedlist>
-	</section>
-	<section>
-		<title>Resources</title>
-		<para>The Governor of Oed or his appointed authority is required to maintain a resource page regarding the colony. This page may include, but not be limited to the following information:</para>
-		<itemizedlist>
-			<listitem><para>Geography of Oed V</para></listitem>
-			<listitem><para>In Character History of Oed V</para></listitem>
-			<listitem><para>Ships Assigned to Oed V</para></listitem>
-			<listitem><para>Oed V Facilities</para></listitem>
-		</itemizedlist>
-		<para>This information must be as historically accurate as possible and remain consistent.</para>
-	</section>
-	<section>
-		<title>Implementation</title>
-		<para>The current Governor is retained in his position on the colony.</para>
-	</section>
+  <title>Oed V</title>
+  <subtitle>Fleet Six</subtitle>
+  <articleinfo>
+    <author role="President">
+      <honorific>President</honorific>
+      <firstname>Sarah</firstname>
+      <surname>Hemenway</surname>
+    </author>
+    <author role="Fleet Commander">
+      <honorific>Fleet Commander</honorific>
+      <firstname>Symon</firstname>
+      <surname>Silvester</surname>
+    </author>
+    <revhistory>
+      <revision>
+        <revnumber>2</revnumber>
+        <date>1 August 2006</date>
+        <revdescription>
+          <para>Based on Edict <ulink url="http://www.star-fleet.com/prez/edicts/hemenway/#e2">Hemenway #2</ulink></para>
+        </revdescription>
+      </revision>
+      <revision>
+        <revnumber>1</revnumber>
+        <date>23 June 2005</date>
+        <revdescription>
+          <para>Based on Edict <ulink url="http://www.star-fleet.com/prez/edicts/garfield/#e24">Garfield #24</ulink></para>
+        </revdescription>
+      </revision>
+    </revhistory>
+  </articleinfo>
+  <section>
+    <title>Supercedence of Previous Edicts</title>
+    <para>This edict supercedes Garfield #24.</para>
+  </section>
+  <section>
+    <title>Overview</title>
+    <para>A new Alternative Roleplaying Area is hereby established in Fleet Six, named Oed V.</para>
+    <para>Oed V is a planet-based RPG, set on the planet Oed V, near the Vren Border. It is a joint Starfleet-civilian colony consisting of both Starfleet personnel and civilians.</para>
+    <para>Oed V will remain an active Roleplaying Area, provided that it means the following criteria:</para>
+    <orderedlist>
+      <listitem><para>Oed V currenly has a healthy roleplaying environment with a cast of reliable players who remain on the whole within the outlined AWOL guidelines.</para></listitem>
+      <listitem><para>Oed V has managed to continue its function as a planet-based environment successfully.</para></listitem>
+    </orderedlist>
+    <para>If Oed V should deviate from the criteria set in this edict at any time, she will be decommissioned.</para>
+  </section>
+  <section>
+    <title>Crew Structure</title>
+    <para>The Leader of Oed V both In Character and Out of Character is entitled Governor and may be a Starfleet officer or civilian. The Governor of Oed V will be appointed in the same fashion as a normal CO and counts as a CO position toward any limits in place. The Governor has similar powers and responsibilites to a CO. There will also be a Lieutenant Governor of Oed V will be appointed in the same fashion as a normal XO and counts as a XO position toward any limits in place. Oed V is a second-character-only Roleplaying Environment.</para>
+    <para>Oed V includes the standard STF departments for Starfleet characters. Possible swing positions may be added under the Governor's discretion. They may include, but not be limited to the following:</para>
+    <itemizedlist>
+      <listitem><para>Head of Police</para></listitem>
+      <listitem><para>Chief Customs Officer</para></listitem>
+      <listitem><para>Head of Construction Services</para></listitem>
+    </itemizedlist>
+  </section>
+  <section>
+    <title>Resources</title>
+    <para>The Governor of Oed or his appointed authority is required to maintain a resource page regarding the colony. This page may include, but not be limited to the following information:</para>
+    <itemizedlist>
+      <listitem><para>Geography of Oed V</para></listitem>
+      <listitem><para>In Character History of Oed V</para></listitem>
+      <listitem><para>Ships Assigned to Oed V</para></listitem>
+      <listitem><para>Oed V Facilities</para></listitem>
+    </itemizedlist>
+    <para>This information must be as historically accurate as possible and remain consistent.</para>
+  </section>
+  <section>
+    <title>Implementation</title>
+    <para>The current Governor is retained in his position on the colony.</para>
+  </section>
 </article>

@@ -1,56 +1,56 @@
 <!--<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
                     "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd">-->
 <article id="charter-scottie">
-	<title>Scottie Testing Centre</title>
-	<subtitle>Fleet One</subtitle>
-	<articleinfo>
-		<author role="President">
-			<honorific>President</honorific>
-			<firstname>Jen</firstname>
-			<surname>Herr</surname>
-		</author>
-		<author role="Fleet Commander">
-			<honorific>Fleet Commander</honorific>
-			<firstname>Symon</firstname>
-			<surname>Silvester</surname>
-		</author>
-		<revhistory>
-			<revision>
-				<revnumber>1</revnumber>
-				<date>31 January 2006</date>
-				<revdescription>
-					<para>Based on Edict <ulink url="http://www.star-fleet.com/prez/edicts/herr/#e8">Herr #8</ulink></para>
-				</revdescription>
-			</revision>
-		</revhistory>
-	</articleinfo>
-	<section>
-		<title>Supercedence of Previous Edicts</title>
-		<para>Edicts Dugan 25 and Dugan 31 are hereby rescinded and replaced by this Edict.</para>
-	</section>
-	<section>
-		<title>What is the Scottie Testing Centre?</title>
-		<para>The Scottie Testing Centre, currently an alternative role playing area in the Research and Development Fleet, is to be permanently relocated to Fleet 1. It will continue as an Alt RPG area, run as a Starbase and Testing Centre for Fleet 1. The STC CO will be expected to keep the Engineering flavour through choice of crew, GM and sims.</para>
-		<para>The STC is restricted to existing STF members only. New recruits may not be assigned to STC.</para>
-		<para>The STC will be structured the same as a Standard Starbase. It will be commanded by a CO and XO who are appointed the same way as on a Standard Starbase. A GM will be appointed in the same way as on a Standard Starbase. The GM must agree to plot engineering based sims and should have a good knowledge of Star Trek Engineering.</para>
-		<para>RPG Ranks on the STC will count toward Member Rank the same as on Standard Ships, and CO and XO positions on the STC will count fully towards any limits in place.</para>
-	</section>
-	<section>
-		<title>Alt RPG Standards</title>
-		<para>The STC is already in active service and is hereby confirmed to be successful as a Starbase and Testing Centre. It will continue to be judged by the following criteria:</para>
-		<itemizedlist>
-			<listitem><para>The STC must maintain an active and healthy roleplaying environment.</para></listitem>
-			<listitem><para>The STC must continue to function as a Starbase and Testing Centre. </para></listitem>
-		</itemizedlist>
-		<para>As the STC is already an established RPG Area, it will not be required to pass a trial period. It will therefore remain a permanent addition to Fleet 1, but if it deviates from the criteria set in this edict, it may be decommissioned.</para>
-	</section>
-	<section>
-		<title>Engineering Department Relationship</title>
-		<para>If the Engineering Department requires testing of a specification, they will need to negotiate with both the FComm and CO of the STC. The STC sim schedule will not be interrupted for testing a specification.</para>
-	</section>
-	<section>
-		<title>Implementation</title>
-		<para>The current CO and crew of the STC are retained in their current positions aboard the ship. The CO may be removed at some later date in accordance with the rules of the site, without penalty to the STC herself.</para>
-	</section>
+  <title>Scottie Testing Centre</title>
+  <subtitle>Fleet One</subtitle>
+  <articleinfo>
+    <author role="President">
+      <honorific>President</honorific>
+      <firstname>Jen</firstname>
+      <surname>Herr</surname>
+    </author>
+    <author role="Fleet Commander">
+      <honorific>Fleet Commander</honorific>
+      <firstname>Symon</firstname>
+      <surname>Silvester</surname>
+    </author>
+    <revhistory>
+      <revision>
+        <revnumber>1</revnumber>
+        <date>31 January 2006</date>
+        <revdescription>
+          <para>Based on Edict <ulink url="http://www.star-fleet.com/prez/edicts/herr/#e8">Herr #8</ulink></para>
+        </revdescription>
+      </revision>
+    </revhistory>
+  </articleinfo>
+  <section>
+    <title>Supercedence of Previous Edicts</title>
+    <para>Edicts Dugan 25 and Dugan 31 are hereby rescinded and replaced by this Edict.</para>
+  </section>
+  <section>
+    <title>What is the Scottie Testing Centre?</title>
+    <para>The Scottie Testing Centre, currently an alternative role playing area in the Research and Development Fleet, is to be permanently relocated to Fleet 1. It will continue as an Alt RPG area, run as a Starbase and Testing Centre for Fleet 1. The STC CO will be expected to keep the Engineering flavour through choice of crew, GM and sims.</para>
+    <para>The STC is restricted to existing STF members only. New recruits may not be assigned to STC.</para>
+    <para>The STC will be structured the same as a Standard Starbase. It will be commanded by a CO and XO who are appointed the same way as on a Standard Starbase. A GM will be appointed in the same way as on a Standard Starbase. The GM must agree to plot engineering based sims and should have a good knowledge of Star Trek Engineering.</para>
+    <para>RPG Ranks on the STC will count toward Member Rank the same as on Standard Ships, and CO and XO positions on the STC will count fully towards any limits in place.</para>
+  </section>
+  <section>
+    <title>Alt RPG Standards</title>
+    <para>The STC is already in active service and is hereby confirmed to be successful as a Starbase and Testing Centre. It will continue to be judged by the following criteria:</para>
+    <itemizedlist>
+      <listitem><para>The STC must maintain an active and healthy roleplaying environment.</para></listitem>
+      <listitem><para>The STC must continue to function as a Starbase and Testing Centre. </para></listitem>
+    </itemizedlist>
+    <para>As the STC is already an established RPG Area, it will not be required to pass a trial period. It will therefore remain a permanent addition to Fleet 1, but if it deviates from the criteria set in this edict, it may be decommissioned.</para>
+  </section>
+  <section>
+    <title>Engineering Department Relationship</title>
+    <para>If the Engineering Department requires testing of a specification, they will need to negotiate with both the FComm and CO of the STC. The STC sim schedule will not be interrupted for testing a specification.</para>
+  </section>
+  <section>
+    <title>Implementation</title>
+    <para>The current CO and crew of the STC are retained in their current positions aboard the ship. The CO may be removed at some later date in accordance with the rules of the site, without penalty to the STC herself.</para>
+  </section>
 
 </article>

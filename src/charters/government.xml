@@ -10,7 +10,7 @@
       <surname>Hemenway</surname>
     </author>
     <revhistory>
-	  <revision>
+      <revision>
         <revnumber>2</revnumber>
         <date>13 October 2009</date>
         <revdescription>
@@ -52,21 +52,21 @@
   <section>
     <title>Chain of command</title>
     <para>An Out Of Character Chain of Command exists within STF. As of the issuance of this document, it stands thus:</para>
-	<itemizedlist>
-      <listitem><para>President</para></listitem>
-      <listitem><para>Vice President</para></listitem>
-      <listitem><para>Cabinet members by order of rank</para></listitem>
-      <listitem><para>Club members by order of rank</para></listitem>
-    </itemizedlist>
-	<para>The members of Executive Government Oversight (Egotists) exist outside of the Chain of Command for the purposes of discharging their duties as Egotists.</para>
+  <itemizedlist>
+    <listitem><para>President</para></listitem>
+    <listitem><para>Vice President</para></listitem>
+    <listitem><para>Cabinet members by order of rank</para></listitem>
+    <listitem><para>Club members by order of rank</para></listitem>
+  </itemizedlist>
+  <para>The members of Executive Government Oversight (Egotists) exist outside of the Chain of Command for the purposes of discharging their duties as Egotists.</para>
   </section>
   <section>
     <title>Presidential Succession</title>
-	<para>Should the Presidency become vacant through AWOL, resignation or impeachment, succession falls to the next available member in the Chain of Command, who shall serve until the next Presidential election.</para>
+  <para>Should the Presidency become vacant through AWOL, resignation or impeachment, succession falls to the next available member in the Chain of Command, who shall serve until the next Presidential election.</para>
   </section>
   <section>
     <title>Exception</title>
-	<para>Any member in the Chain of Command who simultaneously serves on Executive Government Oversight at the time of the Presidency becoming vacant may not be considered for succession to the Presidency under any circumstances and succession instead falls to the next available member in the Chain of Command.</para>
-	<para>Should two members in the Chain of Command hold the same rank, time served in that rank (minus any eLOA or iLOA) shall be the determining factor in Presidential Succession or acting Presidential or Vice Presidential status.</para>
+  <para>Any member in the Chain of Command who simultaneously serves on Executive Government Oversight at the time of the Presidency becoming vacant may not be considered for succession to the Presidency under any circumstances and succession instead falls to the next available member in the Chain of Command.</para>
+  <para>Should two members in the Chain of Command hold the same rank, time served in that rank (minus any eLOA or iLOA) shall be the determining factor in Presidential Succession or acting Presidential or Vice Presidential status.</para>
   </section>
 </article>

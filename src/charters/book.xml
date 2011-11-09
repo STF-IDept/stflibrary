@@ -26,10 +26,10 @@
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="membership.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="government.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="fleets.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="oversight.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="elections.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="motd.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="billsbylaws.xml" />
+    <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="oversight.xml" />
+    <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="elections.xml" />
+    <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="motd.xml" />
+    <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="billsbylaws.xml" />
   </part>
   <part id="departments">
     <title>Executive Departments and Assistants</title>
@@ -55,6 +55,6 @@
     <title>Retired Alternate Role-Playing Environments</title>
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="crell.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="scottie.xml" />
-	<xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="403.xml" />
+  <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="403.xml" />
   </part>
 </book>
