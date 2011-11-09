@@ -265,7 +265,7 @@
 		</section>
 		<section>
 			<title>Star Trek Canon</title>
-			<para>In STF we have a set list of references that are considered canon. You can find them at http://www.star-fleet.com/library/textbook/eng-105.html (Engineering Course: References). Honor Star Trek canon and keep it holy. Always anchor your storyline with plausibility. It's true that the universe in which we play is one of science fiction, but that's no excuse to create things that don't mesh with Trek physics. If you're not sure about the plausibility of a plot point, research it. Here, ignorance is not bliss. By the same token, do not rewrite that which has been written. You cannot rewrite Trek history.</para>
+			<para>In STF we have a set list of references that are considered canon. You can find them in <xref linkend="eng-105" />. Honor Star Trek canon and keep it holy. Always anchor your storyline with plausibility. It's true that the universe in which we play is one of science fiction, but that's no excuse to create things that don't mesh with Trek physics. If you're not sure about the plausibility of a plot point, research it. Here, ignorance is not bliss. By the same token, do not rewrite that which has been written. You cannot rewrite Trek history.</para>
 		</section>
 		<section>
 			<title>Show respect for your fellow players</title>
