@@ -27,6 +27,13 @@
           <para>Rewritten by Katherine Dedul</para>
         </revdescription>
       </revision>
+      <revision>
+        <revnumber>3</revnumber>
+        <date>5 May 2012</date>
+        <revdescription>
+          <para>Remove course proctor name from exam body.</para>
+        </revdescription>
+      </revision>
     </revhistory>
   </articleinfo>
   <section id="admin-intro">

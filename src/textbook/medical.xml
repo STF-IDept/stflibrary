@@ -18,20 +18,27 @@
           <para>Course proctor changed to Brian Olinski</para>
         </revdescription>
       </revision>
-            <revision>
-              <revnumber>2</revnumber>
-              <date>1 November 2005</date>
-              <revdescription>
-                <para>Fixed exam instructions to specify post format</para>
-              </revdescription>
-            </revision>
-            <revision>
-              <revnumber>3</revnumber>
-              <date>6 December 2005</date>
-              <revdescription>
-                <para>Changed course proctor to Brian Olinski</para>
-              </revdescription>
-            </revision>
+      <revision>
+        <revnumber>2</revnumber>
+        <date>1 November 2005</date>
+        <revdescription>
+          <para>Fixed exam instructions to specify post format</para>
+        </revdescription>
+      </revision>
+      <revision>
+        <revnumber>3</revnumber>
+        <date>6 December 2005</date>
+        <revdescription>
+          <para>Changed course proctor to Brian Olinski</para>
+        </revdescription>
+      </revision>
+      <revision>
+        <revnumber>4</revnumber>
+        <date>5 May 2012</date>
+        <revdescription>
+          <para>Remove course proctor name from exam body.</para>
+        </revdescription>
+      </revision>
     </revhistory>
   </articleinfo>
   <section id="med-intro">
@@ -418,7 +425,7 @@
     <para>Submission Instructions</para>
     <orderedlist>
       <listitem><para>Write out your answers to the questions below.</para></listitem>
-      <listitem><para>E-mail them to the course grader: <ulink url="mailto:medical-tutor@star-fleet.com?subject=STF Medical Exam">Brian Olinski</ulink></para></listitem>
+      <listitem><para>E-mail them to the <ulink url="mailto:medical-tutor@star-fleet.com?subject=STF Medical Exam">course proctor</ulink></para></listitem>
       <listitem><para><emphasis>Be sure to include your full name at the top of the e-mail!</emphasis></para></listitem>
       <listitem><para>Do <emphasis>not</emphasis> send the original question, just the answers.</para></listitem>
       <listitem><para>Do <emphasis>not</emphasis> send your answers as an attachment.  Send them in the body of the e-mail.</para></listitem>

@@ -11,20 +11,27 @@
       </author>
     </authorgroup>
     <revhistory>
-          <revision>
-            <revnumber>2</revnumber>
-            <date>16th February 2009</date>
-            <revdescription>
-              <para>Course proctor changed to Wail Qasim</para>
-            </revdescription>
-          </revision>
-          <revision>
-            <revnumber>2</revnumber>
-            <date>15 November 2005</date>
-            <revdescription>
-              <para>Rewritten by Andrew Robinson</para>
-            </revdescription>
-          </revision>
+      <revision>
+        <revnumber>1</revnumber>
+        <date>15 November 2005</date>
+        <revdescription>
+          <para>Rewritten by Andrew Robinson</para>
+        </revdescription>
+      </revision>
+      <revision>
+        <revnumber>2</revnumber>
+        <date>16th February 2009</date>
+        <revdescription>
+          <para>Course proctor changed to Wail Qasim</para>
+        </revdescription>
+      </revision>
+      <revision>
+        <revnumber>3</revnumber>
+        <date>5 May 2012</date>
+        <revdescription>
+          <para>Remove course proctor name from exam body.</para>
+        </revdescription>
+      </revision>
     </revhistory>
   </articleinfo>
   <section id="sec-intro">
@@ -223,7 +230,7 @@ experience the same position.</para>
     <para>Submission Instructions</para>
     <orderedlist>
       <listitem><para>Write out your answers to the questions below.</para></listitem>
-            <listitem><para>E-mail them to the course grader: <ulink url="mailto:security-tutor@star-fleet.com?subject=STF Security Course">Jim Hosick</ulink></para></listitem>
+      <listitem><para>E-mail them to the <ulink url="mailto:security-tutor@star-fleet.com?subject=STF Security Course">course proctor</ulink></para></listitem>
       <listitem><para><emphasis>Be sure to include your full name at the top of the e-mail!</emphasis></para></listitem>
       <listitem><para>Please copy the full question before placing your answer below it, this facilitates more rapid marking.</para></listitem>
       <listitem><para>Do <emphasis>not</emphasis> send your answers as an attachment.  Send them in the body of the e-mail.</para></listitem>

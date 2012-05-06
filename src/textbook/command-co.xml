@@ -22,6 +22,13 @@
           <para>Course proctors changed to Brian Olinski and Joe Fahey</para>
         </revdescription>
       </revision>
+      <revision>
+        <revnumber>3</revnumber>
+        <date>5 May 2012</date>
+        <revdescription>
+          <para>Remove course proctor name from exam body.</para>
+        </revdescription>
+      </revision>
     </revhistory>
   </articleinfo>
   <section id="co-intro">
@@ -324,7 +331,7 @@
     <para>Submission Instructions</para>
     <orderedlist>
       <listitem><para>Write out your answers to the questions below.</para></listitem>
-      <listitem><para>E-mail them to the course grader: <ulink url="mailto:command-co-tutor@star-fleet.com?subject=STF Command CO Exam">Symon Silvester, Brian Olinski and Sarah Hemenway</ulink></para></listitem>
+      <listitem><para>E-mail them to the <ulink url="mailto:command-co-tutor@star-fleet.com?subject=STF Command CO Exam">course proctor</ulink></para></listitem>
       <listitem><para><emphasis>Be sure to include your full name at the top of the e-mail!</emphasis></para></listitem>
       <listitem><para>Send the original question followed by your answers.</para></listitem>
       <listitem><para>Do <emphasis>not</emphasis> send your answers as an attachment.</para></listitem>

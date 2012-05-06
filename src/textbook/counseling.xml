@@ -26,6 +26,13 @@
           <para>Changed course proctor to D Grisham</para>
         </revdescription>
       </revision>
+      <revision>
+        <revnumber>4</revnumber>
+        <date>5 May 2012</date>
+        <revdescription>
+          <para>Remove course proctor name from exam body.</para>
+        </revdescription>
+      </revision>
     </revhistory>
   </articleinfo>
   <section id="cns-intro">
@@ -82,7 +89,7 @@
     <para>Submission Instructions</para>
     <orderedlist>
       <listitem><para>Write out your answers to the questions below.</para></listitem>
-      <listitem><para>E-mail them to the course grader: <ulink url="mailto:counseling-tutor@star-fleet.com?subject=STF Counseling Exam">Jen Herr</ulink></para></listitem>
+      <listitem><para>E-mail them to the <ulink url="mailto:counseling-tutor@star-fleet.com?subject=STF Counseling Exam">course proctor</ulink></para></listitem>
       <listitem><para><emphasis>Be sure to include your full name at the top of the e-mail!</emphasis></para></listitem>
       <listitem><para>end the original question followed by your answers.</para></listitem>
       <listitem><para>Send your answers as an attachment, either .doc or .rtf.</para></listitem>

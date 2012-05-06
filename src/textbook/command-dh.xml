@@ -17,14 +17,21 @@
         <revdescription>
           <para>Changed course proctor to Robin Bird</para>
         </revdescription>
-      </revision>   
+      </revision>
       <revision>
         <revnumber>3</revnumber>
         <date>1 August 2009</date>
         <revdescription>
           <para>Changed course proctor to Samuel Bibb</para>
         </revdescription>
-      </revision>   
+      </revision>
+      <revision>
+        <revnumber>4</revnumber>
+        <date>5 May 2012</date>
+        <revdescription>
+          <para>Remove course proctor name from exam body.</para>
+        </revdescription>
+      </revision>
     </revhistory>
   </articleinfo>
   <section id="dh-intro">
@@ -47,7 +54,7 @@
     <section>
       <title>In Character</title>
       <itemizedlist>
-        <listitem><para>It is the job of a good Department Head to ensure that your department is run efficiently and your officers have plenty of work to do. You will be required to give your staff tasks. You should feel free to issue orders within the structure of your department and the main sim.  For example, if you are the Chief Medical Officer, feel free to tell your staff to organize physical examinations.</para></listitem>      
+        <listitem><para>It is the job of a good Department Head to ensure that your department is run efficiently and your officers have plenty of work to do. You will be required to give your staff tasks. You should feel free to issue orders within the structure of your department and the main sim.  For example, if you are the Chief Medical Officer, feel free to tell your staff to organize physical examinations.</para></listitem>
         <listitem><para>Your job is to give professional advice and feedback to the XO and CO, when given the opportunity to do so. This does not mean speaking out of turn in front of other officers or behaving in an inappropriate manner. Feel free to request a word in private if the situation requires. Remember you must support the chain of command as it is the principle all military vessels operate upon.</para></listitem>
         <listitem><para>Your job is to accept the orders from your superior officers (XO and CO) and to pass them onto your department for action. This may require holding a briefing or redeploying people from other tasks. Also don't forget the handy dandy multiple timeline facility. Keep your staff busy, just as you would if this was real life.</para></listitem>
         <listitem><para>Set an example. You have to set an in character example for your staff and show them what is acceptable behaviour in your eyes. If you act in an unprofessional way then your junior officers may do the same things too. You are setting the discipline and tone for your department.</para></listitem>
@@ -169,7 +176,7 @@
     <para>Submission Instructions</para>
     <orderedlist>
       <listitem><para>Write out your answers to the questions below.</para></listitem>
-      <listitem><para>E-mail them to the course grader: <ulink url="mailto:command-dh-tutor@star-fleet.com?subject=STF Command DH Exam">Samuel Bibb</ulink></para></listitem>
+      <listitem><para>E-mail them to the <ulink url="mailto:command-dh-tutor@star-fleet.com?subject=STF Command DH Exam">course proctor</ulink></para></listitem>
       <listitem><para><emphasis>Be sure to include your full name at the top of the e-mail!</emphasis></para></listitem>
       <listitem><para>Send the original question followed by your answers.</para></listitem>
       <listitem><para>Do <emphasis>not</emphasis> send your answers as an attachment.</para></listitem>
