@@ -10,6 +10,20 @@
     </author>
     <revhistory>
       <revision>
+        <revnumber>5</revnumber>
+        <date>4 July 2012</date>
+        <revdescription>
+          <para>Winners for Oct11/May12 added by Joe P</para>
+        </revdescription>
+      </revision>
+      <revision>
+        <revnumber>4</revnumber>
+        <date>4 August 2011</date>
+        <revdescription>
+          <para>Winners for Feb11/May10/Oct09/Mar09/May08 added by Sam Waters</para>
+        </revdescription>
+      </revision>
+      <revision>
         <revnumber>3</revnumber>
         <date>12 September 2007</date>
         <revdescription>
@@ -35,6 +49,8 @@
   <section>
     <title>Best Department MOTD</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: Starfleet Academy</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Starfleet Academy</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: Starfleet Academy</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: Gamemaster Department</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: Starfleet Academy</para></listitem>
@@ -49,6 +65,8 @@
   <section>
     <title>Best Ship, Base, or Planet MOTD</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: USS Vanguard</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: USS Ogawa</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: USS Olinski (CO Sidney Parker)</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: USS Vanguard (CO Alasdair Sutherland)</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: USS Samurai (CO Derek O'Brien)</para></listitem>
@@ -64,6 +82,8 @@
   <section>
     <title>Best Fleet MOTD</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: Sixth Fleet (FComm Kendra Kerr)</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Second Fleet (FComm Kat Dedul)</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: Third Fleet (FComm Jim Hosick)</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: Third Fleet (FComm Jim Hosick)</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: Sixth Fleet (FComm Symon Silvester)</para></listitem>
@@ -79,6 +99,9 @@
   <section>
     <title>Favorite Ship Class</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: Pendragon Class (Designers Israel Harris and Bradley Joy)</para></listitem> 
+      <listitem><para><emphasis>May 2012</emphasis>: Discovery Class (Designer Barret Vogtman)</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Discovery Class (Designer Barret Vogtman)</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: Discovery Class (Designer Barret Vogtman)</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: Discovery Class (Designer Barret Vogtman)</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: Discovery Class (Designer Barret Vogtman)</para></listitem>
@@ -94,7 +117,11 @@
   <section>
     <title>Best Mission by a Gamemaster</title>
     <itemizedlist>
-      <listitem><para><emphasis>February 2011</emphasis>: Harley Cartree for "Disconnected" (USS Draco)</para></listitem>
+      <listitem><para><emphasis>May 2012</emphasis>: David Hinkel for "Big Trouble in Little Brissone"</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Harley Cartee for "The La Forge Array" </para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Harley Cartee for "Indecent Exposure" </para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Rob Archer for "Machine Destiny" </para></listitem>
+      <listitem><para><emphasis>February 2011</emphasis>: Harley Cartee for "Disconnected" (USS Draco)</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: Kevin Harbison for "Mother" (USS Asimov)</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: Andrew Robinson for "The Salerian Situation: Chapter 3 'The Hunt'" (USS Entente)</para></listitem>
       <listitem><para><emphasis>March 2009</emphasis>: Russell Watt for "Codex: Star Fleet" (USS Rogue)</para></listitem>
@@ -112,6 +139,8 @@
   <section>
     <title>Most Promising Newcomer</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: Jeremy DeSpain</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Katrina Muller</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: Clint Green</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: Lindsay Bayes</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: Helen Hosick</para></listitem>
@@ -127,6 +156,8 @@
   <section>
     <title>Best Use of NEs</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: Lindsay Bayes</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Lindsay Bayes</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: Deklitch Hardin</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>:Lindsay Bayes</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>:Michelle Higdon</para></listitem>
@@ -144,6 +175,8 @@
   <section>
     <title>Most Creative Poster</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: Lindsay Bayes</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Lindsay Bayes</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: Lindsay Bayes</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: Gene Gibbs</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: Gene Gibbs</para></listitem>
@@ -159,6 +192,8 @@
   <section>
     <title>Best Alien Characterization</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: Jeremy DeSpain as "Tavmeer Timbre"</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Lindsay Bayes</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: Lindsay Bayes</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: Sidney Parker</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: Sidney Parker as "Ra'ab Careel"</para></listitem>
@@ -174,6 +209,8 @@
   <section>
     <title>Wackiest Character</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: Alasdair Sutherland as "NESSIE"</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Russ Watt</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: Larry Garfield as "Monty the Python"</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: Gene Gibbs as "Amicus the Horta"</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: Helen Hosick as "Wot and Bee"</para></listitem>
@@ -188,6 +225,8 @@
   <section>
     <title>Best Romantic Couple</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: Sage Brennan (played by D Grisham) and Calvin Marius (played by Luke Hung)</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Relann Fell (played by Lindsay Bayes) and Jacen Drayke (played by Steven Sigle)</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: Jack Dipper and Jen Herr (Command Ship)</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: Ja'Nai Bane (played by D Grisham) and Simon Abbey (played by Charles Gilmore)</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: Ja'Nai Bane (played by D Grisham) and Simon Abbey (played by Charles Gilmore)</para></listitem>
@@ -205,6 +244,8 @@
   <section>
     <title>The Love Boat</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: USS Genesis</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: USS Atlantis</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: USS Dresden</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: USS Europa</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: USS Entente</para></listitem>
@@ -218,6 +259,8 @@
   <section>
     <title>Most Motley Crew</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: USS Atlantis</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: USS Atlantis</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: USS Constellation</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: Oed V</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: Oed V</para></listitem>
@@ -231,6 +274,8 @@
   <section>
     <title>Best Junior Officer: Engineering</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: Parisa Footohi</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Michael McMonagle</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: Jeff Van Zilen</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: Mary Church</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: Mike Montemayor</para></listitem>
@@ -247,6 +292,8 @@
   <section>
     <title>Best Junior Officer: Medical</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: Parisa Footohi</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Jim Merrett</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: Kristina Leader</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: Robert Spicer</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: Helen Hosick</para></listitem>
@@ -261,6 +308,8 @@
   <section>
     <title>Best Junior Officer: Science</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: Emily Hughes</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Jack Lawerence</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: Thomas Bates</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: Robert Archer</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: Kendra Kerr</para></listitem>
@@ -276,6 +325,9 @@
   <section>
     <title>Best Junior Officer: Security</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: Krys McLean</para></listitem>
+      <listitem><para><emphasis>May 2012</emphasis>: Steven Sigle</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Chris Taylor</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: Nkenge Daniels</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: Lindsay Bayes</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: Jen Herr</para></listitem>
@@ -290,6 +342,9 @@
   <section>
     <title>Best Swing</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: Tony Findora (DH) </para></listitem> 
+      <listitem><para><emphasis>May 2012</emphasis>: Jeremy DeSpain (JO) </para></listitem> 
+      <listitem><para><emphasis>October 2011</emphasis>: Jacob Seime</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: Jacob Seime</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: Jon Page</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: Jon Page (DH)</para></listitem>
@@ -306,6 +361,8 @@
   <section>
     <title>Best Counselor</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: Tyra Schroll</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Kat Dedul</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: Julia K.</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: Linda Gray</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: Helen Hosick</para></listitem>
@@ -323,6 +380,8 @@
   <section>
     <title>Best Civilian</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: Julia Konig</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Lindsay Bayes</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: Symon Silvester</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: Russell Watt</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: Russell Watt</para></listitem>
@@ -333,6 +392,8 @@
   <section>
     <title>Best Marine/MACO</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: Jacob Seime</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Jacob Seime</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: Jacob Seime</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: Steven Sigle</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: Jim Merrett</para></listitem>
@@ -343,6 +404,8 @@
   <section>
     <title>Best Pilot</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: Joe Lighter</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Tyra Schroll</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: Tyra Schroll</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: Sharon Miller</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: Jon Page</para></listitem>
@@ -353,6 +416,8 @@
   <section>
     <title>Best Department Head: Engineering</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: Tyra Schroll</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Tyra Schroll</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: Sharon Miller</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: Tyra Schroll</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: Steven Sigle</para></listitem>
@@ -369,6 +434,9 @@
   <section>
     <title>Best Department Head: Medical</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: D Grisham</para></listitem>
+      <listitem><para><emphasis>May 2012</emphasis>: Tyra Schroll</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Cale Reilly</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: Cale Reilly</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: Cale Reilly</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: Elizabeth Caro</para></listitem>
@@ -385,6 +453,8 @@
   <section>
     <title>Best Department Head: Science</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: Lindsay Bayes</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Lindsay Bayes</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: Lindsay Bayes</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: Robin Bird</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: Krys Bromilow</para></listitem>
@@ -401,6 +471,8 @@
   <section>
     <title>Best Department Head: Security</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: Lindsay Bayes</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Lindsay Bayes</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: Ty Napier</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: Ty Napier</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: Sidney Parker</para></listitem>
@@ -416,6 +488,8 @@
   <section>
     <title>Most Evil Gamemaster</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: Gene Gibbs</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Gene Gibbs</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: David Wonderly</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: Symon Silvester</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: Russell Watt</para></listitem>
@@ -427,6 +501,8 @@
   <section>
     <title>Best Gamemaster</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: Robert Archer</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Harley Cartee</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: David Wonderly</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: Gene Gibbs</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: Gene Gibbs</para></listitem>
@@ -444,6 +520,8 @@
   <section>
     <title>Best Executive Officer</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: Lindsay Bayes</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Joe P</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: Lindsay Bayes</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: Kat Dedul</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: Kat Dedul</para></listitem>
@@ -460,6 +538,8 @@
   <section>
     <title>Best Commanding Officer</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: Lindsay Bayes</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Ty Napier</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: Lindsay Bayes</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: D Grisham</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: Kevin Harbison</para></listitem>
@@ -475,6 +555,8 @@
   <section>
     <title>Best Base or Planet</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: Outpost 42 (CO Jerome Davis)</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Outpost 42 (CO Jerome Davis)</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: Outpost 42 (CO Anthony Martin)</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: Outpost 42 (CO Anthony Martin)</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: Outpost 42 (CO Anthony Martin)</para></listitem>
@@ -491,6 +573,9 @@
   <section>
     <title>Best Ship</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: USS Genesis (CO Jen Herr)</para></listitem>
+      <listitem><para><emphasis>May 2012</emphasis>: USS Atlantis (CO Jim Merrett)</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: USS Atlantis (CO Kendra Kerr)</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: USS Draco (CO Ty Napier)</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: USS Vanguard (CO Alasdair Sutherland)</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: USS Apollo (CO Brian Olinski)</para></listitem>
@@ -506,6 +591,8 @@
   <section>
     <title>Best Alt RPG</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: Oed V</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: SS Bonaventure</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: SS Bonaventure</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>:USS Resolution</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: Oed V</para></listitem>
@@ -515,6 +602,8 @@
   <section>
     <title>Best Fleet</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: Sixth Fleet</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Fourth Fleet</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: Third Fleet</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: Sixth Fleet</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: Fifth Fleet</para></listitem>
@@ -531,6 +620,8 @@
   <section>
     <title>Best Department</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: Academy</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Academy</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: Academy</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: Academy</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: Academy</para></listitem>
@@ -542,6 +633,8 @@
   <section>
     <title>Most Valuable Government Contribution</title>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: Lindsay Bayes and Joe P</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Jen Herr</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: Jack Dipper</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: Andrew Robinson</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: Andrew Robinson</para></listitem>
@@ -554,6 +647,8 @@
     <title>Most Valuable Player</title>
     <para>This is awarded to the person who you generally love to see on your roster, with the knowledge that it's going to be a great time having them on board. This is solely an award based on roleplaying.</para>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: Lindsay Bayes</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Lindsay Bayes</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: Lindsay Bayes</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: Gene Gibbs</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: Gene Gibbs</para></listitem>
@@ -571,6 +666,8 @@
     <title>Best STFer</title>
     <para>This is an all around award that is awarded not only for roleplaying, but for services to the club in an OOC sense as well. The award winners below will be generally familiar to all, not only for the quality of their roleplaying, but have in one way or another made the whole STF experience better for all.</para>
     <itemizedlist>
+      <listitem><para><emphasis>May 2012</emphasis>: Lindsay Bayes</para></listitem>
+      <listitem><para><emphasis>October 2011</emphasis>: Lindsay Bayes</para></listitem>
       <listitem><para><emphasis>February 2011</emphasis>: Anthony Martin</para></listitem>
       <listitem><para><emphasis>May 2010</emphasis>: Andrew Robinson</para></listitem>
       <listitem><para><emphasis>October 2009</emphasis>: Andrew Robinson</para></listitem>
