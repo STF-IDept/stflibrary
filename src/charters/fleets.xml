@@ -11,6 +11,13 @@
     </author>
     <revhistory>
       <revision>
+        <revnumber>5</revnumber>
+        <date>30 January 2011</date>
+        <revdescription>
+          <para>Based on Edict <ulink url="http://www.star-fleet.com/prez/edicts/dipper2/#b1">Dipper Bill #1</ulink></para>
+        </revdescription>
+      </revision>
+      <revision>
         <revnumber>4</revnumber>
         <date>15 April 2007</date>
         <revdescription>
@@ -112,6 +119,17 @@
         <listitem><para>They must manage to function as a Standard Ship successfully, with due regard to the current time period and technology level.</para></listitem>
       </itemizedlist>
       <para>Should a Standard Ship deviate from these criteria, it will be subject to decommissioning per the terms of this Edict.</para>
+    </section>
+    <section>
+      <title>Ship Speeds and AWOL Limits</title>
+      <para>All ships must have a designated ship speed and the respective set of AWOL limits. For Standard Ships these are:</para>
+      <itemizedlist>
+        <listitem><para>Fast: 2 days for Command Staff (including GM), 3 days for Department Heads and 4 days for all others</para></listitem>
+        <listitem><para>Medium: 3 days for Command Staff (including GM), 5 days for Department Heads and 7 days for all others</para></listitem>
+        <listitem><para>Slow: 5 days for Command Staff (including GM), 7 days for Department Heads and 10 days for all others.</para></listitem>             
+      </itemizedlist>
+     <para>Should the CO wish to change the speed of the ship, they must seek the approval of their FComm.</para>
+     <para>Should RPG areas wish to use a non-standard set of AWOL limits, they must be commissioned as an Alternative RPG and have the AWOL limit set in their charter. Alternative RPGs without an AWOL limit set in their charter will need to comply with the above standards.</para>                
     </section>
     <section>
       <title>Decommissioning</title>
