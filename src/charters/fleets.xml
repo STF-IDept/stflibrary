@@ -11,10 +11,17 @@
     </author>
     <revhistory>
       <revision>
+        <revnumber>6</revnumber>
+        <date>15 June 2011</date>
+        <revdescription>
+          <para>Based on Edict <ulink url="http://www.star-fleet.com/prez/edicts/wonderly/#b1">Wonderly #1</ulink></para>
+        </revdescription>
+      </revision>
+      <revision>
         <revnumber>5</revnumber>
         <date>30 January 2011</date>
         <revdescription>
-          <para>Based on Edict <ulink url="http://www.star-fleet.com/prez/edicts/dipper2/#b1">Dipper Bill #1</ulink></para>
+          <para>Based on Bill <ulink url="http://www.star-fleet.com/prez/edicts/dipper2/#b1">Dipper #1</ulink></para>
         </revdescription>
       </revision>
       <revision>
@@ -155,7 +162,7 @@
         <title>Powers</title>
         <para>The CO has the power to promote members of his or her crew up to and including the rank of Lieutenant Commander. The CO may promote members of his or her crew to the rank of Commander with the consent of the Fleet Commander.</para>
         <para>The CO may establish and staff additional 'Swing' positions on a ship as deemed appropriate, in keeping with the design of the class of the ship in question.</para>
-        <para>The CO also has the power to dismiss members of their crews if they determine that such action is necessary to preserve or restore the ability of the ship to function effectively. A member dismissed from a ship may appeal the decision to the FComm (or AFComm if the CO in question is FComm). The ruling of the FComm (or AFComm) in this matter is final and may not be appealed further. Other powers may be specified by Edict or by the Fleet Commander.</para>
+        <para>The CO also has the power to dismiss members of their crews if they determine that such action is necessary to preserve or restore the ability of the ship to function effectively. A member dismissed from a ship may appeal the decision to the FComm (or AFComm if the CO in question is FComm). Should the FComm (or AFComm) support the decision of the CO, the ruling is final. Should the FComm overturn the ruling, the CO may appeal to the President (or the Vice President if the President is the CO in Question); in this case, the President's (or Vice President's) decision is final. Other powers may be specified by Edict or by the Fleet Commander.</para>
       </section>
       <section>
         <title>Restrictions</title>
