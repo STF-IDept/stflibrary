@@ -46,6 +46,7 @@
   <part id="altrpgareas">
     <title>Alternate Role-Playing Environments</title>
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="bonaventure.xml" />
+    <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="chernov.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="constellation.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="merrimack.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="oed_v.xml" />
