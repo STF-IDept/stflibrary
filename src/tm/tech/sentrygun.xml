@@ -1,0 +1,91 @@
+<article class="techreport" id="sentrygun">
+  <title>"Hawk Eye" Automated Weapon System</title>
+  <titleabbrev>Sentry Gun</titleabbrev>
+  <articleinfo>
+    <authorgroup role="Maintainer">
+      <author>
+        <firstname>Alasdair</firstname>
+        <surname>Sutherland</surname>
+      </author>
+    </authorgroup>
+    <authorgroup role="Primary Designers">
+      <author>
+        <firstname>Alasdair</firstname>
+        <surname>Sutherland</surname>
+      </author>
+    </authorgroup>
+    <authorgroup role="Original Designers">
+      <author>
+        <firstname>Alasdair</firstname>
+        <surname>Sutherland</surname>
+      </author>
+    </authorgroup>
+    <keywordset>
+      <keyword role="type">Personnel</keyword>
+      <keyword role="category">Weaponry</keyword>
+      <keyword role="mark">I</keyword>
+    </keywordset>
+    <revhistory>
+      <revision>
+        <revnumber>1</revnumber>
+        <date>19 April, 2010</date>
+        <revdescription>
+          <para>Approved by Engineering Director Andrew Robinson</para>
+        </revdescription>
+      </revision>
+    </revhistory>
+  </articleinfo>
+  <section>
+    <title>Description</title>
+    <para>This weapon system is designed to a multitude of operations these are listed below:</para>
+    <simplelist>
+      <member>Fire support: This can either via automatic operation or via manual operation.</member>
+      <member>Area denial: Weapon can be placed into a specific area and told to deny access to this area, provisions can be made for authorised personnel to enter and leave area.</member>
+      <member>Base defense: Can be used to defend a permanent or temporary installation against attack.</member>
+    </simplelist>
+  </section>
+  <section>
+    <title>Weapon specifications:</title>
+    <para>Dimensions</para>
+    <simplelist>
+      <member>Height: 1.2 meters</member>
+      <member>Length: 1.5 meters</member>
+      <member>Width: 1 meter</member>
+    </simplelist>
+    <para>Device arrangement:</para>
+    <para>The weapon system is built on a tripod mount, allowing for maximum stability. The weapon itself is allowed to rotate the full 360 degrees and can be elevated up to 45 degrees and lowered to -45 degrees, which prevents the turret from hitting the tripod mount. Its body is cast from solid duridium providing sufficient armor against most energy and projectile weaponry. There are three batteries, one in each tripod leg.</para>
+    <para>Power source:</para>
+    <para>There are 3 on-board batteries with varying lifespans dependent upon use. There is a slot in the head of each "foot" of the turret for a main power supply. This will automatically override the on-board power supply (batteries), unless the power supplied drops below the required level for operation, in which case said power supply will be used to supplement the batteries. The various batteries, each of which are labeled on the exterior of each leg, are as follows:</para>
+    <orderedlist>
+      <listitem>Battery 1: Located at the base of leg "A", it supplies the optics, sensors and control systems to provide an operational standby life span of three days. Active tracking and engagement mode cuts the battery's life span to one day of continues usage.</listitem>
+      <listitem>Battery 2: Located at the base of leg "B", this supplies power to the attached weapon and allowing for continual firing of standard phaser fire of up to level seven for one day. Dual batteries allow for "field replacement" of one battery while the other provides power. Each battery provides power for continual phaser fire of up to roughly 12 hours.</listitem>
+      <listitem>Battery 3: Located at the base of leg "B", this battery serves as the other part of the dual battery set-up with Battery 2.</listitem>
+    </orderedlist>
+    <para>Sensors:</para>
+    <para>Multiple sensors are built on board the weapon system and are mounted in armored positions to protect against destruction by enemy fire. These are located half way up each tripod leg and on various locations around the cradle. There is also one optic sensor placed on the same axis but 5 centimeters to the right of where the weapon would sit. Auxiliary sensor input ports are located on the underside of the tripod assembly, specifically where the 3 legs meet. This allows for extra sensors to be connected to the device for more precise operations.</para>
+    <para>On board sensors have multiple types, including infrared, motion tracking, night vision, electromagnetic (EM) sensors, and standard optical video units.</para>
+    <para>Control:</para>
+    <para>The unit is controlled by isolinear circuitry located on the lower half of the rear of the device. This is heavily armored and is difficult to replace in the field due to the multiple connections the entire unit has to the various subsystems. Changing control chips is a simple process of opening the control unit cover but further component replacement requires specialist tools. The weapon system can be either be controlled remotely from a standard tricorder, manually by a trigger system on the actual mounted weapon, or by a starship in orbit. It can also be left in standby mode to fire on a number of pre-selected variables.</para>
+    <para>Weapons:</para>
+    <para>The system can be equipped with:</para>
+    <orderedlist>
+      <listitem>Type IIIa Phaser Rifle</listitem>
+      <listitem>Type IIIb Phaser Rifle</listitem>
+      <listitem>Type IIIc Pulse Compression Phaser Rifle</listitem>
+      <listitem>TR-116 Projectile Rifle</listitem>
+      <listitem>Type IIId Pulse Compression Phaser Rifle- EVA version*</listitem>
+    </orderedlist>
+    <para>* Note: Reserved for use in EVA environments.</para>
+    <para>The weapon is to be slotted into its "cradle", basically a small housing with a gap at the rear for the trigger. The power cell and optics on the weapon are to be removed before the device is inserted then once the weapon is seated correctly the power-supply and optics connector is to be pushed down into place via its barrel hinge arrangement.</para>
+    <para>Optical display:</para>
+    <para>The optical display will present the user with all the data acquired from the weapon, power supply and sensors. This unit itself is a precision piece of equipment and thus field repairs are ill-advised. Replacement is done via removing the pin in the barrel hinge and lifting the unit out.</para>
+    <para>Portability:</para>
+    <para>The device can be erected by a 3 man team within 10 minutes, providing enough time for operational checks to be done on the devices sensors, weapons and control systems. This amount of time is needed due to the complex workings of the device and to ensure that the device's IFF system is accurate.</para>
+    <para>A "plug and play" set-up can be done within 5 minutes, though this is not recommended as this bypasses all safety checks and activates the weapon ready for use as a manually-operated turret.</para>
+    <para>Transport:</para>
+    <para>This weapon can be transported in its supplied cases or by hand via carry handles on the various devices, although not using a case does leave several usually unexposed areas of the device exposed to the elements.</para>
+  </section>
+  <section>
+    <title>Conclusion:</title>
+    <para>This device should meet the current stop gap in starfleet ground based security applications, as further versions are in design for heavier weapons. This device is designed for both regular Starfleet and Starfleet Marine Corps use. Its portability and small size it allow for even a small starship to carry several. This device is also aimed at relieving the ever present issue of lack of manpower which tends to arise in combat engagements.</para>
+</article>
