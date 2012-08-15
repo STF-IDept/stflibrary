@@ -67,6 +67,7 @@
   <part id="equip">
     <title>Personnel Equipment</title>
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="tech/psp1.xml" />
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="tech/sentrygun.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="tech/wearabletricorder.xml" />
   </part>
   <part id="guide">
