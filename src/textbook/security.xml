@@ -12,24 +12,24 @@
     </authorgroup>
     <revhistory>
       <revision>
-        <revnumber>1</revnumber>
-        <date>15 November 2005</date>
+        <revnumber>3</revnumber>
+        <date>5 May 2012</date>
         <revdescription>
-          <para>Rewritten by Andrew Robinson</para>
+          <para>Remove course proctor name from exam body.</para>
         </revdescription>
       </revision>
       <revision>
         <revnumber>2</revnumber>
-        <date>16th February 2009</date>
+        <date>16 February 2009</date>
         <revdescription>
           <para>Course proctor changed to Wail Qasim</para>
         </revdescription>
       </revision>
       <revision>
-        <revnumber>3</revnumber>
-        <date>5 May 2012</date>
+        <revnumber>1</revnumber>
+        <date>15 November 2005</date>
         <revdescription>
-          <para>Remove course proctor name from exam body.</para>
+          <para>Rewritten by Andrew Robinson</para>
         </revdescription>
       </revision>
     </revhistory>

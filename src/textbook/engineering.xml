@@ -12,10 +12,10 @@
     </authorgroup>
     <revhistory>
       <revision>
-        <revnumber>1</revnumber>
-        <date>1 February 1999</date>
+        <revnumber>3</revnumber>
+        <date>5 May 2012</date>
         <revdescription>
-          <para>Original version by Larry Garfield</para>
+          <para>Remove course proctor name from exam body.</para>
         </revdescription>
       </revision>
       <revision>
@@ -26,10 +26,10 @@
         </revdescription>
       </revision>
       <revision>
-        <revnumber>3</revnumber>
-        <date>5 May 2012</date>
+        <revnumber>1</revnumber>
+        <date>1 February 1999</date>
         <revdescription>
-          <para>Remove course proctor name from exam body.</para>
+          <para>Original version by Larry Garfield</para>
         </revdescription>
       </revision>
     </revhistory>
