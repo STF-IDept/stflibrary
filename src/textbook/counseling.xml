@@ -12,10 +12,10 @@
     </authorgroup>
     <revhistory>
       <revision>
-        <revnumber>1</revnumber>
-        <date>19 September 2005</date>
+        <revnumber>4</revnumber>
+        <date>5 May 2012</date>
         <revdescription>
-          <para>Added to the Library</para>
+          <para>Remove course proctor name from exam body.</para>
         </revdescription>
       </revision>
       <revision>
@@ -26,10 +26,17 @@
         </revdescription>
       </revision>
       <revision>
-        <revnumber>4</revnumber>
-        <date>5 May 2012</date>
+        <revnumber>2</revnumber>
+        <date>6 December 2005</date>
         <revdescription>
-          <para>Remove course proctor name from exam body.</para>
+          <para>Changed course proctor to Jen Herr</para>
+        </revdescription>
+      </revision>
+      <revision>
+        <revnumber>1</revnumber>
+        <date>19 September 2005</date>
+        <revdescription>
+          <para>Added to the Library</para>
         </revdescription>
       </revision>
     </revhistory>
