@@ -12,6 +12,13 @@
     </authorgroup>
     <revhistory>
       <revision>
+        <revnumber>3</revnumber>
+        <date>5 May 2012</date>
+        <revdescription>
+          <para>Remove course proctor name from exam body.</para>
+        </revdescription>
+      </revision>
+      <revision>
         <revnumber>2</revnumber>
         <date>16th February 2009</date>
         <revdescription>
@@ -19,10 +26,10 @@
         </revdescription>
       </revision>
       <revision>
-        <revnumber>3</revnumber>
-        <date>5 May 2012</date>
+        <revnumber>1</revnumber>
+        <date>3 August 2006</date>
         <revdescription>
-          <para>Remove course proctor name from exam body.</para>
+          <para>Added to the Library</para>
         </revdescription>
       </revision>
     </revhistory>
