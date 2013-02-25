@@ -12,11 +12,10 @@
     </authorgroup>
     <revhistory>
       <revision>
-        <revnumber>1</revnumber>
-        <date>20 September 2005</date>
+        <revnumber>3</revnumber>
+        <date>5 May 2012</date>
         <revdescription>
-          <para>Added to the Library</para>
-          <para>Originally written by Catherine Potterton</para>
+          <para>Remove course proctor name from exam body.</para>
         </revdescription>
       </revision>
       <revision>
@@ -27,10 +26,11 @@
         </revdescription>
       </revision>
       <revision>
-        <revnumber>3</revnumber>
-        <date>5 May 2012</date>
+        <revnumber>1</revnumber>
+        <date>20 September 2005</date>
         <revdescription>
-          <para>Remove course proctor name from exam body.</para>
+          <para>Added to the Library</para>
+          <para>Originally written by Catherine Potterton</para>
         </revdescription>
       </revision>
     </revhistory>
