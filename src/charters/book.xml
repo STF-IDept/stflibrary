@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!--<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
                     "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd"> -->
 <book id="charters">
@@ -20,7 +21,6 @@
       <para>The "Retired Alt-RPG Environments" section includes those Alt RPGs that were active but have since been retired.  They are not currently binding, but are included here for historical reference.</para>
     </abstract>
   </bookinfo>
-
   <part id="govtstructure">
     <title>Government structure</title>
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="membership.xml" />
@@ -56,6 +56,6 @@
     <title>Retired Alternate Role-Playing Environments</title>
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="crell.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="scottie.xml" />
-  <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="403.xml" />
+    <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="403.xml" />
   </part>
 </book>
