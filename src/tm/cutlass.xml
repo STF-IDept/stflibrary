@@ -23,9 +23,16 @@
       <keyword role="service">NPC</keyword>
       <keyword role="category">Fighter</keyword>
       <keyword role="variant">Medium</keyword>
-      <keyword role="mark">I</keyword>
+      <keyword role="mark">II</keyword>
     </keywordset>
     <revhistory>
+      <revision>
+        <revnumber>2</revnumber>
+        <date>01 September 2013</date>
+        <revdescription>
+          <para>Approved by Engineering Director Robert Archer</para>
+        </revdescription>
+      </revision>
       <revision>
         <revnumber>1</revnumber>
         <date>28 November 2003</date>
@@ -37,7 +44,7 @@
   </articleinfo>
   <section>
     <title>History and Mission Overview</title>
-    <para>With many Starfleet fightercraft beginning to lose their effectiveness in combat, Starfleet R&amp;D decided to look for a new craft that could achieve most of the same objectives and at the same time be smaller and more effective.  AST Shipyards submitted this design that was approved by Starfleet R&amp;D on Stardate 03101.0.  The Cutlass-class medium fightercraft has the following mission objectives.</para>
+    <para>Initially approved for service in 2376, the Cutlass-class medium fightercraft served diligently for a decade in Starfleet. As the design reached the end of its first decade of service, changes to Starfleet Engineering design standards and improved technologies had rendered it obsolete compared to newer designs. Consequently, AST Shipyards' design team embarked on a re-vamp of the original Mark I Cutlass design to create the Cutlass Mark II in 2386.  The Cutlass-class medium fightercraft has the following mission objectives.</para>
     <simplelist>
       <member>Interception of enemy fighters.</member>
       <member>Support of capital ships.</member>
@@ -48,45 +55,70 @@
   </section>
   <section>
     <title>Structure and Construction</title>
-    <para>The Cutlass-class features a duranium/tritanium hull.  The designers at AST decided on a design that featured a cigar shaped body, round at the nose and flat at the back.  Wings extend from the body, and they have dimensions of 4m by 6m by 1 m.  The dimensions of the ship are 9.5m by 8.5m by 6m.</para>
+    <para>The Cutlass-class features a duranium/tritanium hull. The framework of the craft is mostly tritanium, while the hull plating itself is duranium. This gives the Mark II Cutlass a duller appearance than its predecessor and serves as a basic stealth feature.
+
+The designers at AST decided to retain the old design shape that featured a cigar shaped fuselage: round at the nose and flat at the back, with the cockpit moved slightly aft to sit directly amidships. Delta-shaped wings extend from the body from amidships and meet at the aft of the ship. The wings house the Mark II's stabilizing systems and some weaponry.
+
+The Mark II is larger than its predecessor, measuring in at 13m x 10m x 3m. The increases in length and width served to provide extra space for new/improved equipment, while the reduction in height served to make the Cutlass easier to fit into Starfleet hangars, as well as increase ease of access for the pilot. The result is a craft with a much sleeker visual profile.</para>
   </section>
   <section>
     <title>Science and Remote Sensing Systems</title>
-    <para>The Cutlass uses a computer core similar to the Type-X shuttlecraft.  The unit is made up of 5 polled processor segments.  In case of failure of this system, the pilot is a) in trouble, and b) should immediately eject from the craft.  The fighter?s sensors are taken from Type-X shuttlecraft.  Cutlass-class craft are unable to detect cloaked vessels without the aid of the mothership?s sensors.  Sensors are located in the forward section, aft of the phasers.</para>
+    <para>The Cutlass's computer and sensor systems were the biggest beneficiaries of the redesign. The Mark II Cutlass' computer system is comprised of two small isolinear cores, each with their own jobs to do in the control of the ship's systems.
+
+One core, located forward of the cockpit, is responsible for interpreting the sensor data and providing it to the pilot. The first core is also responsible for relaying commands to the forward phasers and thrusters. The second, located aft of the cockpit, handles the main engines and life support systems. The second core is also responsible for relaying commands to the ship's other weapons, and aft thrusters.
+
+The two computers are linked by an ODN line to a bio-neural gel pack located beneath the cockpit to synchronize the data transmissions to the cockpit consoles and increase response time to pilot command inputs. The Cutlass uses the Starfleet-standard LCARS OS and MAJEL UI.
+
+The Cutlass-class uses Type II sensors, capable of seeing 1.2 light years around the craft in low-resolution, and 0.7 light years in high-resolution. Cutlass-class fighters remain unable to detect cloaked vessels without the aid of their carrier ship's sensors. Sensors are located in the forward section, aft of the phasers.
+
+Cutlass-class craft have only one holographic emitter, for the Heads-Up Display in the cockpit.</para>
   </section>
   <section>
     <title>Impulse Propulsion Systems</title>
-    <para>Since the Cutlass is incapable of faster than light travel, it relies on warp capable carriers for transport to new engagements.  Microfusion generators power the engines of the Cutlass.  The fighter takes the Reaction Control System packages from type-IX shuttlecraft for manueverability, allowing it to outmanuever many fighters currently used by the major powers in the galaxy.</para>
-    <para>The maximum speed for the Cutlass is .30c, where c is the speed of light.  It can attain this speed from a dead stop in 10 seconds, but it takes 13 seconds to slow to a dead stop from .30c.  This is considered very good speed, to cover the entire spedometer, as it is, twice in 23 seconds.</para>
+    <para>The Mark II Cutlass remains incapable of warp drive. Microfusion generators located in the aft-most part of the fuselage power the engines of the Cutlass. The maximum speed for the Cutlass is .30c. It can go from 0 to .30c in 10 seconds, and from .30c to 0 in 13 seconds.</para>
+    <para>The Cutlass is also equipped with a series of RCS thrusters to allow it to maneuver through tight spaces and perform dogfighting maneuvers. Two thrusters are located in the nose of the ship (one above the phasers, and one below), four amidships (two to starboard, and two to port), two in each wing (one dorsal, one ventral), and two aft (one dorsal, one ventral).</para>
   </section>
   <section>
     <title>Tactical Systems</title>
     <section>
       <title>Defensive Shields</title>
-      <para>The Cutlasses basic defensive systems, shields and signal jamming devices, are the same as those in most shuttlecraft.  The shields? Maximum Graviton Load (continuous) is 30 MegaWatts.  Their Maximum Energy Dissipation Rate is 845 killowatts.  The Cutlass includes 1.5-cm thick ablative armor over the engines and the torpedo bay, and 1 cm thick over the cockpit, wings and computer core.</para>
+      <para>The basic defensive systems of the Cutlass also received an overhaul. The shields were upgraded to a Type-4 system with a Max Graviton Load of 537 MW and a Max Dissipation Rate of 1.46 x 10^5 kW. A secondary Type-1 shield system with a Max Graviton Load of 80 MW and a Max Dissipation Rate of 2.2 x 10^4 was installed around the cockpit to protect the pilot in the event of primary shield failure. This secondary system does not activate until the primary shields over the cockpit are below ten percent.
+
+The secondary shield system was added in lieu of ablative armor over the cockpit, though the engine housings retain their 1.5 cm of duranium armor plating, and the wings their 1 cm of duranium armor plating.</para>
     </section>
     <section>
       <title>Phaser Systems</title>
-      <para>The phaser armament consists of two Type V pulse emitters housed in the nose of the craft.  A small Type IV emitter covers the ships backside.  It is located directly beneath the microtorpedo bay.</para>
+      <para>The phaser armament consists of two Type V pulse emitters housed in the nose of the craft, between the forward thrusters. Another Type V array covers the ship's backside. It is located directly behind the cockpit.</para>
     </section>
     <section>
       <title>Torpedo Systems</title>
-      <para>The weaponry systems on the Cutlass are significant.  Each wing has one microtorpedo launcer, slung beneath it.  The microtorpedo bay holds 50 microtorpedoes, enough for 25 per launcher.  The fighter can fire 2 torpedoes every 15 seconds, but only does so in a very intense fight.  In normal situations, such as convincing a renegade freighter to power down, the pilot of the craft should only need to use up to five (5) torpedoes. </para>
+      <para>Each wing has one Type 2 microtorpedo launcher, slung beneath it. The microtorpedo bay holds 24 microtorpedoes, enough for 12 per launcher. The fighter can fire 2 microtorpedoes every 5 seconds.
+
+It can also be outfitted with up to 24 microprobes, for missions including development and deployment of sensor buoy lines around a system in danger of attack. The firing rate for the launchers remains 2 micropobes every 5 seconds.</para>
     </section>
   </section>
   <section>
     <title>Command and Support Systems</title>
-    <para>The cockpit is located directly behind the sensors.  Inside the cockpit there are three consoles.  The one on the pilot?s left gives sensor readouts.  The console directly in front of the pilot contains tactical readouts.  The console on the right contains system status readouts.  Also included is a viewscreen.  This viewscreen has a standard mode and a tactical mode, which transmits sensor blips onto a grid.  The pilot uses a joystick, similar to ones used in 20th and 21st century jet fighters, to pilot the ship and fire the weapons.</para>
+    <para>The cockpit is located amidships, directly between the computer cores. Inside the cockpit there are three consoles. The one on the pilot's left gives sensor readouts. The console directly in front of the pilot contains tactical readouts. The console on the right contains system status readouts.
+
+The removal of the ablative armor from the cockpit allowed the viewscreen of the Mark I to be replaced with a digital Heads-Up Display (HUD). The HUD provides the pilot with basic information on his direction and speed, and alerts him to immediate threats such as torpedo locks or imminent collisions.
+
+The pilot controls the ship itself through use of a manual steering column. The MSC has a manual trigger for the ship's pulse phasers, and the pilot can control the torpedo launchers and aft phaser array through either voice command or the tactical console.</para>
   </section>
   <section>
     <title>Utility Systems</title>
-    <para>When drawing up the plans for the craft, it was decided to eject the lifeboat by means of explosive charges placed around the rocket, a safe distance away from the air tanks on the bottom of the pod.  Once the pilot has ejected, there can be no immediate attachment.</para>
+    <para>The cockpit of a Cutlass is designed for use as an emergency escape pod. In an emergency, the pilot can trigger explosive charges placed around the hardpoint connections to the rest of the craft.
+
+The emergency escape pod has minimal steering capabilities, though a single RCS thruster powered by a solid-state chemical drive gives it thrust. The bio-neural gel-pack beneath the cockpit that normally coordinates the two computer cores is connected to this thruster and allows the pilot some maneuverability.
+
+The emergency escape pod has life-support for three days, and emergency rations for a week, along with a Type-III phaser rifle. The rations and phaser are located in a locker beneath the floor of the cockpit and only accessible if the cockpit is serving as an escape pod.
+
+There are no replicators, holodecks, turbolifts or transporters aboard the Cutlass.</para>
   </section>
   <section>
     <title>Crew Support Systems</title>
-    <para>Cutlass class fighters use subspace communication equipment that includes encoded channel systems that allow for safe communication between pilots trying to co-ordiante assaults.</para>
-    <para>Atmospheric Recycling Systems located behind the cockpit provide air to the pilots.  Additional air is stored in tanks beneath the cockpit, enough for one hour.  This air is used only when the cockpit lifeboat is ejected. Since not all pilots are human, alternative environment survival equipment is shipped with the fighters.</para>
-    <para>Like most fighters, Cutlass class ships have a cockpit that is designed to separate and act as a lifeboat in case of immenent fighter destruction.  Propulsion for this lifeboat is achieved through use of a small ion rocket.  A small emergency distress beacon is attached to the cockpit.  Survival rations for 2 days are located beneath the pilot?s seat, incase of landing on a moon or other celestial body with any sort of atmosphere.</para>
+    <para>Cutlass class fighters use subspace communication equipment that includes encoded channel systems that allow for safe communication between pilots trying to co-ordinate assaults. The fighters remain attached to their carrier ship's internal comm-net up to a distance of half a light year.</para>
+    <para>Atmospheric Recycling Systems located behind the cockpit provide air to the pilot. Additional air is stored in tanks beneath the cockpit, enough for thirty-six hours. This air is used only when the cockpit lifeboat is ejected. Since not all pilots are human, alternative environment survival equipment is shipped with the fighters for installation aboard the carrier. Conversion to an alternate atmosphere within the fighter requires three hours' work by a technician.</para>
   </section>
   <section>
     <title>Technical Specifications</title>
@@ -94,15 +126,15 @@
       <title>Dimensions and Structure</title>
       <varlistentry>
         <term>Length</term>
-        <listitem><para>9.5 meters</para></listitem>
+        <listitem><para>13 meters</para></listitem>
       </varlistentry>
       <varlistentry>
         <term>Beam (Width)</term>
-        <listitem><para>8.5 meters</para></listitem>
+        <listitem><para>10 meters</para></listitem>
       </varlistentry>
       <varlistentry>
         <term>Height</term>
-        <listitem><para>6 meters</para></listitem>
+        <listitem><para>3 meters</para></listitem>
       </varlistentry>    
     </variablelist>    
     <variablelist>
@@ -116,11 +148,11 @@
       <title>Computer Systems</title>
       <varlistentry>
         <term>Core</term>
-        <listitem><para>Isolinear data core</para></listitem>
+        <listitem><para>Isolinear data core x2</para></listitem>
       </varlistentry>
       <varlistentry>
         <term>Chipset</term>
-        <listitem><para>250 isolinear chips</para></listitem>
+        <listitem><para>200 isolinear chips (400 total)</para></listitem>
       </varlistentry>
       <varlistentry>
         <term>Operating System</term>
@@ -149,12 +181,20 @@
     <variablelist>
       <title>Defensive Systems</title>
       <varlistentry>
-        <term>Shield Maximum Graviton Load (Continuous)</term>
-        <listitem><para>X30 MegaWatts</para></listitem>
+        <term>Primary Shield Maximum Graviton Load (Continuous)</term>
+        <listitem><para>537 MegaWatts</para></listitem>
       </varlistentry>
       <varlistentry>
-        <term>Shield Maximum Energy Dissipation Rate</term>
-        <listitem><para>845 kilowatts</para></listitem>
+        <term>Primary Shield Maximum Energy Dissipation Rate</term>
+        <listitem><para>1.46 x 10^5 kW</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Secondary Shield Maximum Graviton Load (Continuous)</term>
+        <listitem><para>80 MegaWatts</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Secondary Shield Maximum Energy Dissipation Rate</term>
+        <listitem><para>2.2 x 10^4 kW</para></listitem>
       </varlistentry>
     </variablelist>
     <variablelist>
@@ -165,11 +205,11 @@
           <variablelist>
             <varlistentry>
               <term>Torpedo Tubes</term>
-              <listitem><para>2</para></listitem>
+              <listitem><para>2x Type 2</para></listitem>
             </varlistentry>
             <varlistentry>
               <term>Standard Payload (total)</term>
-              <listitem><para>50 micro-torpedoes</para></listitem>
+              <listitem><para>24 micro-torpedoes (12 per launcher) / up to 24 microprobes (up to 12 per launcher)</para></listitem>
             </varlistentry>
           </variablelist>
         </listitem>
@@ -178,8 +218,8 @@
         <term>Phasers</term>
         <listitem>
           <itemizedlist>
-            <listitem><para>2 Type-V Pulse Phaser Cannons</para></listitem>
-            <listitem><para>1 Type-IV Pulse Phaser Cannon</para></listitem>
+            <listitem><para>2 Type V pulse emitters (fore)</para></listitem>
+            <listitem><para>1 Type V array (aft)</para></listitem>
           </itemizedlist>
         </listitem>
       </varlistentry>
@@ -187,6 +227,6 @@
   </section>
   <section>
     <title>Conclusion</title>
-    <para>AST has put the Cutlass-class medium fightercraft into mass production.  The fighter will serve as an assault ship against enemy targets, perform reconnieters, escort ships and enact patrols.  With its high defensive AND offensive capabilities, this well-rounded ship will become a Starfleet dynasty in the coming years.</para>
+    <para>AST hopes the Mark II Cutlass will continue to provide the solid results its predecessor did, helping to keep the Federation safe in both wartime and peacetime.</para>
   </section>
 </article>
