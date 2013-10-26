@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!--<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN"
   "http://www.oasis-open.org/docbook/xml/4.0/docbookx.dtd">-->
 <book id="tm">
@@ -23,6 +23,7 @@
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="maverick.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="mccoy.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="mjolnir.xml" />
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="mythology.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="olinski.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="pendragon.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="trafalgar.xml" />
