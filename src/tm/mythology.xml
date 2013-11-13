@@ -72,27 +72,81 @@
       <para>The Mythology class has three mission module swap areas. The first is located aft of the bridge and below on an angle from shuttle bay 1 on decks 5 through 8; the other two are located in the engineering hull. They are placed on the lower aft port and starboard areas of the connecting structure on decks 30 through 33. These modules are easily hot swapped out at any star base that has such facilities. Typical swap over times range from 3 to 5 days.</para>
       <para>When a particular module suite is chosen by the Captain and Command officers for the mission ahead all three bays are used.</para>
       <para>The available modules are as follows:</para>
-      <section>
-        <title>Expanded Cargo Modules</title>
-        <para>In their default configuration these modules are open bay areas often used for on hand spare parts or supplies for the mission ahead. This allows the Mythology further cargo storage for long range missions or large scale supply efforts.</para>
-        <title>Colonization Mission Modules</title>
-        <para>This suite of modules gives expanded diplomatic meeting rooms. When installed it gives:
-        <simplelist><member>Quarters for up to 500 colonists</member><member>Six months of consumables</member><member>Various colony supplies for construction and setup</member><member>Essential and specialized terra-forming equipment storage</member></simplelist></para>
-        <title>Expanded Diplomatic Mission Modules</title>
-        <para>This suite of modules gives expanded diplomatic meeting rooms. When installed it gives:
-        <simplelist><member>Twelve Ambassadorial quarters each</member><member>Two hundred staff quarters each</member><member>One conference hall complex with bar and mess area for 200 guests</member><member>12 twelve seat briefing rooms</member><member>Facilities and quarters, for up to 100 members of the press</member><member>All areas are capable of supporting H, K, or L environments</member></simplelist></para>
-        <title>Recreation / Entertainment Mission Modules</title>
-        <para>When installed it gives the Mythology expanded entertainment capabilities, including:
-        <simplelist><member>Sixteen holosuites</member><member>Six recreation and performance halls for live performances</member><member>Three 100 yard long twelve feet deep swimming pools with spa facilities</member><member>Three casinos with two deck bars</member><member>Three cargo and replication areas for entertainment storage and small scale fabrication</member><member>Fifteen fusion generators to support the added power demands of each module, five generators are located in each module.</member></simplelist></para>
-        <title>Fleet Operation &amp; Control / Tactical Mission Weapons Module</title>
-        <para>This suite of modules when installed gives the Mythology expanded weapon setups, as well as the ability to more easily coordinate fleet operations. It also includes the capacity for tactical missions where heavy scale boarding actions are required.
-        <simplelist><member>Six Type VIII phaser arrays, two to each module, with 25 emitters each, each array outputting 2.6 megawatts to a range of 150,000 km</member><member>25 Marine personnel barracks in module one in the saucer</member><member>A fleet operations and control suite in module one in the saucer to coordinate fleet movements and activities</member><member>Two auxiliary craft bays in module two and three each with two Danube class runabouts with included heavy weapons pod, and Marine personnel carrier module</member><member>The modules each come equipped with the needed power, supply and equipment and storage areas</member></simplelist></para>
-        <title>Emergency Evacuation / Search &amp; Rescue Mission Module</title>
-        <para>This suite of modules gives the Mythology the ability to evacuate and treat critically injured refugees from stricken sites, as well as providing enhanced material for large scale search and rescue missions and medical relief efforts
-        <simplelist><member>50 JO sized quarters in module 1 in the saucer, each room capable of holding 4 people comfortably</member><member>One cargo bay in module 1, containing relief and medical supplies for the treatment of refugees aboard ship</member><member>Two 50 biobed triage sickbays in modules 2 and 3</member><member>20 medical crew quarters, ten to each module in modules two and three in the engineering hull</member></simplelist></para>
-      </section>
-      <title>Flea’tan Compression Relay Jump Core Module</title>
-      <para>Located on decks 40 and 41, just behind the primary warp core, is located a modular area for the sole use of the experimental Flea’tan Compression Relay Jump Core. This modular area is set up for the use of this core for those Mythology ships in the Fleet 5 and 6 areas of operation where the relay network is in use. For those Mythology ships not in such operational areas this modular bay is left empty and open for use as the crew sees fit to accommodate mission needs in flight.</para>
+      <variablelist>
+        <varlistentry>
+          <term>Expanded Cargo Modules</term>
+          <listitem><para>In their default configuration these modules are open bay areas often used for on hand spare parts or supplies for the mission ahead. This allows the Mythology further cargo storage for long range missions or large scale supply efforts.</para></listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>Colonization Mission Modules</term>
+          <listitem>
+            <para>This suite of modules gives expanded diplomatic meeting rooms. When installed it gives:</para>
+            <simplelist>
+              <member>Quarters for up to 500 colonists</member>
+              <member>Six months of consumables</member>
+              <member>Various colony supplies for construction and setup</member>
+              <member>Essential and specialized terra-forming equipment storage</member>
+            </simplelist>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>Expanded Diplomatic Mission Modules</term>
+          <listitem>
+            <para>This suite of modules gives expanded diplomatic meeting rooms. When installed it gives:</para>
+            <simplelist>
+              <member>Twelve Ambassadorial quarters each</member>
+              <member>Two hundred staff quarters each</member>
+              <member>One conference hall complex with bar and mess area for 200 guests</member>
+              <member>12 twelve seat briefing rooms</member>
+              <member>Facilities and quarters, for up to 100 members of the press</member>
+              <member>All areas are capable of supporting H, K, or L environments</member>
+            </simplelist>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>Recreation / Entertainment Mission Modules</term>
+          <listitem>
+            <para>When installed it gives the Mythology expanded entertainment capabilities, including:</para>
+            <simplelist>
+              <member>Sixteen holosuites</member>
+              <member>Six recreation and performance halls for live performances</member>
+              <member>Three 100 yard long twelve feet deep swimming pools with spa facilities</member>
+              <member>Three casinos with two deck bars</member>
+              <member>Three cargo and replication areas for entertainment storage and small scale fabrication</member>
+              <member>Fifteen fusion generators to support the added power demands of each module, five generators are located in each module.</member>
+            </simplelist>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>Fleet Operation &amp; Control / Tactical Mission Weapons Module</term>
+          <listitem>
+            <para>This suite of modules when installed gives the Mythology expanded weapon setups, as well as the ability to more easily coordinate fleet operations. It also includes the capacity for tactical missions where heavy scale boarding actions are required.</para>
+            <simplelist>
+              <member>Six Type VIII phaser arrays, two to each module, with 25 emitters each, each array outputting 2.6 megawatts to a range of 150,000 km</member>
+              <member>25 Marine personnel barracks in module one in the saucer</member>
+              <member>A fleet operations and control suite in module one in the saucer to coordinate fleet movements and activities</member>
+              <member>Two auxiliary craft bays in module two and three each with two Danube class runabouts with included heavy weapons pod, and Marine personnel carrier module</member>
+              <member>The modules each come equipped with the needed power, supply and equipment and storage areas</member>
+            </simplelist>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>Emergency Evacuation / Search &amp; Rescue Mission Module</term>
+          <listitem>
+            <para>This suite of modules gives the Mythology the ability to evacuate and treat critically injured refugees from stricken sites, as well as providing enhanced material for large scale search and rescue missions and medical relief efforts</para>
+            <simplelist>
+              <member>50 JO sized quarters in module 1 in the saucer, each room capable of holding 4 people comfortably</member>
+              <member>One cargo bay in module 1, containing relief and medical supplies for the treatment of refugees aboard ship</member>
+              <member>Two 50 biobed triage sickbays in modules 2 and 3</member>
+              <member>20 medical crew quarters, ten to each module in modules two and three in the engineering hull</member>
+            </simplelist>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>Flea'tan Compression Relay Jump Core Module</term>
+          <listitem><para>Located on decks 40 and 41, just behind the primary warp core, is located a modular area for the sole use of the experimental Flea'tan Compression Relay Jump Core. This modular area is set up for the use of this core for those Mythology ships in the Fleet 5 and 6 areas of operation where the relay network is in use. For those Mythology ships not in such operational areas this modular bay is left empty and open for use as the crew sees fit to accommodate mission needs in flight.</para></listitem>
+        </varlistentry>
+      </variablelist>
     </section>
   </section>
   <section>
