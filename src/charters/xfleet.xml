@@ -9,6 +9,13 @@
         </author>
         <revhistory>
             <revision>
+                <revnumber>2</revnumber>
+                <date>30 September 2013</date>
+                <revdescription>
+                    <para>Based on Bill <ulink url="http://www.star-fleet.com/prez/edicts/johnson/#b1">Johnson #1</ulink></para>
+                </revdescription>
+            </revision>
+            <revision>
                 <revnumber>1</revnumber>
                 <date>22 October 2012</date>
                 <revdescription>
@@ -28,7 +35,7 @@
     </section>
     <section>
         <title>Restrictions</title>
-        <para>Participation in any aspect of X-Fleet is restricted to members of the club who hold the rank of Ensign or above and possess at least one role playing position within a Fleet as defined by Fleet Command and Mundane Matters (FCOMM). The rank possessed by any character in X-Fleet will not apply to any member rank. Any sims conducted by licensed Gamemasters within X-Fleet will not count towards a Gamemaster's rank.</para>
+        <para>Participation in any aspect of X-Fleet is restricted to active members of the club as defined under the Membership Section of Member Order and Organization (MOO). The rank possessed by any character in X-Fleet will not apply to any member rank. Any sims conducted by licensed Gamemasters within X-Fleet will not count towards a Gamemaster's rank.</para>
     </section>
     <section>
         <title>Experimental Ships</title>
@@ -55,7 +62,7 @@
     </section>
     <section>
         <title>Decomissioning</title>
-        <para>If an X-Ship ever has less than five players who have posted on it within the previous 30 days, it is to be decommissioned immediately by the SOX. An X-Ship may also be decommissioned by the SOX if that ship's continued existence somehow violates the Terms of Service. Violations of the TOS by a player who happens to be on an X-Ship will not be grounds for decommissioning.</para>
+        <para>If an X-Ship ever has less than five members  who have posted on it within the previous 14 days, it shall be considered on probation. The members of the ship will be notified immediately and be given 7 days to take corrective action. If at the end of the 7 days the ship does not have 5 members who have posted within the last 14 days it is to be decommissioned immediately by the SOX. An X-Ship may also be decommissioned by the SOX if that ship's continued existence somehow violates the Terms of Service. Violations of the TOS by a player who happens to be on an X-Ship will not be grounds for decommissioning.</para>
         <para>Any decision to decommission an X-Ship by the SOX is final and may not be appealed.</para>
     </section>
     <section>
@@ -70,11 +77,12 @@
             <listitem><para>The Personnel Department is exempt from providing new members to X-Ships.</para></listitem>
             <listitem><para>Starfleet Academy is exempt from providing new graduates to X-Ships.</para></listitem>
             <listitem><para>The Internet Department and Librarian are exempt from archiving content produced by X-Ships.</para></listitem>
+            <listitem><para>The Engineering Department will not be tasked with creating, maintaining or codifying specific ship specifications or technologies solely for the use of X-Fleet.</para></listitem>
         </itemizedlist>
     </section>
     <section>
         <title>Trial Period</title>
-        <para>X-Fleet will be reviewed six months after the date it begins service. The review will take the form of a public discussion held within Command, with the President having the final ruling on whether or not X-Fleet has passed or failed its trial period. The discussion must run for a minimum of two weeks. The review criteria is to include:</para>
+        <para>X-Fleet will be reviewed six months after the date of this bill's passing. The review will take the form of a public discussion held within Command, with the President having the final ruling on whether or not X-Fleet has passed or failed its trial period. The discussion must run for a minimum of two weeks. The review criteria is to include:</para>
         <itemizedlist>
             <listitem><para>Is X-Fleet providing enjoyable environments that are beneficial for those playing on them and the club as a whole?</para></listitem>
             <listitem><para>Is the variety in environments provided by X-Fleet adequate?</para></listitem>
