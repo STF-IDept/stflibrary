@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!--<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.3//EN"
                     "http://www.oasis-open.org/docbook/xml/4.3/docbookx.dtd"> -->
 <book id="charters">
@@ -20,7 +21,6 @@
       <para>The "Retired Alt-RPG Environments" section includes those Alt RPGs that were active but have since been retired.  They are not currently binding, but are included here for historical reference.</para>
     </abstract>
   </bookinfo>
-
   <part id="govtstructure">
     <title>Government structure</title>
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="membership.xml" />
@@ -28,7 +28,6 @@
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="fleets.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="oversight.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="elections.xml" />
-    <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="motd.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="billsbylaws.xml" />
   </part>
   <part id="departments">
@@ -46,6 +45,7 @@
   <part id="altrpgareas">
     <title>Alternate Role-Playing Environments</title>
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="bonaventure.xml" />
+    <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="chernov.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="constellation.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="merrimack.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="oed_v.xml" />
@@ -55,6 +55,6 @@
     <title>Retired Alternate Role-Playing Environments</title>
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="crell.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="scottie.xml" />
-  <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="403.xml" />
+    <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="403.xml" />
   </part>
 </book>
