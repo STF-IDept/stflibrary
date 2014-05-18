@@ -24,21 +24,39 @@
     <section>
         <title>Definition of Punishments</title>
         <para>All punishments will fall under one of the tiers listed below</para>
-        <para>TIER 1: Permanent Ban</para>
-        <para>This includes a permanent ban from one or all Star Fleet related resources and must be made via Presidential edict</para>
-        <para>TIER 2: Temporary Ban</para>
-        <para>This is any type of ban that is not a Tier 1 punishment, and must be made via Presidential edict. The resource and time frame must be specified in the edict.</para>
-        <para>TIER 3: Rank Demotion, multiple ranks</para>
-        <para>This is any demotion comprising of more than one member rank loss, and must be made via Presidential edict. All characters above the punished member's new rank must immediately be demoted to the member's highest member rank.</para>
-        <para>TIER 4: This is any demotion comprising of a single member rank loss, and must be made via Presidential edict. All characters above the punished member's new rank must be immediately demoted to the member's highest member rank.</para>
-        <para>TIER 5: Removal from position</para>
-        <para>This is any removal from the position of Commanding Officer, Department Director, Executive Assistant, or Fleet Commander by the president, for the purposes of punishment. This may be done by edict or by an official post in command, depending on the severity of the punishment.</para>
-        <para>TIER 6: Official Presidential Reprimand</para>
-        <para>This is an official reprimand from the Office of the President, and may be made publically in command or privately via email. No edict is issued.</para>
-        <para>TIER 7: Discretionary Presidential Reprimand</para>
-        <para>Any offense deemed worthy of Presidential action (i.e. greater than Tier 8) but insufficient to warrent a Tier 6 or greater punishment. This is an unofficial reprimand from the Office of the President, may only be made privately via email, and is not entered into any club record.</para>
-        <para>TIER 8: Non Presidential Punishment</para>
-        <para>This is any punishment given out below the Presidential level by ship Commanding Officers, Fleet Commanders, Department Directors, or Executive Assistants during the normal discharge of their duties. The Office of the President cannot issue Tier 8 punishments.</para>
+        <variablelist>
+            <varlistentry>
+                <term>TIER 1: Permanent Ban</term>
+                <listitem><para>This includes a permanent ban from one or all Star Fleet related resources and must be made via Presidential edict</para></listitem>
+            </varlistentry>
+            <varlistentry>
+                <term>TIER 2: Temporary Ban</term>
+                <listitem><para>This is any type of ban that is not a Tier 1 punishment, and must be made via Presidential edict. The resource and time frame must be specified in the edict.</para></listitem>
+            </varlistentry>
+                <term>TIER 3: Rank Demotion, multiple ranks</term>
+                <listitem><para>This is any demotion comprising of more than one member rank loss, and must be made via Presidential edict. All characters above the punished member's new rank must immediately be demoted to the member's highest member rank.</para></listitem>
+            </varlistentry>
+            <varlistentry>
+                <term>TIER 4: Rank Demotion, single rank</term>
+                <listitem><para>This is any demotion comprising of a single member rank loss, and must be made via Presidential edict. All characters above the punished member's new rank must be immediately demoted to the member's highest member rank.</para></listitem>
+            </varlistentry>
+            <varlistentry>
+                <term>TIER 5: Removal from position</term>
+                <listentry><para>This is any removal from the position of Commanding Officer, Department Director, Executive Assistant, or Fleet Commander by the president, for the purposes of punishment. This may be done by edict or by an official post in command, depending on the severity of the punishment.</para></listentry>
+            </varlistentry>
+            <varlistentry>
+                <term>TIER 6: Official Presidential Reprimand</term>
+                <listitem><para>This is an official reprimand from the Office of the President, and may be made publically in command or privately via email. No edict is issued.</para></listitem>
+            </varlistentry>
+            <varlistentry>
+                <term>TIER 7: Discretionary Presidential Reprimand</term>
+                <listitem><para>Any offense deemed worthy of Presidential action (i.e. greater than Tier 8) but insufficient to warrent a Tier 6 or greater punishment. This is an unofficial reprimand from the Office of the President, may only be made privately via email, and is not entered into any club record.</para></listitem>
+            </varlistentry>
+            <varlistentry>
+                <term>TIER 8: Non Presidential Punishment</term>
+                <listitem><para>This is any punishment given out below the Presidential level by ship Commanding Officers, Fleet Commanders, Department Directors, or Executive Assistants during the normal discharge of their duties. The Office of the President cannot issue Tier 8 punishments.</para></listitem>
+            </varlistentry>
+        </variablelist>
     </section>
     <section>
         <title>Punishment Stacking</title>
