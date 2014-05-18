@@ -10,6 +10,13 @@
       <surname>Robinson</surname>
     </author>
   <revhistory>
+  <revision>
+      <revnumber>2</revnumber>
+      <date>27th February 2011</date>
+      <revdescription>
+        <para>Based on Bill <ulink url="http://www.star-fleet.com/prez/edicts/dipper/#b2">Dipper #2</ulink></para>
+      </revdescription>
+    </revision>
     <revision>
       <revnumber>1</revnumber>
       <date>13 October 2009</date>
@@ -38,9 +45,15 @@
     <title>Selection</title>
     <section>
        <title>Election Rules</title>
-       <para>Egotists shall be selected by popular vote from those members holding the rank of Fleet Captain or higher. Eligible voting members must hold at least the rank of Fleet Captain. In order to be considered an eligible member, that member ranked Fleet Captain or higher must have been an active member for at least eight months prior to the election being held. EGO elections shall be held at the expiration of an Egotists term or upon their resignation or impeachment from office and shall last a period of fourteen or twenty one days. No campaigning is permitted before or during this time. No discussions may be held concerning EGO elections in public STF areas (including any area of the star-fleet.com website or officially controlled resources such as the #star-fleet IRC channel) which may imply support for or voice opinions against any candidate standing for selection. Neutral announcements concerning the election may be made. No support messages in IRC quit messages are permitted.</para>
+       <para>EGO elections shall be held at the expiration of an Egotists term or upon their resignation or impeachment from office and shall last a period of fourteen days. No campaigning is permitted before or during this time. No discussions may be held concerning EGO elections in public STF areas (including any area of the star-fleet.com website or officially controlled resources such as the #star-fleet IRC channel) which may imply support for or voice opinions against any candidate standing for selection. Neutral announcements concerning the election may be made. No support messages in IRC quit messages are permitted.</para>
+       <para>In order to be eligible, candidates must:</para>
+       <para>1. Hold a minimum member rank of Fleet Captain</para>
+       <para>2. Been an active member for at least eight continuous months prior to the election being held (excluding routine Leaves of Absence).</para>
+       <para>Voting members must:</para>
+       <para>1. Hold a minimum member rank of Fleet Captain</para>
+       <para>2. Currently be an active member as defined by MOO.</para>
        <para>Should the vacancy in EGO occur through resignation or impeachment, the most senior Cabinet member not currently serving in EGO shall assume temporary office for the duration of the election to deal with all official matters in which EGO is required to function during this time.</para>
-       <para>Should the situation arise that only a single viable candidate from the eligible pool seeks selection, the Election Coordinator is granted the discretion to expand the eligible pool to the next lowest rank. In the case of the standard Fleet Captain and above pool, this would open selection to Captains and above. This procedure may be repeated as often as necessary to ensure that at least two candidates are available in any EGO election.</para>
+       <para>If there are more than two candidates standing in the election, the Instant-Runoff Voting system is to be used.</para>
        <para>Should the EGO elections occur concurrently with the Presidential elections, no EGO candidate may stand as a Presidential candidate and no Presidential candidate may stand as an EGO candidate.</para>
     </section>
     <section>
