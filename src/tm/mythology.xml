@@ -1,5 +1,5 @@
-<article class="specification" id="shipname">
-  <title>SHIPNAME</title>
+<article class="specification" id="Mythology">
+  <title>Mythology-Class</title>
   <articleinfo>
     <authorgroup role="Maintainer">
       <author>
@@ -43,7 +43,6 @@
   </articleinfo>
   <section>
     <title>History and Mission Overview</title>
-    <epigraph>
       <para>In the early days of 2383, there were those in Starfleet, mostly in the Exploratory Division, who foresaw what was now becoming a new 'Golden Age of Exploration' for the Federation and its allies. Because of this there was an obvious need for a new multi-purpose deep space explorer, one that would recall the earliest values of the Federation.</para>
       <para>The designers decided upon a large ship platform that would house some of the finest sensors, warp engines, and shield systems that were offered during and after the Dominion War. At the same time these designers gave the ship ample weapons to defend itself in its missions of exploration and diplomacy. Finally, the designers built into the class many redundant and resilient systems, as well as expanded work areas to increase its endurance when far from Federation space. The designers hoped in later years that this design would replace the older Excelsior and Ambassador Class vessels in the fleet. They also intended it to be an alternate design to the proven Galaxy and Viking class explorers.</para>
       <para>However, as design work continued into the ending months of 2386, an alliance was forged between the Federation and the newly discovered Flea'tan Alliance. A technology exchange occurred between the two powers, and several ship design workers of the Alliance came to assist in the design of this and several other new classes. Once brought up to speed on how ship design work of Federation technology functioned, they began inputting their own technologies and ideas into the new vessel's framework. To this co-operative design came a new deep space explorer of a kind unseen since Starfleet's earliest days of co-operative expansion.</para>
@@ -65,12 +64,10 @@
 	  <member>Fleet level command and control</member>
       <member>Emergency evacuations</member>
     </simplelist>
-    </epigraph>
     <para/>
   </section>
   <section>
     <title>Structure and Construction</title>
-    <epigraph>
       <para>The Mythology class is a large ship platform spanning 45 decks. Its saucer begins in an inset teardrop and angles out and back into a half oval near the rear. A thick, wide neck connects it seamlessly in an angled slope to the engineering hull. This hull section is like the top of a tear drop at the front, only to angle back near the aft section to a square broad base. The warp nacelles are mounted to the aft section of the engineering hull.</para>
       <para>The warp nacelles are positioned on short variable struts that enable the nacelles to project from the engineering hull in an upward 90 degree arc. The designers kept them as close as possible to the main space frame to reduce its profile were combat to occur, while at the same time allowing enough room for the nearby mission module docking areas to be easily swapped as needed.</para>
       <para>To further specify, decks 1 through 20 are in the saucer; 21 through 45 form the engineering hull.</para>
@@ -145,12 +142,10 @@
         </varlistentry>
       </variablelist>
     </section>
-    </epigraph>
     <para/>
   </section>
   <section>
     <title>Science and Remote Sensing Systems</title>
-    <epigraph>
       <title>Sensor Systems</title>
 	  <para>The Mythology houses the Class 10 sensor system. This system design layout gained high praise by scientists and tactical minded designers alike during the later stages of the Dominion War for its reliability and ease of use over older systems and design set-ups. The system has a maximum high resolution range out to 5.0 light years, and a low resolution range out to 17.0 light years. The system has built in redundancies that allow it to function at varying reduced levels if damage occurs, far above presently fielded designs. The sensor pallets are arranged in circular clusters along the lines of the saucer and in square clusters along the sides ventral and dorsal of the engineering hull. The main deflector itself is located along decks 30 through 33 in the engineering hull.</para>
 	  <title>Computer and Network Systems</title>
@@ -159,24 +154,18 @@
 	  <para>The Mythology uses bio-neural circuitry for all primary systems and a back up isolinear network for secondary systems during normal operations. To further improve its redundancy and survival capabilities, the back up isolinear network is able to operate critical primary systems if the bio-neural circuitry is compromised or damaged. To aid in preventing infections the bio-neural circuitry uses the I-MUN Mark II filter series.</para> <para>The combination cores use the LCARS OS using the MAJEL interface. The saucer and engineering hull cores house UHPAVS (Upgraded Hacking Prevention and Anti Virus Scanner), as well as RSUEP (Really Stupid User Error Prevention) data programs. However, the standard isolinear backup core lacks this feature, as well as the more advanced functions of the MAJEL interface. Captains commanding these ships are strongly warned to keep genius inebriated adolescents, high risk crew members or visitors away from consoles in such an emergency. During use of specialized mission modules, the engineering hull combination computer core handles all functions of the mission modules.</para>
 	  <title>Holographic Systems</title>
 	  <para>The Mythology has holo-emitters situated at key points across the ship: in this case the bridge, 17/18 forward, the gym, the cargo bays and main engineering. This allows the ship's two EMH Mark IV programs to appear in these areas besides the sickbays, holodecks and holosuites. The EMH Mark IV programs are located in both the primary and secondary computer cores. This allows two programs to be active at any given time.</para>
-    </epigraph>
     <para/>
   </section>
   <section>
     <title>Warp Propulsion Systems</title>
-    <epigraph>
       <para>Given the ships large size, and the designers plans to give the Mythology class the most self reliance and sufficiency capable for long deep space missions, it is equipped with the Class 10 warp core. The core was retrofitted for ease of use and maintenance for long term missions far from Federation supply and refitting yards.</para>
 	  <para>This core feeds two nacelles, outputting 7,912 cocharanes, giving the Mythology a standard cruising speed of warp 6.8, a max sustainable speed of warp 9.6, a maximum velocity for twelve hours of warp 9.98, and an emergency speed of warp 9.99. Due to its larger than usual size and power demands, the ship is slower than others that would mount the Class 10 core.</para>
 	  <para>The nacelles are mounted on variable pylons, which also house their support systems. As with much of the ship they contain reinforced superstructure, and both primary and secondary warp coils.</para>
       <para>Ejection systems propel the Class 10 warp core out the top of the engineering hull in an emergency.</para>
-    </epigraph>
-    <para/>
   </section>
   <section>
     <title>Impulse Propulsion Systems</title>
-    <epigraph>
       <para>The Mythology houses two impulse engines. These two engines can propel the ship to a maximum thrust of .25c in seventy-five seconds and from full impulse to a complete stop in one-hundred fifteen seconds. The two engines are mounted port and starboard on the aft quarter of the saucer on decks 18 through 20. As with much of the design the reactors for these engines are reinforced to be resistant to extended and strenuous use far beyond more commonly used designed engines.</para>
-    </epigraph>
     <para/>
   </section>
   <section>
@@ -209,7 +198,6 @@
   </section>
   <section>
     <title>Command and Support Systems</title>
-    <epigraph>
 	<title>Bridge</title>
       <para>The Mythology class bridge is located on Deck 1; it is arranged in a circular shape. The bridge is equipped with easy modular setup for refits, repairs and replacement as time and natural wear and tear takes its toll on the ship. The aft section of the bridge contains nine banks of consoles, default setup from port to starboard is:</para>
 	  <simplelist>
@@ -249,7 +237,6 @@
 	  <para>Monitoring systems and consoles for each power source are also aligned in a square around this whole double decked oval shaped room.</para>
 	  <para>In an emergency this area can be converted into a secondary bridge.</para>
 	  <para/>
-    </epigraph>
     <para/>
   </section>
   <section>
@@ -285,7 +272,6 @@
   </section>
   <section>
     <title>Crew Support Systems</title>
-    <epigraph>
 	<title>Sickbay</title>
       <para>The Mythology houses two large sickbays in the saucer port and starboard of deck 12. A smaller one in the engineering hull is housed on deck 39. The larger sickbays house 50 biobeds with 5 surgery and isolation bays. The smaller sickbay holds 25 beds with 2 small surgery and isolation bays. All three sickbays house emergency life support and power systems to run critical equipment for 24 hours, as well as redundant isolation systems for airborne pathogens.</para>
 	  <para>The Chief Medical Officers office is located in Sickbay 1 on deck 12, able to monitor all patient and staffs current status.</para>
@@ -355,12 +341,10 @@
 	  <title>Family Quarters</title>
       <para>These are quarters sized the same as a Department Head's quarters but set-up instead to house up to a four occupant family. They are located on decks 15 and 16 of the saucer and 23 and 24 of the engineering hull.</para>
 	  <para/>
-    </epigraph>
     <para/>
   </section>
   <section>
     <title>Auxiliary Spacecraft Systems</title>
-    <epigraph>
       <para>The Mythology class holds four shuttle bays. Shuttle Bay 1 is located on the rearward area of decks 2, 3, and 4 of the saucer. Bays 2 and 3 are located on the neck slope of the engineering hull on decks 29 and 30. Bay 4 is located on the underside of the engineering hull near the aft section of the ship located on decks 43, 44, and 45.</para>
 	  <para>A side note in the development of the Mythology class was the creation and deployment of the newer Longevity class runabout.</para>
 	  <para>Bay 1 holds the following auxiliary craft:</para>
@@ -383,7 +367,6 @@
 		<member>4 Longevity class runabouts</member>
 	  </simplelist>
 	  <para>Because of its mission of peace and exploration the Mythology is not designed to house fighters in these bays.</para>
-    </epigraph>
     <para/>
   </section>
   <section>
@@ -994,9 +977,7 @@
   </section>
   <section>
     <title>Ships of the Class</title>
-    <epigraph>
       <para>Mythology class ships are named for legends and mythologies of cultures from around the Federation and its allies.</para>
-    </epigraph>
     <simplelist role="ShipList">
       <member role="PC">
         <productname>USS Mythology</productname>
@@ -1047,9 +1028,7 @@
   </section>
   <section>
     <title>Conclusion</title>
-    <epigraph>
       <para>The Mythology class is one of the largest deep space exploration classes fielded by the Federation in recent years. It is designed to handle any number of possible mission profiles, but does not specialize in any one category. Its primary assets are adaptability, endurance and survivability where other ships may not be able to venture. With its co-designed construction the Mythology embodies the best that the Federation and her allies have to offer for the years ahead.</para>
-    </epigraph>
     <para/>
   </section>
   </section>
