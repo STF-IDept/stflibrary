@@ -29,6 +29,7 @@
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="oversight.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="elections.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="billsbylaws.xml" />
+    <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="gravities.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="xfleet.xml" />
   </part>
   <part id="departments">
