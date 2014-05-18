@@ -1,0 +1,310 @@
+<article class="specification" id="Longevity">
+  <title>Longevity-Class</title>
+  <articleinfo>
+    <authorgroup role="Maintainer">
+      <author>
+        <firstname>Robert</firstname>
+        <surname>Archer</surname>
+      </author>
+    </authorgroup>
+    <authorgroup role="Primary Designers">
+      <author>
+        <firstname>Robert</firstname>
+        <surname>Archer</surname>
+      </author>
+    </authorgroup>
+    <authorgroup role="Contributing Designers">
+      <author>
+        <firstname>Robert</firstname>
+        <surname>Archer</surname>
+      </author>
+    </authorgroup>
+    <authorgroup role="Original Designers">
+      <author>
+        <firstname>Robert</firstname>
+        <surname>Archer</surname>
+      </author>
+    </authorgroup>
+    <keywordset>
+      <keyword role="service">PC</keyword>
+      <keyword role="category">Runabout</keyword>
+      <keyword role="variant">Heavy</keyword>
+      <keyword role="mark">I</keyword>
+    </keywordset>
+    <revhistory>
+      <revision>
+        <revnumber>1</revnumber>
+        <date>22 September, 2013</date>
+        <revdescription>
+          <para>Approved by Assistant Engineering Director Aaron Calhoun</para>
+        </revdescription>
+      </revision>
+    </revhistory>
+  </articleinfo>
+  <section>
+    <title>History and Mission Overview</title>
+      <para>During the development of the Mythology class deep space explorer in early 2385, the designers foresaw a need for a larger heavy duty runabout to equip the class for its deep space exploration voyages.</para>
+      <para>At the time many argued that the venerable Armadillo, Liberty, and Danube designs already in use were sufficient for the needs that the Mythology was envisioned to handle. However, as late 2386 came about reports of events in fleet 5 and 6 and elsewhere in other fleets convinced these hold outs against the new design to begin construction plans for the Longevity class heavy runabout for use in the Mythology and other ships and installations around the Federation.</para>
+      <para/>
+	  <title>Mission Profiles</title>
+	  <para>The Longevity class runabout is suited to the following mission profiles:</para>
+    <simplelist>
+      <member>Long range voyages from parent craft</member>
+	  <member>Close examination of spatial anomalies</member>
+	  <member>Transport of crew from Federation space to colonies or ships</member>
+	  <member>Support of parent craft, outpost, colony and starbase</member>
+	  <member>Search and rescue operations</member>
+	</simplelist>
+    <para/>
+  </section>
+  <section>
+    <title>Structure and Construction</title>
+      <para>The Longevity class runabout has an angular cone shaped nose and cockpit on the forward half; this then slopes to an elongated box shaped hull. Angling off the forward cone cockpit nose in a backwards swooped V are the internally projected warp nacelles. Arranged to port and starboard of the cockpit's aft section are two boarding hatches.</para>
+      <para>The Longevity runabout spans two decks in total; the structure of the class is formed from a 25 / 50 / 25 mixture of titanium, duranium and tritanium alloys transporter welded along the ship’s whole frame. This mixture of cheap, easy to find, and resilient alloys gives the Longevity runabout the ability to be easily and cheaply produced in large numbers compared to other designs.</para>
+      <para>While Deck 1 of the runabout measures 4.4 meters high Deck 2 only measures 4 meters high due to it being a maintenance, storage, and power generation area.</para>
+    <para/>
+  </section>
+  <section>
+    <title>Science and Remote Sensing Systems</title>
+      <title>Sensor Systems</title>
+	  <para>The Longevity class carries a Type 5 sensor package. This system has a long range scan of 7 light years and a short range scan of 2.14 light years. The main deflector for this system is positioned under the forward nose cone of the cockpit.</para>
+	  <para/>
+	  <title>Computer and Network Systems</title>
+	  <para>The Longevity-class runabout's main isolinear computer core is mounted to the aft of the cockpit area on the port side. The isolinear core is enhanced with bio-neural circuitry to enhance processing speeds. A backup isolinear core is mounted aft of the cockpit area on the starboard side. The secondary core only comes online when the primary core is damaged or otherwise offline. Both cores are capable of operating all runabout systems.</para>
+	  <para>Like the Mythology class it was based on, the runabout carries both primary bio-neural data transfer lines and secondary backup isolinear lines. Both are capable of operating all runabout systems. Both cores make use of the LCARS operating system and MAJEL interface.</para>
+	  <para/>
+    <para/>
+  </section>
+  <section>
+    <title>Warp Propulsion Systems</title>
+      <para>The Longevity class runabout mounts a starship Class-2 starship warp core. Located on deck 2 of the runabout, it is mounted horizontally along the bottom of the craft and along with the antimatter pods are ejected out the bottom of the runabout in an emergency.</para>
+	  <para>The core has a total Cochrane rating of 215, with a standard cruising speed of warp 2, a max sustainable speed of warp 4.0, a max velocity speed for 12 hours of warp 5.0 and an emergency speed of warp 5.8 for 1 hour.</para>
+    <para/>
+  </section>
+  <section>
+    <title>Impulse Propulsion Systems</title>
+      <para>The Longevity runabout carries two impulse engines mounted on deck 2 of the craft. These two engines can propel the runabout to .25 c in 50 seconds and to a full stop in that same time frame.</para>
+    <para/>
+  </section>
+  <section>
+    <title>Tactical Systems</title>
+    <section>
+      <title>Defensive Shields</title>
+	  <para>The Longevity carries a Type 4 shield array. It has a maximum graviton load of 537 MW and a maximum dissipation rate of 1.46x10^5 kW. Emitters are placed in the forward nose cone, and along the port and starboard frame of the craft.</para>
+      <para/>
+    </section>
+    <section>
+      <title>Phaser Systems</title>
+	  <para>The Longevity class carries six arrays of the Type 5 variety. These are positioned as follows:</para>
+	  <simplelist>
+		<member>One array on the forward cockpit with 5 emitters.</member>
+		<member>One array on the aft end of the craft with 5 emitters.</member>
+		<member>One array forward and aft ventral with 10 emitters each.</member>
+		<member>One array forward and aft dorsal with 10 emitters each.</member>
+	  </simplelist>
+		<para>Each array is capable of a maximum energy output of .3 MW with a maximum effective range of 18,750 km.</para>
+      <para/>
+    </section>
+    <section>
+      <title>Torpedo Systems</title>
+	  <para>The Longevity class runabout carries two Type-2 micro torpedo launchers; these two launchers are positioned with one forward and one aft on deck 2 of the craft. Each launcher is capable of firing 1 torpedo every 4 seconds. The craft carries 45 micro casings divided as follows: 20 micro photons, 20 assorted micro probes, and 5 empty micro casings.</para>
+      <para/>
+    </section>
+  </section>
+  <section>
+    <title>Command and Support Systems</title>
+	<title>Cockpit</title>
+      <para>The Longevity runabout has a four crewmember cockpit. It is triangular in shape. At the forward end is the pilot's station; just aft of the pilot to port is the science/engineering combination station; starboard of them are two auxiliary stations configurable as needs arise. Three large derma-glass windows reinforced with micro-energized force fields allow viewing in a total arc of 180 degrees.</para>
+	  <para/>
+	  <title>Science Support Lab</title>
+      <para>Positioned just aft of the cockpit area to port is a small general science lab. While a far cry from a general science lab found on other ships this small 3x3 meter room allows studies for scientific purposes.</para>
+	  <para/>
+	  <title>Engineering Support Room</title>
+      <para>Positioned just aft of the cockpit to starboard is a small engineering support room. This room allows access to deck 2 to the maintenance areas for the torpedo launchers, warp core, antimatter storage pods, and deuterium storage systems. This 3x3 meter room also allows small minor engineering studies and repairs to be undertaken.</para>
+	  <para/>
+    <para/>
+  </section>
+  <section>
+    <title>Utility Systems</title>
+    <section>
+      <title>Tractor Beam Systems</title>
+	  <para>Mounted aft on the Longevity on deck 2 is a small tractor emitter capable of carrying 907 metric tons out to a range of 50 km.</para>
+      <para/>
+    </section>
+    <section>
+      <title>Transporter Systems</title>
+	  <para>The Longevity carries a single four person transporter pad to port just aft of the crew quarters on deck 1 with support systems on deck 2. This transporter has a maximum effective range of 15,000 km.</para>
+      <para/>
+    </section>
+  </section>
+  <section>
+    <title>Crew Support Systems</title>
+	<title>Crew Bunk Rooms</title>
+      <para>Located just aft of the science lab and engineering support room to port and starboard are two four person bunk-rooms. Each bunk-room has a replicator and four twin sized bunks.</para>
+	  <para/>
+	<title>Runabout Head / Sonic Showers</title>
+      <para>Positioned just aft of the crew quarters to port and starboard are the runabout’s two heads and two sonic shower stalls..</para>
+	  <para/>
+	<title>Medical Bay</title>
+      <para>Located starboard of the transporter room is the Longevity’s medical bay. This bay holds two bio-beds with a small work and lab area. Below the bio-beds are two morgue storage units.</para>
+	  <para/>
+	  <title>General Purpose Area</title>
+      <para>This area is a combination work area for the runabout's crew, as well as a mess hall. A fold down table in the center of this room provides seating for six people at a time, while a replicator is located to the port side of the room. To starboard are two small workstations.</para>
+	  <para/>
+  </section>
+  <section>
+    <title>Technical Specifications</title>
+    <variablelist>
+      <title>Dimensions and Structure</title>    
+      <varlistentry>
+        <term>Length</term>
+        <listitem><para>37 meters</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Beam (Width)</term>
+        <listitem><para>32 meters</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Height</term>
+        <listitem><para>8.4 meters</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Decks</term>
+        <listitem><para>2</para></listitem>
+      </varlistentry>
+    </variablelist>
+    <variablelist>
+      <title>Crew Complement</title>
+      <varlistentry>
+        <term>Standard Maximum Crew</term>
+        <listitem><para>6</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Visiting Personnel</term>
+        <listitem><para>2</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Maximum Evacuation Limit</term>
+        <listitem><para>20</para></listitem>
+      </varlistentry>
+    </variablelist>      
+    <variablelist>
+      <title>Computer Systems</title>
+      <varlistentry>
+        <term>Core</term>
+        <listitem><para>Isolinear data storage core with bio-neural processing x1, Isolinear data storage and processing core x1</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Operating System</term>
+        <listitem><para>Starfleet Library Computer Access and Retrieval System (LCARS) 7.0</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>User Interface</term>
+        <listitem><para>MAJEL OS</para></listitem>
+      </varlistentry>
+    </variablelist>        
+    <variablelist>
+      <title>Warp Systems</title>
+      <varlistentry>
+        <term>Power Plant</term>
+        <listitem><para>One 215 cochrane MARA core, feeding two nacelles</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Cruising Velocity</term>
+        <listitem><para>Warp 2</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Maximum Sustainable Velocity</term>
+        <listitem><para>Warp 4</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Maximum  Velocity</term>
+        <listitem><para>Warp 5 (12 hours)</para></listitem>
+      </varlistentry>
+	  <varlistentry>
+        <term>Emergency Velocity</term>
+        <listitem><para>Warp 5.8 (1 hour)</para></listitem>
+      </varlistentry>
+    </variablelist>
+    <variablelist>
+      <title>Impulse Systems</title>
+      <varlistentry>
+        <term>Full Impulse</term>
+        <listitem><para>0.25c</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Acceleration</term>
+        <listitem><para>50 seconds</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Deceleration</term>
+        <listitem><para>50 seconds</para></listitem>
+      </varlistentry>
+    </variablelist>
+    <variablelist>
+      <title>Defensive Systems</title>
+      <varlistentry>
+        <term>Shield Maximum Graviton Load (Continuous)</term>
+        <listitem><para>537 MegaWatts</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Shield Maximum Energy Dissipation Rate</term>
+        <listitem><para>1.46 x 10^5 kilowatts</para></listitem>
+      </varlistentry>
+    </variablelist>
+    <variablelist>
+      <title>Offensive Systems</title>
+      <varlistentry>
+        <term>Torpedoes</term>
+        <listitem>
+          <variablelist>
+            <varlistentry>
+              <term>Torpedo Tubes</term>
+              <listitem><para>2x Type 2 Torpedo Tubes</para></listitem>
+            </varlistentry>
+            <varlistentry>
+              <term>Standard Payload (total)</term>
+              <listitem><para>20x micro-photon torpedoes</para></listitem>
+			  <listitem><para>20x micro-probes</para></listitem>
+			  <listitem><para>5x empty micro devices</para></listitem>
+            </varlistentry>
+          </variablelist>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Phasers</term>
+        <listitem>
+          <itemizedlist>
+            <listitem><para>6x Type-5 Phaser Strips</para></listitem>
+          </itemizedlist>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+  </section>
+  <section>
+    <title>Ships of the Class</title>
+      <para>Runabouts of the Longevity Class are named after synonyms and antonyms related to the word longevity.</para>
+    <simplelist role="ShipList">
+      <member role="PC">
+        <productname>USS Longevity NCC – 10070</productname>
+		<productname>USS Continuance NCC – 10071</productname>
+		<productname>USS Continuation NCC – 10072</productname>
+		<productname>USS Durability NCC – 10073</productname>
+		<productname>USS Duration NCC – 10074</productname>
+		<productname>USS Immutability NCC – 10075</productname>
+		<productname>USS Permanence NCC – 10076</productname>
+		<productname>USS Persistence NCC – 10077</productname>
+		<productname>USS Stability NCC – 10078</productname>
+		<productname>USS End NCC - 10079</productname>
+		<productname>USS Fleetingness NCC – 10080</productnumber>
+      </member>
+    </simplelist>
+	<para/>
+  </section>
+  <section>
+    <title>Conclusion</title>
+      <para>The Longevity class embodies the basic construction ideals that are making the Mythology class so successful in multi-purpose ship profiles. While the Longevity is never meant to replace a fully stocked starship, it does contain the equipment necessary to further the bounds of Federation knowledge with supporting its parent craft.</para>
+    <para/>
+  </section>
+  </section>
+</article>
