@@ -1,5 +1,5 @@
-<article class="specification" id="shipname">
-  <title>SHIPNAME</title>
+<article class="specification" id="Longevity">
+  <title>Longevity-Class</title>
   <articleinfo>
     <authorgroup role="Maintainer">
       <author>
@@ -43,7 +43,6 @@
   </articleinfo>
   <section>
     <title>History and Mission Overview</title>
-    <epigraph>
       <para>During the development of the Mythology class deep space explorer in early 2385, the designers foresaw a need for a larger heavy duty runabout to equip the class for its deep space exploration voyages.</para>
       <para>At the time many argued that the venerable Armadillo, Liberty, and Danube designs already in use were sufficient for the needs that the Mythology was envisioned to handle. However, as late 2386 came about reports of events in fleet 5 and 6 and elsewhere in other fleets convinced these hold outs against the new design to begin construction plans for the Longevity class heavy runabout for use in the Mythology and other ships and installations around the Federation.</para>
       <para/>
@@ -56,21 +55,17 @@
 	  <member>Support of parent craft, outpost, colony and starbase</member>
 	  <member>Search and rescue operations</member>
 	</simplelist>
-    </epigraph>
     <para/>
   </section>
   <section>
     <title>Structure and Construction</title>
-    <epigraph>
       <para>The Longevity class runabout has an angular cone shaped nose and cockpit on the forward half; this then slopes to an elongated box shaped hull. Angling off the forward cone cockpit nose in a backwards swooped V are the internally projected warp nacelles. Arranged to port and starboard of the cockpit's aft section are two boarding hatches.</para>
       <para>The Longevity runabout spans two decks in total; the structure of the class is formed from a 25 / 50 / 25 mixture of titanium, duranium and tritanium alloys transporter welded along the ship’s whole frame. This mixture of cheap, easy to find, and resilient alloys gives the Longevity runabout the ability to be easily and cheaply produced in large numbers compared to other designs.</para>
       <para>While Deck 1 of the runabout measures 4.4 meters high Deck 2 only measures 4 meters high due to it being a maintenance, storage, and power generation area.</para>
-    </epigraph>
     <para/>
   </section>
   <section>
     <title>Science and Remote Sensing Systems</title>
-    <epigraph>
       <title>Sensor Systems</title>
 	  <para>The Longevity class carries a Type 5 sensor package. This system has a long range scan of 7 light years and a short range scan of 2.14 light years. The main deflector for this system is positioned under the forward nose cone of the cockpit.</para>
 	  <para/>
@@ -78,22 +73,17 @@
 	  <para>The Longevity-class runabout's main isolinear computer core is mounted to the aft of the cockpit area on the port side. The isolinear core is enhanced with bio-neural circuitry to enhance processing speeds. A backup isolinear core is mounted aft of the cockpit area on the starboard side. The secondary core only comes online when the primary core is damaged or otherwise offline. Both cores are capable of operating all runabout systems.</para>
 	  <para>Like the Mythology class it was based on, the runabout carries both primary bio-neural data transfer lines and secondary backup isolinear lines. Both are capable of operating all runabout systems. Both cores make use of the LCARS operating system and MAJEL interface.</para>
 	  <para/>
-    </epigraph>
     <para/>
   </section>
   <section>
     <title>Warp Propulsion Systems</title>
-    <epigraph>
       <para>The Longevity class runabout mounts a starship Class-2 starship warp core. Located on deck 2 of the runabout, it is mounted horizontally along the bottom of the craft and along with the antimatter pods are ejected out the bottom of the runabout in an emergency.</para>
 	  <para>The core has a total Cochrane rating of 215, with a standard cruising speed of warp 2, a max sustainable speed of warp 4.0, a max velocity speed for 12 hours of warp 5.0 and an emergency speed of warp 5.8 for 1 hour.</para>
-    </epigraph>
     <para/>
   </section>
   <section>
     <title>Impulse Propulsion Systems</title>
-    <epigraph>
       <para>The Longevity runabout carries two impulse engines mounted on deck 2 of the craft. These two engines can propel the runabout to .25 c in 50 seconds and to a full stop in that same time frame.</para>
-    </epigraph>
     <para/>
   </section>
   <section>
@@ -123,7 +113,6 @@
   </section>
   <section>
     <title>Command and Support Systems</title>
-    <epigraph>
 	<title>Cockpit</title>
       <para>The Longevity runabout has a four crewmember cockpit. It is triangular in shape. At the forward end is the pilot's station; just aft of the pilot to port is the science/engineering combination station; starboard of them are two auxiliary stations configurable as needs arise. Three large derma-glass windows reinforced with micro-energized force fields allow viewing in a total arc of 180 degrees.</para>
 	  <para/>
@@ -133,7 +122,6 @@
 	  <title>Engineering Support Room</title>
       <para>Positioned just aft of the cockpit to starboard is a small engineering support room. This room allows access to deck 2 to the maintenance areas for the torpedo launchers, warp core, antimatter storage pods, and deuterium storage systems. This 3x3 meter room also allows small minor engineering studies and repairs to be undertaken.</para>
 	  <para/>
-    </epigraph>
     <para/>
   </section>
   <section>
@@ -151,7 +139,6 @@
   </section>
   <section>
     <title>Crew Support Systems</title>
-    <epigraph>
 	<title>Crew Bunk Rooms</title>
       <para>Located just aft of the science lab and engineering support room to port and starboard are two four person bunk-rooms. Each bunk-room has a replicator and four twin sized bunks.</para>
 	  <para/>
@@ -296,9 +283,7 @@
   </section>
   <section>
     <title>Ships of the Class</title>
-    <epigraph>
       <para>Runabouts of the Longevity Class are named after synonyms and antonyms related to the word longevity.</para>
-    </epigraph>
     <simplelist role="ShipList">
       <member role="PC">
         <productname>USS Longevity NCC – 10070</productname>
@@ -318,9 +303,7 @@
   </section>
   <section>
     <title>Conclusion</title>
-    <epigraph>
       <para>The Longevity class embodies the basic construction ideals that are making the Mythology class so successful in multi-purpose ship profiles. While the Longevity is never meant to replace a fully stocked starship, it does contain the equipment necessary to further the bounds of Federation knowledge with supporting its parent craft.</para>
-    </epigraph>
     <para/>
   </section>
   </section>
