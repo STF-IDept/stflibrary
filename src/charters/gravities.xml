@@ -1,7 +1,7 @@
 <article id="charter-gravities">
     <title>Governing Rules About Violations, Invetigations, and Tier Sorting</title>
     <subtitle>"GRAVITieS"</subtitle>
-    <arcticleinfo>
+    <articleinfo>
         <author role="President">
             <honorific>President</honorific>
             <firstname>David</firstname>
@@ -40,6 +40,7 @@
                 <term>TIER 2: Temporary Ban</term>
                 <listitem><para>This is any type of ban that is not a Tier 1 punishment, and must be made via Presidential edict. The resource and time frame must be specified in the edict.</para></listitem>
             </varlistentry>
+            <varlistentry>
                 <term>TIER 3: Rank Demotion, multiple ranks</term>
                 <listitem><para>This is any demotion comprising of more than one member rank loss, and must be made via Presidential edict. All characters above the punished member's new rank must immediately be demoted to the member's highest member rank.</para></listitem>
             </varlistentry>
@@ -49,7 +50,8 @@
             </varlistentry>
             <varlistentry>
                 <term>TIER 5: Removal from position</term>
-                <listentry><para>This is any removal from the position of Commanding Officer, Department Director, Executive Assistant, or Fleet Commander by the president, for the purposes of punishment. This may be done by edict or by an official post in command, depending on the severity of the punishment.</para></listentry>
+                <listitem><para>This is any removal from the position of Commanding Officer, Department Director, Executive Assistant, or Fleet Commander by the president, for the purposes of punishment. This may be done by edict or by an official post in command, depending on the severity of the punishment.</para></listitem>
+
             </varlistentry>
             <varlistentry>
                 <term>TIER 6: Official Presidential Reprimand</term>
