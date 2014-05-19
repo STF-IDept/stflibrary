@@ -47,7 +47,6 @@
       <para>The designers decided upon a large ship platform that would house some of the finest sensors, warp engines, and shield systems that were offered during and after the Dominion War. At the same time these designers gave the ship ample weapons to defend itself in its missions of exploration and diplomacy. Finally, the designers built into the class many redundant and resilient systems, as well as expanded work areas to increase its endurance when far from Federation space. The designers hoped in later years that this design would replace the older Excelsior and Ambassador Class vessels in the fleet. They also intended it to be an alternate design to the proven Galaxy and Viking class explorers.</para>
       <para>However, as design work continued into the ending months of 2386, an alliance was forged between the Federation and the newly discovered Flea'tan Alliance. A technology exchange occurred between the two powers, and several ship design workers of the Alliance came to assist in the design of this and several other new classes. Once brought up to speed on how ship design work of Federation technology functioned, they began inputting their own technologies and ideas into the new vessel's framework. To this co-operative design came a new deep space explorer of a kind unseen since Starfleet's earliest days of co-operative expansion.</para>
       <para>As a year passed with final design work, June of 2387 finally heralded the first prototype to come out of the Utopia Planitia Fleet Yards. The USS Mythology NX-98711 was given over to Starfleet Command for full review and approval. Finding such a well stocked vessel able to fit many core mission profiles Starfleet Command in the final months of 2387 gave the approval for the official construction of the Mythology class deep space explorer.</para>
-	  <para/>
 	  <title>Mission Profiles</title>
 	  <para>Due to its large size and self reliance, the Mythology class is well suited to the following mission profiles:</para>
     <simplelist>
@@ -137,7 +136,7 @@
         </varlistentry>
 		<varlistentry>
           <term>Flea'tan Compression Relay Jump Core Module</term>
-          <listitem><para>Located on decks 40 and 41, just behind the primary warp core, is located a modular area for the sole use of the experimental Flea'tan Compression Relay Jump Core. This modular area is set up for the use of this core for those Mythology ships in the Fleet 5 and 6 areas of operation where the relay network is in use. For those Mythology ships not in such operational areas this modular bay is left empty and open for use as the crew sees fit to accommodate mission needs in flight.</p></para></listitem>
+          <listitem><para>Located on decks 40 and 41, just behind the primary warp core, is located a modular area for the sole use of the experimental Flea'tan Compression Relay Jump Core. This modular area is set up for the use of this core for those Mythology ships in the Fleet 5 and 6 areas of operation where the relay network is in use. For those Mythology ships not in such operational areas this modular bay is left empty and open for use as the crew sees fit to accommodate mission needs in flight.</para></listitem>
         </varlistentry>
       </variablelist>
     </section>
@@ -585,7 +584,7 @@
 	<section role="Deck">
       <title>Deck 12</title>
       <simplelist>
-        <member>Sickbay 1</li>
+        <member>Sickbay 1</member>
         <member>Sickbay 2</member>
         <member>CMO's Office</member>
         <member>Sickbay Support Systems</member>
@@ -596,7 +595,7 @@
 	<section role="Deck">
       <title>Deck 13</title>
       <simplelist>
-        <member>CSO's Office</li>
+        <member>CSO's Office</member>
         <member>General Science Labs 1-3</member>
         <member>Exobiology Labs 1 and 2</member>
         <member>Astrometrics Labs 1 and 2</member>
@@ -607,7 +606,7 @@
 	<section role="Deck">
       <title>Deck 14</title>
       <simplelist>
-        <member>COS's Office</li>
+        <member>COS's Office</member>
         <member>Security Training Room 1</member>
         <member>Upper Armoury Storage</member>
         <member>General Science Labs 4-6</member>
@@ -703,7 +702,7 @@
 	<section role="Deck">
       <title>Deck 23</title>
       <simplelist>
-        <member>Family Quarters</li>
+        <member>Family Quarters</member>
         <member>Schooling Facility / Nursery 3</member>
         <member>Transporter Room 5</member>
         <member>Upper Tertiary Computer Core</member>
@@ -988,6 +987,5 @@
   <section>
     <title>Conclusion</title>
       <para>The Mythology class is one of the largest deep space exploration classes fielded by the Federation in recent years. It is designed to handle any number of possible mission profiles, but does not specialize in any one category. Its primary assets are adaptability, endurance and survivability where other ships may not be able to venture. With its co-designed construction the Mythology embodies the best that the Federation and her allies have to offer for the years ahead.</para>
-  </section>
   </section>
 </article>
