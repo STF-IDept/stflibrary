@@ -261,23 +261,53 @@
       <para>Runabouts of the Longevity Class are named after synonyms and antonyms related to the word longevity.</para>
     <simplelist role="ShipList">
       <member role="PC">
-        <productname>USS Longevity NCC – 10070</productname>
-		<productname>USS Continuance NCC – 10071</productname>
-		<productname>USS Continuation NCC – 10072</productname>
-		<productname>USS Durability NCC – 10073</productname>
-		<productname>USS Duration NCC – 10074</productname>
-		<productname>USS Immutability NCC – 10075</productname>
-		<productname>USS Permanence NCC – 10076</productname>
-		<productname>USS Persistence NCC – 10077</productname>
-		<productname>USS Stability NCC – 10078</productname>
-		<productname>USS End NCC - 10079</productname>
-		<productname>USS Fleetingness NCC – 10080</productnumber>
+        <productname>Longevity</productname>
+        <productnumber>10070</productnumber>
+        </member>
+        <member role="PC">
+		<productname>Continuance</productname>
+        <productnumber>10071</productnumber>
+        </member>
+        <member role="PC">
+		<productname>Continuation</productname>
+        <productnumber>10072</productnumber>
+		</member>
+        <member role="PC">
+        <productname>Durability</productname>
+        <productnumber>10073</productnumber>
+		</member>
+        <member role="PC">
+		<productname>Duration</productname>
+        <productnumber>10074</productnumber>
+		</member>
+        <member role="PC">
+		<productname>Immutability</productname>
+        <productnumber>10075</productnumber>
+		</member>
+        <member role="PC">
+		<productname>Permanence</productname>
+        <productnumber>10076</productnumber>
+		</member>
+        <member role="PC">
+		<productname>Persistence</productname>
+        <productnumber>10077</productnumber>
+		</member>
+        <member role="PC">
+		<productname>Stability</productname>
+        <productnumber>10078</productnumber>
+		</member>
+        <member role="PC">
+		<productname>End</productname>
+        <productnumber>10079</productnumber>
+		</member>
+        <member role="PC">
+		<productname>Fleetingness</productname>
+        <productnumber>10080</productnumber>
       </member>
     </simplelist>
   </section>
   <section>
     <title>Conclusion</title>
       <para>The Longevity class embodies the basic construction ideals that are making the Mythology class so successful in multi-purpose ship profiles. While the Longevity is never meant to replace a fully stocked starship, it does contain the equipment necessary to further the bounds of Federation knowledge with supporting its parent craft.</para>
-  </section>
   </section>
 </article>
