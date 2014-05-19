@@ -940,47 +940,79 @@
       <para>Mythology class ships are named for legends and mythologies of cultures from around the Federation and its allies.</para>
     <simplelist role="ShipList">
       <member role="PC">
-        <productname>USS Mythology</productname>
-        <productnumber>NCC-98711</productnumber>
-		<productname>USS Mythos</productname>
-        <productnumber>NCC-98712</productnumber>
-		<productname>USS Legend</productname>
-        <productnumber>NCC-98713</productnumber>
-		<productname>USS Lore</productname>
-        <productnumber>NCC-98714</productnumber>
-		<productname>USS Cthulu</productname>
-        <productnumber>NCC-98715</productnumber>
-		<productname>USS Nessie</productname>
-        <productnumber>NCC-98716</productnumber>
-		<productname>USS Sasquatch</productname>
-        <productnumber>NCC-98717</productnumber>
-		<productname>USS Unicorn</productname>
-        <productnumber>NCC-98718</productnumber>
-		<productname>USS Cerberus</productname>
-        <productnumber>NCC-98719</productnumber>
-		<productname>USS Wyvern</productname>
-        <productnumber>NCC-98720</productnumber>
-		<productname>USS Pixie</productname>
-        <productnumber>NCC-98721</productnumber>
-		<productname>USS Imp</productname>
-        <productnumber>NCC-98722</productnumber>
-		<productname>USS Eden</productname>
-        <productnumber>NCC-98723</productnumber>
+        <productname>Mythology</productname>
+        <productnumber>98711</productnumber>
+      </member>
+      <member role="PC">
+		<productname>Mythos</productname>
+        <productnumber>98712</productnumber>
+      </member>
+      <member role="PC">
+		<productname>Legend</productname>
+        <productnumber>98713</productnumber>
+      </member>
+      <member role="PC">
+		<productname>Lore</productname>
+        <productnumber>98714</productnumber>
+      </member>
+      <member role="PC">
+		<productname>Cthulu</productname>
+        <productnumber>98715</productnumber>
+      </member>
+      <member role="PC">
+		<productname>Nessie</productname>
+        <productnumber>98716</productnumber>
+      </member>
+      <member role="PC">
+		<productname>Sasquatch</productname>
+        <productnumber>98717</productnumber>
+      </member>
+      <member role="PC">
+		<productname>Unicorn</productname>
+        <productnumber>98718</productnumber>
+      </member>
+      <member role="PC">
+		<productname>Cerberus</productname>
+        <productnumber>98719</productnumber>
+      </member>
+      <member role="PC">
+		<productname>Wyvern</productname>
+        <productnumber>98720</productnumber>
+      </member>
+      <member role="PC">
+		<productname>Pixie</productname>
+        <productnumber>98721</productnumber>
+      </member>
+      <member role="PC">
+		<productname>Imp</productname>
+        <productnumber>98722</productnumber>
+      </member>
+      <member role="PC">
+		<productname>Eden</productname>
+        <productnumber>98723</productnumber>
       </member>
     </simplelist>
 	<para>The following ships are commissioned and held in reserve for use in NPC only status and may be reused as needed by gamemasters.</para>
 	<simplelist role="ShipList">
       <member role="NPC">
-        <productname>USS Gre'thor</productname>
-        <productnumber>NCC-98724</productnumber>
-		<productname>USS Fek'lhr</productname>
-        <productnumber>NCC-98725</productnumber>
-		<productname>USS Kuvah'magh</productname>
-        <productnumber>NCC-98726</productnumber>
-		<productname>USS Qui'tu</productname>
-        <productnumber>NCC-98727</productnumber>
-		<productname>USS Sha Ka Ree</productname>
-        <productnumber>NCC-98728</productnumber>
+        <productname>Gre'thor</productname>
+        <productnumber>98724</productnumber>
+      </member>
+      <member role="NPC">
+		<productname>Fek'lhr</productname>
+        <productnumber>98725</productnumber>
+      </member>
+      <member role="NPC">
+		<productname>Kuvah'magh</productname>
+        <productnumber>98726</productnumber>
+      </member>
+      <member role="NPC">
+		<productname>Qui'tu</productname>
+        <productnumber>98727</productnumber>
+      </member>
+      <member role="NPC">
+		<productname>Sha Ka Ree</productname>
+        <productnumber>98728</productnumber>
       </member>
     </simplelist>
   </section>
