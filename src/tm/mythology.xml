@@ -1,4 +1,4 @@
-<article class="specification" id="Mythology">
+<article class="specification" id="mythology">
   <title>Mythology-class</title>
   <articleinfo>
     <authorgroup role="Maintainer">
@@ -28,7 +28,7 @@
     <revhistory>
       <revision>
         <revnumber>1</revnumber>
-        <date>22 September, 2013</date>
+        <date>22 September 2013</date>
         <revdescription>
           <para>Approved by Assistant Engineering Director Aaron Calhoun</para>
         </revdescription>
