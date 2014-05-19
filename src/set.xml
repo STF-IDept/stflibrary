@@ -6,20 +6,15 @@
     <titleabbrev>Library</titleabbrev>
     <editor>
       <honorific>Librarian</honorific>
-      <firstname>Larry</firstname>
-      <surname>Garfield</surname>
-    </editor>
-    <editor>
-      <honorific>Assistant Librarian</honorific>
-      <firstname>David</firstname>
-      <surname>Wonderly</surname>
+      <firstname>Joe</firstname>
+      <surname>P</surname>
     </editor>
     <copyright>
       <year>2005-2014</year>
       <holder>STF and its Members</holder>
     </copyright>
     <legalnotice><para>The contents of this Library are copyright their respective authors and released to STF.  Reuse of any content from this Library within STF is permitted provided the work is attributed correctly.  Use outside of STF without the permission of the original author is forbidden.</para></legalnotice>
-    <date>13 November 2013</date>
+    <date>19 May 2014</date>
   </setinfo>
 
   <!-- Include each of the books in this set. -->
