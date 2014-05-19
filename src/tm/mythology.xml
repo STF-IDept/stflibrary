@@ -126,7 +126,7 @@
               <member>One cargo bay in module 1, containing relief and medical supplies for the treatment of refugees aboard ship</member>
               <member>Two 50 biobed triage sickbays in modules 2 and 3</member>
               <member>20 medical crew quarters, ten to each module in modules two and three in the engineering hull</member>
-		  </simplelist></listentry>
+		  </simplelist></listitem>
         </varlistentry>
 		<varlistentry>
           <term>Flea'tan Compression Relay Jump Core Module</term>
@@ -613,7 +613,7 @@
 	<section role="Deck">
       <title>Deck 15</title>
       <simplelist>
-        <member>>Lower Armoury Storage</member>
+        <member>Lower Armoury Storage</member>
         <member>Security Training Room 2</member>
         <member>Lower Stellar Cartography</member>
         <member>Family Quarters</member>
@@ -892,7 +892,7 @@
 	<section role="Deck">
       <title>Deck 42</title>
       <simplelist>
-        <member>>Engineering Maintenance Labs 3 and 4</member>
+        <member>Engineering Maintenance Labs 3 and 4</member>
         <member>Lower Warp Core</member>
         <member>Lower Deuterium Storage Tanks 3 and 4</member>
         <member>Anti-Matter Storage Tanks</member>
