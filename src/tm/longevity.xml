@@ -1,4 +1,4 @@
-<article class="specification" id="Longevity">
+<article class="specification" id="longevity">
   <title>Longevity-Class</title>
   <articleinfo>
     <authorgroup role="Maintainer">
@@ -8,12 +8,6 @@
       </author>
     </authorgroup>
     <authorgroup role="Primary Designers">
-      <author>
-        <firstname>Robert</firstname>
-        <surname>Archer</surname>
-      </author>
-    </authorgroup>
-    <authorgroup role="Contributing Designers">
       <author>
         <firstname>Robert</firstname>
         <surname>Archer</surname>
@@ -34,7 +28,7 @@
     <revhistory>
       <revision>
         <revnumber>1</revnumber>
-        <date>22 September, 2013</date>
+        <date>22 September 2013</date>
         <revdescription>
           <para>Approved by Assistant Engineering Director Aaron Calhoun</para>
         </revdescription>
