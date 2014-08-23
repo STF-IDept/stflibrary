@@ -51,12 +51,12 @@
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="constellation.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="merrimack.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="oed_v.xml" />
-    <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="ogawa.xml" />
   </part>
   <part id="oldaltrpgareas">
     <title>Retired Alternate Role-Playing Environments</title>
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="crell.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="scottie.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="403.xml" />
+    <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="ogawa.xml" />
   </part>
 </book>
