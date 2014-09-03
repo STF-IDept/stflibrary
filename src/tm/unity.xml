@@ -1,0 +1,488 @@
+<article class="specification" id="unity">
+  <title>Unity-Class</title>
+  <articleinfo>
+    <authorgroup role="Maintainer">
+      <author>
+        <firstname>Robert</firstname>
+        <surname>Archer</surname>
+      </author>
+    </authorgroup>
+    <authorgroup role="Primary Designers">
+      <author>
+        <firstname>Robert</firstname>
+        <surname>Archer</surname>
+      </author>
+    </authorgroup>
+    <authorgroup role="Contributing Designers">
+      <author>
+        <firstname>Brandon</firstname>
+        <surname>Rehak</surname>
+      </author>
+    </authorgroup>
+    <authorgroup role="Original Designers">
+      <author>
+        <firstname>Robert</firstname>
+        <surname>Archer</surname>
+      </author>
+    </authorgroup>
+    <keywordset>
+      <keyword role="service">PC/NPC</keyword>
+      <keyword role="category">Cruiser</keyword>
+      <keyword role="variant">Heavy</keyword>
+      <keyword role="mark">I</keyword>
+    </keywordset>
+    <revhistory>
+      <revision>
+        <revnumber>1</revnumber>
+        <date>24 May 2014</date>
+        <revdescription>
+          <para>Approved by Assistant Engineering Director Aaron Calhoun</para>
+        </revdescription>
+      </revision>
+    </revhistory>
+  </articleinfo>
+  <section>
+    <title>History and Mission Overview</title>
+    <para>In 2161, a charter was signed to create a new community of peaceful expansion and exploration by unifying the worlds of Andoria, Earth, Tellar and Vulcan under the banner of the United Federation of Planets, a governing body created for the benefit of all member races and the understanding of all sapient life.</para>
+	<para>The birth of the Federation came after a war that had devastated the Earth Starfleet, which had yet to regain its full strength. The newly-united Federation Starfleet looked at already-approved designs, and decided to authorize several variants of existing designs to diversify the abilities of the fleet. One design selected for modification was the Daedalus-class cruiser, which had proven its worth during the War. Starfleet decided to commission a heavier cruiser variant of the Daedalus design.</para>
+	<para>So on the eve of August of 2161 final approval began for the construction of the Unity class heavyweight cruiser at the Sol 2, Andoria 3, Tellar 5, and Vulcan 1 shipyards in each of these systems.</para>
+	<section>
+    <title>Mission Profiles</title>
+	  <para>The Unity class cruiser is suited to the following mission profiles:</para>
+    <simplelist>
+      <member>Command and control of fleet level functions.</member>
+      <member>Mid to long range patrols, surveys and exploration.</member>
+      <member>Diplomatic and first contact functions.</member>
+	</simplelist>
+    </section>
+  </section>
+  <section>
+    <title>Structure and Construction</title>
+    <para>The Unity class spans 10 decks, it has a forward mounted spherical saucer connected by a rod shaped 'neck' to a cylindrical shaped engineering hull which connects to a V shaped 25 degree angled set of cylindrical warp nacelles.</para>
+	<para>The Unity class is constructed of tempered titanium steel along its whole frame. The ship has a double layered hull, fused with nickel-steel molded in between. Average hull thickness for each layer is 3.0 centimeters. As a secondary layer of protection 2.0 centimeters of titanium steel plates were layered along the outward hull, this gives the Unity class a lighter gray color then other Starfleet ships. The ship’s deflector array is positioned under the middle of the saucer by a circular shaped inset.</para>
+	<para>If required the Unity class is capable of making atmospheric entry and flight, though is not capable of landing. Deceleration from orbit to atmospheric flight takes one minute thirty seconds and a return to orbit around two minutes.</para>
+  </section>
+  <section>
+    <title>Science and Remote Sensing Systems</title>
+    <para>The Unity class mounts a sensor system designed by Vulcan and Human engineers. The FRSS-1 sensor system has a low resolution range of 5 light years and a high resolution range of 2.5 light years.</para>
+    <para/>
+  </section>
+  <section>
+    <title>Computer and Network Systems</title>
+    <para>The Unity contains a single, Human and Tellarite designed, three deck FCC-1 series isograted computer core. It is mounted on decks D through F along the ship's central line from the bridge. A hard line connection series of sub-processors, connects the helm, science and tactical stations directly into the core for increased response times.</para>
+  </section>
+  <section>
+    <title>Warp Propulsion Systems</title>
+    <para>The warp core for the Unity was designed by Human and Vulcan engineers, co-working for once side by side as equals they created the first successful Warp 7 engine. The core is powered by 392 Cochranes, with a cruising speed of TOS-Warp 3.0, a maximum sustainable speed of TOS-Warp 4.0, a maximum velocity speed of TOS-Warp 6.3 for 12 hours and an emergency speed of TOS-Warp 7 for 2 hours.</para>
+	<para>This core feeds the ship’s two nacelles and is mounted horizontally on the middle sections of decks I and J. The ship’s ejection systems drop the core out the bottom of the ship by a swing door assembly in the engine room.</para>
+  </section>
+  <section>
+    <title>Impulse Propulsion Systems</title>
+    <para>The Unity mounts a single dual channel impulse engine mounted on the aft middle sections of the saucer on decks D and E. The engine can propel the ship to max impulse of .16c in 75 seconds and a full stop in 90 seconds.</para>
+  </section>
+  <section>
+    <title>Tactical Systems</title>
+    <section>
+      <title>Defensive Shields</title>
+	  <para>Utilizing an a new series of shield systems from Andorian designers assisted by Vulcan designers the FSS-1 shield system has a maximum dissipation rate of 2.19 x 10^5 kW and a maximum graviton load of 400 Megawatts. The system is nearly 40% more efficient than those found on most Earth-Romulan war and earlier era vessels.</para>
+    </section>
+	<section>
+      <title>Hull Polarization System</title>
+	  <para>The hull polarization system for the Unity is an improved variant of that found on the NX class Explorer during the war. As such it has a maximum dissipation rate of 4.8 x 10^4 kilowatts and improves the hull rating by over 150%. Human and Andorian designers created this improved polarization system which is used as a secondary defensive system for the Unity.</para>
+      <para/>
+    </section>
+    <section>
+      <title>Phaser Systems</title>
+	  <para>The Unity mounts 12 of the new Type-1a phaser banks exact coverage is as follows:</para>
+	  <simplelist>
+      <member>1 phaser bank port and starboard dorsal and ventral on the saucer with 180 degree coverage and 90 degree firing arc, with two emitters per bank.</member>
+      <member>2 phaser banks forward and aft mounted dorsal and ventral on the saucer with 90 degree coverage and 180 degree firing arc, with three emitters per bank.</member>
+	</simplelist>
+	  <para>The phaser banks have a maximum range of 35,000 km and maximum energy output 1.0 megawatts.</para>
+      <para/>
+    </section>
+    <section>
+      <title>Torpedo Systems</title>
+	  <para>The Unity mounts 3 Mark-1c photon torpedo launchers, their exact coverage is as follows:</para>
+	  <simplelist>
+      <member>2 photon launchers forward on deck D.</member>
+      <member>1 photon launcher aft on deck D.</member>
+	</simplelist>
+	  <para>The photon torpedoes have a maximum range of 200,000 km. The ship as a general load out carries 80 casings, divided into 60 torpedoes and 20 scientific probes.</para>
+    </section>
+    </section>
+  <section>
+    <title>Command and Support Systems</title>
+	<section>
+    <title>Bridge</title>
+    <para>The bridge of the Unity is located on deck A, arranged in a half circle. Stationed in the center on a slightly raised platform is the CO’s chair. To port of the CO are the tactical and engineer stations with an attached aux station behind them. To starboard of the CO are the science and communication stations. Forward of the CO is the helm station and behind the CO are three aux stations set up for commanding fleet level functions, mission specific needs or auxiliary personnel.</para>
+	<para/>
+    </section>
+    <section>	
+	<title>Briefing Area</title>
+	<para>Just behind these three auxiliary stations is a drop down mission briefing table with another two aux stations. Forward of the helm station is the bridge view screen, and to either side of it are two turbolifts.</para>
+    </section>
+	<section>
+	<title>Ready Room</title>
+	<para>Just starboard of the forward turbolifts is the CO’s ready room. This room has a console, work area, and fold down couch and chair, with a small area set aside for personal effects on two shelves.</para>
+	</section>
+	<section>
+	<title>Brig</title>
+	<para>The ship’s four cell brig is located on deck D port side. They are spacious enough to hold up to 20 people collectively without trouble. Each door contains triple bolted hard locks that require outside access to open.</para>
+	</section>
+    <section>
+	<title>Armory</title>
+	<para>The ship’s armory is located on the forward areas of deck E and F. This two deck room contains manual fire control and loading of the ships photonic torpedoes and maintenance areas for the ship’s phaser banks. This room also contains weapon lockers with 45 phaser rifles, 24 phaser pistols, and 1 land-based phaser cannon, as well as areas to maintain these personal weapons. The armory was designed by Andorian and Earth designers.</para>
+	</section>
+	<section>
+	<title>Engine Room</title>
+	<para>The ship’s engine room is located on the middle areas of decks H-J in the engineering hull. This three deck room contains the ship’s horizontally mounted warp core, with ejection systems on deck J dropping the core out of the ship in an emergency via a hanger-like set of drop doors. Fourteen consoles here show readouts on all power feeds and current ship status. A small 2x3 meter room located on the port side of the engine room is reserved for the personal use of the ship’s chief engineer. The engine room was designed and set up by Human and Tellarite designers.</para>
+	</section>
+	<section>
+	<title>Science Labs</title>
+	<para>Meant as a full time science vessel specifications called for along the port areas of deck D the ship's four general and four specialized science labs. The Chief science officer office is located in general lab 1. The specialized labs were designed and set up solely by Vulcan designers.</para>
+	</section>
+	<section>
+	<title>Diplomatic Meeting Room</title>
+	<para>Located on Deck F and G to port are the ship's two spacious diplomatic halls. These areas are normally kept open and free of furnishings until required. Each hall can hold up to 20 people.</para>
+	</section>
+  </section>
+  <section>
+    <title>Utility Systems</title>
+    <section>
+      <title>Cargo Bays</title>
+	  <para>Located on decks H-J at the very aft end of the engineering hull is contained the six large open, three-deck cargo bays. An exterior access door allows loading of needed supplies at dry-dock.</para>
+    </section>
+    <section>
+      <title>Tractor Beam Systems</title>
+	  <para>Along the central dorsal axis of deck F and central ventral axis of deck J, are located the ship’s two tractor beam emitters. Each emitter can reach out to a range of 10 km and can hold variable levels of weight depending on spatial effects and power in use or in the area of operation.</para>
+    </section>
+    <section>
+      <title>Transporter Systems</title>
+	  <para>On deck B to port is the ship’s six person transporter pad. It has a total effective range of 3,000km.</para>
+    </section>
+	<section>
+      <title>Turbolift Systems</title>
+	  <para>The ship’s standard turbolift system spans all primary hub areas of each deck, with a service bay located near the engine room on deck H.</para>
+    </section>
+	<section>
+      <title>Unassigned Work / Storage Areas</title>
+	  <para>This empty bay area situated on decks C and D are devoid of any assigned use by default, for the ship’s company. With a week layover at a dock yard however, these two areas can be converted into any variety of work or storage areas for mission needs ahead.</para>
+    </section>
+  </section>
+  <section>
+    <title>Crew Support Systems</title>
+	<section>
+    <title>Sickbay</title>
+	<para>The ship’s two sickbays are located on decks B and C; each houses 3 examination beds, 2 patient scanners, 2 surgery areas, 2 morgue bays, 3 storage bays, 2 medical work consoles, 2 lab areas, and 2 decontamination chambers.</para>
+	</section>
+	<section>
+	<title>Lounge / Galley</title>
+	<para>Located together on deck G forward port is the ship’s lounge and galley. The lounge holds 15 tables of varying chair amounts to accommodate off duty personnel. The galley holds a full service kitchen and two storage areas for the kitchen staff’s sole use.</para>
+	</section>
+	<section>
+	<title>Gym</title>
+	<para>Located across from the lounge on deck G forward starboard is the ship’s gym. This open area can accommodate a variety of bikes, training mats, and other various means of working out and keeping in shape for the crew.</para>
+	</section>
+	<section>
+	<title>Senior Officer's Quarters</title>
+	<para>The command and department head quarters are located on deck C near sickbay 2. They each hold a Queen sized bed, desk, and bathroom.</para>
+	</section>
+	<section>
+	<title>Junior Officer's Quarters</title>
+	<para>The JO quarters are smaller than the officer’s quarters. Each has a single twin sized bed with work area and bathroom. These quarters are located in clusters on decks E, F and I.</para>
+	</section>
+	<section>
+	<title>Non-commissioned Officer's Quarters</title>
+	<para>The Non-com quarters are sized the same as the JO quarters except they are shared by two non-coms each. Each has a single twin sized bunk bed with work area and bathroom. These quarters are located in clusters on decks E, F and I.</para>
+	</section>
+  </section>
+  <section>
+    <title>Auxiliary Spacecraft Systems</title>
+    <para>The Unity class's launch bay is located along the aft end of the engineering hull on decks F and G. The bay holds four Type-1b shuttle pods with the required storage, retrieval, and maintenance areas for the four pods.</para>
+  </section>
+  <section>
+    <title>Technical Specifications</title>
+    <variablelist>
+      <title>Dimensions and Structure</title>    
+      <varlistentry>
+        <term>Length</term>
+        <listitem><para>105 meters</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Beam (Width)</term>
+        <listitem><para>25 meters</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Height</term>
+        <listitem><para>43 meters</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Decks</term>
+        <listitem><para>10</para></listitem>
+      </varlistentry>
+    </variablelist>
+    <variablelist>
+      <title>Crew Complement</title>
+      <varlistentry>
+        <term>Officers and Crew</term>
+        <listitem><para>100</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Visiting Personnel</term>
+        <listitem><para>10 (temporary)</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Maximum Evacuation Limit</term>
+        <listitem><para>350</para></listitem>
+      </varlistentry>
+    </variablelist>      
+    <variablelist>
+      <title>Computer Systems</title>
+      <varlistentry>
+        <term>Core</term>
+        <listitem><para>1x Isograted computer core</para></listitem>
+      </varlistentry>	        
+    </variablelist>      
+    <variablelist>
+      <title>Warp Systems</title>
+      <varlistentry>
+        <term>Power Plant</term>
+        <listitem><para>One 359+ cochrane M/ARA cores feeding two nacelles</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Cruising Velocity</term>
+        <listitem><para>TOS Warp 3.0</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Maximum Sustainable Velocity</term>
+        <listitem><para>TOS Warp 4.0</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Maximum Velocity</term>
+        <listitem><para>TOS Warp 6.3 (12 hours)</para></listitem>
+      </varlistentry>
+	  <varlistentry>
+        <term>Emergency Velocity</term>
+        <listitem><para>TOS Warp 7 (2 hours)</para></listitem>
+      </varlistentry>
+    </variablelist>
+    <variablelist>
+      <title>Impulse Systems</title>
+      <varlistentry>
+        <term>Full Impulse</term>
+        <listitem><para>.16c</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Acceleration</term>
+        <listitem><para>75 seconds</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Deceleration</term>
+        <listitem><para>90seconds</para></listitem>
+      </varlistentry>
+    </variablelist>
+    <variablelist>
+      <title>Defensive Systems</title>
+      <varlistentry>
+        <term>Shield Maximum Graviton Load (Continuous)</term>
+        <listitem><para>400 MegaWatts</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Shield Maximum Energy Dissipation Rate</term>
+        <listitem><para>2.19 x 10^5 kilowatts</para></listitem>
+      </varlistentry>
+	  <varlistentry>
+        <term>Maximum Increase in Hull Integrity</term>
+        <listitem><para>150%</para></listitem>
+      </varlistentry>
+	  <varlistentry>
+        <term>Polarization Field Maximum Energy Dissipation Rate</term>
+        <listitem><para> 4.8 x 10^4 kilowatts</para></listitem>
+      </varlistentry>
+    </variablelist>
+    <variablelist>
+      <title>Offensive Systems</title>
+      <varlistentry>
+        <term>Torpedoes</term>
+        <listitem>
+          <variablelist>
+            <varlistentry>
+              <term>Torpedo Tubes</term>
+              <listitem><para>3x Mark-1c photon torpeod launchers</para></listitem>
+            </varlistentry>
+            <varlistentry>
+              <term>Standard Payload (total)</term>
+              <listitem><para>60x photon torpedoes</para></listitem>
+			  <listitem><para>20x probes</para></listitem>
+            </varlistentry>
+          </variablelist>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Phasers</term>
+        <listitem>
+          <itemizedlist>
+            <listitem><para>12x Type 1a phaser banks</para></listitem>
+          </itemizedlist>
+        </listitem>
+      </varlistentry>
+    </variablelist>
+  </section>
+  <section>
+    <title>Deck Layout</title>
+    <section role="Deck">
+    <title>Deck A</title>
+      <simplelist>
+        <member>Bridge / Briefing area</member>
+        <member>CO's Ready Room</member>
+      </simplelist>
+    </section>
+    <section role="Deck">
+      <title>Deck B</title>
+      <simplelist>
+        <member>Transporter room</member>
+        <member>Sickbay 1</member>
+      </simplelist>
+    </section>
+	<section role="Deck">
+      <title>Deck C</title>
+      <simplelist>
+        <member>Holo-Crew Projection Support Systems</member>
+        <member>Shuttle Bay 1 Storage</member>
+        <member>CO's Quarters</member>
+        <member>XO's Quarters</member>
+      </simplelist>
+    </section>
+	<section role="Deck">
+      <title>Deck D</title>
+      <simplelist>
+        <member>Brig</member>
+        <member>Unassigned work / storage areas</member>
+        <member>Science labs 1 – 5</member>
+        <member>Upper Computer Core</member>
+        <member>CSO's Office</member>
+        <member>Stellar Cartography Lab</member>
+        <member>Exobiology Lab</member>
+        <member>Xenobiology Lab</member>
+      </simplelist>
+    </section>
+	<section role="Deck">
+      <title>Deck E</title>
+      <simplelist>
+        <member>JO/Non-com quarters</member>
+        <member>Armory</member>
+        <member>Chief Weapons Officer's Office</member>
+        <member>Photon Launchers (forward/aft)</member>
+        <member>Computer Core</member>
+      </simplelist>
+    </section>
+	<section role="Deck">
+      <title>Deck F</title>
+      <simplelist>
+        <member>JO/Non-com quarters</member>
+        <member>Computer Core</member>
+        <member>Diplomatic Hall 1</member>
+        <member>Tractor System</member>
+        <member>Upper Launch Bay</member>
+      </simplelist>
+    </section>
+	<section role="Deck">
+      <title>Deck G</title>
+      <simplelist>
+        <member>Gym</member>
+        <member>Galley / Lounge</member>
+        <member>Diplomatic Hall 2</member>
+        <member>Lower Launch Bay</member>
+      </simplelist>
+    </section>
+	<section role="Deck">
+      <title>Deck H</title>
+      <simplelist>
+        <member>Cargo bay 1-2</member>
+        <member>Docking port 1</member>
+        <member>Upper Engineering Room</member>
+        <member>Deuterium Storage 1</member>
+        <member>Antimatter Storage 1</member>
+      </simplelist>
+    </section>
+	<section role="Deck">
+      <title>Deck I</title>
+      <simplelist>
+        <member>JO/Non-com quarters</member>
+        <member>Cargo bay 3-4</member>
+        <member>Docking port 2</member>
+        <member>Engineering Room</member>
+		<member>Upper Warp Core</member>
+        <member>Deuterium Storage 2</member>
+        <member>Antimatter Storage 2</member>
+        <member>Engineering lab 1-2</member>
+        <member>Engineering Maintenance Area</member>
+        <member>CE's Office</member>
+      </simplelist>
+    </section>
+	<section role="Deck">
+      <title>Deck J</title>
+      <simplelist>
+        <member>Tractor System</member>
+        <member>Cargo bay 5-6</member>
+        <member>Docking port 3</member>
+        <member>Lower Engineering Room</member>
+		<member>Lower Warp Core</member>
+        <member>Deuterium Storage 3</member>
+        <member>Antimatter Storage 3</member>
+        <member>Warp Core Ejection system</member>
+      </simplelist>
+    </section>
+    </section>
+  <section>
+    <title>Ships of the Class</title>
+	<para>Ships of the Unity class are named after words related to the words Unity, United, and Brotherhood.</para>
+    <simplelist role="ShipList">
+      <member role="PC">
+        <productname>Unity</productname>
+        <productnumber>20</productnumber>
+	  </member>
+      <member role="PC">
+        <productname>United</productname>
+        <productnumber>21</productnumber>
+      </member>
+      <member role="PC">
+		<productname>Brotherhood</productname>
+        <productnumber>22</productnumber>
+      </member>
+      <member role="PC">
+		<productname>Fellowship</productname>
+        <productnumber>23</productnumber>
+      </member>
+      <member role="PC">
+		<productname>Federation</productname>
+        <productnumber>24</productnumber>
+      </member>
+      <member role="PC">
+		<productname>Union</productname>
+        <productnumber>25</productnumber>
+      </member>
+      <member role="PC">
+		<productname>Synthesis</productname>
+        <productnumber>26</productnumber>
+      </member>
+      <member role="PC">
+		<productname>Integrity</productname>
+        <productnumber>27</productnumber>
+      </member>
+      <member role="PC">
+		<productname>Accord</productname>
+        <productnumber>28</productnumber>
+      </member>
+      <member role="PC">
+		<productname>Confederation</productname>
+        <productnumber>29</productnumber>
+      </member>
+    </simplelist>
+  </section>
+  <section>
+    <title>Conclusion</title>
+	<para>Though only ten of the Unity class cruisers have been produced so far construction plans are well underway to build more of these vessels to push out the boundaries of the newly formed United Federation of Planets.</para>
+  </section>
+</article>
