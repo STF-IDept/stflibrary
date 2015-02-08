@@ -15,6 +15,7 @@
   </preface>
   <part id="spec-primary">
     <title>Ship Specifications (Primary)</title>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="chandley.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="concord.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="discovery.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="maverick.xml" />
