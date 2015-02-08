@@ -153,6 +153,10 @@ The cells themselves utilize a series of two recessed forcefield generators whic
       <para>Occupying the entire rear half of these two decks, Main Engineering is the second biggest single area on the ship. Plasma transfer conduits, optical data conduits, water transfer pipes and deuterium exchange lines occupy the majority of the floor space, requiring work terminals and the bulk of all engineering functions to be raised on walkways, crawlspaces and platforms. The two primary and one auxiliary deuterium storage tanks are mounted along the starboard wall behind the warp core. The antimatter storage tanks are similarly mounted along the port wall.</para>
       <para>The Chief Engineer's station and primary monitoring systems for engineering are located on a raised level platform at the centre of the deck. The engineering platform contains stations for monitoring all primary and secondary systems as well as the warp core status monitor. The Chief Engineer's station contains a bank of five screens mounted on the plasma conduits that feed them, providing customizable readouts for any of the ships systems as well as a computer access terminal and a diagnostics panel.</para>
     </section>
+    <section>
+        <title>Science Lab</title>
+        <para>The Kurztman class, though not a science vessel by design, nonetheless contains a small simple science lab for the general area of scientific study. This lab, complete with the Chief Science Officer's office inside is located on deck 4 next to the ship's galley.</para>
+    </section>
   </section>
   <section>
     <title>Utility Systems</title>
