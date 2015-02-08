@@ -62,9 +62,9 @@ The Kurtzman's hull is composed of a duranium-tritanium alloy in a 30cm double l
   </section>
   <section>
     <title>Science and Remote Sensing Systems</title>
-    <para>Given the need for the Kurtzman to have an active and powerful sensor suite without the attendant scientific research facilities, a series of 200 sensors are distributed throughout the outer hull. These sensors are used for navigation, remote sensing, tactical analysis and early warning data collection. Each sensor can be operated independently or in series in both passive and active data collection mode. The whole forms the collective 'sensor array'.
+    <para>The Kurtzman has an active and powerful sensor suite complete with a general purpose science laboratory. A series of 200 sensors are distributed throughout the outer hull. These sensors are used for navigation, remote sensing, tactical analysis and early warning data collection. Each sensor can be operated independently or in series in both passive and active data collection mode. The whole forms the collective 'sensor array'.
 The sensor array aboard the Kurtzman is one of the most powerful in current service, with a high resolution scan range of 1.5 light years and a low resolution range of 6.5 light years. Through the application of high power emissions diodes, the sensor array can be utilized as a jamming system to prevent enemy vessels from sending or receiving transmissions. Effective jamming range for this system at full power is 390,000km. It should be noted that effecting this jamming system also prevents the jamming vessel from utilising their own communications systems.
-Whilst not a science vessel by design, the Kurtzman does carry 50 empty torpedo casings which can, at need, be configured for scientific or exploratory purposes.
+Whilst only having basic scientific facilities on board for basic tasks, these facilities are further augmented by 50 empty torpedo casings which can, at need, be configured for scientific or exploratory purposes.
 </para>
     <section>
       <title>Computer Systems</title>
@@ -390,6 +390,7 @@ There is a private mess for receiving VIPs and hosting senior officers located o
         <member>Auxiliary Life Support</member>
         <member>Auxiliary Power</member>
         <member>Galley</member>
+        <member>General Science Lab</member>
         <member>Primary Computer Core Level-2</member>
         <member>Computer Room</member>
       </simplelist>
