@@ -39,6 +39,7 @@
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="armadillo.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="compsognathus.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="cutlass.xml" />
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="fulcrum.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="longevity.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="liberty.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="ranger.xml" />
