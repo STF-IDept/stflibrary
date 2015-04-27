@@ -19,6 +19,7 @@
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="concord.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="discovery.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="maverick.xml" />
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="manhattan.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="memorial.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="mjolnir.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="mythology.xml" />

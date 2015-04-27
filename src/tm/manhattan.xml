@@ -1,0 +1,700 @@
+<article class="specification" id="manhattan">
+  <title>Manhattan-class</title>
+  <articleinfo>
+    <authorgroup role="Maintainer">
+      <author>
+        <firstname>Brandon</firstname>
+        <surname>Irvine</surname>
+      </author>
+    </authorgroup>
+    <authorgroup role="Primary Designers">
+      <author>
+        <firstname>Brandon</firstname>
+        <surname>Irvine</surname>
+      </author>
+    </authorgroup>
+    <keywordset>
+      <keyword role="service">PC/NPC</keyword>
+      <keyword role="category">Researcher</keyword>
+      <keyword role="variant">Heavy</keyword>
+      <keyword role="mark">I</keyword>
+    </keywordset>
+    <revhistory>
+      <revision>
+        <revnumber>1</revnumber>
+        <date>12/04/2015</date>
+        <revdescription>
+          <para>Approved by Engineering Director Robert Archer</para>
+        </revdescription>
+      </revision>
+    </revhistory>
+  </articleinfo>
+  <section>
+    <title>History and Mission Overview</title>
+<para>The 2380s saw Starfleet rededicate itself to its exploratory and scientific research missions. Waves of new science-oriented ships were commissioned and launched, at a rate almost reminiscent of combat-oriented ships during the Dominion War. Most of these new science ships were small, designed for exploration, finding new and interesting things, and making notes of them. This left a gap in the market for larger ships designed to follow up on the discoveries of the smaller exploratory ships, and spend a long time studying them.</para>
+<para> In 2383, engineers at AST Shipyards presented initial design concepts for the Manhattan-class Heavy Researcher to a panel of senior officers at Starfleet Engineering. The AST engineers recognized that Starfleet's current dominant Researcher-type vessel, the Chimera-class, was a ship class built on a modified (that is to say, gutted) Dreadnought platform. The Manhattan-class, by contrast, would be designed from Day 1 with scientific research in mind. The project was given prototype approval, and the AST engineers returned home to begin final design and construction.</para>
+<para> The USS Manhattan, NCC-88000, debuted on Stardate 13073.0 to satisfactory review. Starfleet placed an order with AST for an additional nine ships of the class.</para>
+<section>
+<title>Mission Profiles</title>
+<para> Named for the early 20th Century Manhattan Project, the Manhattan-class Heavy Researcher is designed for the following mission profiles:</para>
+<simplelist>
+      <member>Long-term study of newly-discovered systems</member>
+<member> In-depth study of charted and uncharted planets</member>
+<member>First contact with newly-discovered warp-capable species</member>
+<member>Investigation of stellar and gravitic anomalies</member>
+<member>Observation of star birth and death</member>
+<member>General scientific research</member>
+    </simplelist>
+  </section>
+  </section>
+<section>
+    <title>Structure and Construction</title>
+<para>he Manhattan-class is a large ship that generally conforms to Starfleet design norms: it has a saucer section and a mostly-separate stardrive section housing most Engineering systems, and is made with a hull of a duranium/tritanium alloy. There are six decks that span both sections: Decks 7-12.</para>
+<para>The Manhattan-class' saucer section is a fully rounded dish, similar to that of the Galaxy-class. It comprises the first twelve decks of the ship (with parts of Decks 7-12, as mentioned above, continuing into the stardrive section) and contains the bulk of the ship's scientific equipment and personnel space. The saucer section is a full 350 meters in diameter.</para>
+<para>The stardrive section is a 150m wide, cigar-shaped body with 75m wide, angled neck on top of it that connects the stardrive to the saucer. The front of the stardrive on the lower four decks is cut at an angle to house and protect the ship's deflector dish, while the rear of the stardrive on the lower four decks is cut at an angle for aesthetic reasons. The ship's nacelle pylons emerge from a point just aft of the beginning of the neck on Deck 18. The pylons go out for 50m on each side, then up another 20m where they join with the nacelles in airspace near Deck 14. The stardrive section is 350 meters long, and has eighteen decks, six of which are shared in part with the saucer, for a total deck count of twenty-four decks.</para>
+<para>The saucer section is connected by multiple hardpoints to the stardrive on Decks 7-12. In an emergency, a Manhattan is capable of separating its saucer section from the stardrive. Magnetic locks on the hardpoints are disengaged by computer command once a hard seal has been established on all access points between the two sections. As the separation occurs via magnetic release and not explosive separation, the two sections can reconnect once the emergency has passed.</para>
+</section>
+<section>
+    <title>Science and Remote Sensing Systems</title>
+<para>As a science ship, the designers put a great emphasis on the systems installed on the Manhattan that would be used for science research and experimentation. As such, it was given the highest-end equipment available.</para>
+<section>
+	<title>Sensor Systems</title>
+<para>The Manhattan-class is equipped with Type X sensors capable of seeing 5 light-years out from the ship on a high-resolution scan, and 17 light-years on low-resolution. The Manhattan-class sensor suite includes the ability to perform multiphasic scans, as well as multiphase buffers to enhance the sensors' information-gathering abilities. The ship's main sensor pallets are located on Deck 2, with a secondary sensor array located on Deck 18 for use by the stardrive section in the event of a saucer separation.</para>
+</section>
+	<section>
+	  <title>Computer Systems</title>
+<para>The Manhattan-class requires a large amount of computing power to handle its various scientific operations. The computer systems on board the ship are some of the largest on any Starfleet vessel, regardless of type. The Main Computer is made up of six isolinear-based cores containing well over 100,000 isolinear chips in total, for a total of nearly 50 million teraquads of data storage in the Main Computer alone. The Manhattan's main computer is capable of sustaining 700 trillion calculations per nanosecond. Each of the six Main Computer cores is linked to the others by bio-neural circuitry to speed up processing time. Manhattan-class ships carry additional bio-neural gel packs in storage if needed. The Main Computer is located on Decks 13-15.</para>
+<para>In addition to the main computer core, each science lab has a 1,000-isolinear-chip computer core to store pertinent experiment information without taking space from the main computer. There are 21 of these cores located throughout the ship, and each is linked to the ship's Optical Data Network, allowing them to send information to other labs or to the ship's main computer core if long-term storage is needed.</para>
+</section>
+	<section>
+	  <title>Holo-Crew</title>
+<para>The Manhattan-class does carry an Emergency Medical Hologram, whose program may be activated in Sickbay, the Bridge, any Holodeck, or any Science lab.</para>
+</section>
+</section>
+<section>
+    <title>Warp Propulsion System</title>
+<para>To compensate for the heavy, high-end scientific loadout, reductions were made in other systems across the ship, including the Warp Core.</para>
+<para>The Manhattan is equipped with a mid-range Class-7 Warp Core producing 1,649+ Cochranes of energy. The Warp Core is located on Decks 16-20, in Main Engineering. Its Matter/Antimatter Reactor Assembly is fueled by deuterium stored in tanks on Deck 15 and anti-deuterium stored in magnetically-contained tanks on Deck 21. There is no corridor access to either fuel storage area. Security-coded doors in Main Engineering provide controlled access for maintenance.</para>
+<para>The Warp Core feeds drive plasma to the ship's two nacelles. The Manhattan is capable of a cruising speed of Warp 6.0, a maximum sustainable speed of Warp 9.0, and a maximum 12-hour speed of Warp 9.2. In an extreme emergency, the Warp Core can speed the ship up to Warp 9.5, but this speed can only be sustained for approximately an hour before major damage is done to the warp coils and the plasma injector assemblies.</para>
+<para>Manhattan-class ships are capable of ejecting their Warp Core. Upon the command of the senior duty Engineer, the fuel linkages are sealed and the Warp Core is fired by pneumatic pistons down a shaft to exit through a ventral hatch, leaving the ship through the bottom of Deck 24.</para>
+</section>
+<section>
+    <title>Impulse Propulsion System</title>
+<para>The Manhattan class has three impulse engines: two located in the saucer section to enable it to maneuver while separated from the stardrive, and one in the stardrive to provide impulse propulsion while separated from the saucer. The two engines in the saucer are the primary impulse drives for the ship when it is in one piece, but the third may also be activated to provide extra thrust.</para>
+<para>The two saucer section engines are located aft on Decks 5-6, one port side and one starboard. They are each powered by two deuterium-fusion reactors, with fuel tanks located on Deck 4. The stardrive engine is located in the neck on Decks 13-15. It is also powered by two deuterium-fusion reactors, which take their fuel from the same deuterium tanks on Deck 15 which feed the Warp Core.</para>
+<para>When solely powered by the two saucer engines, the Manhattan can achieve a speed of .2c. When all three engines are active, the maximum speed increases to .25c. It takes the ship 45 seconds to achieve this maximum speed from a dead stop, and 70 seconds to go from .25c to a dead stop.</para>
+</section>
+<section>
+    <title>Tactical Systems</title>
+<section>
+    <title>Shields</title>
+<para>The Manhattan-class is equipped with a Type-9 shielding system capable of bearing a Max Graviton Load of 1,881 megawatts and boasting a Max Dissipation Rate of 5.11 x 10^5 kilowatts. This shielding system is supplemented by a Metaphasic Shield Generator to protect the ship and crew from heavy radiation emitted by stellar bodies it may be studying. The emitters for the Type-9 Defensive Shields are located at key points across the ship's hull. The Metaphasic Shield is generated by the Main Deflector, located on Decks 21-24.</para>
+</section>
+<section>
+    <title>Phasers</title>
+<para>Manhattan-class ships are lightly armed, since as science vessels in general they are not expected to see combat, and as Researchers in particular are not expected to be sent somewhere combat is expected to break out. As such, they are equipped with eight Type-VI phaser arrays, located thusly:</para>
+ <simplelist>
+<member>1x Deck 2, forward of the ship's name and registry number</member>
+<member>1x Deck 2, aft of the Bridge</member>
+<member>1x Deck 2, starboard</member>
+<member>1x Deck 2, port</member>
+<member>1x Deck 7, aft</member>
+<member>1x Deck 11, forward edge of the saucer section</member>
+<member>1x Deck 19, along the dorsal surface of the stardrive section</member>
+<member>1x Deck 24, along the ventral surface of the stardrive section</member>
+</simplelist>
+<para>Each phaser array is comprised of 150 emitters, and can fire a 0.6 megawatt beam to an effective distance of 35,000 kilometers.</para>
+</section>
+<section>
+    <title>Torpedo Systems</title>
+<para>The designers of the Manhattan-class opted for a balanced approach to selecting torpedo/probe launching systems for the ship. While the new design standards allowed them to have six standard torpedo/probe launchers or two of the larger multi-load/fire launchers, they opted to use three standard launchers and one "burst fire" launcher.</para>
+<para>The three standard launchers are located on Decks 18 and 19. One (on Deck 18) faces aft, while the other two (on Deck 19) face forward. The burst fire launcher is located on Deck 12, in a hull bubble on the underside of the saucer section.</para>
+<para>Since the launchers are so spread out from each other, the Manhattan-class has two storage bays for photon torpedoes and probes. Torpedo Bay 1 is located on Deck 11 and holds 100 torpedo casings. 50 are designated for photon torpedoes, 25 are pre-assembled standard probes, and the remaining 25 are customizable probes used as needed by the Science Department.</para>
+<para>Torpedo Bay 2 is located on Deck 18 and feeds all three of the standard single-shot launchers. It holds the ship's remaining 100 torpedo casings. Like Torpedo Bay 1, 50 casings are designated for use as photon torpedoes, 25 are pre-assembled standard probes, and the remaining 25 are customizable probes used as needed by the Science Department.</para>
+<para>As a Science vessel, the Manhattan-class does not carry quantum torpedoes.</para>
+</section>
+</section>
+<section>
+    <title>Command and Support Systems</title>
+<section>
+    <title>Bridge</title>
+<para>The Manhattan-class Bridge, like most Federation starships, is located on Deck 1. Unlike some modern starships with a holographic viewscreen projected onto the forward wall, the Manhattan-class uses the tried-and-true physical viewscreen mounted on the forward wall. The viewscreen is 4 meters tall and 3 meters wide, and is capable of displaying as many as 16 different feeds simultaneously.</para>
+<para>Forward of the viewscreen is the Conn console, with a mid-backed swivel seat for the manning officer. The Conn console is responsible for piloting the ship, handling both helm control and navigation. The Conn officer is responsible for inputting the desired values for the ship's pitch, yaw, roll and speed manually, or selecting from a pre-programmed menu of maneuvers.</para>
+<para>Behind the viewscreen, mounted at the top of a gently-sloped ramp area, is the Command platform, with seating for the ship's Commanding Officer, Executive Officer, and an Officer To Be Named Later. The CO's seat is the center-most of the three, and features a comm-panel on the right arm with direct links to Main Engineering, Sickbay, Transporter Room 1, and Security.</para>
+<para>To the right of the CO's Chair is the XO's Chair, which does not have the comm-panel, but instead a workstation which can be used to display status reports on various systems. To the left of the CO's Chair is the Third Chair, which can be used by any officer, but most commonly the ship's Counselor, Second Officer, or a mission-specific officer. Like the XO's Chair, it lacks a comm-panel, but has a workstation.</para>
+<para>Behind the XO's Chair is the Security/Tactical console. This console is placed at a height to presume operation by a standing individual. If an assigned Security/Tactical officer is not tall enough, a barstool may be placed behind it. The Security/Tactical console allows the manning officer to monitor the ship's internal sensor network for intruders or unauthorized weapons fire, as well as control the ship's defensive shields, phasers, and torpedoes.</para>
+<para>Behind the CO's Chair is the Communications console. This console is also placed at a height to presume operation by a standing individual. If an assigned Communications officer is not tall enough, a barstool may be placed behind it. The Communications console allows the manning officer to monitor the ship's external communications feeds, and direct received messages to assigned destinations.</para>
+<para>Behind the Third Chair is the Operations console. This console is also placed at a height to presume operation by a standing individual. If an assigned Operations officer is not tall enough, a barstool may be placed behind it. The Operations console shares many functions with the workstation on the XO's Chair as far as displaying status reports of ship's systems. The Operations console also receives telemetry from sensor probes deployed by the ship.</para>
+<para>Behind the Operations console, along the port-side wall of the Bridge, are the Science workstations. Three mid-backed swivel-chairs are placed along the row of consoles, which can be used to begin various scans as well as receive the results and analyze them quickly for reports to the CO. If the results require deeper analysis, the Science workstations can quickly transfer the sensor data to a Science Lab.</para>
+<para>Behind the Communications console, along the aft wall of the Bridge, is the Engineering station, which features a copy of the Master Systems Display in Main Engineering, along with console inputs to allow an Engineer on the Bridge to quickly make adjustments ordered by the ship's Captain without requiring a call to Main Engineering.</para>
+<para>Behind the Security and Tactical console, along the starboard wall of the Bridge, are a set of workstations that can be adjusted to provide additional Science workstations, a larger Security station if intruders are detected, or a second Engineering station to monitor damage control teams. The workstations' setup mirrors that of the Science stations across the Bridge: a row of consoles and monitors with three mid-backed swivel-chairs placed along them at equally-spaced intervals.</para>
+<para>Between the spare workstations and the Engineering station are a door that leads to the Captain's Ready Room, as well as Turbolift 1. Between the Engineering station and the Science workstations are Turbolift 2, as well as a door that leads to the Main Briefing Room.</para>
+</section>
+<section>
+    <title>Captain's Ready Room</title>
+<para>Located adjacent to the Bridge on the starboard side of Deck 1 is the Captain's Ready Room, a hybrid office and spare room. The Ready Room is actually a suite, with the office area immediately inside the door leading to the Bridge, and behind that a small rest area.</para>
+<para>The office area features a desk with a computer workstation and comm panel, with one chair behind the desk and two in front of it, a replicator to the side nearest the aft bulkhead (from behind the desk facing the door, to the left) and a personal display area to the side nearest the forward bulkhead (from behind the desk facing the door, to the right). There is a potted plant just inside the door. The office area has one viewport looking out into space.</para>
+<para>Slightly offset from the office area is a personal rest area, with a cot and a small head to allow the Captain to freshen up without requiring a visit to his or her quarters. The cot is Marine-grade and not very comfortable, to discourage Captains from eschewing their quarters and living in their Ready Rooms.</para>
+<para>The personal rest area has five viewports looking out into space. These viewports can be tinted to up to 100 percent opacity by computer command to facilitate sleep.</para>
+</section>
+<section>
+    <title>Main Briefing Room</title>
+<para>The ship's Main Briefing Room is located adjacent to the Bridge on the port side of Deck 1. It is comprised of a long table with seats and computer access for eight, a large monitor on the bulkhead shared with the Bridge, a replicator and small buffet table along the aft wall, and three potted plants: two along the front wall, and one on the aft side of the door.</para>
+<para>The Main Briefing Room has six viewports looking out into space.</para>
+</section>
+<section>
+    <title>Auxiliary Bridge</title>
+<para>The ship's Auxiliary Bridge is located on Deck 7. It is the primary control center for the stardrive section when the ship is separated. It has three seats for the CO, XO, and someone else, a combined Conn/Ops station, a single Science station on the port-side wall, a single Engineering console along the aft wall, and a single Security station on the starboard-side wall. A Tactical/Communications station is placed behind the command chairs.</para>
+<para>The space in the Auxiliary Bridge is roughly one-third of that available on the Main Bridge, so as a consequence the number of available consoles is reduced and they (and thus, their manning officers) are placed closer together. The viewscreen in the Auxiliary Bridge is a 1.2m (measured diagonally) monitor placed on the forward bulkhead.</para>
+<para>Two turbolift shafts serve the Auxiliary Bridge, one between the Science station and the Engineering station, and one between the Engineering station and the Security station.</para>
+</section>
+<section>
+    <title>Auxiliary Briefing Room</title>
+<para>The ship's Auxiliary Briefing Room is located adjacent to the Auxiliary Bridge on Deck 7, port side. It contains a long table with seats for eight, one computer access station at the head of the table, a replicator and a monitor on the bulkhead shared with the Bridge. There are three viewports and no potted plants.</para>
+</section>
+<section>
+    <title>Main Engineering</title>
+<para>Main Engineering is located on Decks 16-20, around the ship's warp core. It is a large, circular room, with no ceilings between these decks in this section. There are walkways around the warp core, connected by ladders. Each level's walkway has stations scattered about it to monitor the status of various systems on the ship and with the warp core itself.</para>
+<para>The office of the ship's Chief Engineer is located on Deck 18, along with the ship's Master Systems Display. There are spare parts storage facilities located on Decks 16 and 20, and Jefferies' Tube Access on Decks 17 and 19.</para>
+</section>
+<section>
+    <title>Science Laboratories</title>
+<para>The scientific facilities on a Manhattan-class vessel take up a large amount of space inside the saucer section. There are dedicated laboratory spaces on Decks 4-8, all of which are located far enough forward as to be fully contained within the saucer section. As noted above, each laboratory has a small, 1000-isolinear chip computer core for short-term information storage of research findings.</para>
+<para>In general, each lab has a basic layout that includes six computer terminals with access to the ship's sensor data; six lab stations for the conducting of experiments; an equipment storage cabinet with tricorders, scales, and various lab-specific equipment; a cold-storage unit where incomplete experiments can be placed into stasis to be resumed at a later time; and an emergency medical area including a first-aid medkit, chemical rinse and clean sink.</para>
+<para>On Deck 4 are storage and research facilities for plant life. Scientists studying the composition, growth patterns, reproductive habits, and life cycles of plants -- from bouquet flowers to alien species of crops -- in the fields including, but not limited to, Hydroponics, Botany, and Agronomy spend their time in the four laboratories on this deck. A modular area on this deck may be used by the Science Department for private growth of plants for research purposes, or opened up to the crew as a Botanical Garden.</para>
+<para>On Deck 5 are research facilities for animal life. Scientists studying and conducting research in fields including, but not limited to, Zoology and animal Anatomy and Physiology spend their time in the three laboratories on this deck. There are also two large holding areas for the research animals brought aboard: one where they are kept alive, and one where they are kept after death. At the discretion of the Science Department, a small modular area may be arranged for use as a small zoo, allowing the crew to observe and potentially interact with some of the more interesting (and less dangerous) of the animal species brought and kept aboard.</para>
+<para>On Deck 6 are research facilities for chemical elements and general physics. Scientists studying Chemistry (and all its various sub-disciplines) and Physics (but not Astrophysics, nor Astronomy) spend their time in the five laboratories on this deck, which also houses the General Sciences labs. The Chemistry lab has a secure chemical storage locker with biometric scanners to prevent unauthorized access of dangerous chemicals by non-scientists. The ship's three General Sciences labs are larger than the regular labs, but also easily subdivided. Instead of six computer terminals and six lab stations, each General Sciences lab has twelve terminals and twelve lab stations. Each lab station can be sectioned off for sensitive experiments by a forcefield upon computer command by a Science officer.</para>
+<para>The office of the ship's Chief Science Officer can be found on Deck 6, in between General Sciences Labs One and Two.</para>
+<para>On Deck 7 are research facilities for studying space and all its intricate, intriguing mysteries. Scientists studying Astrophysics, Astronomy, and Cosmology spend their time in the three laboratories on this deck, one of which is the ship's Stellar Cartography lab, which due to space requirements also extends to Deck 8. The room access and control station, however, is on Deck 7. There is no entrance or egress to the lab from Deck 8; that part of the room contains only holo-emitters and their support equipment.</para>
+<para>On Deck 8 are research facilities for studying planetary compositions. Scientists studying Geology, Hydrology, Volcanology, Meteorology spend their time in the three laboratories on this deck. Due to space requirements, part of the Stellar Cartography lab is located on this deck, but there is no access to that lab from this deck. </para>
+<para>Additional science facilities can be found in the stardrive section. Laboratory facilities for mechanical sciences can be found on Deck 17, adjacent to Main Engineering. These three labs include space for research in fields including Robotics and Cybernetics. These labs, like those in the saucer section, have the small, 1000-chip isolinear storage cores. They also have workbenches for assembling mechanical devices and new creations, as well as a replicator for the creation of materials and components. Scientists that work in these labs will often partner with Engineering staff in developing improvements to the ship's systems. </para>
+<para>Computer science researchers have lab space on Deck 13, in two rooms adjacent to the Main Computer. Unlike the other labs, these do not have individual 1000-chip isolinear cores for data storage. There are two lab stations, and computer terminals for crafting code and monitoring the status of the Main Computer. This lab also handles research into accessing computer equipment from other spacefaring powers, which is done without connections to the Main Computer, to prevent a hostile takeover of the ship's computer systems.</para>
+</section>
+</section>
+<section>
+    <title>Utility Systems</title>
+<section>
+    <title>Cargo Bays</title>
+<para>Manhattan-class vessels have four cargo bays, all located on Decks 9-10. Cargo Bays 1 and 2 are located adjacent to each other on the outer edge of the starboard side of the saucer section, while Cargo Bays 3 and 4 are located adjacent to each other on the outer edge of the port side of the saucer section. Bays 1 and 3 are generally filled with supplies for the ship's general day-to-day operations, while 2 and 4 are left mostly empty to be filled with items collected during the missions, while also storing mission-specific cargo.</para>
+<para>Each cargo bay is equipped with a cargo transporter, as well as a grappling system for crew members to reach cargo stored on the upper levels of the bay. In an emergency, the cargo bays can be converted to triage centers or refugee camps.</para>
+</section>
+<section>
+    <title>Tractor Beam</title>
+<para>The tractor beam is a standard piece of equipment on board the Manhattan, with the paired 16 MW Graviton Polarity Sources producing 32 Megawatts of Gravity Displacing Power, effective up to a range of up to 20,000 kilometers. The tractor beam emitter is located on Deck 17.</para>
+</section>
+<section>
+    <title>Transporter Systems</title>
+<para>The Manhattan-class has three pairs of transporter rooms. Transporter Rooms 1 and 2 are located on Deck 3, with a pattern buffer located directly beneath them on Deck 4. Transporter Rooms 3 and 4 are located on Deck 15, with a pattern buffer located directly beneath them on Deck 16. Transporter Rooms 5 and 6 are located on Deck 22, with a pattern buffer located directly beneath them on Deck 23. These six transporter rooms each have six transporter pads and can complete one transporter cycle every sixty seconds.</para>
+<para>There are an additional two Emergency Transporter rooms to be used for evacuations only. One is located on Deck 11, in the saucer section, with the pattern buffer directly below it on Deck 12, saucer section. The other is located on Deck 21, with a pattern buffer directly below it on Deck 22. These transporter rooms each have twelve transporter pads and can complete one transporter cycle every thirty seconds.</para>
+<para>Transporter Rooms 1-6 have a transporter console that is constantly manned by a transporter operator, while each Emergency Transporter Room has a transporter console that is only staffed after the ship goes to Yellow Alert. Additionally, all of the transporters can be controlled from the Operations console on the Bridge or the Engineering console on the Auxiliary Bridge.</para>
+</section>
+<section>
+    <title>Turbolifts</title>
+<para>A Manhattan-class ship has two main turbolift tubes which run throughout the ship, and two additional turbolift tubes which only serve either the saucer or the stardrive sections. Turbolift cars are deployed out of a repair and staging area on Deck 12, with holding niches located every few decks to allow critical or emergency calls to be routed quickly over standard calls.</para>
+</section>
+</section>
+<section>
+    <title>Crew Support Systems</title>
+<section>
+    <title>Sickbay</title>
+<para>Sickbay is a critical area of the ship, and is divided into several areas, each with a specific purpose. The first area is the General Purpose Ward, where crewmen needing physicals or treatment for abrasions and minor broken bones go. There are two standard biobeds in this Ward.</para>
+<para>The second area is the Surgical Ward, where crewmen with serious injuries that require surgery go. This Ward is equipped with three surgical biobeds.</para>
+<para>The third is the Recovery Ward, where crewmen who survive the Surgical Ward go to recuperate. This Ward has six standard biobeds, each of which can be screened off to provide extra patient privacy upon request.</para>
+<para>The fourth is the Administrative Ward, where the office of the CMO and his subordinate officers are located, and also where people who can't be seen immediately are diverted. The waiting area of this ward has eight uncomfortable chairs, a coffee table, and a potted plant in each corner.</para>
+<para>The fifth is the Morgue, where bodies of deceased crew are stored until autopsies can be performed. Those autopsies are performed in the sixth area, the Medical lab, which is also used for medical research-such as new medicines and cures. The Medlab and the Morgue are located adjacent to each other. Diagnostic medical staff work in the Medlab to run tests that cannot be performed with tricorders or on biobeds. </para>
+<para>Sickbay is located on Deck 3, forward of the Transporter Rooms.</para>
+</section>
+<section>
+    <title>Replicators</title>
+<para>All crew quarters, as well as the ship's lounge, briefing rooms, crew and officer's mess, Captain's Ready Room, and Department Head offices have a replicator. The replicator is capable of producing all manner of items, from foodstuffs to clothing. A Manhattan-class ship is equipped with enough replicator stock for 30 months' standard use.</para>
+</section>
+<section>
+    <title>Crew Quarters</title>
+<para>Crew quarters on the Manhattan are located on Decks 4 through 12, mostly in the saucer section. The Captain and XO have cabins on Deck 2. Quarters on Deck 4 are reserved for Department Heads and VIPs. Quarters on Deck 5-12 are reserved for Junior Officers and Enlisted Crew.</para>
+<para>JO/Enlisted quarters have a reception area, a bedroom, a small head, and a replicator. The reception area consists of a desk with a computer access terminal and two chairs. Senior Officer quarters have a living room, a bedroom, a bathroom, and a replicator. The living room contains a desk with a computer access terminal, and three chairs. Captain, XO, and VIP quarters have a living room, a bedroom, a bathroom, a kitchenette and a replicator. </para>
+<para>VIP quarters can be adjusted to Class-H, -K, or -L atmospheric conditions. Outside of quarters, dignitaries from those atmospheres are required to wear environment suits.</para>
+</section>
+<section>
+    <title>Holographic Recreation</title>
+<para>There are three full-sized holodecks located aboard a Manhattan-class vessel. Holodeck 1 is located on Deck 8, Holodeck 2 is located on Deck 20, and Holodeck 3 is located on Deck 23. There are also two holosuites on the ship, both located on Deck 10, beneath the Crew Mess.</para>
+</section>
+<section>
+    <title>Lounge</title>
+<para>The Ship's Lounge on the Manhattan-class is located forward on Deck 8, in the saucer section. It has seating (at the bar and at tables) for 140 people. The lounge is equipped with both a replicator and a staffed kitchen, as well as a manned bar. There is a stage area which can be used for performances or ceremonies.</para>
+</section>
+<section>
+    <title>Crew Mess</title>
+<para>The Crew Mess is located on Deck 9, in the saucer section. It has seating for 130 people, and is equipped with a replicator. The Crew Mess does not have a staffed kitchen. There are six viewports looking forward from the Crew Mess.</para>
+</section>
+<section>
+    <title>Officer's Mess</title>
+<para>The Officer's Mess is located on Deck 3. It is a small room, with five viewports looking forward and seating for up to 20 people. It has both a replicator and a staffed kitchen. It can be used for every day dining by Department Heads and other senior officers, or for formal dinners when the ship is hosting dignitaries.</para>
+</section>
+<section>
+    <title>Counselor's Office</title>
+<para>The office of the ship's Counselor is located on Deck 8. The office has a desk with a computer access terminal and comfortable chair for the CNS, as well as a standard counseling couch and a regular comfortable chair for crew seeking the CNS' services.</para>
+</section>
+</section>
+<section>
+    <title>Auxiliary Spacecraft Systems</title>
+<para>The Manhattan-class has two shuttlebays, one in each section. Shuttlebay One is located aft on Deck 3, with additional airspace on Deck 2. It holds 2 Armadillo-class shuttlecraft and 1 Liberty-class runabout. There is a Flight Operations Control station in a transparent-aluminum-enclosed room directly adjacent to the Shuttlebay to control the comings and goings of auxiliary craft from the Shuttlebay. Atmosphere is secured by both a set of reinforced-duranium space doors and an atmospheric forcefield.</para>
+<para>Shuttlebay Two is located aft on Deck 20, with additional airspace on Deck 19. It holds either 2 Armadillo-class shuttlecraft or 1 Liberty-class runabout. In addition, all shuttlecraft and runabout repairs and maintenance work are done in this shuttlebay, due to its proximity to Main Engineering. Shuttlebay Two also has a small Flight Operations Control station in a transparent-aluminum-enclosed room directly adjacent to the Shuttlebay to control the comings and goings of auxiliary craft from the Shuttlebay. Atmosphere in Shuttlebay Two is likewise secured by both a set of reinforced-duranium space doors and an atmospheric forcefield.</para>
+<para>Neither Shuttlebay on board the Manhattan-class has facilities for storage, equipment, or maintenance of fightercraft.</para>
+<para>The Manhattan-class does not maintain a Captain's Yacht.</para>
+</section>
+ <section>
+    <title>Technical Specifications</title>
+    <variablelist>
+      <title>Dimensions and Structure</title>    
+      <varlistentry>
+        <term>Length</term>
+        <listitem><para>700 meters</para></listitem>
+      </varlistentry>  
+      <varlistentry>
+        <term>Width</term>
+        <listitem><para>350 meters</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Height</term>
+        <listitem><para>700 meters</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Decks</term>
+        <listitem><para>24</para></listitem>
+      </varlistentry>
+ </variablelist>
+<variablelist>
+      <title>Crew Complement</title>
+      <varlistentry>
+        <term>Officers and Crew (Starfleet)</term>
+        <listitem><para>600</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Visiting Personnel</term>
+        <listitem><para>130</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Maximum Evacuation Limit</term>
+        <listitem><para>12,500</para></listitem>
+      </varlistentry>
+</variablelist>      
+    <variablelist>
+      <title>Computer Systems</title>
+      <varlistentry>
+        <term>Primary Core</term>
+        <listitem><para> Isolinear core x 6</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Secondary Core</term>
+        <listitem><para> Isolinear core x 21</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Operating System</term>
+        <listitem><para> Starfleet Library Computer Access and Retrieval System (LCARS)</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>User Interfaceem</term>
+        <listitem><para> MAJEL</para></listitem>
+      </varlistentry>
+</variablelist>
+ <variablelist>
+      <title>Warp Systems</title>
+      <varlistentry>
+        <term>Power Plant</term>
+        <listitem><para>One 1649+ Cochrane M/ARA core feeding two nacelles</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Cruising Velocity</term>
+        <listitem><para>Warp 6</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Maximum Sustainable Velocity</term>
+        <listitem><para>Warp 9</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Maximum Velocity</term>
+        <listitem><para>Warp 9.2 (12 hours)</para></listitem>
+      </varlistentry>
+	  <varlistentry>
+        <term>Emergency Velocity</term>
+        <listitem><para>Warp 9.5 (1 hour)</para></listitem>
+      </varlistentry>
+    </variablelist>
+<variablelist>
+      <title>Impulse Systems</title>
+      <varlistentry>
+        <term>Full Impulse</term>
+        <listitem><para>0.25c</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Acceleration</term>
+        <listitem><para>40 seconds</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Deceleration</term>
+        <listitem><para>70 seconds</para></listitem>
+      </varlistentry>
+    </variablelist>
+ <variablelist>
+      <title>Defensive Systems</title>
+      <varlistentry>
+        <term>Shield Maximum Graviton Load (Continuous)</term>
+        <listitem><para>1881 MegaWatts</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Shield Maximum Energy Dissipation Rate</term>
+        <listitem><para>6.57 x 10^5 kilowatts</para></listitem>
+      </varlistentry>
+    </variablelist>
+    <variablelist>
+      <title>Offensive Systems</title>
+      <varlistentry>
+        <term>Torpedoes</term>
+        <listitem>
+          <variablelist>
+            <varlistentry>
+              <term>Torpedo Tubes</term>
+              <listitem><para>4x Torpedo Tubes</para></listitem>
+            </varlistentry>
+            <varlistentry>
+              <term>Standard Payload (total)</term>
+              <listitem><para>100x photon torpedoes</para></listitem>
+			  <listitem><para>50x standard probes</para></listitem>
+			  <listitem><para>50x reserve casings</para></listitem>
+            </varlistentry>
+          </variablelist>
+        </listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>Phasers</term>
+        <listitem>
+          <itemizedlist>
+            <listitem><para>8x Type-VI Phaser Strips</para></listitem>
+            <listitem><para>150 x Phaser Emitters / Strip</para></listitem>
+          </itemizedlist>
+        </listitem>
+      </varlistentry>
+   </variablelist>
+  </section>
+<section>
+    <title>Deck Layout</title>
+    <section role="Deck">
+      <title>Deck 1</title>
+      <simplelist>
+		<member>Bridge</member>
+		<member>CO's Ready Room</member>
+		<member>Main Briefing Room</member>
+	  </simplelist>
+    </section>
+    <section>
+	  <title>Deck 2</title>
+      <simplelist>
+		<member>CO's Quarters</member>
+		<member>XO's Quarters</member>
+		<member>Phaser Array 1</member>
+		<member>Phaser Array 2</member>
+		<member>Phaser Array 3</member>
+		<member>Phaser Array 4</member>
+		<member>Sensor Array</member>
+		<member>Shuttlebay One-A</member>
+	  </simplelist>
+    </section>
+    <section>
+	  <title>Deck 3</title>
+      <simplelist>
+<member>Sickbay</member>
+<member>CMO's Office</member>
+<member>Transporter Room 1</member>
+<member>Transporter Room 2</member>
+<member>Officer's Mess</member>
+<member>Shuttlebay One-B</member>
+<member>Shuttlebay One Flight Control</member>
+	  </simplelist>  
+    </section>
+    <section>
+      <title>Deck 4</title>
+      <simplelist>
+<member>Science Labs 1-4</member>
+<member>Modular Botanical Space</member>
+<member>Department Head Quarters</member>
+<member>VIP Quarters</member>
+<member>Impulse Engine Fuel Tanks</member>
+<member>Pattern Buffer</member>
+	  </simplelist>
+    </section>
+    <section>
+	  <title>Deck 5</title>
+      <simplelist>
+<member>Science Labs 5-7</member>
+<member>Modular Animal Space</member>
+<member>Research Animal Holding Areas</member>
+<member>Crew Quarters</member>
+<member>Impulse Engine 1-A</member>
+<member>Impulse Engine 2-A</member>
+	  </simplelist>
+    </section>
+    <section>
+	  <title>Deck 6</title>
+      <simplelist>
+<member>Science Labs 8-12</member>
+<member>CSO's Office</member>
+<member>Crew Quarters</member>
+<member>Impulse Engine 1-B</member>
+<member>Impulse Engine 2-B</member>
+	  </simplelist>
+    </section>
+    <section>
+	  <title>Deck 7</title>
+      <simplelist>
+<member>Sciences Labs 13-15</member>
+<member>Stellar Cartography</member>
+<member>Crew Quarters</member>
+<member>Auxiliary Bridge</member>
+<member>Auxiliary Briefing Room</member>
+<member>Phaser Array 5</member>
+<member>Saucer Separation Equipment</member>
+	  </simplelist>
+    </section>
+    <section>
+	  <title>Deck 8</title>
+      <simplelist>
+<member>Science Labs 16-18</member>
+<member>Crew Quarters</member>
+<member>Ship's Lounge</member>
+<member>Holodeck 1</member>
+<member>Counselor's Office</member>
+<member>Saucer Separation Equipment</member>
+	  </simplelist>
+    </section>
+    <section>
+	  <title>Deck 9</title>
+      <simplelist>
+<member>Crew Quarters</member>
+<member>Crew Mess</member>
+<member>Cargo Bay 1-A</member>
+<member>Cargo Bay 2-A</member>
+<member>Cargo Bay 3-A</member>
+<member>Cargo Bay 4-A</member>
+<member>Saucer Separation Equipment</member>
+	  </simplelist>
+    </section>
+    <section>
+	  <title>Deck 10</title>
+      <simplelist>
+<member>Crew Quarters</member>
+<member>Holosuite 1</member>
+<member>Holosuite 2</member>
+<member>Cargo Bay 1-B</member>
+<member>Cargo Bay 2-B</member>
+<member>Cargo Bay 3-B</member>
+<member>Cargo Bay 4-B</member>
+<member>Saucer Separation Equipment</member>
+	  </simplelist>
+    </section>
+    <section>
+	  <title>Deck 11</title>
+      <simplelist>
+<member>Phaser Array 6</member>
+<member>Torpedo Bay 1</member>
+<member>Emergency Transporter Room 1</member>
+<member>Crew Quarters</member>
+<member>Saucer Separation Equipment</member>
+	  </simplelist>
+    </section>
+    <section>
+	  <title>Deck 12</title>
+      <simplelist>
+<member>Torpedo Tube 1</member>
+<member>Pattern Buffer</member>
+<member>Turbolift Car Repair/Storage Area</member>
+<member>Crew Quarters</member>
+<member>Saucer Separation Equipment</member>
+  </simplelist>
+    </section>
+    <section>
+	  <title>Deck 13</title>
+      <simplelist>
+<member>Main Computer Core 1-A</member>
+<member>Main Computer Core 2-A</member>
+<member>Main Computer Core 3-A</member>
+<member>Main Computer Core 4-A</member>
+<member>Main Computer Core 5-A</member>
+<member>Main Computer Core 6-A</member>
+<member>Computer Science Laboratories 1-2</member>
+<member>Impulse Engine 3-A</member>
+	  </simplelist>
+    </section>
+    <section>
+	  <title>Deck 14</title>
+      <simplelist>
+<member>Warp Nacelles</member>
+<member>Main Computer Core 1-B</member>
+<member>Main Computer Core 2-B</member>
+<member>Main Computer Core 3-B</member>
+<member>Main Computer Core 4-B</member>
+<member>Main Computer Core 5-B</member>
+<member>Main Computer Core 6-B</member>
+<member>Impulse Engine 3-B</member>
+	  </simplelist>
+    </section>
+    <section>
+	  <title>Deck 15</title>
+      <simplelist>
+<member>Transporter Room 3</member>
+<member>Transporter Room 4</member>
+<member>Main Computer Core 1-C</member>
+<member>Main Computer Core 2-C</member>
+<member>Main Computer Core 3-C</member>
+<member>Main Computer Core 4-C</member>
+<member>Main Computer Core 5-C</member>
+<member>Main Computer Core 6-C</member>
+<member>Impulse Engine 3-C</member>
+<member>Deuterium Fuel Storage</member>
+<member>Warp Core Ejection Piston</member>
+	  </simplelist>
+    </section>
+    <section>
+	  <title>Deck 16</title>
+      <simplelist>
+<member>Main Engineering</member>
+<member>Warp Core-A</member>
+<member>Spare Parts Storage</member>
+<member>Pattern Buffer</member>
+	  </simplelist>
+    </section>
+    <section>
+	  <title>Deck 17</title>
+      <simplelist>
+<member>Main Engineering</member>
+<member>Warp Core-B</member>
+<member>Jefferies' Tube Access</member>
+<member>Tractor Beam</member>
+<member>Science Labs 19-21</member>
+	  </simplelist>
+    </section>
+    <section>
+	  <title>Deck 18</title>
+      <simplelist>
+<member>Main Engineering</member>
+<member>Warp Core-C</member>
+<member>CE's Office</member>
+<member>Master Systems Display</member>
+<member>Torpedo Bay 2</member>
+<member>Torpedo Tube 2</member>
+<member>Nacelle Pylons</member>
+<member>Secondary Sensor Array</member>
+	  </simplelist>
+    </section>
+    <section>
+	  <title>Deck 19</title>
+      <simplelist>
+<member>Main Engineering</member>
+<member>Warp Core-D</member>
+<member>Jefferies' Tube Access</member>
+<member>Phaser Array 7</member>
+<member>Torpedo Tube 3</member>
+<member>Torpedo Tube 4</member>
+<member>Shuttlebay Two-A</member>
+	  </simplelist>
+    </section>
+    <section>
+	  <title>Deck 20</title>
+      <simplelist>
+<member>Main Engineering</member>
+<member>Warp Core-E</member>
+<member>Spare Parts Storage</member>
+<member>Holodeck 2</member>
+<member>Shuttlebay Two-B</member>
+<member>Shuttlebay Two Flight Control</member>
+<member>Shuttlecraft Repair/Maintenance Area</member>
+	  </simplelist>
+    </section>
+    <section>
+	  <title>Deck 21</title>
+      <simplelist>
+<member>Anti-Deuterium Storage Tanks</member>
+<member>Warp Core Ejection Tube-A</member>
+<member>Emergency Transporter Room 2</member>
+<member>Main Deflector-A</member>
+	  </simplelist>
+</section>
+    <section>
+	  <title>Deck 22</title>
+      <simplelist>
+<member>Warp Core Ejection Tube-B</member>
+<member>Transporter Room 5</member>
+<member>Transporter Room 6</member>
+<member>Pattern Buffer</member>
+<member>Main Deflector-B</member>
+	  </simplelist>
+</section>
+    <section>
+	  <title>Deck 23</title>
+      <simplelist>
+<member>Warp Core Ejection Tube-C</member>
+<member>Pattern Buffer</member>
+<member>Main Deflector-C</member>
+<member>Holodeck 3</member>
+	  </simplelist>
+</section>
+    <section>
+	  <title>Deck 24</title>
+      <simplelist>
+<member>Warp Core Ejection Tube-D</member>
+<member>Warp Core Ejection Hatch</member>
+<member>Main Deflector-D</member>
+<member>Phaser Array 8</member>
+	  </simplelist>
+</section>
+    </section>
+<section>
+    <title>Ships of the Class</title>
+	<para>Manhattan-class ships are named for persons and places involved with the 20th Century Manhattan Project, which developed the concept of splitting the atom, and began humanity's Nuclear Age. The Project created advancements in weapons and power generation, and spurred new developments in physics that led to the creation of Warp Drive a century later and continues to this day.</para>
+    <simplelist role="ShipList">
+      <member role="PC">
+        <productname>Manhattan</productname>
+        <productnumber>88000</productnumber>
+      </member>
+      <member role="PC">
+        <productname>Oak Ridge</productname>
+        <productnumber>88001</productnumber>
+      </member>
+      <member role="PC">
+        <productname>Los Alamos</productname>
+        <productnumber>88002</productnumber>
+      </member>
+      <member role="PC">
+        <productname>Fermi</productname>
+        <productnumber>88003</productnumber>
+      </member>
+      <member role="PC">
+        <productname>Bohr</productname>
+        <productnumber>88004</productnumber>
+      </member>
+      <member role="PC">
+        <productname>Hanford</productname>
+        <productnumber>88005</productnumber>
+      </member>
+      <member role="PC">
+        <productname>Spedding</productname>
+        <productnumber>88006</productnumber>
+      </member>
+      <member role="PC">
+        <productname>Chalk River</productname>
+        <productnumber>88007</productnumber>
+      </member>
+        <member role="PC">
+        <productname>Teller</productname>
+        <productnumber>88008</productnumber>
+      </member>
+      <member role="PC">
+        <productname>Oppenheimer</productname>
+        <productnumber>88009</productnumber>
+      </member>
+</simplelist>
+  </section>
+ <section>
+    <title>Conclusion</title>
+	<para>AST Shipyards expects the Manhattan-class to continuously expand the boundaries of the Federation's knowledge of the galaxy for decades to come. Well-equipped and perfectly capable of defending itself, these large starships should be able to handle any exploration mission thrown their way.</para>
+</section>
+</article>
