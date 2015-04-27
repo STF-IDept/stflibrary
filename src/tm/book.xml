@@ -60,6 +60,7 @@
   </part>
   <part id="tech">
     <title>Ship-Based Technologies</title>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="tech/amos.xml"/>
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="tech/bigrig.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="tech/ets.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="tech/machineshop.xml" />
