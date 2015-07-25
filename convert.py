@@ -8,6 +8,7 @@ for root, dirs, files in os.walk('src'):
     for file in files:
         if file.endswith(".xml"):
            mdfile = file.replace(".xml", ".md")
-           call(["pandoc", "-s", "-f", "docbook", "-t", "markdown", "-o",
-           os.path.join(root, mdfile), os.path.join(root, file)])
+           call(["pandoc", "-s", "-f", "docbook", "-t", "markdown", 
+           "--template=stflibrary", "-o", os.path.join(root, mdfile), 
+           os.path.join(root, file)])
 
