@@ -107,25 +107,26 @@
     <variablelist>
       <varlistentry>
         <term>Light</term>
-        <listitem><para>Containing less armaments, defensive and offensive, than benchmark.</para></listitem>
+        <listitem><para>Containing a lower end mixture of systems or equipment for fulfilling a class's primary mission profile.</para></listitem>
       </varlistentry>
       <varlistentry>
         <term>Medium</term>
-        <listitem><para>Default benchmark for a given Category.</para></listitem>
+        <listitem><para>Containing a balanced mixture of systems or equipment for fulfilling a class's primary mission profile.</para></listitem>
       </varlistentry>
       <varlistentry>
         <term>Heavy</term>
-        <listitem><para>Containing more armaments, defensive and offensive, than benchmark.</para></listitem>
+        <listitem><para>Containing a higher end mixture of systems or equipment for fulfilling a class's primary mission profile.</para></listitem>
       </varlistentry>
       <varlistentry>
         <term>Tactical</term>
-        <listitem><para>Designed for stronger strategic and military operations than benchmark.</para></listitem>
+        <listitem><para>Containing a higher end mixture of combat and defensive systems or equipment for fulfilling combat oriented mission profiles.</para></listitem>
       </varlistentry>
       <varlistentry>
         <term>Medical</term>
-        <listitem><para>Designed with Extended and enhanced facilities for medical, medicinal, and treatment purposes.</para></listitem>
+        <listitem><para>Containing highly specialized systems or equipment for the sole purpose of more medical oriented mission profiles.</para></listitem>
       </varlistentry>
     </variablelist>
+    <para>This variant list is not exhaustive. Additional, customized variants may be created with the approval of the Engineering Director, their Assistant, or designated subordinate when reviewing a submitted ship specification.</para>
   </section>
   <section>
     <title>Support Vessels</title>
