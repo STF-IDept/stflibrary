@@ -12,6 +12,13 @@
     </authorgroup>
     <revhistory>
       <revision>
+        <revnumber>5</revnumber>
+        <date>12 July 2015</date>
+        <revdescription>
+            <para>Exam revisions by Lindsay Bayes</para>
+        </revdescription>
+      </revision>
+      <revision>
         <revnumber>4</revnumber>
         <date>5 May 2012</date>
         <revdescription>
@@ -187,54 +194,50 @@
       <listitem><para><emphasis>Be sure to include your full name at the top of the e-mail!</emphasis></para></listitem>
       <listitem><para>Send the original question followed by your answers.</para></listitem>
       <listitem><para>Do <emphasis>not</emphasis> send your answers as an attachment.</para></listitem>
-      <listitem><para>Do <emphasis>not</emphasis> use "HTML-enriched" e-mail.  It makes it harder to grade.</para></listitem>
       <listitem><para>All answers must be original.  Do not simply copy and paste from the lessons.</para></listitem>
     </orderedlist>
     <section>
-      <title>Multiple Choice Questions</title>
-      <para>1.  Whose responsibility is it to find things for your department to do?</para>
-      <orderedlist numeration="upperalpha">
-        <listitem><para>The GMs</para></listitem>
-        <listitem><para>The COs</para></listitem>
-        <listitem><para>The JOs</para></listitem>
-        <listitem><para>The DHs</para></listitem>
-      </orderedlist>
-      <para>2.  What should you do for a newbie junior officer?</para>
-      <orderedlist numeration="upperalpha">
-        <listitem><para>report them to the CO</para></listitem>
-        <listitem><para>set an in character and out of character example</para></listitem>
-        <listitem><para>leave them alone, they will just have to cope.</para></listitem>
-        <listitem><para>Set them a task on their own.</para></listitem>
-      </orderedlist>
-      <para>3.  Which of the following is classed as a swing position?</para>
-      <orderedlist numeration="upperalpha">
-        <listitem><para>Chief Science Officer</para></listitem>
-        <listitem><para>Counselor</para></listitem>
-        <listitem><para>Chief Tactical Officer</para></listitem>
-        <listitem><para>Chief Medical Officer</para></listitem>
-      </orderedlist>
-      <para>4.  Which of the following should you NOT do?</para>
-      <orderedlist numeration="upperalpha">
-        <listitem><para>Take control of another department's junior officers without permission</para></listitem>
-        <listitem><para>Ask to talk to the Captain in private</para></listitem>
-        <listitem><para>Put one of your junior officers in charge of the department while you are on an Away team.</para></listitem>
-        <listitem><para>Run a department drill.</para></listitem>
-      </orderedlist>
+      <title>Section 1:</title>
+      <para>Write an example of a welcoming email to a new arrival in your department. (5 points)</para>
     </section>
     <section>
-      <title>Essay Questions</title>
-      <para>1.  Write an example of a welcoming email to a new arrival in your department.</para>
-      <para>2.  Imagine you are a department head. Choose your own department from the main four, Science, Security, Engineering and Medical.</para>
-      <para>You have three Junior officers under you. Ensign Alpha is a very experienced role-player who was on the ship before you took over. Ensign Bravo is a role-player with excellent writing ability but little experience. Ensign Charlie is a new arrival with no experience at all and is struggling to fit in.</para>
-      <para>Your Captain has given the following briefing at meeting of all the department heads.</para>
-      <para>"There is a prison break on the penal colony we are in orbit around. The inmates have fought the guards and there have been reported casualties. Reports are sketchy, the comms system has been disrupted. The Prison has a shield around it to prevent beam outs. It can only be taken down from the Prison control room, but we can't make contact.</para>
-      <para>Engineering, I need you to work with the transporters. I need a way past the shield to beam people down to help. Bring that shield down. I also need comms back. </para>
-      <para>Medical. As I said we have reports of casualties. Early reports suggested at least three guards had been hurt seriously and we have had reports of a fire before the comms failed. I need you prepared to deal with the emergencies, in case the prison sickbay can't cope. </para>
-      <para>Security. Get your men together equip them for emergency rescue. I want teams ready for rapid deployment, but I also need you to work out an action plan for the rescue. I don't want more casualties, so all weapons are to be set to stun.</para>
-      <para>Science. I need the layouts of the prison. You'll have to dig the files out. Additionally, we have no sensor readings at all. We have to know where the inmates are and the trouble spots to deploy security correctly.</para>
-      <para>That's all, everyone dismissed and get your people working on it."</para>
-      <para>With that briefing in mind, pick a department and write an In Character post as DH to your team of three ensigns explaining the situation and assigning the tasks to them. </para>
-      <para>At the end of your post, please provide an explanation as to why you selected what person for what task and, if you assigned anyone to work together, why you did so.</para>
+        <title>Section 2:</title>
+        <para>Select TWO questions to answer. If the exam is not passed the first time, the other three may be used as a re-write. Questions should be in full sentences and paragraphs as needed, with proper spelling and grammar.</para>
+        <section>
+            <title>Scenario 1</title>
+            <para>The crew is sitting in a department head briefing with the CO and XO about the upcoming mission. Everyone is given clear tasks. After the meeting, people go about their duties and in the course of yours you find out one of the other DHs is giving JOs from your department orders without consulting you first.</para>
+            <orderedlist>
+                <listitem><para>How would you deal with this? Should you say something OOC? Are there scenarios that are better to deal with IC only? (2 points)</para></listitem>
+                <listitem><para>Write an IC post (dialogue, actions etc) about your character discussing the matter with the other DH. Then tell me OOC why you chose to handle it that way. (3 points)</para></listitem>
+            </orderedlist>
+        </section>
+        <section>
+            <title>Scenario 2</title>
+            <para>You have a JO who is pretty experienced and knows how to get involved but they don't really seem to be participating much. They are still posting as required but there doesn't seem to be much engagement with their shipmates.</para>
+        </section>
+        <section>
+            <title>Scenario 3</title>
+            <para>You have a JO who is newer to the club and shows great potential to be a DH. What are three things you could do to help them develop their leadership skills? Who else should be involved in this process and why? (5 points)</para>
+        </section>
+        <section>
+            <title>Scenario 4</title>
+            <para>Things are going a bit slow on your ship, and posting has dropped. Assuming you have junior officers on the roster, what can you do to keep your team posting? (pick a department and give specific examples) (2 points)</para>
+            <para>Explain how the Command team, department heads and GM should work together to keep the crew as a whole busy. (3 points)</para>
+        </section>
+        <section>
+            <title>Scenario 5</title>
+            <para>Imagine you are a department head. Choose your own department from the main four, Science, Security, Engineering and Medical.</para>
+            <para>You have three Junior officers under you. Ensign Alpha is a very experienced role-player who was on the ship before you took over. Ensign Bravo is a role-player with excellent writing ability but little experience. Ensign Charlie is a new arrival with no experience at all and is struggling to fit in.</para>
+            <para>Your Captain has given the following briefing at meeting of all the department heads.</para>
+            <para>"There is a prison break on the penal colony we are in orbit around. The inmates have fought the guards and there have been reported casualties. Reports are sketchy, the comms system has been disrupted. The Prison has a shield around it to prevent beam outs. It can only be taken down from the Prison control room, but we can't make contact.</para>
+            <para>Engineering, I need you to work with the transporters. I need a way past the shield to beam people down to help. Bring that shield down. I also need comms back. </para>
+            <para>Medical. As I said we have reports of casualties. Early reports suggested at least three guards had been hurt seriously and we have had reports of a fire before the comms failed. I need you prepared to deal with the emergencies, in case the prison sickbay can't cope. </para>
+            <para>Security. Get your men together equip them for emergency rescue. I want teams ready for rapid deployment, but I also need you to work out an action plan for the rescue. I don't want more casualties, so all weapons are to be set to stun.</para>
+            <para>Science. I need the layouts of the prison. You'll have to dig the files out. Additionally, we have no sensor readings at all. We have to know where the inmates are and the trouble spots to deploy security correctly.</para>
+            <para>That's all, everyone dismissed and get your people working on it."</para>
+            <para>With that briefing in mind, pick a department and write an In Character post as DH to your team of three ensigns explaining the situation and assigning the tasks to them. (2 points)</para>
+            <para>At the end of your post, please provide an explanation as to why you selected what person for what task and, if you assigned anyone to work together, why you did so. (3 points)</para>
+        </section>
     </section>
   </section>
 </article>
