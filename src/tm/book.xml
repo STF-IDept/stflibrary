@@ -56,7 +56,6 @@
   <part id="bases">
     <title>Starbases and Installations</title>
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="outpost45.xml" />
-    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="starbase202.xml" />
   </part>
   <part id="tech">
     <title>Ship-Based Technologies</title>
