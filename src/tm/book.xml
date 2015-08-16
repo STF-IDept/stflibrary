@@ -25,7 +25,6 @@
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="mythology.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="olinski.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="pendragon.xml" />
-    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="trafalgar.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="victoria.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="viking.xml" />
   </part>
@@ -57,7 +56,6 @@
   <part id="bases">
     <title>Starbases and Installations</title>
     <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="outpost45.xml" />
-    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="starbase202.xml" />
   </part>
   <part id="tech">
     <title>Ship-Based Technologies</title>

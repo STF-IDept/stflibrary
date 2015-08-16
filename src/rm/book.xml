@@ -28,6 +28,7 @@
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/etopian.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/ferengi.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/flarn.xml" />
+    <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/fleatan.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/komunicaton.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/o.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="species/pakled.xml" />
@@ -63,6 +64,7 @@
     </partinfo>
     <title>Powers</title>
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="power/flarn.xml" />
+    <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="power/fleatan.xml" />
     <xi:include xmlns:xi="http://www.w3.org/2003/XInclude" href="power/kton.xml" />
   </part>
   <part id="misc">
