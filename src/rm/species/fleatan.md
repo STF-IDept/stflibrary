@@ -1,0 +1,247 @@
+---
+author:
+- Robert Archer
+date: 04 July 2015
+...
+
+Flea'Ant Erectus
+Abstract
+========
+
+Homeworld
+:   Flea'tara
+
+Height (Average)
+:   5'4 - 6'0
+
+Weight (Average)
+:   140 - 180 lbs
+
+Lifespan
+:   170 years
+
+Entry Type
+:   Custom
+
+Found in Starfleet
+:   Exchange Officers Only
+
+Overview
+========
+
+The Flea'tan species is a genetically modified mix of three species from
+their home world of Flea'tara. In this case, an insect like a Terran
+flea, grasshopper, and spider. They stand between 5'4-6'0 in height.
+Generally females are the larger of the two though in rare cases males
+can grow to equal heights.
+
+Cultural Standing
+-----------------
+
+In Flea'tan culture males are looked down upon as the lesser sex. Though
+in recent years they are held in more or less equal standing in their
+culture they are not allowed to hold positions in their government as
+leaders. Otherwise they pursue the same fields of work as their female
+counterparts.
+
+Cultural Religion
+-----------------
+
+There is a single dying religion still used in the more distant city
+regions of Fleatara and the Flea'tan colonies. Simply known as 'The
+Elder' faith, these faithful wait for the day that their god, cast out
+eons before, returns 'in a sky washed in a sea of flame'. To reclaim his
+throne that was stolen from him by the heritage line of the twelve
+Flea'tan royal families. The faith demands of its followers to operate
+in secret and find ways to undermine, in small ways, the reliability of
+the general Flea'tan society and government. Furthermore, the faith
+demands that once every year the youngest child from the oldest family
+of the faith is sacrificed in a ritual to appease The Elder's wrath, so
+that when he returns they secure their safety in his sky fires.
+
+Truth of the Elder and the Faith
+--------------------------------
+
+The truth behind the Elder and his faith was that early in Flea'tan
+development the three developing species, still in the cave dwelling
+stages, were molded over several years by the Elder and his followers.
+These people were outcasts from the Andromeda galaxy fleeing the
+destruction of their homeworlds by another race known as the Ancients.
+None of this is known by the common people, and indeed only the royal
+Queens hold the bits and tattered pieces of the truth handed down from
+the ages when they still were in their earliest medieval stages.
+
+The truth of the faith is that the old ways have been lost and hold no
+real meaning in the present modern day, other than to instill fear in
+young children.
+
+Current Relations with the Federation
+-------------------------------------
+
+The Flea'tan Alliance is currently on friendly terms with the
+Federation. They are presently involved in diplomatic, technological,
+and limited personnel exchange programs. These programs are benefiting
+both cultures, as it allows the Federation access to newer sensor
+technology and the Flea'tans access to more modern weapons, shields, and
+conventional warp engine travel.
+
+Due to the efforts of the USS Crusader and USS Europa, both crews are
+held in high regard in the Flea'tan Alliance. Both crews have been
+knighted by the Flea'tan Queen herself. The added bonus to this is that
+any time either of these crews visit Flea'tan R and R facilities and
+vacation spots their stay is taken care of at the cost of the Queen
+herself.
+
+Naming Structure
+----------------
+
+The truth behind the Elder and his faith was that early in Flea'tan
+development the three developing species, still in the cave dwelling
+stages, were molded over several years by the Elder and his followers.
+These people were outcasts from the Andromeda galaxy fleeing the
+destruction of their homeworlds by another race known as the Ancients.
+None of this is known by the common people, and indeed only the royal
+Queens hold the bits and tattered pieces of the truth handed down from
+the ages when they still were in their earliest medieval stages.
+
+Flea'tan names are made by the following, the first three or four
+letters designate their family line followed by a ' with the following
+three or four letters designating their place of birth. The last names
+follow a similar pattern with the first three or four letters
+designating status followed again by a ' with the last three or four
+letters designating talents of their culture in relation to their
+language.
+
+An example as follows then would be: Sal'lesh Kost'dora. In this case
+Sal designates the family line; Lesh shows the planet or city of birth,
+Kost shows the standing of the person or family in Flea'tan culture and
+Dora shows the person's talent. Usually a royal cousin, sister, etc or
+someone of higher standing have more four letter names than those who do
+not.
+
+Caste Structure, Responsibilities and Advancement
+-------------------------------------------------
+
+There are three major castes in the Flea'tan culture.
+
+Castes in Flea'tan Culture:
+---------------------------
+
+### Nobility and Government:
+
+The Nobility / Government caste of Flea'tan culture is made up of 12
+different families each ranging in size of around 50-200 family members
+each. To keep DNA and breeding fresh and strong every two generations
+two families from the Naval caste who have shown distinct service are
+'adopted' and merged into the 12 different Noble families.
+
+The Nobility caste is primarily responsible for the breeding and
+training of three Flea'tan females within the Nobility families for
+which one will be selected, by ritual testing, to be the next Flea'tan
+Queen at the age of maturity at 25 years. This occurs every 140 standard
+Flea'tara years. Allowing a five year overlap in shared service with the
+aged Flea'tan Queen and the incoming would be Queen.
+
+The remaining two Flea'tan females who are not selected for the status
+of Queen then gain rulership of a Flea'tan colony, ship squadron or
+similar duty in service to the selected Queen. If the selected Queen
+were to perish earlier then expected then a vote among the Nobility
+caste would select the female from these two to replace the fallen
+Queen.
+
+### Alliance Navy:
+
+Besides the Nobility the next greatest honor any Flea'tan can strive
+towards is service in the Flea'tan Alliance Navy. Comprised of over 250
+ships at present, as well as the distinct service 'Ahead Department 7',
+the Flea'tan Alliance Navy brings the best that their society has to
+offer among the stars and colonies of Flea'tan space. In general over
+200 influential families with 100 some members each govern over the
+Alliance Navy caste.
+
+This caste's primary responsibility is the expansion, exploration, and
+development of the Flea'tan Alliance in all forms, ranging from military
+expansion, exploration, resource gathering and new technology
+development.
+
+A subsection in this caste is 'Ahead Department 7' also known as A-D-7.
+This special division of the Flea'tan Alliance tests, finds, and
+researches new technology development, as well as containing the highest
+cream of the crop scientists, soldiers, and engineers in Flea'tan
+society.
+
+### Servants:
+
+The Servants caste is the lowest ranked of Flea'tan society and also the
+largest; with numbers ranging in the tens of thousands if not more, it
+is also the poorest and least talented. Often other castes will avoid
+dealing with the Servant caste unless they are in need of cheap easy to
+replace labor for some job. It is also the hardest caste to rise out of
+in comparison to the others.
+
+This caste has no real responsibilities compared to the others. In most
+cases Servant caste members are colonists with only the most basic of
+skills and education compared to others. Their hope is to stake claims
+to new colony worlds that they set up first in an effort to gain
+influence over their other Servant caste members of that colony.
+
+Furthermore, Servant caste members are the poorest of Flea'tan society,
+struggling for every inch of profit, influence, education and skills
+they can muster in their lives.
+
+### Advancement:
+
+Advancing from one caste to another is a difficult proposition in
+Flea'tan society. One must show great skill, influence and worth to move
+from one to another. On average most Flea'tans do not have this resolve,
+especially in the Servant caste, there are however, exceptions.
+
+Romance / Mating Rituals / Birth Rates
+--------------------------------------
+
+Romance among Flea'tan society is quite different from more common
+practices. Being an insectoid race mixed together from three others.
+Such involvements often could be seen as quite alien to Federation
+members.
+
+When a Flea'tan female begins to look for a potential mate among the
+male populace they will often hold challenges or similar events for the
+right to earn her hand in a marriage ritual. These events are often made
+to show interested male's skills, strengths and their prowess in
+providing for a potential family.
+
+Once a winner is chosen from these events the female and male's families
+will often discuss living arrangements and family duties while the pair
+court and learn more deeply of each other. In the case of those
+Flea'tans of high skill or standing in society the Flea'tan Queen or
+other royal representative may impart a gift or boon upon the courting
+couple.
+
+Upon the sealing of their marriage and family vows there follows a month
+long cycle of mating and further relationship growth between the
+newlywed pair, in some rare cases females once they have ensured they
+are pregnant will in a fit of primitive lusts eat their male mate.
+Thankfully this practice is rare due to recent advances in Flea'tan
+medical studies, but it still does occur in less privileged families, or
+those cut off for some reason of that medical care.
+
+The average size family born to a Flea'tan couple ranges from 2-4 in
+total. While this number was once far larger DNA manipulations by the
+Elder in their earliest points of history prevented the overpopulation
+of their planet till the most recent years. Fortunately by that point
+Flea'tan society had developed space flight and begun to found colonies
+elsewhere for expansion and development through the use of the backwards
+engineered Elder jump gateways.
+
+History
+=======
+
+Due to how the Flea'tan culture is structured only the Queen's royal
+family knows their full history. As such most Flea'tans are simply
+concerned with the day to day affairs of life and current events over
+the past few months at best.
+
+Player Note: What this means is that any player characters of the
+Flea'tans can not be from the royal families due to them never leaving
+their cultural responsibilities. As such players would come from the
+lower caste ranks.

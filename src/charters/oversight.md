@@ -1,0 +1,334 @@
+---
+author:
+- President Andrew Robinson
+date: 13 October 2009
+...
+
+"EEEGO"
+Establishment of Executive Government Oversight
+===============================================
+
+A body is hereby established, known as Executive Government Oversight
+(EGO)
+
+This body exists for the purpose of retaining a sense of institutional
+memory and ensuring the political stability of STF. EGO is tasked with
+overseeing the actions of the President pursuant to the conditions and
+procedures laid out in this edict.
+
+Composition
+===========
+
+EGO is comprised of three members (Egotists) holding at least the rank
+of Fleet Captain. These members shall serve a term of two years (24
+months). These two year terms shall be staggered so that one new member
+is elected every eight months, rotating through each of the three
+Egotists as their two year term expires. The Chief Egotist, who is
+responsible for issuing all public EGO statements, shall be the Egotist
+with the shortest remaining time in office. Once the Chief Egotist has
+rotated out, the next shortest term Egotist assumes the title.
+
+Term Limits
+:   Egotists may not stand for incumbent reelection. In this manner, at
+    least eight months must pass between an Egotist leaving office and
+    standing for election again.
+
+Selection
+=========
+
+Election Rules
+--------------
+
+EGO elections shall be held at the expiration of an Egotists term or
+upon their resignation or impeachment from office and shall last a
+period of fourteen days. No campaigning is permitted before or during
+this time. No discussions may be held concerning EGO elections in public
+STF areas (including any area of the star-fleet.com website or
+officially controlled resources such as the \#star-fleet IRC channel)
+which may imply support for or voice opinions against any candidate
+standing for selection. Neutral announcements concerning the election
+may be made. No support messages in IRC quit messages are permitted.
+
+In order to be eligible, candidates must:
+
+1\. Hold a minimum member rank of Fleet Captain
+
+2\. Been an active member for at least eight continuous months prior to
+the election being held (excluding routine Leaves of Absence).
+
+Voting members must:
+
+1\. Hold a minimum member rank of Fleet Captain
+
+2\. Currently be an active member as defined by MOO.
+
+Should the vacancy in EGO occur through resignation or impeachment, the
+most senior Cabinet member not currently serving in EGO shall assume
+temporary office for the duration of the election to deal with all
+official matters in which EGO is required to function during this time.
+
+Should the EGO elections occur concurrently with the Presidential
+elections, no EGO candidate may stand as a Presidential candidate and no
+Presidential candidate may stand as an EGO candidate.
+
+Should the situation arise that only a single viable candidate from the
+eligible pool seeks selection, the Election Coordinator is granted the
+discretion to expand the eligible pool to the next lowest rank. In the
+case of the standard Fleet Captain and above pool, this would open
+selection to Captains and above. This procedure may be repeated as often
+as necessary to ensure that at least two candidates are available in any
+EGO election.
+
+Election Procedure
+------------------
+
+The sitting Egotists, one month prior to the expiration of a members
+term or immediately upon the resignation or impeachment of one of their
+number, shall call for an Election. The Election Coordinator who
+presided over the most recently held Presidential Election shall be
+appointed to serve in that capacity in the EGO Election. Should the
+Election Coordinator wish to be placed on the ballot or should they be
+unavailable (through real life commitments, LOA or resignation), they
+must contact both EGO and the President, making this wish known. In this
+instance, the Assistant Election Coordinator shall take their place.
+Should the Assistant Election Coordinator wish to be placed on the
+ballot or should they be unavailable (through real life commitments, LOA
+or resignation), they must contact both EGO and the President, making
+this wish known. In this instance, the President must then select a
+replacement.
+
+Once an Election Coordinator has been named, the Election shall begin.
+Any eligible member wishing to stand for election must submit their name
+to the Election Coordinator within seven days of the Election being
+called. At the end of that seven day period, voting shall begin. Voting
+is by secret ballot, utilizing a method decided upon by the Election
+Coordinator that allows for votes to be "locked" and has appropriate
+security. The voting booth shall remain open for a period of seven days.
+Every eligible Member may vote once, with the exception of the Election
+Coordinator, who does not vote unless needed as a method of
+tie-breaking. Should the Election Coordinator hold a rank below that of
+Fleet Captain, they shall be permitted a vote for the purposes of tie
+breaking. During the voting period, the Election Coordinator shall post
+a message on the main club announcement area that voting has started and
+that eligible members should have voting access. The winning candidate
+is the one with the highest number of votes.
+
+If there are more than two candidates standing in the election, the
+Instant-Runoff Voting system is to be used.
+
+Results
+-------
+
+The Election Coordinator is responsible for tallying all votes cast and
+announcing the results publicly on the Command Ship. The announced
+results shall include the number of votes cast for each candidate. The
+winner shall take their seat at the formal expiration of the outgoing
+Egotists term. Should the election in question have been to replace a
+resigning Egotist, the winner shall take their seat immediately upon
+announcement of their win and shall serve only the remainder of that
+Egotists term.
+
+Irregularities
+--------------
+
+In the event that the procedure outlined in this Edict is not properly
+followed, the Election Coordinator may note an irregularity.
+
+If in the judgment of the Election Coordinator the irregularity does not
+violate the integrity of the election process then he must state so
+publicly and provide reasoning.
+
+If in the judgment of the Election Coordinator the procedure outlined in
+this Edict may be adjusted to account for the irregularity without
+violating the integrity of the election process, he must state so
+publicly and explain what temporary adjustments will be made and why.
+
+If in the judgment of the Election Coordinator the irregularity does
+violate the integrity of the election process or render a fair and
+honest result impossible to determine, the Election Coordinator may
+declare a Irregular Election. A Irregular Election may only be declared
+in extreme circumstances, upon the advise and consent of the sitting
+President or senior-most member who is not a candidate in the election,
+and must include a detailed explanation of why it is impossible to
+recover from the irregularity.
+
+If an Irregular Election is declared, the election is considered void.
+The Election Coordinator must immediately restart the election process
+with fresh nominations. The new election process will follow the same
+procedure as a normal election unless explicitly stated otherwise by the
+Election Coordinator. Should the new election process extend into what
+would be the new Presidential term, the sitting president will remain in
+office for the duration of the new election process until a new
+President is installed, and the new President's term will be shortened
+by the amount of overlap.
+
+Restrictions
+------------
+
+This bylaw may not be amended during an election season, except with the
+posted consent of the President, Election Coordinator and sitting
+Egotists. No sitting President or Vice President may serve on EGO. Any
+Egotist wishing to run in a Presidential election must surrender their
+seat, providing enough notice to ensure that they can be replaced prior
+to the start of a Presidential Election Season.
+
+Powers
+======
+
+In order to assist EGO in performing its duties, a number of tools are
+at their disposal. All votes conducted relating to EGO shall be overseen
+by the Election Coordinator using those rules outlined in this document.
+
+Veto
+:   Up to ten (10) days after the posting of a Bill by the sitting
+    President or acting President, two of the three Egotists may issue a
+    public veto of that Bill. When issuing a veto, it must be posted as
+    a reply to the original Bill posting in the Command Ship and a full
+    explanation must be issued (including the title and number of the
+    bill being Vetoed) along with the veto as to the reasoning behind
+    it. A veto may be issued by any Egotist but must be seconded by at
+    least one other within the ten day time frame in order to become
+    valid. Should a veto pass, the Bill shall be considered void and
+    archived along with the veto.
+
+:   At the beginning of Election Season, the sitting President selects
+    an Election Coordinator as outlined in other Bylaws. Two of the
+    three EGO members may, within three days of the announcement of that
+    Election Coordinator, veto that appointment. This veto must be
+    issued in the manner prescribed above (including the edict number
+    naming the Election Coordinator which is to be overturned). A veto
+    may be issued by any Egotist but must be seconded by at least one
+    other within the three day time frame in order to become valid.
+    Should a veto pass, the edict that names the Election Coordinator
+    shall be considered void and archived along with the veto. Upon the
+    issuance of a veto, the President must make another selection for
+    Election Coordinator. A veto issued in this manner supersedes
+    Presidential edict.
+
+Overturning a Temporary/Lifetime Ban
+:   Should a President issue a temporary or lifetime ban, the member who
+    is banned may, within 30 days, lodge an appeal with EGO. It is
+    incumbent upon any member lodging such an appeal to argue the case
+    as to the unfairness of such a ban. The President must be consulted
+    by EGO during the course of their investigation. The President is
+    required to provide a full accounting of the reasoning behind the
+    ban and provide all evidence taken into account prior to the
+    decision to ban. Should it be deemed by at least two of the three
+    Egotists that the ban was unfair, they will issue a veto in the
+    proscribed manner superseding the banning edict which must include a
+    full accounting of the reasoning behind overturning the ban
+    (including the edict number issuing the ban). A veto may be issued
+    by any Egotist but must be seconded by at least one other in order
+    to become valid.A veto issued in this manner supersedes Presidential
+    edict. Should a veto pass, the edict that issued the ban shall be
+    considered void and archived along with the veto.
+
+:   Should it be determined by an EGO investigation that a lifetime ban
+    was issued legally and does not warrant overturning, the banned
+    member may re-lodge an appeal no more than once every eight months.
+
+Impeachment
+===========
+
+Should the President, or a member of EGO perform an action or group of
+actions which act against the best interests of the membership or which
+do harm to the club and there is a clear consensus that there is a
+majority objection to such action(s), it may be, on such rare occasions,
+necessary to consider initiating impeachment proceedings against that
+individual. The following procedure outlines the process which must be
+followed in such situations. It should be noted that the Impeachment
+procedure is not to be taken lightly, nor is a complaint to be lodged
+simply to soothe ego or seek revenge.
+
+Rules
+-----
+
+The Impeachment Process is established to remove the President and
+Egotists.
+A complaint may only be brought against a single official at a time
+Process
+-------
+
+A complaint must be lodged in Command by a member stating their desire
+to Impeach and a full accounting of their reasoning behind the
+complaint.
+The accused Official will be given a seven day grace period in which to
+address the complaint. This may take the form of corrective actions
+which address the complaint or convincing the Impeaching member that
+their complaint is in error.
+In order to proceed after that seven day period, a majority of EGO
+members must publicly validate the complaint by posting their agreement
+that the matter should proceed further in a reply to the original note.
+Should the complaint be made against an Egotist, the President shall
+serve in his place for the purpose of this procedure. Should the
+Impeaching member feel at this point that their complaint has been
+adequately addressed, they may publicly withdraw their Impeachment
+request.
+If the complaint is validated, a public statement of Investigation will
+be made and EGO will conduct a seven day investigation into the matter.
+The accused must be interviewed as part of this investigation. The
+investigation must include an examination of the circumstances which led
+to the complaint as well as discussions with those members involved. At
+this stage in proceedings, the accused shall have all administrative
+club access (server access, government access, IRC administrative
+access, but not that required to perform the duties of CO, XO or GM)
+removed until the final decision is made.
+At the conclusion of their investigation, EGO will publish their
+findings in Command. Should they determine that the cause for
+impeachment is valid at the conclusion of that investigation, a Notice
+of Intent to Impeach will be published in Command not to exceed 500
+words. This notice of intent must include a full list of charges as well
+as the conclusions reached during the course of the investigation. If
+they deem the complaint to be invalid, a Notice of Failure to Impeach
+will be published in Command not to exceed 500 words This notice must
+include the conclusions reached by EGO and a full explanation of why
+they feel the complaint lacks merit. Should notice of Intent to Impeach
+be posted, the accused must be provided the opportunity to post a
+rebuttal not to exceed 500 words. Should the rebuttal not be posted
+within 72 hours, this procedure shall continue regardless.
+Within the seven day period following the publishing of Intent to
+Impeach and the rebuttal, ten endorsements must be posted in support of
+the impeachment to validate it. At least one of these must be from a
+member with at least the rank of Fleet Captain.
+Should the conditions of impeachment fail to be met within this period,
+the matter shall be dropped.
+Should the conditions of impeachment be met within the seven day period,
+Impeachment shall continue. The Notice of Impeachment and the rebuttal
+statement shall be posted within a publicly accessible area through
+which members must travel in order to reach the voting booth, and a
+seven day recall vote shall be held.
+Should the majority of votes cast call for Impeachment, the official in
+question shall be forcibly removed from his position and all
+presidential access and authority terminated.
+Should the votes cast in favour of impeachment not exceed 50%, the
+accused shall be exonerated and the matter shall be considered closed.
+No elected official may be Impeached for the same offense twice (Double
+Jeopardy)
+Successful Impeachment shall not reverse any actions taken by the
+official in question. However, failure to rectify a situation that led
+to an Impeachment may, if appropriate, be held against the successor to
+the position.
+In the case of President, the Vice President shall assume office, in the
+case of an Egotist, the election rules in place must be observed to
+provide a replacement to serve out the remainder of that members term.
+Review
+======
+
+From the implementation of this bylaw, EGO shall undergo three review
+periods staggered at eight month intervals. This review shall be
+conducted by a club member not serving as President, Vice President or
+Egotist. This shall be presented in the form or a report, to which the
+President and Egotists shall be permitted space to present their
+thoughts on EGO and its viability. This report shall then be subjected
+to a discussion period in order to determine any improvements that may
+be required. At the end of the third review period, it shall be
+determined whether further reviews are required. A period of discussion
+shall be held within the Command ship and further reviews shall be
+approved or denied at the conclusion of this discussion with the consent
+of the President and sitting Egotists.
+
+Disputes
+========
+
+All decisions issued by EGO shall be considered final and may not be
+appealed.

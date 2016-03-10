@@ -1,0 +1,240 @@
+---
+author:
+- Personnel Director Brian Olinski
+date: 15 July 2005
+...
+
+"PDICT"
+Supercedence of previous edicts
+===============================
+
+Edict Dipper \#16 is hereby rescinded and superseded by this edict.
+
+Establishment of the Personnel Department
+=========================================
+
+An Executive Department is hereby established under the name "Personnel
+Department"
+
+The Personnel Department shall serve as the primary department
+responsible for tasks relating to member accounts, including but not
+limited to creating new accounts, new member placement, requested new
+character member placement, providing assistance with password reset
+issues, granting individuals administrative access for use in specific
+ship applications, as defined in this edict, and ensuring compliance
+with the STF Accounts Terms of Service. The Personnel Department may
+also operate and maintain a range of resources that serves to help
+fleets fill their personnel needs, as set by departmental mandate.
+
+The daily activity and administration of the Personnel Department shall
+be overseen by the Personnel Director, who shall be appointed by the
+President. Personnel Director is a cabinet position, and is equal in
+power to other Departmental Directors and Fleet Commanders.
+
+The Personnel Director shall appoint an Assistant Personnel Director.
+The Assistant Personnel Director answers directly to the Personnel
+Director, and is responsible for departmental decisions in the event the
+Personnel Director is not available. Additional responsibilities may be
+given at the discretion of the Personnel Director.
+
+The Personnel Director or a named delegate may create other staff
+positions in the Personnel Department, issued in departmental mandate to
+fulfill any needs they may deem necessary. The Personnel Director may
+delegate any duty or authority granted them in this edict or any other
+to any member of the Personnel Department. The Personnel Department is
+required to maintain a list of current departmental policies as decreed
+in departmental mandate in a publicly accessible format. The Personnel
+Department is required to maintain a list of all current staff members,
+including those created by departmental mandate in a publicly accessible
+format.
+
+The Personnel Director may set departmental policy within their range of
+influence through the issuance of departmental mandates. These shall
+serve to determine the most efficient manner in which to administer his
+department and its responsibilities.
+
+Ship placements
+===============
+
+The Personnel Department is solely responsible for placing new members
+on ships. Members who request the Academy will be assigned to the
+Academy on a space available basis, at the rank of Cadet. The Personnel
+Department will only assign new member applicants to the Academy. All
+other applicants will be assigned to a Standard Ship not classified as
+Second Character Only, at the rank of Ensign, and in a manner and
+pattern determined most appropriate by the Personnel Department and laid
+out in departmental mandate.
+
+The Personnel Department may also assist any member in finding a ship
+for additional characters. Such placements may only be made at the rank
+of Ensign, and to a mainstream ship with a need for role players in the
+requested department.
+
+Access Levels
+=============
+
+The Personnel Department shall be responsible for granting individual
+members administrative access to specified individual ships or groups of
+ships based on that member's position within the club, which shall be
+governed by the following list:
+
+- Administrative access to the Command ship shall be given to the
+President and Vice-President.
+
+- Administrative access to any Executive Department's ship (including
+the Academy) shall be given to the Executive Department's Director,
+Assistant Director, and anyone else named by that Executive Department's
+policy, or mandate.
+
+- Administrative access to any Executive Assistant's ship shall be given
+to the Executive Assistant, Assistant Executive Assistant, and anyone
+else named by that Executive Assistant's policy.
+
+- Administrative access to any Fleet administrative ship shall be given
+to the Fleet Commander and Assistant Fleet Commander.
+
+- Administrative access to any Standard ship or Alternate RPG Area shall
+be given to the ship's Fleet Commander, Assistant Fleet Commander,
+Commanding Officer, Executive Officer, and Gamemaster (including any
+Gamemaster Mentors and Gamemaster Trainees).
+
+- Administrative access to any Academy ship shall be given to the
+Academy Commandant, Vice Commandant, and the ship's Commanding Officer,
+Executive Officer, Counselor, and Gamemaster.
+
+- Administrative access to any ship not already covered shall be
+determined by the President.
+
+- Additional temporary administrative access may be given to any member
+by the ship's governing Executive Department Director, Executive
+Assistant, Fleet Commander, or Commanding Officer for the purpose of
+assistance with the design or maintenance of the ship's MOTD. Pursuant
+to this, the page's maintainer is responsible and accountable for those
+whom he grants access, as well as removing that access in a timely
+manner.
+
+No administrative access to a specific individual ship or group of ships
+shall be provided to a member that is not covered by the above list. The
+Personnel Department is not responsible for providing club-wide
+administrative access to all ships, based on a given position held by a
+single member. The Personnel Department is not responsible for providing
+administrative access to internal fleet or department managed pages, as
+well as the fleet entry pages. The Personnel Department is not
+responsible for providing any other type of administrative access to
+STF.
+
+The Personnel Director may delegate the responsibility for providing
+administrative access by departmental mandate, including delegating such
+responsibility to members who are not staff members of the Personnel
+Department, but may still reserve the right to enforce that
+administrative access to ships are not given beyond what is allowed by
+this edict.
+
+In addition, the Personnel Director and Assistant Personnel Director
+should be given sufficient access in order to allow them to have
+administrative and subscription access to all ships in STF, access to
+edit all membership accounts, access to activate and block any
+membership account, access to the text of all automatic emails sent to
+members, access to the format and text of the membership application,
+and access to all administrative logs relevant to enforcing club rules,
+policies, and Terms of Service within the scope of the Personnel
+Department's responsibilities.
+
+Mentors program
+===============
+
+The Personnel Department shall maintain a Mentors Program. This program
+is tasked with creating and maintaining a list of available people to
+mentor new members, and assigning mentors to new members who request
+them.
+
+A Mentor must be a current member in STF with at least three months
+service in STF. The Personnel Department reserves the right to approve
+or deny any Mentor application on any basis. All new members who request
+a Mentor will be assigned one.
+
+The Mentor's main responsibility is to provide a personal contact for
+the new member who requests it. This is done in order to assist new
+members who feel they need that little bit of extra help to settle in
+and role-play on their ships. Mentors are available to help with
+problems or queries the new member may have, and offer role-playing tips
+and advise on how to best fit into our RPG.
+
+No new member requesting a mentor may be placed upon a ship which has no
+active mentors in its roster. Should a ship not have active mentors, it
+shall be the duty of that ships Commanding Officer to recruit mentors
+and inform the Personnel Director and Mentors Coordinator of this.
+
+The Mentors Program shall be maintained by the Mentors Coordinator, a
+permanent Personnel Department staff position. The Mentors Coordinator
+shall be appointed by the Personnel Director or named delegate. The
+Mentors Coordinator shall be responsible for maintaining the Mentors
+Program, maintaining an updated list of all current mentors, all current
+mentorees and shall track the status of mentorees monthly through a
+three month period from assignment. The Mentors Coordinator shall be
+responsible for assigning mentors to all mentorees within a 72 hour
+period from notification of their request by the Personnel Director or
+named delegate. The Mentors Coordinator shall be responsible for
+tracking the status of all mentors monthly.
+
+The Mentors Program shall be maintained by the Personnel Department and
+be responsible for maintaining an updated list of all current mentors,
+all current mentorees and shall track the status of mentorees monthly
+through a three month period from assignment. The Personnel Department
+shall be responsible for assigning mentors to all mentorees within a 72
+hour period from receipt of the new members application, the mentor
+request should be supplied in the email to advise the new members
+character details and ship assignment. If a mentor request is filed by a
+current member, a mentor will be assigned within 72 hours of receipt of
+said request. The Personnel Department shall be responsible for tracking
+the status of all mentors monthly. The Personnel Department shall
+provide a monthly status report for publication as part of the monthly
+Departmental update report. This will include, but is not limited to,
+current mentor numbers, current mentoree numbers, mentoree status at the
+end of each 30 day period from assignment and any ships which are
+currently in need of mentors.
+
+Yearbook
+========
+
+The Personnel Department will maintain the STF Yearbook. The Yearbook is
+a place where any member can submit a real life photograph of
+themselves, and a bit of personal information about themselves. All
+information given is strictly voluntary, though a photograph is required
+for participation. Any photograph or information may be added or removed
+at any time by the Personnel Department for any reason. Any member may
+request that their photograph is added or removed for any reason. All
+photographs and content must adhere to the STF Terms of Service.
+
+The Yearbook shall be maintained by the Personnel Department who shall
+be responsible for maintaining the outward appearance of the Yearbook,
+updating the yearbook with new submissions, removing inappropriate
+submissions and ensuring that each standing gallery folder is accurate
+in placing Gatherings, Current Members and Past Members.
+
+The Personnel Department shall be responsible for providing a monthly
+status report for publication by the Personnel Department as a part of
+their own monthly Departmental update report. This will include, but is
+not limited to, number of submissions within the previous 30 days and
+status of any current efforts to increase submissions.
+
+Statistics
+==========
+
+The Personnel Department shall be required to maintain and publish
+monthly statistics regarding the membership, including, but not limited
+to, total number of applicants per month, and how many of those members
+are still posting actively. Additional statistics are at the discretion
+of the Personnel Department.
+
+Disputes
+========
+
+Any dispute involving the Personnel Department or its tasked areas of
+influence shall be moderated by the Personnel Director. Should any
+involved parties be the Personnel Director, the dispute shall be
+moderated by the Assistant Personnel Director. Should any of the
+involved parties be both Personnel Director and Assistant Personnel
+Director, the dispute shall be moderated by the President.
+
+The decision of the moderating officer shall be considered final.

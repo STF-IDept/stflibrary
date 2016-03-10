@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Basic I/O Grunt, Regimented Information Grouper</title>
+    <link rel="stylesheet" type="text/css" href="../styles/main.css" />
+    <meta name="generator" content="DocBook XSL Stylesheets V1.76.1" />
+    <meta name="keywords" content="Starship, Computer System, I" />
+    <link rel="home" href="../index.html" title="The STF Library" />
+    <link rel="up" href="tech.html" title="Ship-Based Technologies" />
+    <link rel="prev" href="AMOS.html" title="AMOS-I" />
+    <link rel="next" href="ets.html" title="Emissions Tracking System" />
+    <meta name="date" content="10 August 2015" />
+  </head>
+  <body>
+    <div class="navheader">
+      <table width="100%" summary="Navigation header">
+        <tr>
+          <th colspan="3" align="center">Basic I/O Grunt, Regimented Information Grouper</th>
+        </tr>
+        <tr>
+          <td width="20%" align="left"><a accesskey="p" href="AMOS.html">Prev</a> </td>
+          <th width="60%" align="center">Ship-Based Technologies</th>
+          <td width="20%" align="right"> <a accesskey="n" href="ets.html">Next</a></td>
+        </tr>
+      </table>
+      <hr />
+    </div>
+    <div class="article" title="Basic I/O Grunt, Regimented Information Grouper">
+      <div class="titlepage">
+        <div>
+          <div>
+            <h2 class="title"><a id="bigrig"></a>Basic I/O Grunt, Regimented Information Grouper</h2>
+          </div>
+          <div class="group-wrapper">
+            <div class="authorgroup-wrapper">
+              <p class="authorgroup-title">Maintainer</p>
+              <div class="authorgroup">
+                <div class="author">
+                  <h3 class="author"><span class="firstname">Larry</span> <span class="surname">Garfield</span></h3>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="group-wrapper">
+            <div class="authorgroup-wrapper">
+              <p class="authorgroup-title">Primary Designers</p>
+              <div class="authorgroup">
+                <div class="author">
+                  <h3 class="author"><span class="firstname">Larry</span> <span class="surname">Garfield</span></h3>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="group-wrapper">
+            <div class="authorgroup-wrapper">
+              <p class="authorgroup-title">Original Designers</p>
+              <div class="authorgroup">
+                <div class="author">
+                  <h3 class="author"><span class="firstname">Larry</span> <span class="surname">Garfield</span></h3>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div>
+            <div class="revhistory">
+              <table border="1" width="100%" summary="Revision history">
+                <tr>
+                  <th align="left" valign="top" colspan="2">
+                    <strong>Revision History</strong>
+                  </th>
+                </tr>
+                <tr>
+                  <td align="left">Revision 1</td>
+                  <td align="left">9 September 1999</td>
+                </tr>
+                <tr>
+                  <td align="left" colspan="2">
+          <p>Approved by Engineering Director Colin Wyers</p>
+        </td>
+                </tr>
+              </table>
+            </div>
+          </div>
+        </div>
+        <hr />
+      </div>
+      <div class="toc">
+        <p>
+          <strong>Table of Contents</strong>
+        </p>
+        <dl>
+          <dt>
+            <span class="section">
+              <a href="bigrig.html#idp140473213371808">Description</a>
+            </span>
+          </dt>
+        </dl>
+      </div>
+      <div class="section" title="Description">
+        <div class="titlepage">
+          <div>
+            <div>
+              <h2 class="title"><a id="idp140473213371808"></a>Description</h2>
+            </div>
+          </div>
+        </div>
+        <p>Faced with the growing demand on supplies created by the Crag and Dominion Wars, Starfleet decided that a new standard freighter was needed to maintain the supply backbone of the Federation.  The first of the new Monolith-class long range tugs went operational in early 2375, and like many late 24th century starships was equipped with a Nyetscape computer system.</p>
+        <p>Abraxis Shipworks, the construction company responsible for the Monolith, had early on decided to go with a Nyetscape computer system due to Nyetscape's long standing quality and high executive salaries.  They opted, however, to forgo an Artificial Intelligence system for cost reasons, a limitation that Nyetscape accepted.</p>
+        <p>Nyetscape decided to design only a new Operating System for the Monolith, and use the Starfleet-standard MAJEL interface, a decision which shaved 3 months off of the design time.  They also used a low-cost K-66 core and DC-3 chipset, both provided by Nyetscape partner Federation Micro Designs.  The OS itself was designed specifically to handle the requirements of a tug/freighter-class ship, specifically:</p>
+        <ul class=" simplelist">
+          <li class=" member">Handling all general ship operation input</li>
+          <li class=" member">Control and translation of helm and ops functions</li>
+          <li class=" member">transportation of raw and processed material and machinery</li>
+          <li class=" member">Invoice and PO tracking data storage and categorization</li>
+        </ul>
+        <p>To this end, Nyetscape designed a system that consisted of two basic structures; a ship-function division and a database management division.  The ship management division of the OS was written around the ship's particular characteristics, and was not designed to be portable.  There was little revolutionary in the design, as such innovation would be wasted on a tug.  This portion of the OS formed the Basic Input/Output Grunt, so called almost as a gag by the designers.</p>
+        <p>The database portion was more challenging.  It's primary goal was filing, data management, and categorization of the miriad of cargo into coherent groups for easier access.  Nyetscape engineers considered both relational and object-oriented approaches to the system, before settling on a Solid Information Descriptor system (SID).  The SID was designed to catalogue all the information entered into it and, following a strict, fleet-wide regimen, classified the information into pre-defined groups.  These groups were then sub-filed using an object-oriented model, for greater flexibility.  The Regimented Information Grouper division of the OS was written as a semi-independent module, so that it could potentially be ported to other starships and platforms at a later date.</p>
+        <p>The Basic I/O Grunt, Regimented Information Grouper (BIGRIG) OS took approximately 7 months to design, code, and test.  The final product was a rock solid, stable, if unimpressive from the user-end system, which Abraxis readily accepted and built into the entire Monolith line.  BIGRIG did not dazzle the marketplace or the user, as previous offerings such as GORBI and BORIS had, but served as the stable core for a stable and successful starship line.</p>
+      </div>
+    </div>
+    <div class="navfooter">
+      <hr />
+      <table width="100%" summary="Navigation footer">
+        <tr>
+          <td width="40%" align="left"><a accesskey="p" href="AMOS.html">Prev</a> </td>
+          <td width="20%" align="center">
+            <a accesskey="u" href="tech.html">Up</a>
+          </td>
+          <td width="40%" align="right"> <a accesskey="n" href="ets.html">Next</a></td>
+        </tr>
+        <tr>
+          <td width="40%" align="left" valign="top">AMOS-I </td>
+          <td width="20%" align="center">
+            <a accesskey="h" href="../index.html">Home</a>
+          </td>
+          <td width="40%" align="right" valign="top"> Emissions Tracking System</td>
+        </tr>
+      </table>
+    </div>
+    <hr />
+    <p class="copyright">Copyright © 2005-2015 STF and its Members</p>
+  </body>
+</html>
